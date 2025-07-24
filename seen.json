@@ -56,6 +56,13 @@
     "id": "436249420"
   },
   {
+    "header": "Pronájem bytu 2+kk 51m²",
+    "Address": "Rostislavovo náměstí, Brno - Královo Pole",
+    "Price": "Urbaneo",
+    "link": "https://a.seznam.cz/v2/click?spotId=3980938&d=KU4CZ6DH78H9KPYT9C2TXG9B7VSEE7P7339RKBY9WV3NISHCAB6ZQWXN5YBWMV74DCS77QGN48CWD3G77NHQASSJJGHIHJNCBW4JZJ7BFRJZT8PVRFMU9BUSXJHN5IYR9EY86YYBXSGECXYAZITJGEIAIWC8P6W7CEKXZNV3Y4KMP5WCTV2MUR3U3UFHYYXQI44F3UPJ4AAPNWCHCGT7W9UK59CC3WS2YG3IV4G496NPFRE9A4YKZZTDBEEGW8DUWEYTT4XYMQVHVPPPSHHMCAE9IVUGW9MRJRH94SSHU5RNFIQDPZHABB7N5TTJGQFKGHF88P3HIEPGUAK7&destination=https%3A//www.sreality.cz/detail/pronajem/byt/2%2Bkk/brno-kralovo-pole-rostislavovo-namesti/2340066124",
+    "id": "2340066124"
+  },
+  {
     "header": "Pronájem bytu 3+kk 77 m²",
     "Address": "Podveská, Brno - Komín",
     "Price": "31 990 Kč/měsíc",
@@ -145,33 +152,5 @@
     "Price": "29 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-stranice-rezkova/3702362956",
     "id": "3702362956"
-  },
-  {
-    "header": "PRONÁJEM BYTU 3+1 80 m²",
-    "Address": "Bosonožská, Brno - Starý Lískovec, Jihomoravský kraj",
-    "Price": "21 000 Kč+ 7 400 Kč",
-    "link": "https://www.bezrealitky.cz/nemovitosti-byty-domy/853392-nabidka-pronajem-bytu-bosonozska-brno",
-    "id": "853392"
-  },
-  {
-    "header": "PRONÁJEM BYTU 3+kk 80 m²",
-    "Address": "Podnásepní, Brno - Trnitá, Jihomoravský kraj",
-    "Price": "16 000 Kč+ 5 000 Kč",
-    "link": "https://www.bezrealitky.cz/nemovitosti-byty-domy/728003-nabidka-pronajem-bytu-podnasepni-brno",
-    "id": "728003"
-  },
-  {
-    "header": "PRONÁJEM BYTU 2+1 62 m²",
-    "Address": "Starobrněnská, Město Brno, Jihomoravský kraj",
-    "Price": "26 624 Kč+ 4 500 Kč",
-    "link": "https://www.bezrealitky.cz/nemovitosti-byty-domy/796775-nabidka-pronajem-bytu-starobrnenska-brno",
-    "id": "796775"
-  },
-  {
-    "header": "PRONÁJEM BYTU 2+1 63 m²",
-    "Address": "Chalabalova, Brno - Kohoutovice, Jihomoravský kraj",
-    "Price": "19 000 Kč+ 5 000 Kč",
-    "link": "No Link",
-    "id": "No ID"
   }
 ]
