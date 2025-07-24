@@ -1,7 +1,7 @@
 import selenium
 import bs4
 from selenium import webdriver
-from selenium.webdriver.firefox.options import Options
+from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.common.by import By
 import json
 
@@ -74,8 +74,10 @@ def main():
     foundlistings = []
     options = Options()
     options.add_argument("--headless")
-    options.set_preference("javascript.enabled", False)
-    driver = webdriver.Firefox(options=options)
+    options.add_argument("--no-sandbox")
+    options.add_argument("--disable-dev-shm-usage")
+    options.add_argument("--disable-gpu")
+    driver = webdriver.Chrome(options=options)
     scrapeSREALITY(driver, foundlistings)
     scrapeBEZREALITKY(driver, foundlistings)
     foundlistings = remove_seen_listings(foundlistings)
