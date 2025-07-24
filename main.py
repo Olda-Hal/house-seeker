@@ -32,6 +32,10 @@ def scrapeSREALITY(driver, listings: list):
             }
             if listing["header"].startswith("TIP"):
                 continue  # Skip ads"
+            if "adurl=" in listing["link"]:
+                continue  # Skip ads with adurl
+            if listing["id"] == "No ID":
+                continue
             listings.append(listing)
     return listings
 
