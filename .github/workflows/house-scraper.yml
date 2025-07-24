@@ -2,42 +2,48 @@ name: House Scraper
 
 on:
   schedule:
-    # Spustí se každou hodinu (0 minut každé hodiny)
     - cron: '0 * * * *'
   
-  # Umožní manuální spuštění z GitHub UI
   workflow_dispatch:
 
 jobs:
   scrape:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      packages: write
+
     steps:
-      - name: Check out this repo
-        uses: actions/checkout@v2
-      - name: Set up Python
-        uses: actions/setup-python@v2
-        with:
-          python-version: '3.9'
-      - name: Installed package list
-        run: apt list --installed
-      - name: Remove Chrome
-        run: sudo apt purge google-chrome-stable
-      - name: Remove default Chromium
-        run: sudo apt purge chromium-browser
-      - name: Install a new Chromium
-        run: sudo apt install -y chromium-browser chromium-chromedriver
-      - name: Setup Chrome driver
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Download Firefox
         run: |
-          sudo ln -sf /usr/lib/chromium-browser/chromedriver /usr/bin/chromedriver
-          chromedriver --version
-      - name: Install all necessary packages
-        run: pip install requests beautifulsoup4 pandas webdriver-manager selenium
-      - name: Run the scraping script
+         sudo rm -rf /usr/local/bin/geckodriver
+         wget https://github.com/mozilla/geckodriver/releases/download/v0.34.0/geckodriver-v0.34.0-linux64.tar.gz
+         tar -xvzf geckodriver*
+         chmod +x geckodriver
+         sudo mv geckodriver /usr/local/bin/
+
+      - name: Install Selenium and BeautifulSoup
+        run: |
+          pip install selenium==4.16.0
+          pip install beautifulsoup4
+          pip install requests
+
+      - name: Build
         run: python main.py
-      - name: Commit and push changes
+
+      - name: Commit
+        env:
+          GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
+          COMMIT_MSG: |
+            SCRAPE: scraped Data
         run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
+          rm -rf geckodriver*
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config user.name "github-actions[bot]"
+          git remote set-url origin https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git
           git add .
-          git diff --staged --quiet || git commit -m "Auto-update from scraping script"
-          git push
+          git pull origin ${GITHUB_REF}
+          git diff --quiet && git diff --staged --quiet || (git commit -m "${COMMIT_MSG}"; git push origin HEAD:${GITHUB_REF})
