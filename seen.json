@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 2+1 42 m²",
+    "Address": "Kudrnova, Brno - Brno-Tuřany",
+    "Price": "21 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-brno-turany-kudrnova/2757923660",
+    "id": "2757923660"
+  },
+  {
     "header": "Pronájem bytu 3+1 72 m²",
     "Address": "Brno - Lesná",
     "Price": "26 000 Kč/měsíc",
@@ -47,6 +54,13 @@
     "Price": "35 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-veveri-arne-novaka/1206489932",
     "id": "1206489932"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 75 m²",
+    "Address": "Rostislavovo náměstí, Brno - Královo Pole",
+    "Price": "Urbaneo",
+    "link": "https://a.seznam.cz/v2/click?spotId=3980937&d=3CPZUU685EKHNAGBU8WDD3H924NE9YH5YITGU6FBRYS5MD3QS6BQWJBVSBTINY4ZCQE4HZSSG9ATJBRDBJWUMXXE3CN2MYGXPVDIBQTYVXXP5GMCFGZ9F2AGBQEPR3XQC36GHSF9RBP4T223328PBHGB9DA56TC69SMNZJC6YCTSI4PK8SNEFNYKQEXFIAFNJCQFEK9TRAZUWZFPNDSHWUFPUNGC8JR945XF9D28C4VJKQ2UPBFBKBBVTWIQ7XYXD2U26AFUQI3QNX6DJR5XVCBQN27A5NT7TPZVSUX86VI2768HYYPMK84GJR7U6K7PJHQ99E3RMUQJ592&destination=https%3A//www.sreality.cz/detail/pronajem/byt/3%2Bkk/brno-kralovo-pole-rostislavovo-namesti/4095644492",
+    "id": "4095644492"
   },
   {
     "header": "Pronájem bytu 3+kk 64 m²",
@@ -138,12 +152,5 @@
     "Price": "22 900 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-slatina-kigginsova/1302954828",
     "id": "1302954828"
-  },
-  {
-    "header": "SLEVA: Pronájem bytu 2+1 64 m²",
-    "Address": "Rezkova, Brno - Stránice",
-    "Price": "29 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-stranice-rezkova/3702362956",
-    "id": "3702362956"
   }
 ]
