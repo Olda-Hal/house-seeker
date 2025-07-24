@@ -1,5 +1,26 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 110 m²",
+    "Address": "Arne Nováka, Brno - Veveří",
+    "Price": "35 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-veveri-arne-novaka/1206489932",
+    "id": "1206489932"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 64 m²",
+    "Address": "Fryčajova, Brno - Obřany",
+    "Price": "21 800 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-obrany-frycajova/436249420",
+    "id": "436249420"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 77 m²",
+    "Address": "Podveská, Brno - Komín",
+    "Price": "31 990 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-komin-podveska/3923612492",
+    "id": "3923612492"
+  },
+  {
     "header": "Pronájem bytu 3+kk 104 m²",
     "Address": "Neumannova, Brno - Pisárky",
     "Price": "28 900 Kč/měsíc",
@@ -124,26 +145,5 @@
     "Price": "27 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-brno-videnska/1544594252",
     "id": "1544594252"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 85 m²",
-    "Address": "Bezručova, Brno - Staré Brno",
-    "Price": "23 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-stare-brno-bezrucova/2948305740",
-    "id": "2948305740"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 80 m²",
-    "Address": "Brno - Trnitá",
-    "Price": "30 700 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-trnita-/333709900",
-    "id": "333709900"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 145 m²",
-    "Address": "Vrchlického sad, Brno - Černá Pole",
-    "Price": "36 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-cerna-pole-vrchlickeho-sad/2333705036",
-    "id": "2333705036"
   }
 ]
