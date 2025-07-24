@@ -46,7 +46,7 @@ def scrapeBEZREALITKY(driver, listings: list):
                 "Address": text[1] if len(text) > 1 else "No Address",
                 "Price": text[5] + text[6] if len(text) > 6 else "No Price",
                 "link": href if href else "No Link",
-                "id": href.split("-")[0] if href else "No ID"
+                "id": href.split("/")[-1].split("-")[0] if href and href != "No Link" else "No ID"
             }
             
             listings.append(listing)
