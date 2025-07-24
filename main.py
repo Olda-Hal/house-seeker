@@ -1,11 +1,13 @@
 import selenium
 import bs4
 from selenium import webdriver
-from selenium.webdriver.chrome.options import Options
-from selenium.webdriver.chrome.service import Service
+from selenium.webdriver.firefox.options import Options
+from selenium.webdriver.firefox.service import Service
 from selenium.webdriver.common.by import By
+import requests
 import json
 
+WEBHOOK = "https://discord.com/api/webhooks/1397904877857800192/42Fe_nz83sxEjjoUVvaVpbqNzLhjq60KPxE9CQYa5iCcMhh_Tsjl8uLnhor9y23ZHJLG"
 SREALITY_QUERY = "https://www.sreality.cz/hledani/pronajem/byty?velikost=2%2B1%2C3%2B1%2C3%2Bkk&region=Brno&region-id=5740&region-typ=municipality&noredirect=1"
 BEZREALITKY_QUERY = "https://www.bezrealitky.cz/vyhledat?offerType=PRONAJEM&estateType=BYT&disposition=DISP_2_1&disposition=DISP_3_KK&disposition=DISP_3_1&regionOsmIds=R438171&osm_value=Brno%2C+okres+Brno-m%C4%9Bsto%2C+Jihomoravsk%C3%BD+kraj%2C+Jihov%C3%BDchod%2C+%C4%8Cesko&roommate=false&location=exact&currency=CZK"
 SREALITY_LISTING_COUNT = 24
@@ -75,27 +77,17 @@ def main():
     foundlistings = []
     options = Options()
     options.add_argument("--headless")
-    options.add_argument("--no-sandbox")
-    options.add_argument("--disable-dev-shm-usage")
-    options.add_argument("--disable-gpu")
-    options.add_argument("--disable-extensions")
-    options.add_argument("--disable-plugins")
-    options.add_argument("--disable-images")
-    options.add_argument("--disable-javascript")
-    options.add_argument("--disable-css")
-    options.add_argument("--remote-debugging-port=9222")
-    options.add_argument("--window-size=1920,1080")
     options.add_argument("--user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36")
     
-    # Explicitně nastav cestu k chromium
-    options.binary_location = "/usr/bin/chromium-browser"
-    
-    service = Service("/usr/bin/chromedriver") if "/usr/bin/chromedriver" else None
-    driver = webdriver.Chrome(service=service, options=options)
+    driver = webdriver.Firefox(options=options)
     scrapeSREALITY(driver, foundlistings)
     scrapeBEZREALITKY(driver, foundlistings)
     foundlistings = remove_seen_listings(foundlistings)
     print(f"Found {len(foundlistings)} new listings.")
+    for i in foundlistings:
+        requests.post(WEBHOOK, json={
+            "content": f"{i['header']}\n{i['Price']}\n{i['Address']}\n{i['link']}"
+        })
     driver.quit()
 
 if __name__ == "__main__":
