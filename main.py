@@ -2,6 +2,7 @@ import selenium
 import bs4
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
+from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.common.by import By
 import json
 
@@ -77,7 +78,20 @@ def main():
     options.add_argument("--no-sandbox")
     options.add_argument("--disable-dev-shm-usage")
     options.add_argument("--disable-gpu")
-    driver = webdriver.Chrome(options=options)
+    options.add_argument("--disable-extensions")
+    options.add_argument("--disable-plugins")
+    options.add_argument("--disable-images")
+    options.add_argument("--disable-javascript")
+    options.add_argument("--disable-css")
+    options.add_argument("--remote-debugging-port=9222")
+    options.add_argument("--window-size=1920,1080")
+    options.add_argument("--user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36")
+    
+    # Explicitně nastav cestu k chromium
+    options.binary_location = "/usr/bin/chromium-browser"
+    
+    service = Service("/usr/bin/chromedriver") if "/usr/bin/chromedriver" else None
+    driver = webdriver.Chrome(service=service, options=options)
     scrapeSREALITY(driver, foundlistings)
     scrapeBEZREALITKY(driver, foundlistings)
     foundlistings = remove_seen_listings(foundlistings)
