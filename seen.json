@@ -42,13 +42,6 @@
     "id": "3730936652"
   },
   {
-    "header": "Pronájem bytu 3+kk 61 m²",
-    "Address": "Říčanská, Brno - Žebětín",
-    "Price": "22 990 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zebetin-ricanska/3296039756",
-    "id": "3296039756"
-  },
-  {
     "header": "Pronájem bytu 3+kk 162 m²",
     "Address": "Bratislavská, Brno - Zábrdovice",
     "Price": "39 312 Kč/měsíc",
@@ -145,5 +138,12 @@
     "Price": "21 800 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-obrany-frycajova/436249420",
     "id": "436249420"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 77 m²",
+    "Address": "Podveská, Brno - Komín",
+    "Price": "31 990 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-komin-podveska/3923612492",
+    "id": "3923612492"
   }
 ]
