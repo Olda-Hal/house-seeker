@@ -56,6 +56,13 @@
     "id": "2393674572"
   },
   {
+    "header": "Pronájem bytu 2+kk 51m²",
+    "Address": "Rostislavovo náměstí, Brno - Královo Pole",
+    "Price": "Urbaneo",
+    "link": "https://a.seznam.cz/v2/click?spotId=3980938&d=3AWCU48A7J73S4PMHBRTV4XFQ6KCA7QEKDEYR9ZYQ6AUCYWRQIIJATXSQAY3CPIGP38FSQFQC7WU9RT7XVSD8GBXST7JWJC4RP85WHQJUV333Y5783Z4MBDZ4AAFEIVKRBPKB8P46NJQVIQB4M4CJPY6WTC5Z3343MRIGBZFCK98PDY4N4FT66UX3ITHW7N7DKYA6SYTI5ZINDGXW8E2AB8II6X5ASD7M42IXQM8YSN9G9WV7RJZ5PXCNEH2H65PGBG5SPITYBI22CFCYDNGCCVBAX8IUDVUW4JC685SBA5VVY9JMS7C74NZ87EJYPTPUSDTTDNY3X92E&destination=https%3A//www.sreality.cz/detail/pronajem/byt/2%2Bkk/brno-kralovo-pole-rostislavovo-namesti/2340066124",
+    "id": "2340066124"
+  },
+  {
     "header": "Pronájem bytu 3+1 73 m²",
     "Address": "Oblá, Brno - Nový Lískovec",
     "Price": "24 900 Kč/měsíc",
@@ -145,110 +152,5 @@
     "Price": "23 990 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zidenice-taborska/3248063308",
     "id": "3248063308"
-  },
-  {
-    "header": "PRONÁJEM BYTU 3+1 75 m²",
-    "Address": "Slámova, Brno - Černovice, Jihomoravský kraj",
-    "Price": "22 000 Kč+ 2 858 Kč",
-    "link": "https://www.bezrealitky.cz/nemovitosti-byty-domy/927121-nabidka-pronajem-bytu-slamova-brno",
-    "id": "927121"
-  },
-  {
-    "header": "PRONÁJEM BYTU 3+1 80 m²",
-    "Address": "Bosonožská, Brno - Starý Lískovec, Jihomoravský kraj",
-    "Price": "21 000 Kč+ 7 400 Kč",
-    "link": "https://www.bezrealitky.cz/nemovitosti-byty-domy/853392-nabidka-pronajem-bytu-bosonozska-brno",
-    "id": "853392"
-  },
-  {
-    "header": "PRONÁJEM BYTU 3+kk 80 m²",
-    "Address": "Podnásepní, Brno - Trnitá, Jihomoravský kraj",
-    "Price": "16 000 Kč+ 5 000 Kč",
-    "link": "https://www.bezrealitky.cz/nemovitosti-byty-domy/728003-nabidka-pronajem-bytu-podnasepni-brno",
-    "id": "728003"
-  },
-  {
-    "header": "PRONÁJEM BYTU 2+1 62 m²",
-    "Address": "Starobrněnská, Město Brno, Jihomoravský kraj",
-    "Price": "26 624 Kč+ 4 500 Kč",
-    "link": "https://www.bezrealitky.cz/nemovitosti-byty-domy/796775-nabidka-pronajem-bytu-starobrnenska-brno",
-    "id": "796775"
-  },
-  {
-    "header": "PRONÁJEM BYTU 2+1 63 m²",
-    "Address": "Chalabalova, Brno - Kohoutovice, Jihomoravský kraj",
-    "Price": "19 000 Kč+ 5 000 Kč",
-    "link": "https://www.bezrealitky.cz/nemovitosti-byty-domy/511523-nabidka-pronajem-bytu-chalabalova",
-    "id": "511523"
-  },
-  {
-    "header": "PRONÁJEM BYTU 3+1 65 m²",
-    "Address": "Brožíkova, Brno - Lesná, Jihomoravský kraj",
-    "Price": "20 200 Kč+ 7 887 Kč",
-    "link": "https://www.bezrealitky.cz/nemovitosti-byty-domy/926227-nabidka-pronajem-bytu-brozikova-brno",
-    "id": "926227"
-  },
-  {
-    "header": "PRONÁJEM BYTU 2+1 56 m²",
-    "Address": "Kopečná, Brno - Staré Brno, Jihomoravský kraj",
-    "Price": "20 000 Kč+ 4 100 Kč",
-    "link": "https://www.bezrealitky.cz/nemovitosti-byty-domy/926226-nabidka-pronajem-bytu-kopecna-brno",
-    "id": "926226"
-  },
-  {
-    "header": "PRONÁJEM BYTU 2+1 55 m²",
-    "Address": "Ochozská, Brno - Líšeň, Jihomoravský kraj",
-    "Price": "16 000 Kč+ 4 150 Kč",
-    "link": "https://www.bezrealitky.cz/nemovitosti-byty-domy/805718-nabidka-pronajem-bytu-ochozska-brno",
-    "id": "805718"
-  },
-  {
-    "header": "PRONÁJEM BYTU 2+1 53 m²",
-    "Address": "Kopečná, Brno - Staré Brno, Jihomoravský kraj",
-    "Price": "25 500 Kč+ 3 500 Kč",
-    "link": "https://www.bezrealitky.cz/nemovitosti-byty-domy/924533-nabidka-pronajem-bytu-kopecna-brno",
-    "id": "924533"
-  },
-  {
-    "header": "PRONÁJEM BYTU 2+1 68 m²",
-    "Address": "Otakara Ševčíka, Brno - Židenice, Jihomoravský kraj",
-    "Price": "21 500 Kč+ 3 800 Kč",
-    "link": "https://www.bezrealitky.cz/nemovitosti-byty-domy/915977-nabidka-pronajem-bytu-otakara-sevcika-brno",
-    "id": "915977"
-  },
-  {
-    "header": "PRONÁJEM BYTU 2+1 56 m²",
-    "Address": "Křížová, Brno - Staré Brno, Jihomoravský kraj",
-    "Price": "22 000 Kč+ 6 000 Kč",
-    "link": "https://www.bezrealitky.cz/nemovitosti-byty-domy/517423-nabidka-pronajem-bytu-krizova-brno-mesto",
-    "id": "517423"
-  },
-  {
-    "header": "PRONÁJEM BYTU 3+1 76 m²",
-    "Address": "Svážná, Brno - Nový Lískovec, Jihomoravský kraj",
-    "Price": "18 000 Kč+ 5 800 Kč",
-    "link": "https://www.bezrealitky.cz/nemovitosti-byty-domy/494101-nabidka-pronajem-bytu-svazna-brno",
-    "id": "494101"
-  },
-  {
-    "header": "PRONÁJEM BYTU 2+1 53 m²",
-    "Address": "Hradecká, Brno - Královo Pole, Jihomoravský kraj",
-    "Price": "19 000 Kč+ 3 400 Kč",
-    "link": "https://www.bezrealitky.cz/nemovitosti-byty-domy/925787-nabidka-pronajem-bytu-hradecka-brno",
-    "id": "925787"
-  },
-  {
-    "header": "PRONÁJEM BYTU 3+kk 88 m²",
-    "Address": "Faměrovo náměstí, Brno - Černovice, Jihomoravský kraj",
-    "Price": "25 000 Kč+ 6 000 Kč",
-    "link": "https://www.bezrealitky.cz/nemovitosti-byty-domy/925773-nabidka-pronajem-bytu-famerovo-namesti-brno",
-    "id": "925773"
-  },
-  {
-    "header": "PRONÁJEM BYTU 3+1 78 m²",
-    "Address": "Faměrovo náměstí, Brno - Černovice, Jihomoravský kraj",
-    "Price": "20 000 Kč+ 6 000 Kč",
-    "link": "https://www.bezrealitky.cz/nemovitosti-byty-domy/925771-nabidka-pronajem-bytu-famerovo-namesti-brno",
-    "id": "925771"
   }
 ]
