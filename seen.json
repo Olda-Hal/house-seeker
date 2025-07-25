@@ -1,5 +1,19 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 86 m²",
+    "Address": "Kollárova, Brno - Královo Pole",
+    "Price": "34 990 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-kralovo-pole-kollarova/3405480780",
+    "id": "3405480780"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 80 m²",
+    "Address": "Brno - Trnitá",
+    "Price": "30 700 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-trnita-/333709900",
+    "id": "333709900"
+  },
+  {
     "header": "Pronájem bytu 2+1 42 m²",
     "Address": "Kudrnova, Brno - Brno-Tuřany",
     "Price": "21 000 Kč/měsíc",
@@ -131,19 +145,5 @@
     "Price": "20 500 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-lisen-bacovskeho/3448341324",
     "id": "3448341324"
-  },
-  {
-    "header": "Pronájem bytu 3+1 76 m²",
-    "Address": "Viniční, Brno - Židenice",
-    "Price": "24 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-zidenice-vinicni/3974992716",
-    "id": "3974992716"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 85 m²",
-    "Address": "Kigginsova, Brno - Slatina",
-    "Price": "22 900 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-slatina-kigginsova/1302954828",
-    "id": "1302954828"
   }
 ]
