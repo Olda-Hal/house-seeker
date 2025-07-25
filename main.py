@@ -67,10 +67,8 @@ def remove_seen_listings(listings: list, seen_file: str = "seen.json"):
     except FileNotFoundError:
         seen = []
 
-    seen_ids = {item["id"] for item in seen}
+    seen_ids = [item["id"] for item in seen]
     new_listings = [listing for listing in listings if listing["id"] not in seen_ids]
-    # Přidat nové id do seen
-    seen.extend({"id": listing["id"]} for listing in new_listings)
     
     with open(seen_file, "w", encoding="utf-8") as f:
         json.dump(listings, f, ensure_ascii=False, indent=2)
