@@ -126,6 +126,13 @@
     "id": "2757923660"
   },
   {
+    "header": "Pronájem bytu 3+1 74 m²",
+    "Address": "Horácké náměstí, Brno - Řečkovice",
+    "Price": "20 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-reckovice-horacke-namesti/485000012",
+    "id": "485000012"
+  },
+  {
     "header": "Pronájem bytu 3+1 72 m²",
     "Address": "Brno - Lesná",
     "Price": "26 000 Kč/měsíc",
@@ -138,12 +145,5 @@
     "Price": "17 500 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-cernovice-huskova/4112597580",
     "id": "4112597580"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 96 m²",
-    "Address": "Příkop, Brno - Zábrdovice",
-    "Price": "30 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zabrdovice-prikop/2749731660",
-    "id": "2749731660"
   }
 ]
