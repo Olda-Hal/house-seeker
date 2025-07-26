@@ -112,13 +112,6 @@
     "id": "4256994124"
   },
   {
-    "header": "Pronájem bytu 2+kk 51m²",
-    "Address": "Rostislavovo náměstí, Brno - Královo Pole",
-    "Price": "Urbaneo",
-    "link": "https://a.seznam.cz/v2/click?spotId=3980938&d=9AYM9YJFRNZ3HAA6HXUYXHQZZF8Q6SQGJPZNX7PKDRE2MFBBK6V68HWZT3J2E4P6PEQA6AYPW2HMRRZ958Z63BD8F2TYPK7PBA3WE4AFFMNYEUJGKMCAQ3HWWX6JDDPWEWFBVSCYFHAIPIJ7XJSD4QK2NV45B8AH549QHKMWFNY67IUX9MMB89RJM4FQ848DF2334INHBB6NB43UJ2FVZ66YZ46PWKIERJICSUMXFWTZUWVM5JE8IWQS2ASP4IZAMHKCRYHZRAUV47C8ZJDQ6EP56JY2MNV6P6NP4RU3MTSPJNPK4ZPZTIBAGRJIIBXPHEPPRXGEH8GEK&destination=https%3A//www.sreality.cz/detail/pronajem/byt/2%2Bkk/brno-kralovo-pole-rostislavovo-namesti/2340066124",
-    "id": "2340066124"
-  },
-  {
     "header": "Pronájem bytu 2+1 65 m²",
     "Address": "Drobného, Brno - Černá Pole",
     "Price": "24 000 Kč/měsíc",
@@ -152,5 +145,12 @@
     "Price": "30 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-brno-mesto-kvetinarska/3945698124",
     "id": "3945698124"
+  },
+  {
+    "header": "PRONÁJEM BYTU 2+1 55 m²",
+    "Address": "Ochozská, Brno - Líšeň, Jihomoravský kraj",
+    "Price": "16 000 Kč+ 4 150 Kč",
+    "link": "No Link",
+    "id": "No ID"
   }
 ]
