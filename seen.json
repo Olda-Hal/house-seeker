@@ -56,13 +56,6 @@
     "id": "315507276"
   },
   {
-    "header": "Pronájem bytu 2+kk 51m²",
-    "Address": "Rostislavovo náměstí, Brno - Královo Pole",
-    "Price": "Urbaneo",
-    "link": "https://a.seznam.cz/v2/click?spotId=3980938&d=KQFAVFKSZQ347AZU3MHN8K22HZ4SZMS7I4IPWCS94H8YHJ9PE4M6VCNMH3KFEA8UUYZ78E8FKZEBICD599BKZ7K5RMU6DGTK2MY39GVBAJFHYITEISC3NIQ5WDZ5URGIAPKPBCYKPEY8RHUCT5QTZ8N6WFF5RCSPPBBAFNYQXHNAPEPUSWEZ8RI2UH54QDEJUXWI5HWJCZJG723D3Y6R9KD6Y3YIKCRHPH493ZUDQ8RHH38UWY4NU9EW4MPTKEXI2N5N9AHHUMT965TVTIKWDN4IG8NM3D8RUGNPNV526HKBEKU3IW4YHP8ZNGJPMGCXUFP7JGGDNC7VCCDE&destination=https%3A//www.sreality.cz/detail/pronajem/byt/2%2Bkk/brno-kralovo-pole-rostislavovo-namesti/2340066124",
-    "id": "2340066124"
-  },
-  {
     "header": "Pronájem bytu 2+1 62 m²",
     "Address": "Starobrněnská, Brno - Brno-město",
     "Price": "26 624 Kč/měsíc",
@@ -117,6 +110,13 @@
     "Price": "24 900 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-novy-liskovec-obla/1479652172",
     "id": "1479652172"
+  },
+  {
+    "header": "Pronájem bytu 2+kk 51m²",
+    "Address": "Rostislavovo náměstí, Brno - Královo Pole",
+    "Price": "Urbaneo",
+    "link": "https://a.seznam.cz/v2/click?spotId=3980938&d=PFNRMSDQN52I9NGIZRN7EEECTBNWA3PQVGZRGJA27QE97WT29DGYJCVRBWMAHI7FPA7EU6FN2A3XXKAUUP9W8GW37DFG75TKBCWKNGB92UEA929JBJVJ8BKQZAFHTSU87PH66YNUHV9S3Y29CZT4VGFH7JB3PBZCSE5QHX3SNTYF96GP6IJUEDHYAVFIN3XPZITNR7WND9VTSZV2C2D9IDHEXSNEE3HBUQZB6BDFGMAW35V6Z7S55HHFY2UV55X667299ASQJ6YUTXU6YDZ77CR8XY6ZB6WFNDXGUCSEHITV7SJ7PMTUV9ZBE2U4KT8EDY879YWKZ3R4T22&destination=https%3A//www.sreality.cz/detail/pronajem/byt/2%2Bkk/brno-kralovo-pole-rostislavovo-namesti/2340066124",
+    "id": "2340066124"
   },
   {
     "header": "Pronájem bytu 3+1 149 m²",
