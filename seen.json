@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 80 m²",
+    "Address": "Brno - Trnitá",
+    "Price": "30 700 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-trnita-/333709900",
+    "id": "333709900"
+  },
+  {
     "header": "Pronájem bytu 3+kk 90 m²",
     "Address": "náměstí 28. října, Brno - Černá Pole",
     "Price": "26 500 Kč/měsíc",
@@ -138,12 +145,5 @@
     "Price": "17 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-lisen-josefy-faimonove/1516344140",
     "id": "1516344140"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 102 m²",
-    "Address": "Květinářská, Brno - Brno-město",
-    "Price": "30 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-brno-mesto-kvetinarska/3945698124",
-    "id": "3945698124"
   }
 ]
