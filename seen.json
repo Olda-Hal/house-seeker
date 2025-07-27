@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 2+1 54 m²",
+    "Address": "Jana Uhra, Brno - Veveří",
+    "Price": "18 400 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-veveri-jana-uhra/1502577484",
+    "id": "1502577484"
+  },
+  {
     "header": "Pronájem bytu 2+1 65 m²",
     "Address": "Drobného, Brno - Černá Pole",
     "Price": "24 000 Kč/měsíc",
@@ -138,12 +145,5 @@
     "Price": "27 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-veveri-lidicka/2393674572",
     "id": "2393674572"
-  },
-  {
-    "header": "Pronájem bytu 3+1 73 m²",
-    "Address": "Oblá, Brno - Nový Lískovec",
-    "Price": "24 900 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-novy-liskovec-obla/1479652172",
-    "id": "1479652172"
   }
 ]
