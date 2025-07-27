@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 77 m²",
+    "Address": "Podveská, Brno - Komín",
+    "Price": "31 990 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-komin-podveska/3923612492",
+    "id": "3923612492"
+  },
+  {
     "header": "Pronájem bytu 3+1 78 m²",
     "Address": "Slunečná, Brno - Nový Lískovec",
     "Price": "18 000 Kč/měsíc",
@@ -138,12 +145,5 @@
     "Price": "24 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-cerna-pole-drobneho/3883893580",
     "id": "3883893580"
-  },
-  {
-    "header": "Pronájem bytu 2+1 60 m²",
-    "Address": "Spodní, Brno - Bohunice",
-    "Price": "19 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-bohunice-spodni/2054128460",
-    "id": "2054128460"
   }
 ]
