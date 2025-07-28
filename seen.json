@@ -1,6 +1,13 @@
 [
   {
     "header": "Pronájem bytu 3+kk 75 m²",
+    "Address": "Studentská, Brno - Bohunice",
+    "Price": "26 500 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-bohunice-studentska/85885772",
+    "id": "85885772"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 75 m²",
     "Address": "Komárovská, Brno - Komárov",
     "Price": "49 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-komarov-komarovska/3643315020",
@@ -131,12 +138,5 @@
     "Price": "24 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-cerna-pole-drobneho/3883893580",
     "id": "3883893580"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 140 m²",
-    "Address": "Fryčajova, Brno - Obřany",
-    "Price": "39 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-obrany-frycajova/1905230668",
-    "id": "1905230668"
   }
 ]
