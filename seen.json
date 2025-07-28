@@ -112,13 +112,6 @@
     "id": "3923612492"
   },
   {
-    "header": "Pronájem bytu 3+1 78 m²",
-    "Address": "Slunečná, Brno - Nový Lískovec",
-    "Price": "18 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-novy-liskovec-slunecna/1638892364",
-    "id": "1638892364"
-  },
-  {
     "header": "Pronájem bytu 3+kk 400 m²",
     "Address": "Brno - Černá Pole",
     "Price": "45 900 Kč/měsíc",
@@ -138,5 +131,12 @@
     "Price": "30 700 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-trnita-/333709900",
     "id": "333709900"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 90 m²",
+    "Address": "náměstí 28. října, Brno - Černá Pole",
+    "Price": "26 500 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-cerna-pole-namesti-28-rijna/1715683916",
+    "id": "1715683916"
   }
 ]
