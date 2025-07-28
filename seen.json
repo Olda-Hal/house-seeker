@@ -1,5 +1,19 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 67 m²",
+    "Address": "Metodějova, Brno - Královo Pole",
+    "Price": "27 500 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-kralovo-pole-metodejova/4023751500",
+    "id": "4023751500"
+  },
+  {
+    "header": "Pronájem bytu 2+1 70 m²",
+    "Address": "Bayerova, Brno - Veveří",
+    "Price": "25 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-veveri-bayerova/218469196",
+    "id": "218469196"
+  },
+  {
     "header": "Pronájem bytu 2+1 38 m²",
     "Address": "Václavská, Brno - Staré Brno",
     "Price": "20 900 Kč/měsíc",
@@ -124,19 +138,5 @@
     "Price": "23 990 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zidenice-taborska/3248063308",
     "id": "3248063308"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 80 m²",
-    "Address": "Brno - Trnitá",
-    "Price": "30 700 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-trnita-/333709900",
-    "id": "333709900"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 90 m²",
-    "Address": "náměstí 28. října, Brno - Černá Pole",
-    "Price": "26 500 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-cerna-pole-namesti-28-rijna/1715683916",
-    "id": "1715683916"
   }
 ]
