@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 2+1 54 m²",
+    "Address": "Jana Uhra, Brno - Veveří",
+    "Price": "19 500 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-veveri-jana-uhra/1502577484",
+    "id": "1502577484"
+  },
+  {
     "header": "Pronájem bytu 2+1 38 m²",
     "Address": "Václavská, Brno - Staré Brno",
     "Price": "20 900 Kč/měsíc",
@@ -131,12 +138,5 @@
     "Price": "24 900 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-trnita-spalena/1841201996",
     "id": "1841201996"
-  },
-  {
-    "header": "Pronájem bytu 2+1 54 m²",
-    "Address": "Jana Uhra, Brno - Veveří",
-    "Price": "19 500 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-veveri-jana-uhra/1502577484",
-    "id": "1502577484"
   }
 ]
