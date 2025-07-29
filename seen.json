@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 58 m²",
+    "Address": "Táborská, Brno - Židenice",
+    "Price": "23 990 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zidenice-taborska/3248063308",
+    "id": "3248063308"
+  },
+  {
     "header": "Pronájem bytu 2+1 38 m²",
     "Address": "Václavská, Brno - Staré Brno",
     "Price": "20 900 Kč/měsíc",
@@ -131,12 +138,5 @@
     "Price": "30 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-brno-mesto-masarykova/357061196",
     "id": "357061196"
-  },
-  {
-    "header": "Pronájem bytu 3+1 69 m²",
-    "Address": "Grohova, Brno - Veveří",
-    "Price": "25 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-veveri-grohova/1705935692",
-    "id": "1705935692"
   }
 ]
