@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 2+1 48 m²",
+    "Address": "Vackova, Brno - Královo Pole",
+    "Price": "16 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-kralovo-pole-vackova/571310924",
+    "id": "571310924"
+  },
+  {
     "header": "Pronájem bytu 2+1 60 m²",
     "Address": "Františkánská, Brno - Brno-město",
     "Price": "16 500 Kč/měsíc",
@@ -47,13 +54,6 @@
     "Price": "23 900 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-stare-brno-hybesova/2453447500",
     "id": "2453447500"
-  },
-  {
-    "header": "Pronájem bytu 2+kk 51m²",
-    "Address": "Rostislavovo náměstí, Brno - Královo Pole",
-    "Price": "Urbaneo",
-    "link": "https://a.seznam.cz/v2/click?spotId=3980938&d=FUSX43A2SP52FEWSHWZWEQBFT98XQAJINRMM4EJIZJB7HS8BVP8GYRWDJ84W778Y8PB3DDX5MY7CWFEC7RFKXQZ7IIAKSWGXMXSXS9J25GGNY4JFVIKUIEQ8XJ474APUY2G9UEXM2JNVXY76K7PBZU8RMD7ZCISINNH7B56ZCYZT6HY68IF99ISTY9NT9GKUZI48VAYXJEJBX8N4S2HAWTM9UNDBPCSFR5VF9VSCY436Z3UHTNMTXC8FBZ24TXS9DZVZYX8I6X4UYVPXSBU5AE39MWW7KIBHE4QK6VNN7R8GUXPICFJHKXS2FG3HT5THJ8ABK2VD9Q56RN2&destination=https%3A//www.sreality.cz/detail/pronajem/byt/2%2Bkk/brno-kralovo-pole-rostislavovo-namesti/2340066124",
-    "id": "2340066124"
   },
   {
     "header": "Pronájem bytu 2+1 55 m²",
@@ -138,12 +138,5 @@
     "Price": "17 500 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-cernovice-huskova/4112597580",
     "id": "4112597580"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 96 m²",
-    "Address": "Příkop, Brno - Zábrdovice",
-    "Price": "30 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zabrdovice-prikop/2749731660",
-    "id": "2749731660"
   }
 ]
