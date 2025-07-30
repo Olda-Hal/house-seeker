@@ -1,5 +1,19 @@
 [
   {
+    "header": "Pronájem bytu 3+1 80 m²",
+    "Address": "Renneská třída, Brno - Štýřice",
+    "Price": "22 900 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-styrice-renneska-trida/2327610188",
+    "id": "2327610188"
+  },
+  {
+    "header": "Pronájem bytu 2+1 47 m²",
+    "Address": "Renneská třída, Brno - Štýřice",
+    "Price": "15 900 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-styrice-renneska-trida/1773962060",
+    "id": "1773962060"
+  },
+  {
     "header": "Pronájem bytu 2+1 42 m²",
     "Address": "Kudrnova, Brno - Brno-Tuřany",
     "Price": "21 000 Kč/měsíc",
@@ -131,19 +145,5 @@
     "Price": "28 900 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-stare-brno-hybesova/1356432204",
     "id": "1356432204"
-  },
-  {
-    "header": "Pronájem bytu 2+1 32 m²",
-    "Address": "Mendlovo náměstí, Brno - Staré Brno",
-    "Price": "18 900 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-stare-brno-mendlovo-namesti/3352920908",
-    "id": "3352920908"
-  },
-  {
-    "header": "Pronájem bytu 2+1 33 m²",
-    "Address": "Václavská, Brno - Staré Brno",
-    "Price": "23 900 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-stare-brno-vaclavska/773034828",
-    "id": "773034828"
   }
 ]
