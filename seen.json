@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 80 m²",
+    "Address": "Brno - Trnitá",
+    "Price": "30 700 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-trnita-/333709900",
+    "id": "333709900"
+  },
+  {
     "header": "Pronájem bytu 3+kk 75 m²",
     "Address": "Studentská, Brno - Bohunice",
     "Price": "26 500 Kč/měsíc",
@@ -54,13 +61,6 @@
     "Price": "20 900 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-stare-brno-vaclavska/3174867788",
     "id": "3174867788"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 75 m²",
-    "Address": "Rostislavovo náměstí, Brno - Královo Pole",
-    "Price": "Urbaneo",
-    "link": "https://a.seznam.cz/v2/click?spotId=3980937&d=MUVAN53RXV9RZJNUTZ8BHF8K3BTHZ8MMJKPKP5ZPSV85M2GD3XU88SAUIW7GC8EEUNAJ4E5S3MGBPPUAVQ96MAT95BRAY5JG69SVRSEC3KDZ9B3EI3ZV6I8XXMT7PFGW3WY7XT4IB73YPKR7H7UY2YWV58SHPR35G9UZR8V3I8VZ5QKJQ23I3M53YHYQPKW638RQRJZPJGG2EHVPWIVY3PHXRAQGRU3BSZBQR9WS48UEZN962WASNQ66AF759NHNDQHET2IW88YYEKUSVK3VGJPYU3WN6TEBH6ZRUUTIX78EA33HGWC7U5K38GDEE6KYVYQIUJWVRRFS&destination=https%3A//www.sreality.cz/detail/pronajem/byt/3%2Bkk/brno-kralovo-pole-rostislavovo-namesti/4095644492",
-    "id": "4095644492"
   },
   {
     "header": "Pronájem bytu 2+1 33 m²",
@@ -145,12 +145,5 @@
     "Price": "18 900 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-stare-brno-vaclavska/3545404236",
     "id": "3545404236"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 75 m²",
-    "Address": "Komárovská, Brno - Komárov",
-    "Price": "49 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-komarov-komarovska/3643315020",
-    "id": "3643315020"
   }
 ]
