@@ -1,5 +1,12 @@
 [
   {
+    "header": "SLEVA: Pronájem bytu 2+1 64 m²",
+    "Address": "Rezkova, Brno - Stránice",
+    "Price": "29 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-stranice-rezkova/3702362956",
+    "id": "3702362956"
+  },
+  {
     "header": "Pronájem bytu 3+kk 67 m²",
     "Address": "Vídeňská, Brno - Štýřice",
     "Price": "25 000 Kč/měsíc",
@@ -138,12 +145,5 @@
     "Price": "27 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-reckovice-kunstatska/3912074060",
     "id": "3912074060"
-  },
-  {
-    "header": "Pronájem bytu 2+1 67 m²",
-    "Address": "Jílová, Brno - Štýřice",
-    "Price": "22 990 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-styrice-jilova/3374220108",
-    "id": "3374220108"
   }
 ]
