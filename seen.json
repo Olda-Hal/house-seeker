@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 67 m²",
+    "Address": "Vídeňská, Brno - Štýřice",
+    "Price": "25 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-styrice-videnska/3992425292",
+    "id": "3992425292"
+  },
+  {
     "header": "Pronájem bytu 3+1 85 m²",
     "Address": "Poříčí, Brno - Staré Brno",
     "Price": "23 990 Kč/měsíc",
@@ -138,12 +145,5 @@
     "Price": "22 990 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-styrice-jilova/3374220108",
     "id": "3374220108"
-  },
-  {
-    "header": "Pronájem bytu 2+1 55 m²",
-    "Address": "Merhautova, Brno",
-    "Price": "19 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-brno-merhautova/100447052",
-    "id": "100447052"
   }
 ]
