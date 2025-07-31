@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+1 75 m²",
+    "Address": "Obřanská, Brno - Maloměřice",
+    "Price": "34 500 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-malomerice-obranska/1609794380",
+    "id": "1609794380"
+  },
+  {
     "header": "Pronájem bytu 2+1 57 m²",
     "Address": "Húskova, Brno - Černovice",
     "Price": "17 500 Kč/měsíc",
@@ -131,12 +138,5 @@
     "Price": "22 900 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-styrice-renneska-trida/2327610188",
     "id": "2327610188"
-  },
-  {
-    "header": "Pronájem bytu 2+1 47 m²",
-    "Address": "Renneská třída, Brno - Štýřice",
-    "Price": "15 900 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-styrice-renneska-trida/1773962060",
-    "id": "1773962060"
   }
 ]
