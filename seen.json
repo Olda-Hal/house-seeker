@@ -1,5 +1,19 @@
 [
   {
+    "header": "Pronájem bytu 2+1 55 m²",
+    "Address": "Merhautova, Brno",
+    "Price": "19 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-brno-merhautova/100447052",
+    "id": "100447052"
+  },
+  {
+    "header": "Pronájem bytu 2+1 73 m²",
+    "Address": "Jugoslávská, Brno - Černá Pole",
+    "Price": "24 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-cerna-pole-jugoslavska/2922611532",
+    "id": "2922611532"
+  },
+  {
     "header": "Pronájem bytu 2+1 44 m²",
     "Address": "Václavská, Brno - Staré Brno",
     "Price": "20 900 Kč/měsíc",
@@ -124,19 +138,5 @@
     "Price": "30 700 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-trnita-/333709900",
     "id": "333709900"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 75 m²",
-    "Address": "Studentská, Brno - Bohunice",
-    "Price": "26 500 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-bohunice-studentska/85885772",
-    "id": "85885772"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 74 m²",
-    "Address": "Hybešova, Brno - Staré Brno",
-    "Price": "27 800 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-stare-brno-hybesova/4092363596",
-    "id": "4092363596"
   }
 ]
