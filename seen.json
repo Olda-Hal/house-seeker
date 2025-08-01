@@ -1,5 +1,19 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 86 m²",
+    "Address": "Kollárova, Brno - Královo Pole",
+    "Price": "34 990 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-kralovo-pole-kollarova/3405480780",
+    "id": "3405480780"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 80 m²",
+    "Address": "Brno - Trnitá",
+    "Price": "30 700 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-trnita-/333709900",
+    "id": "333709900"
+  },
+  {
     "header": "Pronájem bytu 3+kk 66 m²",
     "Address": "Kotěrova, Brno - Černá Pole",
     "Price": "25 000 Kč/měsíc",
@@ -131,19 +145,5 @@
     "Price": "28 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-veveri-zahradnikova/2266014540",
     "id": "2266014540"
-  },
-  {
-    "header": "Pronájem bytu 2+1 55 m²",
-    "Address": "Merhautova, Brno",
-    "Price": "19 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-brno-merhautova/100447052",
-    "id": "100447052"
-  },
-  {
-    "header": "Pronájem bytu 2+1 73 m²",
-    "Address": "Jugoslávská, Brno - Černá Pole",
-    "Price": "24 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-cerna-pole-jugoslavska/2922611532",
-    "id": "2922611532"
   }
 ]
