@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 2+1 51 m²",
+    "Address": "Kubíčkova, Brno - Bystrc",
+    "Price": "15 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-bystrc-kubickova/3258090316",
+    "id": "3258090316"
+  },
+  {
     "header": "Pronájem bytu 2+1 65 m²",
     "Address": "Hrnčířská, Brno - Veveří",
     "Price": "20 000 Kč/měsíc",
@@ -138,12 +145,5 @@
     "Price": "36 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-kohoutovice-potocka/2591462220",
     "id": "2591462220"
-  },
-  {
-    "header": "Pronájem bytu 3+1 75 m²",
-    "Address": "Obřanská, Brno - Maloměřice",
-    "Price": "34 500 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-malomerice-obranska/1609794380",
-    "id": "1609794380"
   }
 ]
