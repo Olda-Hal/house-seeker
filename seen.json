@@ -1,5 +1,19 @@
 [
   {
+    "header": "Pronájem bytu 2+1 65 m²",
+    "Address": "Hrnčířská, Brno - Veveří",
+    "Price": "20 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-veveri-hrncirska/3980559180",
+    "id": "3980559180"
+  },
+  {
+    "header": "Pronájem bytu 2+1 65 m²",
+    "Address": "Teyschlova, Brno - Bystrc",
+    "Price": "20 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-bystrc-teyschlova/21136204",
+    "id": "21136204"
+  },
+  {
     "header": "Pronájem bytu 3+kk 162 m²",
     "Address": "Bratislavská, Brno - Zábrdovice",
     "Price": "39 312 Kč/měsíc",
@@ -131,19 +145,5 @@
     "Price": "34 500 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-malomerice-obranska/1609794380",
     "id": "1609794380"
-  },
-  {
-    "header": "Pronájem bytu 2+1 57 m²",
-    "Address": "Húskova, Brno - Černovice",
-    "Price": "17 500 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-cernovice-huskova/4112597580",
-    "id": "4112597580"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 96 m²",
-    "Address": "Příkop, Brno - Zábrdovice",
-    "Price": "30 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zabrdovice-prikop/2749731660",
-    "id": "2749731660"
   }
 ]
