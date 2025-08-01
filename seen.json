@@ -105,13 +105,6 @@
     "id": "3912074060"
   },
   {
-    "header": "Pronájem bytu 2+1 44 m²",
-    "Address": "Jugoslávská, Brno - Černá Pole",
-    "Price": "14 100 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-cerna-pole-jugoslavska/3100869452",
-    "id": "3100869452"
-  },
-  {
     "header": "Pronájem bytu 3+kk 97 m²",
     "Address": "Lidická, Brno - Veveří",
     "Price": "38 000 Kč/měsíc",
@@ -145,5 +138,12 @@
     "Price": "36 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-kohoutovice-potocka/2591462220",
     "id": "2591462220"
+  },
+  {
+    "header": "Pronájem bytu 3+1 75 m²",
+    "Address": "Obřanská, Brno - Maloměřice",
+    "Price": "34 500 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-malomerice-obranska/1609794380",
+    "id": "1609794380"
   }
 ]
