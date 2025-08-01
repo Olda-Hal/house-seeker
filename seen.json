@@ -119,13 +119,6 @@
     "id": "2948305740"
   },
   {
-    "header": "Pronájem bytu 3+1 90 m²",
-    "Address": "Veveří, Brno",
-    "Price": "23 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-brno-veveri/185762636",
-    "id": "185762636"
-  },
-  {
     "header": "Pronájem bytu 2+1 58 m²",
     "Address": "Josefy Faimonové, Brno - Líšeň",
     "Price": "17 000 Kč/měsíc",
@@ -145,5 +138,12 @@
     "Price": "15 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-bystrc-kubickova/3258090316",
     "id": "3258090316"
+  },
+  {
+    "header": "Pronájem bytu 2+1 65 m²",
+    "Address": "Hrnčířská, Brno - Veveří",
+    "Price": "20 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-veveri-hrncirska/3980559180",
+    "id": "3980559180"
   }
 ]
