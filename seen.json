@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 2+1 52 m²",
+    "Address": "Langrova, Brno - Slatina",
+    "Price": "20 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-slatina-langrova/4249916236",
+    "id": "4249916236"
+  },
+  {
     "header": "Pronájem bytu 2+1 73 m²",
     "Address": "Jugoslávská, Brno - Černá Pole",
     "Price": "24 000 Kč/měsíc",
@@ -138,12 +145,5 @@
     "Price": "15 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-bystrc-kubickova/3258090316",
     "id": "3258090316"
-  },
-  {
-    "header": "Pronájem bytu 2+1 65 m²",
-    "Address": "Hrnčířská, Brno - Veveří",
-    "Price": "20 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-veveri-hrncirska/3980559180",
-    "id": "3980559180"
   }
 ]
