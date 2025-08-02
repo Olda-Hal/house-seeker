@@ -145,5 +145,33 @@
     "Price": "27 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-brno-videnska/1544594252",
     "id": "1544594252"
+  },
+  {
+    "header": "PRONÁJEM BYTU 2+1 58 m²",
+    "Address": "Podnásepní, Brno - Trnitá, Jihomoravský kraj",
+    "Price": "16 300 Kč+ 3 000 Kč",
+    "link": "https://www.bezrealitky.cz/nemovitosti-byty-domy/620992-nabidka-pronajem-bytu-podnasepni-brno",
+    "id": "620992"
+  },
+  {
+    "header": "PRONÁJEM BYTU 2+1 67 m²",
+    "Address": "Podnásepní, Brno - Trnitá, Jihomoravský kraj",
+    "Price": "18 900 Kč+ 3 000 Kč",
+    "link": "https://www.bezrealitky.cz/nemovitosti-byty-domy/620987-nabidka-pronajem-bytu-podnasepni-brno",
+    "id": "620987"
+  },
+  {
+    "header": "PRONÁJEM BYTU 2+1 56 m²",
+    "Address": "Barvy, Brno - Lesná, Jihomoravský kraj",
+    "Price": "18 600 Kč+ 4 257 Kč",
+    "link": "https://www.bezrealitky.cz/nemovitosti-byty-domy/854298-nabidka-pronajem-bytu-barvy-brno",
+    "id": "854298"
+  },
+  {
+    "header": "PRONÁJEM BYTU 2+1 49 m²",
+    "Address": "Dvorského, Brno - Štýřice, Jihomoravský kraj",
+    "Price": "16 000 Kč+ 3 200 Kč",
+    "link": "No Link",
+    "id": "No ID"
   }
 ]
