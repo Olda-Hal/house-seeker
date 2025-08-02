@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 2+1 64 m²",
+    "Address": "Rezkova, Brno - Stránice",
+    "Price": "29 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-stranice-rezkova/3702362956",
+    "id": "3702362956"
+  },
+  {
     "header": "Pronájem bytu 2+1 52 m²",
     "Address": "Langrova, Brno - Slatina",
     "Price": "20 000 Kč/měsíc",
@@ -138,12 +145,5 @@
     "Price": "18 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-bystrc-opalkova/3892478796",
     "id": "3892478796"
-  },
-  {
-    "header": "Pronájem bytu 2+1 51 m²",
-    "Address": "Kubíčkova, Brno - Bystrc",
-    "Price": "15 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-bystrc-kubickova/3258090316",
-    "id": "3258090316"
   }
 ]
