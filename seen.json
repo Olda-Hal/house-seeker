@@ -1,5 +1,19 @@
 [
   {
+    "header": "Pronájem bytu 3+1 74 m²",
+    "Address": "Brno - Brno-Líšeň",
+    "Price": "18 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-brno-lisen-/1867613004",
+    "id": "1867613004"
+  },
+  {
+    "header": "Pronájem bytu 3+1 78 m²",
+    "Address": "Kunštátská, Brno - Řečkovice",
+    "Price": "27 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-reckovice-kunstatska/3912074060",
+    "id": "3912074060"
+  },
+  {
     "header": "Pronájem bytu 3+kk 77 m²",
     "Address": "Podveská, Brno - Komín",
     "Price": "29 990 Kč/měsíc",
@@ -131,19 +145,5 @@
     "Price": "28 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-veveri-zahradnikova/2266014540",
     "id": "2266014540"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 90 m²",
-    "Address": "náměstí 28. října, Brno - Černá Pole",
-    "Price": "26 500 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-cerna-pole-namesti-28-rijna/1715683916",
-    "id": "1715683916"
-  },
-  {
-    "header": "Pronájem bytu 3+1 98 m²",
-    "Address": "náměstí Svobody, Brno - Brno-město",
-    "Price": "24 354 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-brno-mesto-namesti-svobody/746754892",
-    "id": "746754892"
   }
 ]
