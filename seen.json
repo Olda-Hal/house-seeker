@@ -1,5 +1,19 @@
 [
   {
+    "header": "Pronájem bytu 2+1 50 m²",
+    "Address": "Nové sady, Brno - Staré Brno",
+    "Price": "25 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-stare-brno-nove-sady/2724234060",
+    "id": "2724234060"
+  },
+  {
+    "header": "Pronájem bytu 2+1 57 m²",
+    "Address": "Ulička, Brno - Kohoutovice",
+    "Price": "15 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-kohoutovice-ulicka/729580364",
+    "id": "729580364"
+  },
+  {
     "header": "Pronájem bytu 3+kk 80 m²",
     "Address": "Jakubské náměstí, Brno - Brno-město",
     "Price": "29 500 Kč/měsíc",
@@ -61,13 +75,6 @@
     "Price": "23 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-jundrov-nalepkova/2390790988",
     "id": "2390790988"
-  },
-  {
-    "header": "Pronájem bytu 2+1 35 m²",
-    "Address": "Řeznická, Brno - Trnitá",
-    "Price": "14 500 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-trnita-reznicka/2850128716",
-    "id": "2850128716"
   },
   {
     "header": "Pronájem bytu 2+1 59 m²",
@@ -138,12 +145,5 @@
     "Price": "25 990 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-bystrc-ricanska/3094315852",
     "id": "3094315852"
-  },
-  {
-    "header": "Pronájem bytu 3+1 85 m²",
-    "Address": "Poříčí, Brno - Staré Brno",
-    "Price": "23 990 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-stare-brno-porici/3080553292",
-    "id": "3080553292"
   }
 ]
