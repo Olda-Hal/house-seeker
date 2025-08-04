@@ -6,8 +6,9 @@ from selenium.webdriver.firefox.service import Service
 from selenium.webdriver.common.by import By
 import requests
 import json
+import os
 
-WEBHOOK = "https://discord.com/api/webhooks/1397904877857800192/42Fe_nz83sxEjjoUVvaVpbqNzLhjq60KPxE9CQYa5iCcMhh_Tsjl8uLnhor9y23ZHJLG"
+WEBHOOK = os.environ['WEBHOOK_URL']
 SREALITY_QUERY = "https://www.sreality.cz/hledani/pronajem/byty?velikost=2%2B1%2C3%2B1%2C3%2Bkk&region=Brno&region-id=5740&region-typ=municipality&noredirect=1"
 BEZREALITKY_QUERY = "https://www.bezrealitky.cz/vyhledat?offerType=PRONAJEM&estateType=BYT&disposition=DISP_2_1&disposition=DISP_3_KK&disposition=DISP_3_1&regionOsmIds=R438171&osm_value=Brno%2C+okres+Brno-m%C4%9Bsto%2C+Jihomoravsk%C3%BD+kraj%2C+Jihov%C3%BDchod%2C+%C4%8Cesko&roommate=false&location=exact&currency=CZK"
 SREALITY_LISTING_COUNT = 24

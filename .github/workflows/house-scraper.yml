@@ -33,6 +33,8 @@ jobs:
 
       - name: Build
         run: python main.py
+        env:
+          WEBHOOK_URL: ${{ secrets.WEBHOOK_URL }}
 
       - name: Commit
         env:
