@@ -1,5 +1,19 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 80 m²",
+    "Address": "Brno - Trnitá",
+    "Price": "30 700 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-trnita-/333709900",
+    "id": "333709900"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 72 m²",
+    "Address": "Merhautova, Brno - Zábrdovice",
+    "Price": "24 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zabrdovice-merhautova/2982253388",
+    "id": "2982253388"
+  },
+  {
     "header": "Pronájem bytu 2+1 50 m²",
     "Address": "Nové sady, Brno - Staré Brno",
     "Price": "25 000 Kč/měsíc",
@@ -131,19 +145,5 @@
     "Price": "26 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-pisarky-lipova/4130440012",
     "id": "4130440012"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 86 m²",
-    "Address": "Kollárova, Brno - Královo Pole",
-    "Price": "34 990 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-kralovo-pole-kollarova/3405480780",
-    "id": "3405480780"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 73 m²",
-    "Address": "Říčanská, Brno - Bystrc",
-    "Price": "25 990 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-bystrc-ricanska/3094315852",
-    "id": "3094315852"
   }
 ]
