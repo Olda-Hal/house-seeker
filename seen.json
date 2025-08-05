@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 2+1 47 m²",
+    "Address": "Gruzínská, Brno - Bohunice",
+    "Price": "18 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-bohunice-gruzinska/3701506892",
+    "id": "3701506892"
+  },
+  {
     "header": "Pronájem bytu 2+1 54 m²",
     "Address": "Renčova, Brno - Řečkovice",
     "Price": "17 000 Kč/měsíc",
@@ -138,12 +145,5 @@
     "Price": "24 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zabrdovice-merhautova/2982253388",
     "id": "2982253388"
-  },
-  {
-    "header": "Pronájem bytu 2+1 50 m²",
-    "Address": "Nové sady, Brno - Staré Brno",
-    "Price": "25 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-stare-brno-nove-sady/2724234060",
-    "id": "2724234060"
   }
 ]
