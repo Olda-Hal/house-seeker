@@ -70,13 +70,6 @@
     "id": "1759413068"
   },
   {
-    "header": "Pronájem bytu 3+1 120 m²",
-    "Address": "Starobrněnská, Brno - Brno-město",
-    "Price": "29 700 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-brno-mesto-starobrnenska/1031832396",
-    "id": "1031832396"
-  },
-  {
     "header": "Pronájem bytu 2+1 47 m²",
     "Address": "Gruzínská, Brno - Bohunice",
     "Price": "18 000 Kč/měsíc",
@@ -145,5 +138,12 @@
     "Price": "23 900 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-stare-brno-hybesova/2453447500",
     "id": "2453447500"
+  },
+  {
+    "header": "Pronájem bytu 2+1 33 m²",
+    "Address": "Václavská, Brno - Staré Brno",
+    "Price": "23 900 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-stare-brno-vaclavska/773034828",
+    "id": "773034828"
   }
 ]
