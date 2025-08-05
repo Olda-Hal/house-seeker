@@ -77,27 +77,6 @@
     "id": "1297122124"
   },
   {
-    "header": "Pronájem bytu 2+1 68 m²",
-    "Address": "Mášova, Brno - Veveří",
-    "Price": "25 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-veveri-masova/900768588",
-    "id": "900768588"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 96 m²",
-    "Address": "Příkop, Brno - Zábrdovice",
-    "Price": "30 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zabrdovice-prikop/2749731660",
-    "id": "2749731660"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 85 m²",
-    "Address": "Bezručova, Brno - Staré Brno",
-    "Price": "23 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-stare-brno-bezrucova/2948305740",
-    "id": "2948305740"
-  },
-  {
     "header": "Pronájem bytu 3+1 85 m²",
     "Address": "Brno",
     "Price": "25 000 Kč/měsíc",
@@ -145,5 +124,26 @@
     "Price": "33 500 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-stranice-bohuslava-martinu/1909556044",
     "id": "1909556044"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 51 m²",
+    "Address": "Kounicova, Brno - Veveří",
+    "Price": "22 098 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-veveri-kounicova/97616716",
+    "id": "97616716"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 75 m²",
+    "Address": "Komárovská, Brno - Komárov",
+    "Price": "49 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-komarov-komarovska/3643315020",
+    "id": "3643315020"
+  },
+  {
+    "header": "Pronájem bytu 2+1 52 m²",
+    "Address": "Cejl, Brno - Zábrdovice",
+    "Price": "16 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-zabrdovice-cejl/2764145484",
+    "id": "2764145484"
   }
 ]
