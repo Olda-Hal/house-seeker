@@ -56,13 +56,6 @@
     "id": "915899212"
   },
   {
-    "header": "Pronájem bytu 2+1 53 m²",
-    "Address": "Koliště, Brno - Zábrdovice",
-    "Price": "18 500 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-zabrdovice-koliste/2542240588",
-    "id": "2542240588"
-  },
-  {
     "header": "Pronájem bytu 3+1 82 m²",
     "Address": "Valtická, Brno - Židenice",
     "Price": "23 000 Kč/měsíc",
@@ -145,5 +138,12 @@
     "Price": "20 900 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-stare-brno-vaclavska/3174867788",
     "id": "3174867788"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 75 m²",
+    "Address": "Komárovská, Brno - Komárov",
+    "Price": "49 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-komarov-komarovska/3643315020",
+    "id": "3643315020"
   }
 ]
