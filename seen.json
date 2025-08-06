@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 2+1 53 m²",
+    "Address": "Koliště, Brno - Zábrdovice",
+    "Price": "18 500 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-zabrdovice-koliste/2542240588",
+    "id": "2542240588"
+  },
+  {
     "header": "Pronájem bytu 3+1 82 m²",
     "Address": "Valtická, Brno - Židenice",
     "Price": "23 000 Kč/měsíc",
@@ -37,7 +44,7 @@
   {
     "header": "Pronájem bytu 2+1 50 m²",
     "Address": "Bratislavská, Brno - Zábrdovice",
-    "Price": "18 000 Kč/měsíc",
+    "Price": "19 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-zabrdovice-bratislavska/1730442828",
     "id": "1730442828"
   },
@@ -138,12 +145,5 @@
     "Price": "19 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-bohunice-spodni/2054128460",
     "id": "2054128460"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 75 m²",
-    "Address": "Purkyňova, Brno",
-    "Price": "22 500 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-brno-purkynova/2685895500",
-    "id": "2685895500"
   }
 ]
