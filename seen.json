@@ -1,5 +1,19 @@
 [
   {
+    "header": "Pronájem bytu 2+1 67 m²",
+    "Address": "Jílová, Brno - Štýřice",
+    "Price": "22 990 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-styrice-jilova/3374220108",
+    "id": "3374220108"
+  },
+  {
+    "header": "Pronájem bytu 3+1 98 m²",
+    "Address": "náměstí Svobody, Brno - Brno-město",
+    "Price": "24 354 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-brno-mesto-namesti-svobody/746754892",
+    "id": "746754892"
+  },
+  {
     "header": "Pronájem bytu 3+kk 73 m²",
     "Address": "Bednaříkova, Brno - Líšeň",
     "Price": "26 000 Kč/měsíc",
@@ -131,19 +145,5 @@
     "Price": "23 900 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-stare-brno-hybesova/2584519500",
     "id": "2584519500"
-  },
-  {
-    "header": "Pronájem bytu 2+1 38 m²",
-    "Address": "Václavská, Brno - Staré Brno",
-    "Price": "20 900 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-stare-brno-vaclavska/3174867788",
-    "id": "3174867788"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 75 m²",
-    "Address": "Komárovská, Brno - Komárov",
-    "Price": "49 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-komarov-komarovska/3643315020",
-    "id": "3643315020"
   }
 ]
