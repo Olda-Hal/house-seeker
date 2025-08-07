@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+1 68 m²",
+    "Address": "Vrázova, Brno - Žabovřesky",
+    "Price": "25 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-zabovresky-vrazova/80118604",
+    "id": "80118604"
+  },
+  {
     "header": "Pronájem bytu 3+kk 82 m²",
     "Address": "Brno - Soběšice",
     "Price": "38 000 Kč/měsíc",
@@ -138,12 +145,5 @@
     "Price": "24 999 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zabrdovice-bratislavska/3302663500",
     "id": "3302663500"
-  },
-  {
-    "header": "Pronájem bytu 2+1 57 m²",
-    "Address": "Ulička, Brno - Kohoutovice",
-    "Price": "15 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-kohoutovice-ulicka/729580364",
-    "id": "729580364"
   }
 ]
