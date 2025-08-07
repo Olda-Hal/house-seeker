@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+1 72 m²",
+    "Address": "Velkopavlovická, Brno - Židenice",
+    "Price": "21 990 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-zidenice-velkopavlovicka/375751500",
+    "id": "375751500"
+  },
+  {
     "header": "Pronájem bytu 2+1 54 m²",
     "Address": "Renčova, Brno - Řečkovice",
     "Price": "17 000 Kč/měsíc",
@@ -138,12 +145,5 @@
     "Price": "22 900 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-stare-brno-pekarska/3829826380",
     "id": "3829826380"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 82 m²",
-    "Address": "Blažovická, Brno - Slatina",
-    "Price": "22 900 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-slatina-blazovicka/798458700",
-    "id": "798458700"
   }
 ]
