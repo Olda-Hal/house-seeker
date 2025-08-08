@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 2+1 63 m²",
+    "Address": "Sosnová, Brno - Jundrov",
+    "Price": "20 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-jundrov-sosnova/3019211596",
+    "id": "3019211596"
+  },
+  {
     "header": "Pronájem bytu 3+kk 75 m²",
     "Address": "Komárovská, Brno - Komárov",
     "Price": "49 000 Kč/měsíc",
@@ -82,13 +89,6 @@
     "Price": "22 900 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-stare-brno-pekarska/3829826380",
     "id": "3829826380"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 73 m²",
-    "Address": "Vaškova, Brno - Židenice",
-    "Price": "18 800 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zidenice-vaskova/2859828044",
-    "id": "2859828044"
   },
   {
     "header": "Pronájem bytu 3+kk 96 m²",
