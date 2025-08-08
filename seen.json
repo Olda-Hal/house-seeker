@@ -1,5 +1,19 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 141 m²",
+    "Address": "Bratislavská, Brno - Zábrdovice",
+    "Price": "24 999 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zabrdovice-bratislavska/3302663500",
+    "id": "3302663500"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 162 m²",
+    "Address": "Bratislavská, Brno - Zábrdovice",
+    "Price": "39 312 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zabrdovice-bratislavska/2630526284",
+    "id": "2630526284"
+  },
+  {
     "header": "Pronájem bytu 3+kk 117 m²",
     "Address": "Majdalenky, Brno - Lesná",
     "Price": "35 000 Kč/měsíc",
@@ -26,6 +40,13 @@
     "Price": "19 500 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-brno-turany-kudrnova/2757923660",
     "id": "2757923660"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 96 m²",
+    "Address": "Klatovská, Brno",
+    "Price": "39 500 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-brno-klatovska/2349171532",
+    "id": "2349171532"
   },
   {
     "header": "Pronájem bytu 2+1 65 m²",
@@ -124,26 +145,5 @@
     "Price": "21 990 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-zidenice-velkopavlovicka/375751500",
     "id": "375751500"
-  },
-  {
-    "header": "Pronájem bytu 2+1 54 m²",
-    "Address": "Renčova, Brno - Řečkovice",
-    "Price": "17 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-reckovice-rencova/198214476",
-    "id": "198214476"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 80 m²",
-    "Address": "Pekařská, Brno - Staré Brno",
-    "Price": "25 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-stare-brno-pekarska/1297122124",
-    "id": "1297122124"
-  },
-  {
-    "header": "Pronájem bytu 2+1 73 m²",
-    "Address": "Jugoslávská, Brno - Černá Pole",
-    "Price": "24 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-cerna-pole-jugoslavska/2922611532",
-    "id": "2922611532"
   }
 ]
