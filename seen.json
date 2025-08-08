@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 117 m²",
+    "Address": "Jeřábkova, Brno - Černá Pole",
+    "Price": "32 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-cerna-pole-jerabkova/1413776204",
+    "id": "1413776204"
+  },
+  {
     "header": "Pronájem bytu 3+1 150 m²",
     "Address": "Mučednická, Brno - Žabovřesky",
     "Price": "29 000 Kč/měsíc",
@@ -138,12 +145,5 @@
     "Price": "20 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-jundrov-sosnova/3019211596",
     "id": "3019211596"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 75 m²",
-    "Address": "Komárovská, Brno - Komárov",
-    "Price": "49 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-komarov-komarovska/3643315020",
-    "id": "3643315020"
   }
 ]
