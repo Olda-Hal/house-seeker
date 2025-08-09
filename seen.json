@@ -1,5 +1,19 @@
 [
   {
+    "header": "Pronájem bytu 3+1 74 m²",
+    "Address": "Vídeňská, Brno - Štýřice",
+    "Price": "23 500 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-styrice-videnska/568099660",
+    "id": "568099660"
+  },
+  {
+    "header": "SLEVA: Pronájem bytu 3+1 75 m²",
+    "Address": "Brno - Brno-Maloměřice a Obřany",
+    "Price": "30 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-brno-malomerice-a-obrany-/1609794380",
+    "id": "1609794380"
+  },
+  {
     "header": "Pronájem bytu 2+1 57 m²",
     "Address": "Ulička, Brno - Kohoutovice",
     "Price": "15 000 Kč/měsíc",
@@ -131,19 +145,5 @@
     "Price": "22 100 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-zabrdovice-koliste/1671791436",
     "id": "1671791436"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 141 m²",
-    "Address": "Bratislavská, Brno - Zábrdovice",
-    "Price": "24 999 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zabrdovice-bratislavska/3302663500",
-    "id": "3302663500"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 162 m²",
-    "Address": "Bratislavská, Brno - Zábrdovice",
-    "Price": "39 312 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zabrdovice-bratislavska/2630526284",
-    "id": "2630526284"
   }
 ]
