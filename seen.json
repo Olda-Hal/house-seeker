@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 2+1 57 m²",
+    "Address": "Ulička, Brno - Kohoutovice",
+    "Price": "15 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-kohoutovice-ulicka/729580364",
+    "id": "729580364"
+  },
+  {
     "header": "Pronájem bytu 2+1 73 m²",
     "Address": "K Bukovinám, Brno - Kníničky",
     "Price": "20 000 Kč/měsíc",
@@ -138,12 +145,5 @@
     "Price": "39 312 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zabrdovice-bratislavska/2630526284",
     "id": "2630526284"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 117 m²",
-    "Address": "Majdalenky, Brno - Lesná",
-    "Price": "35 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-lesna-majdalenky/918913868",
-    "id": "918913868"
   }
 ]
