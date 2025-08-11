@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 2+1 12 m²",
+    "Address": "Tkalcovská, Brno - Zábrdovice",
+    "Price": "8 500 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-zabrdovice-tkalcovska/3575378764",
+    "id": "3575378764"
+  },
+  {
     "header": "Pronájem bytu 2+1 50 m²",
     "Address": "Bratislavská, Brno - Zábrdovice",
     "Price": "19 000 Kč/měsíc",
@@ -138,12 +145,5 @@
     "Price": "20 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-stary-liskovec-dunajska/4074013516",
     "id": "4074013516"
-  },
-  {
-    "header": "Pronájem bytu 2+1 42 m²",
-    "Address": "Březová, Brno - Jundrov",
-    "Price": "16 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-jundrov-brezova/3723789132",
-    "id": "3723789132"
   }
 ]
