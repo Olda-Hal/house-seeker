@@ -7,48 +7,6 @@
     "id": "4074013516"
   },
   {
-    "header": "Pronájem bytu 2+1 43 m²",
-    "Address": "Hybešova, Brno - Staré Brno",
-    "Price": "23 900 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-stare-brno-hybesova/601457484",
-    "id": "601457484"
-  },
-  {
-    "header": "Pronájem bytu 2+1 38 m²",
-    "Address": "Václavská, Brno - Staré Brno",
-    "Price": "20 900 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-stare-brno-vaclavska/3174867788",
-    "id": "3174867788"
-  },
-  {
-    "header": "Pronájem bytu 3+1 49 m²",
-    "Address": "Hybešova, Brno - Staré Brno",
-    "Price": "28 900 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-stare-brno-hybesova/1356432204",
-    "id": "1356432204"
-  },
-  {
-    "header": "Pronájem bytu 2+1 33 m²",
-    "Address": "Václavská, Brno - Staré Brno",
-    "Price": "23 900 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-stare-brno-vaclavska/773034828",
-    "id": "773034828"
-  },
-  {
-    "header": "Pronájem bytu 2+1 36 m²",
-    "Address": "Hybešova, Brno - Staré Brno",
-    "Price": "23 900 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-stare-brno-hybesova/2584519500",
-    "id": "2584519500"
-  },
-  {
-    "header": "Pronájem bytu 2+1 33 m²",
-    "Address": "Hybešova, Brno - Staré Brno",
-    "Price": "23 900 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-stare-brno-hybesova/2453447500",
-    "id": "2453447500"
-  },
-  {
     "header": "Pronájem bytu 2+1 42 m²",
     "Address": "Březová, Brno - Jundrov",
     "Price": "16 000 Kč/měsíc",
@@ -145,5 +103,47 @@
     "Price": "30 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-brno-malomerice-a-obrany-/1609794380",
     "id": "1609794380"
+  },
+  {
+    "header": "Pronájem bytu 2+1 73 m²",
+    "Address": "K Bukovinám, Brno - Kníničky",
+    "Price": "20 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-kninicky-k-bukovinam/2940502860",
+    "id": "2940502860"
+  },
+  {
+    "header": "Pronájem bytu 3+1 150 m²",
+    "Address": "Mučednická, Brno - Žabovřesky",
+    "Price": "29 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-zabovresky-mucednicka/315507276",
+    "id": "315507276"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 93 m²",
+    "Address": "Poříčí, Brno - Pisárky",
+    "Price": "38 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-pisarky-porici/2308277068",
+    "id": "2308277068"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 80 m²",
+    "Address": "Masarykova, Brno - Brno-město",
+    "Price": "30 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-brno-mesto-masarykova/3129516876",
+    "id": "3129516876"
+  },
+  {
+    "header": "Pronájem bytu 2+1 59 m²",
+    "Address": "Brno - Řečkovice",
+    "Price": "17 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-reckovice-/3767894860",
+    "id": "3767894860"
+  },
+  {
+    "header": "Pronájem bytu 2+1 41 m²",
+    "Address": "Jana Uhra, Brno - Veveří",
+    "Price": "14 900 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-veveri-jana-uhra/193299276",
+    "id": "193299276"
   }
 ]
