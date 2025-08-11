@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 2+1 42 m²",
+    "Address": "Březová, Brno - Jundrov",
+    "Price": "16 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-jundrov-brezova/3723789132",
+    "id": "3723789132"
+  },
+  {
     "header": "Pronájem bytu 2+1 75 m²",
     "Address": "Pekařská, Brno - Staré Brno",
     "Price": "22 900 Kč/měsíc",
@@ -138,12 +145,5 @@
     "Price": "20 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-bystrc-nad-dedinou/1403290444",
     "id": "1403290444"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 97 m²",
-    "Address": "Kopečná, Brno - Staré Brno",
-    "Price": "30 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-stare-brno-kopecna/279216972",
-    "id": "279216972"
   }
 ]
