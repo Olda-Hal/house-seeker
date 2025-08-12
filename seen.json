@@ -14,13 +14,6 @@
     "id": "1730442828"
   },
   {
-    "header": "Pronájem bytu 2+1 70 m²",
-    "Address": "Palackého třída, Brno - Královo Pole",
-    "Price": "19 900 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-kralovo-pole-palackeho-trida/777712460",
-    "id": "777712460"
-  },
-  {
     "header": "Pronájem bytu 3+1 120 m²",
     "Address": "Skřivanova, Brno - Ponava",
     "Price": "30 000 Kč/měsíc",
@@ -145,5 +138,12 @@
     "Price": "33 500 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-cernovice-charbulova/280331084",
     "id": "280331084"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 80 m²",
+    "Address": "Dohnalova, Brno - Soběšice",
+    "Price": "38 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-sobesice-dohnalova/1099690828",
+    "id": "1099690828"
   }
 ]
