@@ -1,5 +1,19 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 68 m²",
+    "Address": "Stojanova, Brno - Veveří",
+    "Price": "27 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-veveri-stojanova/2923098956",
+    "id": "2923098956"
+  },
+  {
+    "header": "Pronájem bytu 2+1 50 m²",
+    "Address": "Bratislavská, Brno - Zábrdovice",
+    "Price": "19 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-zabrdovice-bratislavska/1730442828",
+    "id": "1730442828"
+  },
+  {
     "header": "Pronájem bytu 2+1 70 m²",
     "Address": "Palackého třída, Brno - Královo Pole",
     "Price": "19 900 Kč/měsíc",
@@ -131,19 +145,5 @@
     "Price": "33 500 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-cernovice-charbulova/280331084",
     "id": "280331084"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 80 m²",
-    "Address": "Dohnalova, Brno - Soběšice",
-    "Price": "38 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-sobesice-dohnalova/1099690828",
-    "id": "1099690828"
-  },
-  {
-    "header": "Pronájem bytu 2+1 42 m²",
-    "Address": "Kudrnova, Brno - Brno-Tuřany",
-    "Price": "19 500 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-brno-turany-kudrnova/2757923660",
-    "id": "2757923660"
   }
 ]
