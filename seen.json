@@ -1,5 +1,19 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 69 m²",
+    "Address": "Langrova, Brno - Slatina",
+    "Price": "24 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-slatina-langrova/3145397068",
+    "id": "3145397068"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 63 m²",
+    "Address": "Křehlíkova, Brno - Slatina",
+    "Price": "20 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-slatina-krehlikova/276493132",
+    "id": "276493132"
+  },
+  {
     "header": "Pronájem bytu 3+1 74 m²",
     "Address": "Vídeňská, Brno - Štýřice",
     "Price": "23 500 Kč/měsíc",
@@ -131,19 +145,5 @@
     "Price": "33 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-brno-traubova/4242273100",
     "id": "4242273100"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 78 m²",
-    "Address": "Körnerova, Brno - Zábrdovice",
-    "Price": "19 900 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zabrdovice-kornerova/2764829516",
-    "id": "2764829516"
-  },
-  {
-    "header": "Pronájem bytu 2+1 42 m²",
-    "Address": "Březová, Brno - Jundrov",
-    "Price": "16 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-jundrov-brezova/3723789132",
-    "id": "3723789132"
   }
 ]
