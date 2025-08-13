@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 2+1 47 m²",
+    "Address": "U Památníku, Brno - Kníničky",
+    "Price": "21 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-kninicky-u-pamatniku/1728705356",
+    "id": "1728705356"
+  },
+  {
     "header": "Pronájem bytu 2+1 50 m²",
     "Address": "Bratislavská, Brno - Zábrdovice",
     "Price": "19 000 Kč/měsíc",
@@ -138,12 +145,5 @@
     "Price": "24 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-cerna-pole-jugoslavska/2922611532",
     "id": "2922611532"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 69 m²",
-    "Address": "Sibiřská, Brno - Řečkovice",
-    "Price": "26 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-reckovice-sibirska/918393676",
-    "id": "918393676"
   }
 ]
