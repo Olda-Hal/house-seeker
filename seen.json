@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+1 72 m²",
+    "Address": "Brno - Lesná",
+    "Price": "26 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-lesna-/1590293324",
+    "id": "1590293324"
+  },
+  {
     "header": "Pronájem bytu 3+kk 122 m²",
     "Address": "Merhautova, Brno - Černá Pole",
     "Price": "29 990 Kč/měsíc",
@@ -58,7 +65,7 @@
   {
     "header": "Pronájem bytu 2+1 55 m²",
     "Address": "Meluzínova, Brno - Židenice",
-    "Price": "Cena na vyžádání",
+    "Price": "20 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-zidenice-meluzinova/2019160908",
     "id": "2019160908"
   },
@@ -138,12 +145,5 @@
     "Price": "22 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-veveri-bayerova/1822786380",
     "id": "1822786380"
-  },
-  {
-    "header": "Pronájem bytu 3+1 69 m²",
-    "Address": "Mikuláškovo náměstí, Brno - Starý Lískovec",
-    "Price": "23 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-stary-liskovec-mikulaskovo-namesti/1183511372",
-    "id": "1183511372"
   }
 ]
