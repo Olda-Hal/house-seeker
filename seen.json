@@ -1,5 +1,19 @@
 [
   {
+    "header": "Pronájem bytu 2+1 42 m²",
+    "Address": "Březová, Brno - Jundrov",
+    "Price": "16 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-jundrov-brezova/3723789132",
+    "id": "3723789132"
+  },
+  {
+    "header": "Pronájem bytu 2+1 79 m²",
+    "Address": "Olomoucká, Brno",
+    "Price": "18 161 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-brno-olomoucka/3739808588",
+    "id": "3739808588"
+  },
+  {
     "header": "Pronájem bytu 2+1 62 m²",
     "Address": "Záhřebská, Brno - Žabovřesky",
     "Price": "16 000 Kč/měsíc",
@@ -131,19 +145,5 @@
     "Price": "18 900 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-stare-brno-vaclavska/163611468",
     "id": "163611468"
-  },
-  {
-    "header": "Pronájem bytu 3+1 95 m²",
-    "Address": "Václavská, Brno - Staré Brno",
-    "Price": "30 900 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-stare-brno-vaclavska/4081693516",
-    "id": "4081693516"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 88 m²",
-    "Address": "Střední, Brno - Ponava",
-    "Price": "35 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-ponava-stredni/2206856012",
-    "id": "2206856012"
   }
 ]
