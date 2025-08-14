@@ -1,5 +1,19 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 65 m²",
+    "Address": "Stavební, Brno - Trnitá",
+    "Price": "21 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-trnita-stavebni/1936257868",
+    "id": "1936257868"
+  },
+  {
+    "header": "Pronájem bytu 2+1 50 m²",
+    "Address": "Bratislavská, Brno - Zábrdovice",
+    "Price": "19 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-zabrdovice-bratislavska/1730442828",
+    "id": "1730442828"
+  },
+  {
     "header": "Pronájem bytu 2+1 56 m²",
     "Address": "Václavská, Brno - Staré Brno",
     "Price": "25 900 Kč/měsíc",
@@ -131,19 +145,5 @@
     "Price": "23 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-kohoutovice-zebetinska/3127804748",
     "id": "3127804748"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 85 m²",
-    "Address": "Bezručova, Brno - Staré Brno",
-    "Price": "23 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-stare-brno-bezrucova/2948305740",
-    "id": "2948305740"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 96 m²",
-    "Address": "Příkop, Brno - Zábrdovice",
-    "Price": "30 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zabrdovice-prikop/2749731660",
-    "id": "2749731660"
   }
 ]
