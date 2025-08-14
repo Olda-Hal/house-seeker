@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 82 m²",
+    "Address": "Špitálka, Brno - Zábrdovice",
+    "Price": "22 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zabrdovice-spitalka/3598250828",
+    "id": "3598250828"
+  },
+  {
     "header": "Pronájem bytu 3+kk 65 m²",
     "Address": "Stavební, Brno - Trnitá",
     "Price": "21 000 Kč/měsíc",
@@ -61,13 +68,6 @@
     "Price": "30 900 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-stare-brno-vaclavska/4081693516",
     "id": "4081693516"
-  },
-  {
-    "header": "Pronájem bytu 2+1 57 m²",
-    "Address": "Brno - Jundrov",
-    "Price": "15 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-jundrov-/93975372",
-    "id": "93975372"
   },
   {
     "header": "Pronájem bytu 3+kk 88 m²",
