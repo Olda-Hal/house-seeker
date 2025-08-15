@@ -1,5 +1,19 @@
 [
   {
+    "header": "Pronájem bytu 3+1 75 m²",
+    "Address": "Grohova, Brno - Veveří",
+    "Price": "25 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-veveri-grohova/3317597004",
+    "id": "3317597004"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 80 m²",
+    "Address": "Jakubské náměstí, Brno - Brno-město",
+    "Price": "28 500 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-brno-mesto-jakubske-namesti/1285653324",
+    "id": "1285653324"
+  },
+  {
     "header": "Pronájem bytu 3+kk 68 m²",
     "Address": "Stojanova, Brno - Veveří",
     "Price": "27 000 Kč/měsíc",
@@ -124,19 +138,5 @@
     "Price": "30 900 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-stare-brno-kopecna/768193356",
     "id": "768193356"
-  },
-  {
-    "header": "Pronájem bytu 3+1 85 m²",
-    "Address": "Poříčí, Brno - Staré Brno",
-    "Price": "23 990 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-stare-brno-porici/3414881100",
-    "id": "3414881100"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 61 m²",
-    "Address": "Purkyňova, Brno - Královo Pole",
-    "Price": "19 500 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-kralovo-pole-purkynova/2210984780",
-    "id": "2210984780"
   }
 ]
