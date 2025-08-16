@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 80 m²",
+    "Address": "Merhautova, Brno",
+    "Price": "19 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-brno-merhautova/535819084",
+    "id": "535819084"
+  },
+  {
     "header": "Pronájem bytu 2+1 42 m²",
     "Address": "Václavská, Brno - Staré Brno",
     "Price": "18 800 Kč/měsíc",
@@ -131,12 +138,5 @@
     "Price": "21 900 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-lisen-houbalova/2627269452",
     "id": "2627269452"
-  },
-  {
-    "header": "Pronájem bytu 2+1 55 m²",
-    "Address": "Lísky, Brno - Komín",
-    "Price": "13 500 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-komin-lisky/4018729804",
-    "id": "4018729804"
   }
 ]
