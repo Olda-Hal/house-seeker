@@ -1,5 +1,19 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 73 m²",
+    "Address": "Jugoslávská, Brno",
+    "Price": "23 500 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-brno-jugoslavska/1322906444",
+    "id": "1322906444"
+  },
+  {
+    "header": "Pronájem bytu 3+1 60 m²",
+    "Address": "Osová, Brno - Starý Lískovec",
+    "Price": "25 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-stary-liskovec-osova/3201299276",
+    "id": "3201299276"
+  },
+  {
     "header": "Pronájem bytu 3+1 85 m²",
     "Address": "Poříčí, Brno - Staré Brno",
     "Price": "23 990 Kč/měsíc",
@@ -124,19 +138,5 @@
     "Price": "25 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-veveri-grohova/3317597004",
     "id": "3317597004"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 80 m²",
-    "Address": "Jakubské náměstí, Brno - Brno-město",
-    "Price": "28 500 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-brno-mesto-jakubske-namesti/1285653324",
-    "id": "1285653324"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 68 m²",
-    "Address": "Stojanova, Brno - Veveří",
-    "Price": "27 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-veveri-stojanova/2923098956",
-    "id": "2923098956"
   }
 ]
