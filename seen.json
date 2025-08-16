@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 2+1 57 m²",
+    "Address": "Kotěrova, Brno - Černá Pole",
+    "Price": "21 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-cerna-pole-koterova/2315252556",
+    "id": "2315252556"
+  },
+  {
     "header": "Pronájem bytu 2+1 50 m²",
     "Address": "Bratislavská, Brno - Zábrdovice",
     "Price": "19 000 Kč/měsíc",
@@ -131,12 +138,5 @@
     "Price": "25 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-veveri-capkova/2535191372",
     "id": "2535191372"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 110 m²",
-    "Address": "Tábor, Brno - Žabovřesky",
-    "Price": "32 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zabovresky-tabor/3547329356",
-    "id": "3547329356"
   }
 ]
