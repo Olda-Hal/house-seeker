@@ -1,6 +1,13 @@
 [
   {
     "header": "Pronájem bytu 2+1 50 m²",
+    "Address": "Bratislavská, Brno - Zábrdovice",
+    "Price": "19 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-zabrdovice-bratislavska/1730442828",
+    "id": "1730442828"
+  },
+  {
+    "header": "Pronájem bytu 2+1 50 m²",
     "Address": "Václavská, Brno - Staré Brno",
     "Price": "21 900 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-stare-brno-vaclavska/1024238412",
@@ -124,13 +131,6 @@
     "Price": "21 500 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-cerna-pole-koterova/2315252556",
     "id": "2315252556"
-  },
-  {
-    "header": "Pronájem bytu 2+1 50 m²",
-    "Address": "Bratislavská, Brno - Zábrdovice",
-    "Price": "19 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-zabrdovice-bratislavska/1730442828",
-    "id": "1730442828"
   },
   {
     "header": "Pronájem bytu 3+kk 80 m²",
