@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 2+1 61 m²",
+    "Address": "Bučovická, Brno - Slatina",
+    "Price": "16 500 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-slatina-bucovicka/618197836",
+    "id": "618197836"
+  },
+  {
     "header": "Pronájem bytu 2+1 57 m²",
     "Address": "Dvorského, Brno - Štýřice",
     "Price": "20 000 Kč/měsíc",
@@ -131,12 +138,5 @@
     "Price": "23 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-stare-brno-bezrucova/2948305740",
     "id": "2948305740"
-  },
-  {
-    "header": "Pronájem bytu 3+1 72 m²",
-    "Address": "Jaselská, Brno - Veveří",
-    "Price": "25 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-veveri-jaselska/1104147276",
-    "id": "1104147276"
   }
 ]
