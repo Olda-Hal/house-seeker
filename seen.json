@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 2+1 40 m²",
+    "Address": "Dvorského, Brno - Štýřice",
+    "Price": "17 500 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-styrice-dvorskeho/3974099788",
+    "id": "3974099788"
+  },
+  {
     "header": "Pronájem bytu 3+kk 73 m²",
     "Address": "Jugoslávská, Brno",
     "Price": "23 500 Kč/měsíc",
@@ -131,12 +138,5 @@
     "Price": "39 500 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zidenice-hroznatova/569590348",
     "id": "569590348"
-  },
-  {
-    "header": "Pronájem bytu 3+1 75 m²",
-    "Address": "Grohova, Brno - Veveří",
-    "Price": "25 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-veveri-grohova/3317597004",
-    "id": "3317597004"
   }
 ]
