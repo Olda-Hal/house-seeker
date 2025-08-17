@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 57 m²",
+    "Address": "Stavební, Brno - Trnitá",
+    "Price": "21 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-trnita-stavebni/2257187660",
+    "id": "2257187660"
+  },
+  {
     "header": "Pronájem bytu 2+1 40 m²",
     "Address": "Dvorského, Brno - Štýřice",
     "Price": "17 500 Kč/měsíc",
@@ -131,12 +138,5 @@
     "Price": "22 500 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-cerna-pole-tesnohlidkova/3121607500",
     "id": "3121607500"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 194 m²",
-    "Address": "Hrozňatova, Brno - Židenice",
-    "Price": "39 500 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zidenice-hroznatova/569590348",
-    "id": "569590348"
   }
 ]
