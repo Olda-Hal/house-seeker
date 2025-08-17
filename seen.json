@@ -1,6 +1,13 @@
 [
   {
     "header": "Pronájem bytu 3+kk 80 m²",
+    "Address": "Jezerůvky, Brno - Ivanovice",
+    "Price": "26 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-ivanovice-jezeruvky/2154754892",
+    "id": "2154754892"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 80 m²",
     "Address": "Křenová, Brno - Trnitá",
     "Price": "24 900 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-trnita-krenova/4104123212",
@@ -131,12 +138,5 @@
     "Price": "20 900 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-stare-brno-vaclavska/2424042316",
     "id": "2424042316"
-  },
-  {
-    "header": "Pronájem bytu 2+1 33 m²",
-    "Address": "Václavská, Brno - Staré Brno",
-    "Price": "23 900 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-stare-brno-vaclavska/773034828",
-    "id": "773034828"
   }
 ]
