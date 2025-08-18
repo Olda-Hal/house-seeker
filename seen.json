@@ -1,5 +1,19 @@
 [
   {
+    "header": "SLEVA: Pronájem bytu 3+kk 73 m²",
+    "Address": "Bednaříkova, Brno - Líšeň",
+    "Price": "22 500 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-lisen-bednarikova/3847652172",
+    "id": "3847652172"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 67 m²",
+    "Address": "Metodějova, Brno - Královo Pole",
+    "Price": "27 500 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-kralovo-pole-metodejova/4023751500",
+    "id": "4023751500"
+  },
+  {
     "header": "Pronájem bytu 3+1 67 m²",
     "Address": "Vltavská, Brno - Starý Lískovec",
     "Price": "23 490 Kč/měsíc",
@@ -124,19 +138,5 @@
     "Price": "21 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-kralovo-pole-mojmirovo-namesti/1234170700",
     "id": "1234170700"
-  },
-  {
-    "header": "Pronájem bytu 3+1 71 m²",
-    "Address": "Žebětínská, Brno - Kohoutovice",
-    "Price": "23 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-kohoutovice-zebetinska/3127804748",
-    "id": "3127804748"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 96 m²",
-    "Address": "Příkop, Brno - Zábrdovice",
-    "Price": "28 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zabrdovice-prikop/2749731660",
-    "id": "2749731660"
   }
 ]
