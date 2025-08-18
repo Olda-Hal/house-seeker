@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 2+1 50 m²",
+    "Address": "Hutařova, Brno - Královo Pole",
+    "Price": "15 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-kralovo-pole-hutarova/2135814988",
+    "id": "2135814988"
+  },
+  {
     "header": "Pronájem bytu 2+1 70 m²",
     "Address": "Hansmannova, Brno - Černá Pole",
     "Price": "18 900 Kč/měsíc",
@@ -12,13 +19,6 @@
     "Price": "32 500 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-brno-mesto-peroutkova/4020536140",
     "id": "4020536140"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 110 m²",
-    "Address": "Tábor, Brno - Žabovřesky",
-    "Price": "32 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zabovresky-tabor/3547329356",
-    "id": "3547329356"
   },
   {
     "header": "Pronájem bytu 3+kk 57 m²",
