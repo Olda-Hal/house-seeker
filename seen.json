@@ -1,5 +1,19 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 57 m²",
+    "Address": "Stavební, Brno - Trnitá",
+    "Price": "21 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-trnita-stavebni/2257187660",
+    "id": "2257187660"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 85 m²",
+    "Address": "Bystrcká, Brno - Komín",
+    "Price": "31 900 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-komin-bystrcka/1651372876",
+    "id": "1651372876"
+  },
+  {
     "header": "Pronájem bytu 3+kk 70 m²",
     "Address": "Řípská, Brno - Slatina",
     "Price": "25 900 Kč/měsíc",
@@ -105,13 +119,6 @@
     "id": "280331084"
   },
   {
-    "header": "Moderní bydlení na míru!",
-    "Address": "Plně vybavené a dostupné bydlení na Praze 5 od 9.000 Kč/měsíc",
-    "Price": "CAMPUS VŠEM",
-    "link": "https://a.seznam.cz/v2/click?spotId=3989737&d=4UUQUEKZSIMJGWZHSV4Q7D4ZHHJ529YSHD6UIRGNERZ98C4IUUHVWEUWK583CNEY8P77PEUBXWJ99J5C7RMRZ4NYMS325FG9GXNWK5M9PQXY7EU6AA4ECSFQ82BIDI58RS6VGAVC4GHD86Y3YPZWEM953FZDFRAIAGJT3QK69I4KFIEC2BTRZJMAZY6FWK9BFRUTXZRW322NKUDXJ7W2UCV7FCQRBFJASHE9BXV432WI4HN84RJ8B5F7RKJBDR3A3G6XYDZGU8BVNJ98RBD8448HI929U8HSIDSW5ZC293K3ZUEI3HZZ7T2IVYMJQRDMQ3F9JIEHWAC3SVUYZ2CXM9VF4UMTWZ6RX8VNY4KD8GP4G&destination=https%3A//www.campusvsem.cz%3Futm_source%3Dseznam%26utm_medium%3Dnativni_inzerat%26utm_campaign%3Dcampus25%26utm_id%3Dvsem%26utm_content%3DNI_sreality_standard",
-    "id": "www.campusvsem.cz%3Futm_source%3Dseznam%26utm_medium%3Dnativni_inzerat%26utm_campaign%3Dcampus25%26utm_id%3Dvsem%26utm_content%3DNI_sreality_standard"
-  },
-  {
     "header": "Pronájem bytu 3+kk 75 m²",
     "Address": "Komárovská, Brno - Komárov",
     "Price": "49 000 Kč/měsíc",
@@ -131,19 +138,5 @@
     "Price": "29 700 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-brno-mesto-starobrnenska/1031832396",
     "id": "1031832396"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 72 m²",
-    "Address": "Merhautova, Brno - Zábrdovice",
-    "Price": "24 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zabrdovice-merhautova/2982253388",
-    "id": "2982253388"
-  },
-  {
-    "header": "Pronájem bytu 3+1 75 m²",
-    "Address": "Brno - Brno-Maloměřice a Obřany",
-    "Price": "30 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-brno-malomerice-a-obrany-/1609794380",
-    "id": "1609794380"
   }
 ]
