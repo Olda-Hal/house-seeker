@@ -1,5 +1,19 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 79 m²",
+    "Address": "Hvozdecká, Brno - Bystrc",
+    "Price": "22 900 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-bystrc-hvozdecka/4074697548",
+    "id": "4074697548"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 103 m²",
+    "Address": "Štolcova, Brno - Černovice",
+    "Price": "35 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-cernovice-stolcova/1238299468",
+    "id": "1238299468"
+  },
+  {
     "header": "Pronájem bytu 2+1 42 m²",
     "Address": "Kudrnova, Brno - Brno-Tuřany",
     "Price": "19 500 Kč/měsíc",
@@ -47,13 +61,6 @@
     "Price": "33 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-cernovice-charbulova/280331084",
     "id": "280331084"
-  },
-  {
-    "header": "Moderní bydlení na míru!",
-    "Address": "Plně vybavené a dostupné bydlení na Praze 5 od 9.000 Kč/měsíc",
-    "Price": "CAMPUS VŠEM",
-    "link": "https://a.seznam.cz/v2/click?spotId=3989737&d=VA2R3U4275VZJG8BEN7MYHR2EE448KSPT5FETRYFNBZIR59GFYKQ2C7ADQ8ZITIPDWSJQB3BUKTJURW47BUTYWW8MZ9SFNBF2INGDJGUABDS23UX66DZHXJJA6SBP6Y6IG6XZQTBDZSKAZFWGAK5XB6FQQ24UV6F5EZDQSFFR2KAHVYTNTCI85M3YHNKCSQEC2WZZYYBFZWVDWGHN4SG5UNECDXPVM5CIXN5MNWU59QQR3ENQPM3Q49UUC5JWQJPZCDZIK99UEHYW3MUMYPMWA5UE2I5ZKKV8MVI5ZS5YIQGWZGGFT8A2WZQQD3ZC73VTEGCZ2QUPDWR25H6ZYVYKMF6C3G86NH8BM98V3DVFNH4D5A&destination=https%3A//www.campusvsem.cz%3Futm_source%3Dseznam%26utm_medium%3Dnativni_inzerat%26utm_campaign%3Dcampus25%26utm_id%3Dvsem%26utm_content%3DNI_sreality_standard",
-    "id": "www.campusvsem.cz%3Futm_source%3Dseznam%26utm_medium%3Dnativni_inzerat%26utm_campaign%3Dcampus25%26utm_id%3Dvsem%26utm_content%3DNI_sreality_standard"
   },
   {
     "header": "Pronájem bytu 3+kk 75 m²",
@@ -131,19 +138,5 @@
     "Price": "27 500 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-kralovo-pole-metodejova/4023751500",
     "id": "4023751500"
-  },
-  {
-    "header": "Pronájem bytu 3+1 67 m²",
-    "Address": "Vltavská, Brno - Starý Lískovec",
-    "Price": "23 490 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-stary-liskovec-vltavska/2989421388",
-    "id": "2989421388"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 73 m²",
-    "Address": "Jugoslávská, Brno",
-    "Price": "23 500 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-brno-jugoslavska/1322906444",
-    "id": "1322906444"
   }
 ]
