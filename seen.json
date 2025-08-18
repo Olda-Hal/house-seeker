@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 2+1 42 m²",
+    "Address": "Kudrnova, Brno - Brno-Tuřany",
+    "Price": "19 500 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-brno-turany-kudrnova/2757923660",
+    "id": "2757923660"
+  },
+  {
     "header": "Pronájem bytu 3+kk 141 m²",
     "Address": "Bratislavská, Brno - Zábrdovice",
     "Price": "24 999 Kč/měsíc",
@@ -40,6 +47,13 @@
     "Price": "33 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-cernovice-charbulova/280331084",
     "id": "280331084"
+  },
+  {
+    "header": "Moderní bydlení na míru!",
+    "Address": "Plně vybavené a dostupné bydlení na Praze 5 od 9.000 Kč/měsíc",
+    "Price": "CAMPUS VŠEM",
+    "link": "https://a.seznam.cz/v2/click?spotId=3989737&d=VA2R3U4275VZJG8BEN7MYHR2EE448KSPT5FETRYFNBZIR59GFYKQ2C7ADQ8ZITIPDWSJQB3BUKTJURW47BUTYWW8MZ9SFNBF2INGDJGUABDS23UX66DZHXJJA6SBP6Y6IG6XZQTBDZSKAZFWGAK5XB6FQQ24UV6F5EZDQSFFR2KAHVYTNTCI85M3YHNKCSQEC2WZZYYBFZWVDWGHN4SG5UNECDXPVM5CIXN5MNWU59QQR3ENQPM3Q49UUC5JWQJPZCDZIK99UEHYW3MUMYPMWA5UE2I5ZKKV8MVI5ZS5YIQGWZGGFT8A2WZQQD3ZC73VTEGCZ2QUPDWR25H6ZYVYKMF6C3G86NH8BM98V3DVFNH4D5A&destination=https%3A//www.campusvsem.cz%3Futm_source%3Dseznam%26utm_medium%3Dnativni_inzerat%26utm_campaign%3Dcampus25%26utm_id%3Dvsem%26utm_content%3DNI_sreality_standard",
+    "id": "www.campusvsem.cz%3Futm_source%3Dseznam%26utm_medium%3Dnativni_inzerat%26utm_campaign%3Dcampus25%26utm_id%3Dvsem%26utm_content%3DNI_sreality_standard"
   },
   {
     "header": "Pronájem bytu 3+kk 75 m²",
@@ -131,12 +145,5 @@
     "Price": "23 500 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-brno-jugoslavska/1322906444",
     "id": "1322906444"
-  },
-  {
-    "header": "Pronájem bytu 2+1 50 m²",
-    "Address": "Bratislavská, Brno - Zábrdovice",
-    "Price": "19 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-zabrdovice-bratislavska/1730442828",
-    "id": "1730442828"
   }
 ]
