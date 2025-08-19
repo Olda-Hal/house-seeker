@@ -1,5 +1,19 @@
 [
   {
+    "header": "Pronájem bytu 2+1 47 m²",
+    "Address": "Černopolní, Brno - Brno-sever",
+    "Price": "15 900 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-brno-sever-cernopolni/134083404",
+    "id": "134083404"
+  },
+  {
+    "header": "Pronájem bytu 2+1 69 m²",
+    "Address": "Palackého třída, Brno - Královo Pole",
+    "Price": "15 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-kralovo-pole-palackeho-trida/2516448076",
+    "id": "2516448076"
+  },
+  {
     "header": "Pronájem bytu 2+1 51 m²",
     "Address": "Anenská, Brno - Staré Brno",
     "Price": "18 500 Kč/měsíc",
@@ -124,19 +138,5 @@
     "Price": "23 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-kohoutovice-zebetinska/3127804748",
     "id": "3127804748"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 96 m²",
-    "Address": "Příkop, Brno - Zábrdovice",
-    "Price": "28 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zabrdovice-prikop/2749731660",
-    "id": "2749731660"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 103 m²",
-    "Address": "Štolcova, Brno - Černovice",
-    "Price": "35 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-cernovice-stolcova/1238299468",
-    "id": "1238299468"
   }
 ]
