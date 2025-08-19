@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 82 m²",
+    "Address": "Brno - Soběšice",
+    "Price": "38 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-sobesice-/2324923212",
+    "id": "2324923212"
+  },
+  {
     "header": "Pronájem bytu 2+1 50 m²",
     "Address": "Hutařova, Brno - Královo Pole",
     "Price": "15 000 Kč/měsíc",
@@ -131,12 +138,5 @@
     "Price": "33 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-stare-brno-hlinky/4256994124",
     "id": "4256994124"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 84 m²",
-    "Address": "K Babě, Brno - Medlánky",
-    "Price": "23 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-medlanky-k-babe/2440926028",
-    "id": "2440926028"
   }
 ]
