@@ -21,6 +21,13 @@
     "id": "4020536140"
   },
   {
+    "header": "Pronájem bytu 3+kk 110 m²",
+    "Address": "Tábor, Brno - Žabovřesky",
+    "Price": "32 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zabovresky-tabor/3547329356",
+    "id": "3547329356"
+  },
+  {
     "header": "Pronájem bytu 3+kk 57 m²",
     "Address": "Stavební, Brno - Trnitá",
     "Price": "21 000 Kč/měsíc",
@@ -131,12 +138,5 @@
     "Price": "23 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-medlanky-k-babe/2440926028",
     "id": "2440926028"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 93 m²",
-    "Address": "Charbulova, Brno - Černovice",
-    "Price": "33 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-cernovice-charbulova/280331084",
-    "id": "280331084"
   }
 ]
