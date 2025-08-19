@@ -119,13 +119,6 @@
     "id": "2516448076"
   },
   {
-    "header": "Pronájem bytu 2+1 51 m²",
-    "Address": "Anenská, Brno - Staré Brno",
-    "Price": "18 500 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-stare-brno-anenska/1863185228",
-    "id": "1863185228"
-  },
-  {
     "header": "Pronájem bytu 3+1 65 m²",
     "Address": "Žitná, Brno - Řečkovice",
     "Price": "25 000 Kč/měsíc",
@@ -138,5 +131,12 @@
     "Price": "22 900 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-bystrc-hvozdecka/4074697548",
     "id": "4074697548"
+  },
+  {
+    "header": "Pronájem bytu 3+1 67 m²",
+    "Address": "Vltavská, Brno - Starý Lískovec",
+    "Price": "24 990 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-stary-liskovec-vltavska/3393057612",
+    "id": "3393057612"
   }
 ]
