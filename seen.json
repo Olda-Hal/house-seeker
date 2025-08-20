@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 57 m²",
+    "Address": "Stavební, Brno - Trnitá",
+    "Price": "21 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-trnita-stavebni/2257187660",
+    "id": "2257187660"
+  },
+  {
     "header": "Pronájem bytu 3+1 94 m²",
     "Address": "Čápkova, Brno - Veveří",
     "Price": "25 000 Kč/měsíc",
@@ -16,7 +23,7 @@
   {
     "header": "Pronájem bytu 2+1 54 m²",
     "Address": "Souběžná, Brno - Židenice",
-    "Price": "18 990 Kč/měsíc",
+    "Price": "19 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-zidenice-soubezna/882701132",
     "id": "882701132"
   },
@@ -131,12 +138,5 @@
     "Price": "20 900 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-stare-brno-vaclavska/3174867788",
     "id": "3174867788"
-  },
-  {
-    "header": "Pronájem bytu 2+1 33 m²",
-    "Address": "Hybešova, Brno - Staré Brno",
-    "Price": "23 900 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-stare-brno-hybesova/2453447500",
-    "id": "2453447500"
   }
 ]
