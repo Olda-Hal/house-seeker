@@ -1,5 +1,19 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 73 m²",
+    "Address": "Říčanská, Brno - Bystrc",
+    "Price": "25 990 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-bystrc-ricanska/610923340",
+    "id": "610923340"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 80 m²",
+    "Address": "Jakubské náměstí, Brno - Brno-město",
+    "Price": "28 500 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-brno-mesto-jakubske-namesti/1285653324",
+    "id": "1285653324"
+  },
+  {
     "header": "Pronájem bytu 3+kk 117 m²",
     "Address": "Brno - Černá Pole",
     "Price": "32 000 Kč/měsíc",
@@ -40,13 +54,6 @@
     "Price": "19 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-lesna-fillova/544011084",
     "id": "544011084"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 73 m²",
-    "Address": "Říčanská, Brno - Bystrc",
-    "Price": "25 990 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-bystrc-ricanska/610923340",
-    "id": "610923340"
   },
   {
     "header": "Pronájem bytu 3+kk 122 m²",
@@ -131,12 +138,5 @@
     "Price": "20 900 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-stare-brno-vaclavska/3699110732",
     "id": "3699110732"
-  },
-  {
-    "header": "Pronájem bytu 2+1 60 m²",
-    "Address": "Václavská, Brno - Staré Brno",
-    "Price": "20 900 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-stare-brno-vaclavska/2424042316",
-    "id": "2424042316"
   }
 ]
