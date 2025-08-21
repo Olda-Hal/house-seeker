@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 68 m²",
+    "Address": "Provazníkova, Brno - Černá Pole",
+    "Price": "22 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-cerna-pole-provaznikova/2182345548",
+    "id": "2182345548"
+  },
+  {
     "header": "Pronájem bytu 2+1 74 m²",
     "Address": "Bratislavská, Brno - Zábrdovice",
     "Price": "17 400 Kč/měsíc",
@@ -12,6 +19,13 @@
     "Price": "25 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-stare-brno-pekarska/1297122124",
     "id": "1297122124"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 74 m²",
+    "Address": "Slepá, Brno",
+    "Price": "20 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-brno-slepa/1277424460",
+    "id": "1277424460"
   },
   {
     "header": "Pronájem bytu 2+1 57 m²",
@@ -124,19 +138,5 @@
     "Price": "28 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-kohoutovice-chopinova/3984454476",
     "id": "3984454476"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 82 m²",
-    "Address": "Dohnalova, Brno - Soběšice",
-    "Price": "38 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-sobesice-dohnalova/447542092",
-    "id": "447542092"
-  },
-  {
-    "header": "Pronájem bytu 2+1 70 m²",
-    "Address": "Čápkova, Brno - Veveří",
-    "Price": "17 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-veveri-capkova/1221391180",
-    "id": "1221391180"
   }
 ]
