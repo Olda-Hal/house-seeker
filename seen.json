@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 2+1 74 m²",
+    "Address": "Bratislavská, Brno - Zábrdovice",
+    "Price": "17 400 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-zabrdovice-bratislavska/3660837708",
+    "id": "3660837708"
+  },
+  {
     "header": "Pronájem bytu 3+kk 80 m²",
     "Address": "Pekařská, Brno - Staré Brno",
     "Price": "25 000 Kč/měsíc",
@@ -26,6 +33,13 @@
     "Price": "18 500 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-zidenice-bzenecka/3057906508",
     "id": "3057906508"
+  },
+  {
+    "header": "Pronájem bytu 2+1 79 m²",
+    "Address": "Bratislavská, Brno - Zábrdovice",
+    "Price": "18 500 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-zabrdovice-bratislavska/2318660428",
+    "id": "2318660428"
   },
   {
     "header": "Pronájem bytu 3+kk 64 m²",
@@ -124,19 +138,5 @@
     "Price": "17 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-veveri-capkova/1221391180",
     "id": "1221391180"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 69 m²",
-    "Address": "Dukelská třída, Brno - Husovice",
-    "Price": "23 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-husovice-dukelska-trida/2405339980",
-    "id": "2405339980"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 64 m²",
-    "Address": "Fryčajova, Brno - Obřany",
-    "Price": "21 800 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-obrany-frycajova/436249420",
-    "id": "436249420"
   }
 ]
