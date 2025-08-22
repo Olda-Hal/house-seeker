@@ -28,13 +28,6 @@
     "id": "1995240268"
   },
   {
-    "header": "Pronájem bytu 3+kk 92 m²",
-    "Address": "Kotlářská, Brno - Veveří",
-    "Price": "27 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-veveri-kotlarska/2299327308",
-    "id": "2299327308"
-  },
-  {
     "header": "Pronájem bytu 3+kk 96 m²",
     "Address": "Příkop, Brno - Zábrdovice",
     "Price": "28 000 Kč/měsíc",
@@ -138,5 +131,12 @@
     "Price": "49 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-komarov-komarovska/3643315020",
     "id": "3643315020"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 82 m²",
+    "Address": "Spolková, Brno - Zábrdovice",
+    "Price": "35 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zabrdovice-spolkova/3559297868",
+    "id": "3559297868"
   }
 ]
