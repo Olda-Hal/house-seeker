@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 97 m²",
+    "Address": "Jelínkova, Brno - Žabovřesky",
+    "Price": "32 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zabovresky-jelinkova/155382604",
+    "id": "155382604"
+  },
+  {
     "header": "Pronájem bytu 3+kk 75 m²",
     "Address": "Komárovská, Brno - Komárov",
     "Price": "49 000 Kč/měsíc",
@@ -131,12 +138,5 @@
     "Price": "28 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zabrdovice-prikop/2749731660",
     "id": "2749731660"
-  },
-  {
-    "header": "Pronájem bytu 2+1 58 m²",
-    "Address": "Galandauerova, Brno - Královo Pole",
-    "Price": "10 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-kralovo-pole-galandauerova/3636720460",
-    "id": "3636720460"
   }
 ]
