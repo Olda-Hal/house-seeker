@@ -1,5 +1,19 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 69 m²",
+    "Address": "Dukelská třída, Brno - Husovice",
+    "Price": "23 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-husovice-dukelska-trida/2405339980",
+    "id": "2405339980"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 99 m²",
+    "Address": "Řehořova, Brno - Černovice",
+    "Price": "35 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-cernovice-rehorova/771552076",
+    "id": "771552076"
+  },
+  {
     "header": "Pronájem bytu 3+kk 82 m²",
     "Address": "Dohnalova, Brno - Soběšice",
     "Price": "38 000 Kč/měsíc",
@@ -124,19 +138,5 @@
     "Price": "22 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-veveri-kotlarska/941814604",
     "id": "941814604"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 97 m²",
-    "Address": "Jelínkova, Brno - Žabovřesky",
-    "Price": "32 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zabovresky-jelinkova/155382604",
-    "id": "155382604"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 75 m²",
-    "Address": "Komárovská, Brno - Komárov",
-    "Price": "49 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-komarov-komarovska/3643315020",
-    "id": "3643315020"
   }
 ]
