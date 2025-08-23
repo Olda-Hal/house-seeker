@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 2+1 42 m²",
+    "Address": "Václavská, Brno - Staré Brno",
+    "Price": "18 800 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-stare-brno-vaclavska/4110713676",
+    "id": "4110713676"
+  },
+  {
     "header": "Pronájem bytu 3+1 78 m²",
     "Address": "Poříčí, Brno - Staré Brno",
     "Price": "24 600 Kč/měsíc",
@@ -138,12 +145,5 @@
     "Price": "21 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-trnita-stavebni/115536716",
     "id": "115536716"
-  },
-  {
-    "header": "Pronájem bytu 2+1 59 m²",
-    "Address": "Riegrova, Brno - Královo Pole",
-    "Price": "23 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-kralovo-pole-riegrova/1293087564",
-    "id": "1293087564"
   }
 ]
