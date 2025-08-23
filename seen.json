@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+1 78 m²",
+    "Address": "Poříčí, Brno - Staré Brno",
+    "Price": "24 600 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-stare-brno-porici/1080161100",
+    "id": "1080161100"
+  },
+  {
     "header": "Pronájem bytu 3+1 69 m²",
     "Address": "Jugoslávská, Brno - Černá Pole",
     "Price": "24 000 Kč/měsíc",
@@ -112,13 +119,6 @@
     "id": "1285653324"
   },
   {
-    "header": "Moderní bydlení na míru!",
-    "Address": "Plně vybavené a dostupné bydlení na Praze 5 od 9.000 Kč/měsíc",
-    "Price": "CAMPUS VŠEM",
-    "link": "https://a.seznam.cz/v2/click?spotId=3989737&d=IQJNCBQ9Z3IVAQSHUZUVPGX5WAS6YB9M44PRDI6XQHWNSG4FVVJMD59D8ZP5J4EX4BA5ISZB7ZG6XEPU7IKA5GSA6ZI77PI5JKE4WS4I8Z55BAPVG56VVC56C7DZ5CV4C8WAKASTIAC9MH8HFXWC6U6AG6CD5FCPVIK6WHIBEHPF9Z2H67KI7VP5Y9GXXWWD8XVW7MZZTKNRWSCK5ZX2NK8VBIKCKUJQC9CB4TV85JXIN9GGJ8GPTYFU9X8RQAT5P7EKDMNIXZ8GFXFJURYR9EEFF9YKBSZG5INHG2QRQMV2ER5FQHNH8CFC6FZ2HS8S7V39K9XZ7BRD3A7VSQ3YDTNQ493Y9P2IBP83982SJQVPG&destination=https%3A//www.campusvsem.cz%3Futm_source%3Dseznam%26utm_medium%3Dnativni_inzerat%26utm_campaign%3Dcampus25%26utm_id%3Dvsem%26utm_content%3DNI_sreality_standard",
-    "id": "www.campusvsem.cz%3Futm_source%3Dseznam%26utm_medium%3Dnativni_inzerat%26utm_campaign%3Dcampus25%26utm_id%3Dvsem%26utm_content%3DNI_sreality_standard"
-  },
-  {
     "header": "Pronájem bytu 2+1 54 m²",
     "Address": "Úvoz, Brno - Veveří",
     "Price": "18 000 Kč/měsíc",
@@ -145,12 +145,5 @@
     "Price": "23 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-kralovo-pole-riegrova/1293087564",
     "id": "1293087564"
-  },
-  {
-    "header": "Pronájem bytu 3+1 102 m²",
-    "Address": "Kotlářská, Brno - Veveří",
-    "Price": "22 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-veveri-kotlarska/941814604",
-    "id": "941814604"
   }
 ]
