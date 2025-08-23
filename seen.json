@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 65 m²",
+    "Address": "Chudčická, Brno - Žebětín",
+    "Price": "25 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zebetin-chudcicka/2205348684",
+    "id": "2205348684"
+  },
+  {
     "header": "Pronájem bytu 2+1 42 m²",
     "Address": "Václavská, Brno - Staré Brno",
     "Price": "18 800 Kč/měsíc",
@@ -138,12 +145,5 @@
     "Price": "25 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-veveri-capkova/2535191372",
     "id": "2535191372"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 57 m²",
-    "Address": "Stavební, Brno - Trnitá",
-    "Price": "21 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-trnita-stavebni/115536716",
-    "id": "115536716"
   }
 ]
