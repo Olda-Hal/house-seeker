@@ -1,5 +1,19 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 80 m²",
+    "Address": "Křenová, Brno - Trnitá",
+    "Price": "24 900 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-trnita-krenova/4104123212",
+    "id": "4104123212"
+  },
+  {
+    "header": "Pronájem bytu 3+1 123 m²",
+    "Address": "Plachty, Brno - Nový Lískovec",
+    "Price": "30 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-novy-liskovec-plachty/3804361548",
+    "id": "3804361548"
+  },
+  {
     "header": "Pronájem bytu 3+kk 73 m²",
     "Address": "Říčanská, Brno - Bystrc",
     "Price": "24 990 Kč/měsíc",
@@ -124,19 +138,5 @@
     "Price": "23 900 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-stare-brno-hybesova/601457484",
     "id": "601457484"
-  },
-  {
-    "header": "Pronájem bytu 2+1 47 m²",
-    "Address": "Václavská, Brno - Staré Brno",
-    "Price": "20 900 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-stare-brno-vaclavska/3699110732",
-    "id": "3699110732"
-  },
-  {
-    "header": "Pronájem bytu 2+1 60 m²",
-    "Address": "Václavská, Brno - Staré Brno",
-    "Price": "20 900 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-stare-brno-vaclavska/2424042316",
-    "id": "2424042316"
   }
 ]
