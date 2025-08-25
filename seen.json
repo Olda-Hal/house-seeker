@@ -1,5 +1,19 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 86 m²",
+    "Address": "V Újezdech, Brno - Medlánky",
+    "Price": "24 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-medlanky-v-ujezdech/2281632588",
+    "id": "2281632588"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 110 m²",
+    "Address": "Tábor, Brno - Žabovřesky",
+    "Price": "32 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zabovresky-tabor/3547329356",
+    "id": "3547329356"
+  },
+  {
     "header": "Pronájem bytu 2+1 56 m²",
     "Address": "Jurkovičova, Brno - Lesná",
     "Price": "19 000 Kč/měsíc",
@@ -124,19 +138,5 @@
     "Price": "23 500 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-bohunice-svermova/3428905804",
     "id": "3428905804"
-  },
-  {
-    "header": "Pronájem bytu 2+1 62 m²",
-    "Address": "Černého, Brno - Bystrc",
-    "Price": "19 500 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-bystrc-cerneho/4133548876",
-    "id": "4133548876"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 75 m²",
-    "Address": "Komárovská, Brno - Komárov",
-    "Price": "49 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-komarov-komarovska/3643315020",
-    "id": "3643315020"
   }
 ]
