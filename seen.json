@@ -1,5 +1,19 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 69 m²",
+    "Address": "Chopinova, Brno - Kohoutovice",
+    "Price": "27 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-kohoutovice-chopinova/2449535820",
+    "id": "2449535820"
+  },
+  {
+    "header": "Pronájem bytu 2+1 59 m²",
+    "Address": "Bratislavská, Brno - Zábrdovice",
+    "Price": "20 354 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-zabrdovice-bratislavska/4076925772",
+    "id": "4076925772"
+  },
+  {
     "header": "Pronájem bytu 2+1 50 m²",
     "Address": "Veslařská, Brno",
     "Price": "22 500 Kč/měsíc",
@@ -112,13 +126,6 @@
     "id": "3447845708"
   },
   {
-    "header": "Pronájem bytu 3+kk 69 m²",
-    "Address": "Chopinova, Brno - Kohoutovice",
-    "Price": "27 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-kohoutovice-chopinova/3984454476",
-    "id": "3984454476"
-  },
-  {
     "header": "Pronájem bytu 3+kk 80 m²",
     "Address": "Křenová, Brno - Trnitá",
     "Price": "24 900 Kč/měsíc",
@@ -131,12 +138,5 @@
     "Price": "30 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-novy-liskovec-plachty/3804361548",
     "id": "3804361548"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 73 m²",
-    "Address": "Říčanská, Brno - Bystrc",
-    "Price": "24 990 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-bystrc-ricanska/610923340",
-    "id": "610923340"
   }
 ]
