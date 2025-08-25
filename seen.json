@@ -21,6 +21,34 @@
     "id": "3393057612"
   },
   {
+    "header": "Pronájem bytu 2+1 53 m²",
+    "Address": "Jugoslávská, Brno - Brno-sever",
+    "Price": "20 500 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-brno-sever-jugoslavska/3542516556",
+    "id": "3542516556"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 65 m²",
+    "Address": "Chudčická, Brno - Žebětín",
+    "Price": "25 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zebetin-chudcicka/2205348684",
+    "id": "2205348684"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 97 m²",
+    "Address": "Jelínkova, Brno - Žabovřesky",
+    "Price": "32 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zabovresky-jelinkova/155382604",
+    "id": "155382604"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 80 m²",
+    "Address": "Jakubské náměstí, Brno - Brno-město",
+    "Price": "28 500 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-brno-mesto-jakubske-namesti/1285653324",
+    "id": "1285653324"
+  },
+  {
     "header": "Pronájem bytu 3+1 65 m²",
     "Address": "Gorkého, Brno - Veveří",
     "Price": "24 900 Kč/měsíc",
@@ -110,33 +138,5 @@
     "Price": "20 900 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-stare-brno-vaclavska/2424042316",
     "id": "2424042316"
-  },
-  {
-    "header": "Pronájem bytu 2+1 33 m²",
-    "Address": "Václavská, Brno - Staré Brno",
-    "Price": "23 900 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-stare-brno-vaclavska/773034828",
-    "id": "773034828"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 90 m²",
-    "Address": "Vychodilova, Brno - Žabovřesky",
-    "Price": "28 500 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zabovresky-vychodilova/555873100",
-    "id": "555873100"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 65 m²",
-    "Address": "Chudčická, Brno - Žebětín",
-    "Price": "25 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zebetin-chudcicka/2205348684",
-    "id": "2205348684"
-  },
-  {
-    "header": "Pronájem bytu 3+1 78 m²",
-    "Address": "Poříčí, Brno - Staré Brno",
-    "Price": "24 600 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-stare-brno-porici/1080161100",
-    "id": "1080161100"
   }
 ]
