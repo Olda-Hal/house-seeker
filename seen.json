@@ -138,5 +138,40 @@
     "Price": "19 500 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-brno-turany-kudrnova/2757923660",
     "id": "2757923660"
+  },
+  {
+    "header": "PRONÁJEM BYTU 2+1 65 m²",
+    "Address": "Úvoz, Brno - Veveří, Jihomoravský kraj",
+    "Price": "21 000 Kč+ 5 200 Kč",
+    "link": "https://www.bezrealitky.cz/nemovitosti-byty-domy/685185-nabidka-pronajem-bytu-uvoz-brno",
+    "id": "685185"
+  },
+  {
+    "header": "PRONÁJEM BYTU 2+1 62 m²",
+    "Address": "Stará, Brno - Zábrdovice, Jihomoravský kraj",
+    "Price": "16 500 Kč+ 6 650 Kč",
+    "link": "https://www.bezrealitky.cz/nemovitosti-byty-domy/837055-nabidka-pronajem-bytu-stara-brno",
+    "id": "837055"
+  },
+  {
+    "header": "PRONÁJEM BYTU 3+kk 90 m²",
+    "Address": "Vychodilova, Brno - Žabovřesky, Jihomoravský kraj",
+    "Price": "28 500 Kč+ 4 600 Kč",
+    "link": "https://www.bezrealitky.cz/nemovitosti-byty-domy/860034-nabidka-pronajem-bytu-vychodilova-brno",
+    "id": "860034"
+  },
+  {
+    "header": "PRONÁJEM BYTU 3+1 80 m²",
+    "Address": "Krymská, Brno - Starý Lískovec, Jihomoravský kraj",
+    "Price": "20 500 Kč+ 7 500 Kč",
+    "link": "https://www.bezrealitky.cz/nemovitosti-byty-domy/611891-nabidka-pronajem-bytu-krymska-brno",
+    "id": "611891"
+  },
+  {
+    "header": "PRONÁJEM BYTU 3+1 115 m²",
+    "Address": "Bezručova, Brno - Staré Brno, Jihomoravský kraj",
+    "Price": "32 000 Kč+ 6 000 Kč",
+    "link": "No Link",
+    "id": "No ID"
   }
 ]
