@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 2+1 65 m²",
+    "Address": "Podnásepní, Brno - Trnitá",
+    "Price": "21 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-trnita-podnasepni/619180876",
+    "id": "619180876"
+  },
+  {
     "header": "Pronájem bytu 3+kk 73 m²",
     "Address": "Říčanská, Brno - Bystrc",
     "Price": "23 990 Kč/měsíc",
@@ -131,12 +138,5 @@
     "Price": "35 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-trnita-fuchsova/1537901388",
     "id": "1537901388"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 86 m²",
-    "Address": "V Újezdech, Brno - Medlánky",
-    "Price": "24 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-medlanky-v-ujezdech/2281632588",
-    "id": "2281632588"
   }
 ]
