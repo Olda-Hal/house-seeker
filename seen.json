@@ -1,5 +1,26 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 66 m²",
+    "Address": "Kotěrova, Brno - Černá Pole",
+    "Price": "25 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-cerna-pole-koterova/639415116",
+    "id": "639415116"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 65 m²",
+    "Address": "Chudčická, Brno - Žebětín",
+    "Price": "25 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zebetin-chudcicka/2205348684",
+    "id": "2205348684"
+  },
+  {
+    "header": "Pronájem bytu 2+1 70 m²",
+    "Address": "Jugoslávská, Brno",
+    "Price": "26 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-brno-jugoslavska/1672999756",
+    "id": "1672999756"
+  },
+  {
     "header": "Pronájem bytu 3+kk 75 m²",
     "Address": "Komárovská, Brno - Komárov",
     "Price": "49 000 Kč/měsíc",
@@ -26,6 +47,13 @@
     "Price": "20 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-stare-brno-hlinky/3030577996",
     "id": "3030577996"
+  },
+  {
+    "header": "Plánování kuchyně zdarma",
+    "Address": "Naplánujte si s námi perfektní kuchyni! Domluvte si nezávazný termín‼",
+    "Price": "XXXLutz Česká republika",
+    "link": "https://a.seznam.cz/v2/click?spotId=3971572&d=AG5YBHUG4ZKPUHSFEFUM5HPEY2SPFAV7VHCCRSY9TKIEUNMS7TH68W7HZ7IA2TH3GU33I7CMXIPETJ5WBDSSCBAVXDVA4WXDQVEGXGNFMCJG8HRGDKWRKRT4ZD6B4J4IR3SUE58VQF3SUCP7V79HBBTCQG36GQFTP67D9IYBDP3NRVT6G6P7YTNW8YNVA3AEVT96Z4TG67UHK836EDHABS3GNZ2UD44A7NAI3WSZAFUSZ98UFDCVSS3A47327JXPY2ZV837FXSJJ462YXKKRB2JPX7GTSWCW4DVZRWRRRXPPFPCZ3CPBUM6ZTXJ2W99DNQ5YZ9739JBP4FX4GYFJTVPMAW6HZTIWNIUP8RUZX28YZ443&destination=https%3A//www.xxxlutz.cz/c/basic-kuchyne",
+    "id": "basic-kuchyne"
   },
   {
     "header": "Pronájem bytu 3+kk 68 m²",
@@ -117,26 +145,5 @@
     "Price": "20 900 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-stare-brno-vaclavska/2424042316",
     "id": "2424042316"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 82 m²",
-    "Address": "Dohnalova, Brno - Soběšice",
-    "Price": "38 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-sobesice-dohnalova/447542092",
-    "id": "447542092"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 69 m²",
-    "Address": "Sibiřská, Brno - Řečkovice",
-    "Price": "26 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-reckovice-sibirska/918393676",
-    "id": "918393676"
-  },
-  {
-    "header": "Pronájem bytu 2+1 73 m²",
-    "Address": "Jugoslávská, Brno - Černá Pole",
-    "Price": "24 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-cerna-pole-jugoslavska/2922611532",
-    "id": "2922611532"
   }
 ]
