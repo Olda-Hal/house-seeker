@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 2+1 55 m²",
+    "Address": "Běly Pažoutové, Brno - Komín",
+    "Price": "20 500 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-komin-bely-pazoutove/4226216780",
+    "id": "4226216780"
+  },
+  {
     "header": "Pronájem bytu 2+1 61 m²",
     "Address": "Sosnová, Brno - Jundrov",
     "Price": "19 000 Kč/měsíc",
@@ -131,12 +138,5 @@
     "Price": "30 700 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-stare-brno-kopecna/768193356",
     "id": "768193356"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 97 m²",
-    "Address": "Jelínkova, Brno - Žabovřesky",
-    "Price": "32 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zabovresky-jelinkova/155382604",
-    "id": "155382604"
   }
 ]
