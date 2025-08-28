@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 73 m²",
+    "Address": "Říčanská, Brno - Bystrc",
+    "Price": "23 990 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-bystrc-ricanska/610923340",
+    "id": "610923340"
+  },
+  {
     "header": "Pronájem bytu 3+kk 122 m²",
     "Address": "Merhautova, Brno - Černá Pole",
     "Price": "28 990 Kč/měsíc",
@@ -131,12 +138,5 @@
     "Price": "25 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-veveri-capkova/2535191372",
     "id": "2535191372"
-  },
-  {
-    "header": "Pronájem bytu 2+1 58 m²",
-    "Address": "Jilemnického, Brno - Husovice",
-    "Price": "14 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-husovice-jilemnickeho/2520183628",
-    "id": "2520183628"
   }
 ]
