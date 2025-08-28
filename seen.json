@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 2+1 69 m²",
+    "Address": "Holzova, Brno - Líšeň",
+    "Price": "19 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-lisen-holzova/3170300748",
+    "id": "3170300748"
+  },
+  {
     "header": "Pronájem bytu 3+kk 69 m²",
     "Address": "Dukelská třída, Brno - Husovice",
     "Price": "23 000 Kč/měsíc",
@@ -131,12 +138,5 @@
     "Price": "26 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-brno-jugoslavska/1672999756",
     "id": "1672999756"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 75 m²",
-    "Address": "Komárovská, Brno - Komárov",
-    "Price": "49 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-komarov-komarovska/3643315020",
-    "id": "3643315020"
   }
 ]
