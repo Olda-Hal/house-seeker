@@ -14,6 +14,13 @@
     "id": "2405339980"
   },
   {
+    "header": "Pronájem bytu 2+1 52 m²",
+    "Address": "Křídlovická, Brno - Staré Brno",
+    "Price": "20 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-stare-brno-kridlovicka/3941004108",
+    "id": "3941004108"
+  },
+  {
     "header": "Pronájem bytu 2+1 55 m²",
     "Address": "Běly Pažoutové, Brno - Komín",
     "Price": "20 500 Kč/měsíc",
@@ -133,10 +140,31 @@
     "id": "2205348684"
   },
   {
-    "header": "Pronájem bytu 2+1 70 m²",
-    "Address": "Jugoslávská, Brno",
-    "Price": "26 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-brno-jugoslavska/1672999756",
-    "id": "1672999756"
+    "header": "PRONÁJEM BYTU 2+1 46 m²",
+    "Address": "Kamenomlýnská, Brno - Pisárky, Jihomoravský kraj",
+    "Price": "15 000 Kč+ 4 600 Kč",
+    "link": "https://www.bezrealitky.cz/nemovitosti-byty-domy/464948-nabidka-pronajem-bytu-kamenomlynska-brno-stred",
+    "id": "464948"
+  },
+  {
+    "header": "PRONÁJEM BYTU 3+1 76 m²",
+    "Address": "Brno - Nový Lískovec, Jihomoravský kraj",
+    "Price": "20 000 Kč+ 6 500 Kč",
+    "link": "https://www.bezrealitky.cz/nemovitosti-byty-domy/932017-nabidka-pronajem-bytu-brno",
+    "id": "932017"
+  },
+  {
+    "header": "PRONÁJEM BYTU 2+1 52 m²",
+    "Address": "Riegrova, Brno - Královo Pole, Jihomoravský kraj",
+    "Price": "17 900 Kč+ 2 520 Kč",
+    "link": "https://www.bezrealitky.cz/nemovitosti-byty-domy/668944-nabidka-pronajem-bytu-riegrova-brno",
+    "id": "668944"
+  },
+  {
+    "header": "PRONÁJEM BYTU 2+1 76 m²",
+    "Address": "Haškova, Brno - Lesná, Jihomoravský kraj",
+    "Price": "14 000 Kč+ 1 000 Kč",
+    "link": "https://www.bezrealitky.cz/nemovitosti-byty-domy/936620-nabidka-pronajem-bytu-haskova-brno",
+    "id": "936620"
   }
 ]
