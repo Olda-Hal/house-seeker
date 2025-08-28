@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 69 m²",
+    "Address": "Dukelská třída, Brno - Husovice",
+    "Price": "23 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-husovice-dukelska-trida/2405339980",
+    "id": "2405339980"
+  },
+  {
     "header": "Pronájem bytu 2+1 55 m²",
     "Address": "Běly Pažoutové, Brno - Komín",
     "Price": "20 500 Kč/měsíc",
@@ -131,12 +138,5 @@
     "Price": "49 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-komarov-komarovska/3643315020",
     "id": "3643315020"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 82 m²",
-    "Address": "Kopečná, Brno - Staré Brno",
-    "Price": "30 700 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-stare-brno-kopecna/768193356",
-    "id": "768193356"
   }
 ]
