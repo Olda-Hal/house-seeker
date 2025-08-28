@@ -1,5 +1,19 @@
 [
   {
+    "header": "Pronájem bytu 2+1 45 m²",
+    "Address": "Poděbradova, Brno - Královo Pole",
+    "Price": "18 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-kralovo-pole-podebradova/1448473420",
+    "id": "1448473420"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 100 m²",
+    "Address": "Poděbradova, Brno - Královo Pole",
+    "Price": "29 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-kralovo-pole-podebradova/3327521612",
+    "id": "3327521612"
+  },
+  {
     "header": "Pronájem bytu 2+1 60 m²",
     "Address": "Marie Majerové, Brno - Lesná",
     "Price": "19 000 Kč/měsíc",
@@ -124,19 +138,5 @@
     "Price": "21 990 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zabrdovice-merhautova/2982253388",
     "id": "2982253388"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 82 m²",
-    "Address": "Dohnalova, Brno - Soběšice",
-    "Price": "38 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-sobesice-dohnalova/1615917900",
-    "id": "1615917900"
-  },
-  {
-    "header": "Pronájem bytu 2+1 50 m²",
-    "Address": "Veslařská, Brno",
-    "Price": "22 500 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-brno-veslarska/308474700",
-    "id": "308474700"
   }
 ]
