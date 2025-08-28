@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 64 m²",
+    "Address": "Blatného, Brno - Žabovřesky",
+    "Price": "28 990 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zabovresky-blatneho/3860198220",
+    "id": "3860198220"
+  },
+  {
     "header": "Pronájem bytu 3+1 80 m²",
     "Address": "Bohuslava Martinů, Brno - Stránice",
     "Price": "33 500 Kč/měsíc",
@@ -131,12 +138,5 @@
     "Price": "20 500 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-komin-bely-pazoutove/4226216780",
     "id": "4226216780"
-  },
-  {
-    "header": "Pronájem bytu 2+1 61 m²",
-    "Address": "Sosnová, Brno - Jundrov",
-    "Price": "19 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-jundrov-sosnova/2736190284",
-    "id": "2736190284"
   }
 ]
