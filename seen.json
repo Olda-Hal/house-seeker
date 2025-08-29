@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 75 m²",
+    "Address": "Komárovská, Brno - Komárov",
+    "Price": "49 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-komarov-komarovska/3643315020",
+    "id": "3643315020"
+  },
+  {
     "header": "Pronájem bytu 3+kk 82 m²",
     "Address": "Kopečná, Brno - Staré Brno",
     "Price": "30 700 Kč/měsíc",
@@ -131,12 +138,5 @@
     "Price": "23 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-husovice-dukelska-trida/2405339980",
     "id": "2405339980"
-  },
-  {
-    "header": "Pronájem bytu 2+1 52 m²",
-    "Address": "Křídlovická, Brno - Staré Brno",
-    "Price": "20 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-stare-brno-kridlovicka/3941004108",
-    "id": "3941004108"
   }
 ]
