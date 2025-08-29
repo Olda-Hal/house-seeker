@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 69 m²",
+    "Address": "Traubova, Brno",
+    "Price": "30 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-brno-traubova/4242273100",
+    "id": "4242273100"
+  },
+  {
     "header": "Pronájem bytu 3+kk 75 m²",
     "Address": "Komárovská, Brno - Komárov",
     "Price": "49 000 Kč/měsíc",
@@ -131,12 +138,5 @@
     "Price": "19 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-lisen-holzova/3170300748",
     "id": "3170300748"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 69 m²",
-    "Address": "Dukelská třída, Brno - Husovice",
-    "Price": "23 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-husovice-dukelska-trida/2405339980",
-    "id": "2405339980"
   }
 ]
