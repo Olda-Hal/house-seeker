@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 73 m²",
+    "Address": "Říčanská, Brno - Bystrc",
+    "Price": "23 990 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-bystrc-ricanska/610923340",
+    "id": "610923340"
+  },
+  {
     "header": "Pronájem bytu 2+1 70 m²",
     "Address": "Luční, Brno - Žabovřesky",
     "Price": "19 500 Kč/měsíc",
@@ -89,13 +96,6 @@
     "Price": "33 500 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-stranice-bohuslava-martinu/2785407820",
     "id": "2785407820"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 73 m²",
-    "Address": "Říčanská, Brno - Bystrc",
-    "Price": "23 990 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-bystrc-ricanska/610923340",
-    "id": "610923340"
   },
   {
     "header": "Pronájem bytu 3+1 62 m²",
