@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 82 m²",
+    "Address": "Kopečná, Brno - Staré Brno",
+    "Price": "30 700 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-stare-brno-kopecna/768193356",
+    "id": "768193356"
+  },
+  {
     "header": "Pronájem bytu 3+kk 64 m²",
     "Address": "Blatného, Brno - Žabovřesky",
     "Price": "28 990 Kč/měsíc",
@@ -131,12 +138,5 @@
     "Price": "27 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-zidenice-nopova/1905652556",
     "id": "1905652556"
-  },
-  {
-    "header": "Pronájem bytu 2+1 55 m²",
-    "Address": "náměstí SNP, Brno - Černá Pole",
-    "Price": "21 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-cerna-pole-namesti-snp/3481662284",
-    "id": "3481662284"
   }
 ]
