@@ -1,5 +1,19 @@
 [
   {
+    "header": "Pronájem bytu 3+1 98 m²",
+    "Address": "Nad Dědinou, Brno - Bystrc",
+    "Price": "24 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-bystrc-nad-dedinou/835253068",
+    "id": "835253068"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 68 m²",
+    "Address": "Žilkova, Brno - Řečkovice",
+    "Price": "25 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-reckovice-zilkova/1082909516",
+    "id": "1082909516"
+  },
+  {
     "header": "Pronájem bytu 3+kk 96 m²",
     "Address": "Příkop, Brno - Zábrdovice",
     "Price": "27 000 Kč/měsíc",
@@ -131,19 +145,5 @@
     "Price": "21 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-zabovresky-klimova/3983270732",
     "id": "3983270732"
-  },
-  {
-    "header": "Pronájem bytu 3+1 123 m²",
-    "Address": "Plachty, Brno - Nový Lískovec",
-    "Price": "30 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-novy-liskovec-plachty/3804361548",
-    "id": "3804361548"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 73 m²",
-    "Address": "Říčanská, Brno - Bystrc",
-    "Price": "23 990 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-bystrc-ricanska/610923340",
-    "id": "610923340"
   }
 ]
