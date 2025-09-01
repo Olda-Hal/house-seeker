@@ -1,5 +1,33 @@
 [
   {
+    "header": "Pronájem bytu 2+1 60 m²",
+    "Address": "Bučovická, Brno - Slatina",
+    "Price": "19 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-slatina-bucovicka/92005196",
+    "id": "92005196"
+  },
+  {
+    "header": "Pronájem bytu 3+1 80 m²",
+    "Address": "Bohuslava Martinů, Brno - Stránice",
+    "Price": "33 500 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-stranice-bohuslava-martinu/2785407820",
+    "id": "2785407820"
+  },
+  {
+    "header": "Pronájem bytu 3+1 71 m²",
+    "Address": "Klímova, Brno - Žabovřesky",
+    "Price": "21 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-zabovresky-klimova/3983270732",
+    "id": "3983270732"
+  },
+  {
+    "header": "Pronájem bytu 3+1 123 m²",
+    "Address": "Plachty, Brno - Nový Lískovec",
+    "Price": "30 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-novy-liskovec-plachty/3804361548",
+    "id": "3804361548"
+  },
+  {
     "header": "Pronájem bytu 3+kk 73 m²",
     "Address": "Říčanská, Brno - Bystrc",
     "Price": "23 990 Kč/měsíc",
@@ -112,45 +140,10 @@
     "id": "3742437964"
   },
   {
-    "header": "Ideální adresa v Olomouci",
-    "Address": "Ranní káva na balkóně? Pěšky na nákup i za kulturou? Novotou vonící byt na Šibeníku to má.",
-    "Price": "JTH Group a.s.",
-    "link": "https://a.seznam.cz/v2/click?spotId=4003061&d=6GEC3TUI67KS9U2PX2GC59R8EE8PMYKEFD6V7FVYQEW8VNXE99CFSGEB4WS5PGB8T9N6NSKYI76JTCMMJX6PPI6DZSETPXFRD7RD2ZEEHQEFSFIWIUN7C55KB6YW9UJXJK58BRM7NN9ZSVSCWB6HKZBBBNSE8TY7EYFQM2E7QJ2D93MPDJ7XSSRWVYYBDI279D844XXUMS522T6DPM4K3XAEQWZUGIQ8HE2WTXA5KHFSSYXRIKH6WWBHD8KYEXNGN7NNMZRKVRNQ4596WIN3YNP46HY4EZJ6PE3TV9QC8K564K93V7YFX3F5BMJAZQX5W5S2YJP8U7XCMFNVSJIQ9S3HVXTSXUSAX49EU23AMDRT882&destination=https%3A//bytysibenik.cz/cs/",
-    "id": ""
-  },
-  {
     "header": "SLEVA: Pronájem bytu 2+1 41 m²",
     "Address": "Hybešova, Brno - Staré Brno",
     "Price": "16 900 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-stare-brno-hybesova/3932439116",
     "id": "3932439116"
-  },
-  {
-    "header": "SLEVA: Pronájem bytu 2+1 37 m²",
-    "Address": "Hybešova, Brno - Staré Brno",
-    "Price": "18 900 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-stare-brno-hybesova/1907729228",
-    "id": "1907729228"
-  },
-  {
-    "header": "Pronájem bytu 2+1 34 m²",
-    "Address": "Václavská, Brno - Staré Brno",
-    "Price": "18 900 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-stare-brno-vaclavska/2288554828",
-    "id": "2288554828"
-  },
-  {
-    "header": "SLEVA: Pronájem bytu 2+1 47 m²",
-    "Address": "Václavská, Brno - Staré Brno",
-    "Price": "16 900 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-stare-brno-vaclavska/4048720716",
-    "id": "4048720716"
-  },
-  {
-    "header": "SLEVA: Pronájem bytu 2+1 41 m²",
-    "Address": "Václavská, Brno - Staré Brno",
-    "Price": "16 900 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-stare-brno-vaclavska/3545404236",
-    "id": "3545404236"
   }
 ]
