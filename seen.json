@@ -1,5 +1,19 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 69 m²",
+    "Address": "Dukelská třída, Brno - Husovice",
+    "Price": "23 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-husovice-dukelska-trida/2405339980",
+    "id": "2405339980"
+  },
+  {
+    "header": "Pronájem bytu 2+1 69 m²",
+    "Address": "Kobližná, Brno - Brno-město",
+    "Price": "30 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-brno-mesto-koblizna/2508649292",
+    "id": "2508649292"
+  },
+  {
     "header": "Pronájem bytu 3+kk 73 m²",
     "Address": "Říčanská, Brno - Bystrc",
     "Price": "23 990 Kč/měsíc",
@@ -131,19 +145,5 @@
     "Price": "16 900 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-stare-brno-vaclavska/2723382092",
     "id": "2723382092"
-  },
-  {
-    "header": "SLEVA: Pronájem bytu 2+1 59 m²",
-    "Address": "Václavská, Brno - Staré Brno",
-    "Price": "16 900 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-stare-brno-vaclavska/709067596",
-    "id": "709067596"
-  },
-  {
-    "header": "SLEVA: Pronájem bytu 2+1 26 m²",
-    "Address": "Václavská, Brno - Staré Brno",
-    "Price": "16 900 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-stare-brno-vaclavska/163611468",
-    "id": "163611468"
   }
 ]
