@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 2+1 90 m²",
+    "Address": "Trávníky, Brno - Černá Pole",
+    "Price": "22 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-cerna-pole-travniky/1471931212",
+    "id": "1471931212"
+  },
+  {
     "header": "Pronájem bytu 3+1 72 m²",
     "Address": "Oderská, Brno - Starý Lískovec",
     "Price": "23 000 Kč/měsíc",
@@ -138,12 +145,5 @@
     "Price": "23 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-husovice-dukelska-trida/2405339980",
     "id": "2405339980"
-  },
-  {
-    "header": "Pronájem bytu 2+1 69 m²",
-    "Address": "Kobližná, Brno - Brno-město",
-    "Price": "30 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-brno-mesto-koblizna/2508649292",
-    "id": "2508649292"
   }
 ]
