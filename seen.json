@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 2+1 69 m²",
+    "Address": "Eimova, Brno - Židenice",
+    "Price": "25 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-zidenice-eimova/851108684",
+    "id": "851108684"
+  },
+  {
     "header": "Pronájem bytu 3+kk 65 m²",
     "Address": "Brno - Brno-město",
     "Price": "19 000 Kč/měsíc",
@@ -33,13 +40,6 @@
     "Price": "20 900 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-veveri-bayerova/65725260",
     "id": "65725260"
-  },
-  {
-    "header": "Pronájem bytu 3+1 72 m²",
-    "Address": "Oderská, Brno - Starý Lískovec",
-    "Price": "23 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-stary-liskovec-oderska/2313937740",
-    "id": "2313937740"
   },
   {
     "header": "Pronájem bytu 3+1 72 m²",
@@ -103,13 +103,6 @@
     "Price": "27 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zabrdovice-prikop/2749731660",
     "id": "2749731660"
-  },
-  {
-    "header": "Plánování kuchyně zdarma",
-    "Address": "Naplánujte si s námi perfektní kuchyni! Domluvte si nezávazný termín‼",
-    "Price": "XXXLutz Česká republika",
-    "link": "https://a.seznam.cz/v2/click?spotId=4007351&d=KI3UU2XPHAXIPAFVF8T9NIBMZHWNJXR8GFQ87QKF6EG8RFAZNJ5AZSVW4SEXARKQMYH8F7DIHQ9CS2ICFHFEMZIIAZ7EDSDUKPVZUPUPSU6DQZWUJU4NQRHY2RMWDACJCW7QSM2GKIXEXYF6RISWGT2SZ4K8TANUM5NSBFXAH5K69GS6CWJS3GADDKRN5X7HCRMZCCX26D3S56H27WHAWH3X35SSMEKG7AVKGRNEEAB82REYSBYRZHTCRUS3SE2AQY7JN8T3JBR2N4CIJEWEIB2BGKVWM93Q4ZWPUA2THWIJXV2K8VRXQEU562GV6UQGSRK994XEQNH9APK8NC75VT3M2VPYT2VZRXSB3CEQAIS92UBH&destination=https%3A//www.xxxlutz.cz/c/basic-kuchyne",
-    "id": "basic-kuchyne"
   },
   {
     "header": "Pronájem bytu 3+1 71 m²",
