@@ -1,5 +1,19 @@
 [
   {
+    "header": "Pronájem bytu 3+1 70 m²",
+    "Address": "Prostějovská, Brno - Slatina",
+    "Price": "21 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-slatina-prostejovska/312140620",
+    "id": "312140620"
+  },
+  {
+    "header": "Pronájem bytu 3+1 71 m²",
+    "Address": "Chládkova, Brno - Žabovřesky",
+    "Price": "30 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-zabovresky-chladkova/180024140",
+    "id": "180024140"
+  },
+  {
     "header": "Pronájem bytu 2+1 69 m²",
     "Address": "Eimova, Brno - Židenice",
     "Price": "25 000 Kč/měsíc",
@@ -12,13 +26,6 @@
     "Price": "19 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-brno-mesto-/1990910796",
     "id": "1990910796"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 71 m²",
-    "Address": "Bezručova, Brno - Staré Brno",
-    "Price": "18 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-stare-brno-bezrucova/734716748",
-    "id": "734716748"
   },
   {
     "header": "Pronájem bytu 2+1 41 m²",
@@ -131,12 +138,5 @@
     "Price": "22 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-cerna-pole-travniky/1471931212",
     "id": "1471931212"
-  },
-  {
-    "header": "Pronájem bytu 3+1 75 m²",
-    "Address": "Schwaigrova, Brno - Komárov",
-    "Price": "22 500 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-komarov-schwaigrova/1374413644",
-    "id": "1374413644"
   }
 ]
