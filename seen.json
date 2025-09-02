@@ -70,13 +70,6 @@
     "id": "1374413644"
   },
   {
-    "header": "Pronájem bytu 2+1 25 m²",
-    "Address": "Branka, Brno - Komín",
-    "Price": "5 850 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-komin-branka/736031564",
-    "id": "736031564"
-  },
-  {
     "header": "Pronájem bytu 3+1 82 m²",
     "Address": "Bulharská, Brno - Královo Pole",
     "Price": "21 000 Kč/měsíc",
@@ -112,6 +105,13 @@
     "id": "2045440844"
   },
   {
+    "header": "Ideální adresa v Olomouci",
+    "Address": "Ranní káva na balkóně? Pěšky na nákup i za kulturou? Novotou vonící byt na Šibeníku to má.",
+    "Price": "JTH Group a.s.",
+    "link": "https://a.seznam.cz/v2/click?spotId=4003059&d=QDA9CVER29P3TKWEQ5M9M9HCXNZFCB2JRC33Y6VVZTYSP2YEQGE6NRYY8HSMQAJWEFRRU5CBHIAUAAC8H3ZFSKM94Z7HS2KISG6QQ87ZF4RSR7EYKUF34DRJZIE2EE5SQXWD6CPXCHFTQN7IMHD5NUIM2U3KBMRN7HBZMUB7E5V643YV77R8YP3XGHFIMTMQ2VRVXAQVJGEPR8BN2E5CEKX9IJCJBD4RJE23PYN6M9BURXSFS7DKBIB4GQGZYJAZP6EKGIN5SUJIXB98F5RMX8MBNUZFCPDVR77VCH77JQTW5K9DQJWJ8CD6XEW982FDHFCFDNJIHNBANADTZ66N5NH55TP2PEXV3WY8V2SW7CWS&destination=https%3A//bytysibenik.cz/cs/",
+    "id": ""
+  },
+  {
     "header": "Pronájem bytu 3+kk 103 m²",
     "Address": "Štolcova, Brno - Černovice",
     "Price": "35 000 Kč/měsíc",
@@ -138,5 +138,12 @@
     "Price": "19 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-slatina-bucovicka/92005196",
     "id": "92005196"
+  },
+  {
+    "header": "Pronájem bytu 3+1 80 m²",
+    "Address": "Bohuslava Martinů, Brno - Stránice",
+    "Price": "33 500 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-stranice-bohuslava-martinu/2785407820",
+    "id": "2785407820"
   }
 ]
