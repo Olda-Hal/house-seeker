@@ -1,5 +1,19 @@
 [
   {
+    "header": "Pronájem bytu 2+1 53 m²",
+    "Address": "Jugoslávská, Brno - Brno-sever",
+    "Price": "19 800 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-brno-sever-jugoslavska/3542516556",
+    "id": "3542516556"
+  },
+  {
+    "header": "Pronájem bytu 2+1 75 m²",
+    "Address": "Mrkosova, Brno - Židenice",
+    "Price": "25 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-zidenice-mrkosova/1857676108",
+    "id": "1857676108"
+  },
+  {
     "header": "Pronájem bytu 2+1 84 m²",
     "Address": "Husitská, Brno - Královo Pole",
     "Price": "22 500 Kč/měsíc",
@@ -77,13 +91,6 @@
     "id": "610923340"
   },
   {
-    "header": "Pronájem bytu 3+kk 64 m²",
-    "Address": "Blatného, Brno - Žabovřesky",
-    "Price": "28 990 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zabovresky-blatneho/3860198220",
-    "id": "3860198220"
-  },
-  {
     "header": "Pronájem bytu 2+1 57 m²",
     "Address": "Trávníky, Brno - Černá Pole",
     "Price": "22 000 Kč/měsíc",
@@ -138,12 +145,5 @@
     "Price": "21 900 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-stare-brno-vaclavska/1024238412",
     "id": "1024238412"
-  },
-  {
-    "header": "Pronájem bytu 2+1 38 m²",
-    "Address": "Václavská, Brno - Staré Brno",
-    "Price": "20 900 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-stare-brno-vaclavska/3174867788",
-    "id": "3174867788"
   }
 ]
