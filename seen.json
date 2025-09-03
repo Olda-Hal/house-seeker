@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 66 m²",
+    "Address": "Údolní, Brno - Veveří",
+    "Price": "32 900 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-veveri-udolni/622388044",
+    "id": "622388044"
+  },
+  {
     "header": "Pronájem bytu 3+kk 122 m²",
     "Address": "Merhautova, Brno - Černá Pole",
     "Price": "28 990 Kč/měsíc",
@@ -138,12 +145,5 @@
     "Price": "30 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-veveri-uvoz/1944707916",
     "id": "1944707916"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 75 m²",
-    "Address": "Komárovská, Brno - Komárov",
-    "Price": "49 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-komarov-komarovska/3643315020",
-    "id": "3643315020"
   }
 ]
