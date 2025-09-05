@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 67 m²",
+    "Address": "Metodějova, Brno - Královo Pole",
+    "Price": "27 500 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-kralovo-pole-metodejova/4023751500",
+    "id": "4023751500"
+  },
+  {
     "header": "Pronájem bytu 3+1 150 m²",
     "Address": "Mučednická, Brno - Žabovřesky",
     "Price": "29 000 Kč/měsíc",
@@ -138,12 +145,5 @@
     "Price": "18 500 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-zabovresky-brafova/854123340",
     "id": "854123340"
-  },
-  {
-    "header": "Pronájem bytu 3+1 80 m²",
-    "Address": "Bellova, Brno - Kohoutovice",
-    "Price": "19 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-kohoutovice-bellova/32039756",
-    "id": "32039756"
   }
 ]
