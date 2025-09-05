@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 67 m²",
+    "Address": "Traubova, Brno - Černá Pole",
+    "Price": "30 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-cerna-pole-traubova/2476729164",
+    "id": "2476729164"
+  },
+  {
     "header": "Pronájem bytu 3+kk 75 m²",
     "Address": "Komárovská, Brno - Komárov",
     "Price": "49 000 Kč/měsíc",
@@ -138,12 +145,5 @@
     "Price": "26 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-cerna-pole-slepa/1336468300",
     "id": "1336468300"
-  },
-  {
-    "header": "Pronájem bytu 3+1 68 m²",
-    "Address": "Nezamyslova, Brno - Židenice",
-    "Price": "22 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-zidenice-nezamyslova/1792598860",
-    "id": "1792598860"
   }
 ]
