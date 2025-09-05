@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 2+1 57 m²",
+    "Address": "Poděbradova, Brno - Královo Pole",
+    "Price": "18 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-kralovo-pole-podebradova/1448473420",
+    "id": "1448473420"
+  },
+  {
     "header": "Pronájem bytu 2+1 75 m²",
     "Address": "Mrkosova, Brno - Židenice",
     "Price": "24 000 Kč/měsíc",
@@ -138,12 +145,5 @@
     "Price": "20 900 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-stare-brno-vaclavska/3699110732",
     "id": "3699110732"
-  },
-  {
-    "header": "Pronájem bytu 2+1 60 m²",
-    "Address": "Václavská, Brno - Staré Brno",
-    "Price": "20 900 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-stare-brno-vaclavska/2424042316",
-    "id": "2424042316"
   }
 ]
