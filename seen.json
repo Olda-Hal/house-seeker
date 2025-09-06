@@ -49,13 +49,6 @@
     "id": "2923098956"
   },
   {
-    "header": "Pronájem bytu 3+kk 82 m²",
-    "Address": "Botanická, Brno - Veveří",
-    "Price": "30 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-veveri-botanicka/4294894412",
-    "id": "4294894412"
-  },
-  {
     "header": "Pronájem bytu 3+1 64 m²",
     "Address": "Prušánecká, Brno - Židenice",
     "Price": "22 990 Kč/měsíc",
@@ -145,5 +138,12 @@
     "Price": "23 900 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-stare-brno-hybesova/2584519500",
     "id": "2584519500"
+  },
+  {
+    "header": "Pronájem bytu 2+1 33 m²",
+    "Address": "Hybešova, Brno - Staré Brno",
+    "Price": "23 900 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-stare-brno-hybesova/2453447500",
+    "id": "2453447500"
   }
 ]
