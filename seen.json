@@ -70,13 +70,6 @@
     "id": "569590348"
   },
   {
-    "header": "Pronájem bytu 2+1 52 m²",
-    "Address": "Křídlovická, Brno - Staré Brno",
-    "Price": "19 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-stare-brno-kridlovicka/3941004108",
-    "id": "3941004108"
-  },
-  {
     "header": "Pronájem bytu 2+1 57 m²",
     "Address": "Poděbradova, Brno - Královo Pole",
     "Price": "18 000 Kč/měsíc",
@@ -145,5 +138,12 @@
     "Price": "21 900 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-stare-brno-vaclavska/1024238412",
     "id": "1024238412"
+  },
+  {
+    "header": "Pronájem bytu 2+1 38 m²",
+    "Address": "Václavská, Brno - Staré Brno",
+    "Price": "20 900 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-stare-brno-vaclavska/3174867788",
+    "id": "3174867788"
   }
 ]
