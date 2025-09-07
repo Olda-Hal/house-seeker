@@ -145,5 +145,96 @@
     "Price": "18 500 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-cernovice-rehorova/1562960716",
     "id": "1562960716"
+  },
+  {
+    "header": "PRONÁJEM BYTU 2+1 62 m²",
+    "Address": "Richtrova, Brno - Kohoutovice, Jihomoravský kraj",
+    "Price": "18 500 Kč+ 5 000 Kč",
+    "link": "https://www.bezrealitky.cz/nemovitosti-byty-domy/942473-nabidka-pronajem-bytu-richtrova-brno",
+    "id": "942473"
+  },
+  {
+    "header": "PRONÁJEM BYTU 3+1 65 m²",
+    "Address": "Šaumannova, Brno - Židenice, Jihomoravský kraj",
+    "Price": "21 000 Kč+ 5 700 Kč",
+    "link": "https://www.bezrealitky.cz/nemovitosti-byty-domy/941879-nabidka-pronajem-bytu-saumannova-brno",
+    "id": "941879"
+  },
+  {
+    "header": "PRONÁJEM BYTU 2+1 60 m²",
+    "Address": "Kampelíkova, Brno - Stránice, Jihomoravský kraj",
+    "Price": "14 500 Kč+ 4 500 Kč",
+    "link": "https://www.bezrealitky.cz/nemovitosti-byty-domy/338035-nabidka-pronajem-bytu-kampelikova-brno-stred",
+    "id": "338035"
+  },
+  {
+    "header": "PRONÁJEM BYTU 3+kk 77 m²",
+    "Address": "Trnitá, Brno - Trnitá, Jihomoravský kraj",
+    "Price": "28 490 Kč+ 6 900 Kč",
+    "link": "https://www.bezrealitky.cz/nemovitosti-byty-domy/850473-nabidka-pronajem-bytu-trnita-brno",
+    "id": "850473"
+  },
+  {
+    "header": "PRONÁJEM BYTU 2+1 56 m²",
+    "Address": "Ježkova, Brno - Lesná, Jihomoravský kraj",
+    "Price": "25 000 Kč+ 4 000 Kč",
+    "link": "https://www.bezrealitky.cz/nemovitosti-byty-domy/941290-nabidka-pronajem-bytu-jezkova-brno",
+    "id": "941290"
+  },
+  {
+    "header": "PRONÁJEM BYTU 2+1 70 m²",
+    "Address": "Zahradnická, Brno - Staré Brno, Jihomoravský kraj",
+    "Price": "14 800 Kč+ 200 Kč",
+    "link": "https://www.bezrealitky.cz/nemovitosti-byty-domy/942228-nabidka-pronajem-bytu-zahradnicka-brno",
+    "id": "942228"
+  },
+  {
+    "header": "PRONÁJEM BYTU 3+kk 90 m²",
+    "Address": "Purkyňova, Brno - Královo Pole, Jihomoravský kraj",
+    "Price": "21 000 Kč+ 5 000 Kč",
+    "link": "https://www.bezrealitky.cz/nemovitosti-byty-domy/941602-nabidka-pronajem-bytu-purkynova-brno",
+    "id": "941602"
+  },
+  {
+    "header": "PRONÁJEM BYTU 2+1 56 m²",
+    "Address": "Banskobystrická, Brno - Řečkovice, Jihomoravský kraj",
+    "Price": "18 000 Kč+ 3 400 Kč",
+    "link": "https://www.bezrealitky.cz/nemovitosti-byty-domy/453733-nabidka-pronajem-bytu-banskobystricka-brno",
+    "id": "453733"
+  },
+  {
+    "header": "PRONÁJEM BYTU 2+1 75 m²",
+    "Address": "Tábor, Brno - Žabovřesky, Jihomoravský kraj",
+    "Price": "12 800 Kč+ 5 200 Kč",
+    "link": "https://www.bezrealitky.cz/nemovitosti-byty-domy/941308-nabidka-pronajem-bytu-tabor-brno",
+    "id": "941308"
+  },
+  {
+    "header": "PRONÁJEM BYTU 3+1 80 m²",
+    "Address": "Krymská, Brno - Starý Lískovec, Jihomoravský kraj",
+    "Price": "20 500 Kč+ 7 500 Kč",
+    "link": "https://www.bezrealitky.cz/nemovitosti-byty-domy/611891-nabidka-pronajem-bytu-krymska-brno",
+    "id": "611891"
+  },
+  {
+    "header": "PRONÁJEM BYTU 2+1 64 m²",
+    "Address": "Černého, Brno - Bystrc, Jihomoravský kraj",
+    "Price": "17 000 Kč+ 5 000 Kč",
+    "link": "https://www.bezrealitky.cz/nemovitosti-byty-domy/725308-nabidka-pronajem-bytu-cerneho",
+    "id": "725308"
+  },
+  {
+    "header": "PRONÁJEM BYTU 3+1 64 m²",
+    "Address": "Kuršova, Brno - Bystrc, Jihomoravský kraj",
+    "Price": "18 500 Kč+ 5 500 Kč",
+    "link": "https://www.bezrealitky.cz/nemovitosti-byty-domy/941609-nabidka-pronajem-bytu-kursova-brno",
+    "id": "941609"
+  },
+  {
+    "header": "PRONÁJEM BYTU 2+1 62 m²",
+    "Address": "Běhounská, Brno - Město Brno, Jihomoravský kraj",
+    "Price": "17 000 Kč+ 1 500 Kč",
+    "link": "No Link",
+    "id": "No ID"
   }
 ]
