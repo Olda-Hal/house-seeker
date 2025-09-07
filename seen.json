@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 75 m²",
+    "Address": "Rostislavovo náměstí, Brno - Královo Pole",
+    "Price": "42 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-kralovo-pole-rostislavovo-namesti/1884152652",
+    "id": "1884152652"
+  },
+  {
     "header": "Pronájem bytu 3+1 67 m²",
     "Address": "Nejedlého, Brno - Lesná",
     "Price": "20 000 Kč/měsíc",
@@ -138,12 +145,5 @@
     "Price": "25 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-veveri-jaselska/1104147276",
     "id": "1104147276"
-  },
-  {
-    "header": "Pronájem bytu 2+1 64 m²",
-    "Address": "Antonínská, Brno - Veveří",
-    "Price": "21 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-veveri-antoninska/2692805452",
-    "id": "2692805452"
   }
 ]
