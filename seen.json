@@ -1,5 +1,19 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 73 m²",
+    "Address": "Spolková, Brno - Zábrdovice",
+    "Price": "27 500 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zabrdovice-spolkova/3814326860",
+    "id": "3814326860"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 82 m²",
+    "Address": "Spolková, Brno - Zábrdovice",
+    "Price": "33 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zabrdovice-spolkova/3559297868",
+    "id": "3559297868"
+  },
+  {
     "header": "Pronájem bytu 3+1 64 m²",
     "Address": "Prušánecká, Brno - Židenice",
     "Price": "22 990 Kč/měsíc",
@@ -131,19 +145,5 @@
     "Price": "19 800 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-brno-sever-jugoslavska/3542516556",
     "id": "3542516556"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 75 m²",
-    "Address": "Komárovská, Brno - Komárov",
-    "Price": "49 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-komarov-komarovska/3643315020",
-    "id": "3643315020"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 105 m²",
-    "Address": "Podbabská, Brno - Ivanovice",
-    "Price": "16 500 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-ivanovice-podbabska/3094340428",
-    "id": "3094340428"
   }
 ]
