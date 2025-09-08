@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+1 64 m²",
+    "Address": "Prušánecká, Brno - Židenice",
+    "Price": "22 990 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-zidenice-prusanecka/2432623436",
+    "id": "2432623436"
+  },
+  {
     "header": "Pronájem bytu 3+kk 110 m²",
     "Address": "Tábor, Brno - Žabovřesky",
     "Price": "32 000 Kč/měsíc",
@@ -138,12 +145,5 @@
     "Price": "16 500 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-ivanovice-podbabska/3094340428",
     "id": "3094340428"
-  },
-  {
-    "header": "Pronájem bytu 2+1 54 m²",
-    "Address": "Kvapilova, Brno - Žabovřesky",
-    "Price": "18 500 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-zabovresky-kvapilova/1152246604",
-    "id": "1152246604"
   }
 ]
