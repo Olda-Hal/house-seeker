@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 110 m²",
+    "Address": "Tábor, Brno - Žabovřesky",
+    "Price": "32 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zabovresky-tabor/3547329356",
+    "id": "3547329356"
+  },
+  {
     "header": "Pronájem bytu 3+1 77 m²",
     "Address": "Záhřebská, Brno - Žabovřesky",
     "Price": "19 000 Kč/měsíc",
@@ -112,13 +119,6 @@
     "id": "601457484"
   },
   {
-    "header": "Přidej se k nám!",
-    "Address": "Spojujeme nemovitosti s lidmi. Udělej změnu ve své kariéře. U nás ti zůstane 100% provize.",
-    "Price": "REALITY PRO RADOST",
-    "link": "https://a.seznam.cz/v2/click?spotId=4013625&d=8JHI7SVJGCUAHM5TVHXWDNR5XDFCYZHXXKI68I76UNN62JNKAQTXEURSDWVJJ7UFZRN7VNNCHWNPCIXU7GWCXH2ZU6IIYJJQY3DB55GIVANFYS75XG8UEVJK636E2JD8UP73KGFJ4GAKYAQRP7VXAG2FTHSZPQGCNCP7YBXHNUFTMTSIZGZ2ZJW73Z7QYAF33ISHRB5SAKUURV4JQWIWXDXYHDKBBMZ7W26E9XY7RT536KYXCKA97I6PK4B39BSB4NZ4M3WD8RVRWBWJX4R73ITFZEGN3MQCJSVSEGT8FAFVPZHR9CMM7NVJXSTEUFHZG86BANYMR2EMDBYU7KHSCVFNP29DZ55JYHFQWGTAF8IHS&destination=https%3A//www.reality-proradost.cz/realitni-servis-pro-maklere/",
-    "id": ""
-  },
-  {
     "header": "Pronájem bytu 2+1 53 m²",
     "Address": "Jugoslávská, Brno - Brno-sever",
     "Price": "19 800 Kč/měsíc",
@@ -145,12 +145,5 @@
     "Price": "18 500 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-zabovresky-kvapilova/1152246604",
     "id": "1152246604"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 82 m²",
-    "Address": "Dohnalova, Brno - Soběšice",
-    "Price": "38 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-sobesice-dohnalova/1615917900",
-    "id": "1615917900"
   }
 ]
