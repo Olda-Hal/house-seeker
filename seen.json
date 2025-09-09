@@ -1,5 +1,19 @@
 [
   {
+    "header": "Pronájem bytu 2+1 50 m²",
+    "Address": "Veslařská, Brno",
+    "Price": "22 500 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-brno-veslarska/308474700",
+    "id": "308474700"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 66 m²",
+    "Address": "Renneská třída, Brno - Štýřice",
+    "Price": "28 500 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-styrice-renneska-trida/2083775308",
+    "id": "2083775308"
+  },
+  {
     "header": "Pronájem bytu 2+1 68 m²",
     "Address": "Plachty, Brno - Nový Lískovec",
     "Price": "15 000 Kč/měsíc",
@@ -124,19 +138,5 @@
     "Price": "27 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zabrdovice-prikop/2749731660",
     "id": "2749731660"
-  },
-  {
-    "header": "Pronájem bytu 2+1 56 m²",
-    "Address": "Jurkovičova, Brno - Lesná",
-    "Price": "19 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-lesna-jurkovicova/2228257612",
-    "id": "2228257612"
-  },
-  {
-    "header": "Pronájem bytu 3+1 97 m²",
-    "Address": "Čápkova, Brno - Veveří",
-    "Price": "32 400 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-veveri-capkova/3041522508",
-    "id": "3041522508"
   }
 ]
