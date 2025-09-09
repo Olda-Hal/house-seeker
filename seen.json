@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 80 m²",
+    "Address": "Fuchsova, Brno - Trnitá",
+    "Price": "35 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-trnita-fuchsova/1537901388",
+    "id": "1537901388"
+  },
+  {
     "header": "Pronájem bytu 3+1 64 m²",
     "Address": "Prušánecká, Brno - Židenice",
     "Price": "22 990 Kč/měsíc",
@@ -47,13 +54,6 @@
     "Price": "19 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-lesna-jurkovicova/2228257612",
     "id": "2228257612"
-  },
-  {
-    "header": "Přidej se k nám!",
-    "Address": "Spojujeme nemovitosti s lidmi. Udělej změnu ve své kariéře. U nás ti zůstane 100% provize.",
-    "Price": "REALITY PRO RADOST",
-    "link": "https://a.seznam.cz/v2/click?spotId=4013625&d=QP4EA58CF2JPRTRBG52P8CF9BCWNN7HIUWKH4WPBTPWIZASR5PQZSZ3U4YFC29T6DQKVGX3PKJ523AVXI7M44EP7X8SZR844UWIGBTHQI6EYYVA2C8ID9ZV4Z6IM9PJ2UUFFPZM7SSZK9KE6R3U5HM43EERQZ9USR9UMX6AZVCUK4HAYBNB3JR7X45ZH89HIQI8PTX7Z3BI2YYHHDVD9I6V3NFUYJMBPQRXMXIIM533UM7DTSG588I4FE7ESQYVV42F52GBXRVKXCXUJM9IJ3MKTGSUFC63HXHM4HW8V4BYJD5W4QUXPUSSIWWEUDM25GEDIW6A6QXVK5EXIA78PYBQ672F634MXTUP95G2UXMES&destination=https%3A//www.reality-proradost.cz/realitni-servis-pro-maklere/",
-    "id": ""
   },
   {
     "header": "Pronájem bytu 3+kk 96 m²",
@@ -138,12 +138,5 @@
     "Price": "15 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-lisen-pod-cestou/3460555596",
     "id": "3460555596"
-  },
-  {
-    "header": "Pronájem bytu 2+1 63 m²",
-    "Address": "Bayerova, Brno - Veveří",
-    "Price": "19 900 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-veveri-bayerova/561242956",
-    "id": "561242956"
   }
 ]
