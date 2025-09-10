@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 2+1 50 m²",
+    "Address": "Veslařská, Brno",
+    "Price": "22 500 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-brno-veslarska/308474700",
+    "id": "308474700"
+  },
+  {
     "header": "Pronájem bytu 3+kk 82 m²",
     "Address": "Dohnalova, Brno - Soběšice",
     "Price": "38 000 Kč/měsíc",
@@ -138,12 +145,5 @@
     "Price": "49 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-komarov-komarovska/3643315020",
     "id": "3643315020"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 68 m²",
-    "Address": "Anenská, Brno - Staré Brno",
-    "Price": "24 900 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-stare-brno-anenska/4270056268",
-    "id": "4270056268"
   }
 ]
