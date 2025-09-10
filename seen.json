@@ -1,5 +1,19 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 75 m²",
+    "Address": "Pavlovská, Brno - Kohoutovice",
+    "Price": "25 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-kohoutovice-pavlovska/2118312780",
+    "id": "2118312780"
+  },
+  {
+    "header": "SLEVA: Pronájem bytu 3+1 75 m²",
+    "Address": "Brno - Brno-Maloměřice a Obřany",
+    "Price": "21 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-brno-malomerice-a-obrany-/1609794380",
+    "id": "1609794380"
+  },
+  {
     "header": "Pronájem bytu 3+1 77 m²",
     "Address": "Záhřebská, Brno - Žabovřesky",
     "Price": "19 000 Kč/měsíc",
@@ -131,19 +145,5 @@
     "Price": "35 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-trnita-fuchsova/1537901388",
     "id": "1537901388"
-  },
-  {
-    "header": "Pronájem bytu 3+1 64 m²",
-    "Address": "Prušánecká, Brno - Židenice",
-    "Price": "22 990 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-zidenice-prusanecka/2432623436",
-    "id": "2432623436"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 122 m²",
-    "Address": "Merhautova, Brno - Černá Pole",
-    "Price": "26 990 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-cerna-pole-merhautova/2571825996",
-    "id": "2571825996"
   }
 ]
