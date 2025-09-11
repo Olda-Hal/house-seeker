@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 2+1 70 m²",
+    "Address": "Slepá, Brno - Černá Pole",
+    "Price": "23 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-cerna-pole-slepa/1336468300",
+    "id": "1336468300"
+  },
+  {
     "header": "Pronájem bytu 3+1 77 m²",
     "Address": "Provazníkova, Brno - Černá Pole",
     "Price": "25 900 Kč/měsíc",
@@ -16,7 +23,7 @@
   {
     "header": "Pronájem bytu 3+1 70 m²",
     "Address": "Axmanova, Brno - Kohoutovice",
-    "Price": "Cena na vyžádání",
+    "Price": "17 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-kohoutovice-axmanova/160621388",
     "id": "160621388"
   },
@@ -131,12 +138,5 @@
     "Price": "22 500 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-brno-veslarska/308474700",
     "id": "308474700"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 82 m²",
-    "Address": "Dohnalova, Brno - Soběšice",
-    "Price": "38 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-sobesice-dohnalova/3372409676",
-    "id": "3372409676"
   }
 ]
