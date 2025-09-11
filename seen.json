@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 2+1 45 m²",
+    "Address": "Přízova, Brno - Trnitá",
+    "Price": "19 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-trnita-prizova/3367101260",
+    "id": "3367101260"
+  },
+  {
     "header": "Pronájem bytu 2+1 52 m²",
     "Address": "Dědická, Brno - Slatina",
     "Price": "16 000 Kč/měsíc",
@@ -138,12 +145,5 @@
     "Price": "30 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-brno-mesto-koblizna/2508649292",
     "id": "2508649292"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 69 m²",
-    "Address": "Sibiřská, Brno - Řečkovice",
-    "Price": "26 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-reckovice-sibirska/918393676",
-    "id": "918393676"
   }
 ]
