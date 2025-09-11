@@ -119,6 +119,13 @@
     "id": "3302663500"
   },
   {
+    "header": "Pronájem bytu 2+1 52 m²",
+    "Address": "Křídlovická, Brno - Staré Brno",
+    "Price": "18 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-stare-brno-kridlovicka/3941004108",
+    "id": "3941004108"
+  },
+  {
     "header": "Pronájem bytu 2+1 65 m²",
     "Address": "Stojanova, Brno - Veveří",
     "Price": "27 000 Kč/měsíc",
@@ -131,12 +138,5 @@
     "Price": "25 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-kohoutovice-pavlovska/2118312780",
     "id": "2118312780"
-  },
-  {
-    "header": "Pronájem bytu 3+1 75 m²",
-    "Address": "Brno - Brno-Maloměřice a Obřany",
-    "Price": "21 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-brno-malomerice-a-obrany-/1609794380",
-    "id": "1609794380"
   }
 ]
