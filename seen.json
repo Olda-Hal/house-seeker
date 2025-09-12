@@ -133,17 +133,17 @@
     "id": "878764876"
   },
   {
-    "header": "Pronájem bytu 2+1 63 m²",
-    "Address": "Bayerova, Brno - Veveří",
-    "Price": "18 500 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-veveri-bayerova/65725260",
-    "id": "65725260"
-  },
-  {
     "header": "Pronájem bytu 3+kk 73 m²",
     "Address": "Neumannova, Brno - Pisárky",
     "Price": "36 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-pisarky-neumannova/2085544780",
     "id": "2085544780"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 141 m²",
+    "Address": "Bratislavská, Brno - Zábrdovice",
+    "Price": "24 999 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zabrdovice-bratislavska/3302663500",
+    "id": "3302663500"
   }
 ]
