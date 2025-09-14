@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 2+1 54 m²",
+    "Address": "Vlárská, Brno - Slatina",
+    "Price": "17 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-slatina-vlarska/2388124492",
+    "id": "2388124492"
+  },
+  {
     "header": "Pronájem bytu 3+kk 86 m²",
     "Address": "Košinova, Brno - Královo Pole",
     "Price": "32 000 Kč/měsíc",
@@ -138,12 +145,5 @@
     "Price": "23 900 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-stare-brno-hybesova/2453447500",
     "id": "2453447500"
-  },
-  {
-    "header": "Pronájem bytu 2+1 47 m²",
-    "Address": "Václavská, Brno - Staré Brno",
-    "Price": "20 900 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-stare-brno-vaclavska/3699110732",
-    "id": "3699110732"
   }
 ]
