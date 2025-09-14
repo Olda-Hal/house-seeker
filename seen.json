@@ -28,6 +28,13 @@
     "id": "3041522508"
   },
   {
+    "header": "Pronájem bytu 3+1 67 m²",
+    "Address": "Vlkova, Brno - Líšeň",
+    "Price": "24 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-lisen-vlkova/2686968652",
+    "id": "2686968652"
+  },
+  {
     "header": "Pronájem bytu 2+1 54 m²",
     "Address": "Vlárská, Brno - Slatina",
     "Price": "17 000 Kč/měsíc",
@@ -138,12 +145,5 @@
     "Price": "21 900 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-stare-brno-vaclavska/1024238412",
     "id": "1024238412"
-  },
-  {
-    "header": "Pronájem bytu 2+1 38 m²",
-    "Address": "Václavská, Brno - Staré Brno",
-    "Price": "20 900 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-stare-brno-vaclavska/3174867788",
-    "id": "3174867788"
   }
 ]
