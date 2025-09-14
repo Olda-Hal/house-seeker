@@ -112,6 +112,13 @@
     "id": "315507276"
   },
   {
+    "header": "Vodárny za skvělé ceny",
+    "Address": "Slouží k dodávce pitné či užitkové vody ze studny, vodního toku, nádrže nebo jiného zdroje",
+    "Price": "PRODO SHOP",
+    "link": "https://a.seznam.cz/v2/click?spotId=4006098&d=P8HZNUWBR89GGCCT8MDK3VNVI4NUMXF6Z25SNQ5MSIIZYFSNP5CMYSAFXJVAM9536WY3Z43X57NE78MBE88KSFGQ3EYYE5V5FNEJ4M5FC9PEIG6FIZKNR2VA979JKH3IF4J596V6TIQN2QX7AVRRBDKYSPX94MQ8IFTECD2A2E44JF3XUTFC8U7BKCAV4BAZAHJU5DBJVPHJ69J2DA3982V9MWMMK5QA3KSXKQ6N2B3J3YTA32ZNNPI26CPCRFRH6GTQ3667HF4PNDN7KXEETUYEJ2TQMHFXBUB6U992CQ5CHRJ4MARMD7QNNNZ37U8678RCFH8FHNANWQWTSGNTXBF4JSEDEGYAMJN7Q33WD4UESSS&destination=https%3A//www.prodoshop.cz/domaci-vodarny%3Futm_source%3Dsreality%26utm_medium%3DNI",
+    "id": "domaci-vodarny%3Futm_source%3Dsreality%26utm_medium%3DNI"
+  },
+  {
     "header": "Pronájem bytu 3+kk 72 m²",
     "Address": "Hybešova, Brno - Staré Brno",
     "Price": "27 000 Kč/měsíc",
@@ -145,5 +152,26 @@
     "Price": "21 900 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-stare-brno-vaclavska/1024238412",
     "id": "1024238412"
+  },
+  {
+    "header": "PRONÁJEM BYTU 3+1 72 m²",
+    "Address": "Ježkova, Brno - Lesná, Jihomoravský kraj",
+    "Price": "22 000 Kč+ 5 100 Kč",
+    "link": "https://www.bezrealitky.cz/nemovitosti-byty-domy/944752-nabidka-pronajem-bytu-jezkova-brno",
+    "id": "944752"
+  },
+  {
+    "header": "PRONÁJEM BYTU 2+1 60 m²",
+    "Address": "Vodova, Brno - Královo Pole, Jihomoravský kraj",
+    "Price": "19 000 Kč+ 5 300 Kč",
+    "link": "https://www.bezrealitky.cz/nemovitosti-byty-domy/800689-nabidka-pronajem-bytu-vodova-brno",
+    "id": "800689"
+  },
+  {
+    "header": "PRONÁJEM BYTU 2+1 62 m²",
+    "Address": "Teyschlova, Brno - Bystrc, Jihomoravský kraj",
+    "Price": "16 000 Kč+ 4 000 Kč",
+    "link": "https://www.bezrealitky.cz/nemovitosti-byty-domy/944529-nabidka-pronajem-bytu-teyschlova-brno",
+    "id": "944529"
   }
 ]
