@@ -119,13 +119,6 @@
     "id": "315507276"
   },
   {
-    "header": "Pronájem bytu 3+kk 72 m²",
-    "Address": "Hybešova, Brno - Staré Brno",
-    "Price": "27 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-stare-brno-hybesova/2073092940",
-    "id": "2073092940"
-  },
-  {
     "header": "Pronájem bytu 2+1 64 m²",
     "Address": "Antonínská, Brno - Veveří",
     "Price": "21 000 Kč/měsíc",
@@ -145,5 +138,12 @@
     "Price": "23 900 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-stare-brno-hybesova/2584519500",
     "id": "2584519500"
+  },
+  {
+    "header": "Pronájem bytu 2+1 50 m²",
+    "Address": "Václavská, Brno - Staré Brno",
+    "Price": "21 900 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-stare-brno-vaclavska/1024238412",
+    "id": "1024238412"
   }
 ]
