@@ -1,5 +1,26 @@
 [
   {
+    "header": "Pronájem bytu 3+1 54 m²",
+    "Address": "Bieblova, Brno - Černá Pole",
+    "Price": "22 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-cerna-pole-bieblova/3980976972",
+    "id": "3980976972"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 102 m²",
+    "Address": "Jiráskova, Brno - Veveří",
+    "Price": "28 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-veveri-jiraskova/2963792716",
+    "id": "2963792716"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 102 m²",
+    "Address": "Lidická, Brno - Veveří",
+    "Price": "24 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-veveri-lidicka/3772244812",
+    "id": "3772244812"
+  },
+  {
     "header": "Pronájem bytu 3+kk 170 m²",
     "Address": "Zemědělská, Brno - Černá Pole",
     "Price": "46 000 Kč/měsíc",
@@ -114,7 +135,7 @@
   {
     "header": "Pronájem bytu 3+1 97 m²",
     "Address": "Čápkova, Brno - Veveří",
-    "Price": "32 400 Kč/měsíc",
+    "Price": "30 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-veveri-capkova/3041522508",
     "id": "3041522508"
   },
@@ -124,26 +145,5 @@
     "Price": "24 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-lisen-vlkova/2686968652",
     "id": "2686968652"
-  },
-  {
-    "header": "Pronájem bytu 2+1 54 m²",
-    "Address": "Vlárská, Brno - Slatina",
-    "Price": "17 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-slatina-vlarska/2388124492",
-    "id": "2388124492"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 86 m²",
-    "Address": "Košinova, Brno - Královo Pole",
-    "Price": "32 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-kralovo-pole-kosinova/5956428",
-    "id": "5956428"
-  },
-  {
-    "header": "Pronájem bytu 2+1 56 m²",
-    "Address": "Loosova, Brno - Lesná",
-    "Price": "17 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-lesna-loosova/2705843020",
-    "id": "2705843020"
   }
 ]
