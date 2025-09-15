@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 103 m²",
+    "Address": "Štolcova, Brno - Černovice",
+    "Price": "35 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-cernovice-stolcova/1238299468",
+    "id": "1238299468"
+  },
+  {
     "header": "Pronájem bytu 2+1 45 m²",
     "Address": "Přízova, Brno - Trnitá",
     "Price": "19 000 Kč/měsíc",
@@ -138,12 +145,5 @@
     "Price": "16 900 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-stare-brno-vaclavska/802485068",
     "id": "802485068"
-  },
-  {
-    "header": "Pronájem bytu 3+1 64 m²",
-    "Address": "Prušánecká, Brno - Židenice",
-    "Price": "22 990 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-zidenice-prusanecka/2432623436",
-    "id": "2432623436"
   }
 ]
