@@ -1,17 +1,24 @@
 [
   {
-    "header": "Pronájem bytu 3+1 92 m²",
-    "Address": "Teyschlova, Brno - Bystrc",
-    "Price": "23 500 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-bystrc-teyschlova/1461183308",
-    "id": "1461183308"
-  },
-  {
     "header": "Pronájem bytu 3+kk 122 m²",
     "Address": "Merhautova, Brno - Černá Pole",
     "Price": "26 990 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-cerna-pole-merhautova/2571825996",
     "id": "2571825996"
+  },
+  {
+    "header": "Pronájem bytu 3+1 72 m²",
+    "Address": "Jaselská, Brno - Veveří",
+    "Price": "25 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-veveri-jaselska/1104147276",
+    "id": "1104147276"
+  },
+  {
+    "header": "Pronájem bytu 3+1 92 m²",
+    "Address": "Teyschlova, Brno - Bystrc",
+    "Price": "23 500 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-bystrc-teyschlova/1461183308",
+    "id": "1461183308"
   },
   {
     "header": "Pronájem bytu 3+kk 96 m²",
@@ -63,13 +70,6 @@
     "id": "2205348684"
   },
   {
-    "header": "Pronájem bytu 3+1 72 m²",
-    "Address": "Jaselská, Brno - Veveří",
-    "Price": "25 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-veveri-jaselska/1104147276",
-    "id": "1104147276"
-  },
-  {
     "header": "Pronájem bytu 3+kk 73 m²",
     "Address": "Neumannova, Brno - Pisárky",
     "Price": "36 000 Kč/měsíc",
@@ -110,13 +110,6 @@
     "Price": "36 090 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zabrdovice-bratislavska/3010061132",
     "id": "3010061132"
-  },
-  {
-    "header": "Ideální adresa v Olomouci",
-    "Address": "Ranní káva na balkóně? Pěšky na nákup i za kulturou? Novotou vonící byt na Šibeníku to má.",
-    "Price": "JTH Group a.s.",
-    "link": "https://a.seznam.cz/v2/click?spotId=4003059&d=9IYFTDP3IW3HQF8E7J8H75Z25QASGJJ72KQGS4Z2V9VV4AHXUR264VDYQ84YNYUTJ3AEZNTFRMIBRBFM5S35C39M6XK2A9ASFQ2MM5XDXBW3JJRWTYTWGEHYDFTVUH8AZFBQJXASJIGP4E2HI5ZGC3HPZFRKVG7ZEIC9B8BZZADZQKX7Y2FTJDVQRYG8JYC6K3R8FZJ5V7D2GVR3IXJ7DXH8JQFQZWG3HDBKKEKZ5V9Q9F5YXZ3SD8K499N3CFJXXRAGTKB67YM575VQQGHU7EW8A77DD5GTRCJADWJWU4T5H4DSIVW79M2QX5NBWYDQZKNH55GXD72DJE2XIFDHR7JXSNMIZAZJ53EKXK8VQX883GA&destination=https%3A//bytysibenik.cz/cs/",
-    "id": ""
   },
   {
     "header": "Pronájem bytu 3+1 150 m²",
