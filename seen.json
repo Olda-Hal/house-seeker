@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+1 80 m²",
+    "Address": "Bohuslava Martinů, Brno - Stránice",
+    "Price": "33 500 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-stranice-bohuslava-martinu/843637580",
+    "id": "843637580"
+  },
+  {
     "header": "Pronájem bytu 3+kk 49 m²",
     "Address": "Příkop, Brno - Zábrdovice",
     "Price": "22 600 Kč/měsíc",
@@ -131,12 +138,5 @@
     "Price": "23 900 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-stare-brno-hybesova/2584519500",
     "id": "2584519500"
-  },
-  {
-    "header": "Pronájem bytu 2+1 50 m²",
-    "Address": "Václavská, Brno - Staré Brno",
-    "Price": "21 900 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-stare-brno-vaclavska/1024238412",
-    "id": "1024238412"
   }
 ]
