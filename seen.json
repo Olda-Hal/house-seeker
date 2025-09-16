@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 99 m²",
+    "Address": "Řehořova, Brno - Černovice",
+    "Price": "35 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-cernovice-rehorova/771552076",
+    "id": "771552076"
+  },
+  {
     "header": "Pronájem bytu 3+kk 72 m²",
     "Address": "Řehořova, Brno - Černovice",
     "Price": "18 500 Kč/měsíc",
@@ -131,12 +138,5 @@
     "Price": "35 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-cernovice-stolcova/1238299468",
     "id": "1238299468"
-  },
-  {
-    "header": "Pronájem bytu 2+1 45 m²",
-    "Address": "Přízova, Brno - Trnitá",
-    "Price": "19 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-trnita-prizova/3367101260",
-    "id": "3367101260"
   }
 ]
