@@ -1,5 +1,26 @@
 [
   {
+    "header": "Pronájem bytu 2+1 63 m²",
+    "Address": "Elgartova, Brno - Husovice",
+    "Price": "18 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-husovice-elgartova/3955942220",
+    "id": "3955942220"
+  },
+  {
+    "header": "Pronájem bytu 3+1 78 m²",
+    "Address": "Okrouhlá, Brno",
+    "Price": "19 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-brno-okrouhla/3852919628",
+    "id": "3852919628"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 73 m²",
+    "Address": "Neumannova, Brno - Pisárky",
+    "Price": "36 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-pisarky-neumannova/2085544780",
+    "id": "2085544780"
+  },
+  {
     "header": "Pronájem bytu 2+1 53 m²",
     "Address": "Úvoz, Brno - Veveří",
     "Price": "18 500 Kč/měsíc",
@@ -117,26 +138,5 @@
     "Price": "18 900 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-stare-brno-hybesova/1581310796",
     "id": "1581310796"
-  },
-  {
-    "header": "Pronájem bytu 2+1 40 m²",
-    "Address": "Hybešova, Brno - Staré Brno",
-    "Price": "18 900 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-stare-brno-hybesova/1720054604",
-    "id": "1720054604"
-  },
-  {
-    "header": "Pronájem bytu 2+1 34 m²",
-    "Address": "Václavská, Brno - Staré Brno",
-    "Price": "17 900 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-stare-brno-vaclavska/2541024076",
-    "id": "2541024076"
-  },
-  {
-    "header": "Pronájem bytu 2+1 34 m²",
-    "Address": "Hybešova, Brno - Staré Brno",
-    "Price": "18 900 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-stare-brno-hybesova/3295998796",
-    "id": "3295998796"
   }
 ]
