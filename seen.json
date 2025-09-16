@@ -7,6 +7,20 @@
     "id": "1724310348"
   },
   {
+    "header": "Pronájem bytu 3+kk 110 m²",
+    "Address": "Tábor, Brno - Žabovřesky",
+    "Price": "32 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zabovresky-tabor/3547329356",
+    "id": "3547329356"
+  },
+  {
+    "header": "Pronájem bytu 2+1 46 m²",
+    "Address": "Brno",
+    "Price": "15 900 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-brno-/4092781388",
+    "id": "4092781388"
+  },
+  {
     "header": "Pronájem bytu 3+kk 103 m²",
     "Address": "Štolcova, Brno - Černovice",
     "Price": "35 000 Kč/měsíc",
@@ -124,19 +138,5 @@
     "Price": "18 900 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-stare-brno-hybesova/3295998796",
     "id": "3295998796"
-  },
-  {
-    "header": "Pronájem bytu 2+1 36 m²",
-    "Address": "Hybešova, Brno - Staré Brno",
-    "Price": "18 900 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-stare-brno-hybesova/729084748",
-    "id": "729084748"
-  },
-  {
-    "header": "Pronájem bytu 3+1 49 m²",
-    "Address": "Hybešova, Brno - Staré Brno",
-    "Price": "26 900 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-stare-brno-hybesova/1069871948",
-    "id": "1069871948"
   }
 ]
