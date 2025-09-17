@@ -42,13 +42,6 @@
     "id": "2261050188"
   },
   {
-    "header": "Pronájem bytu 2+1 75 m²",
-    "Address": "Mrkosova, Brno - Židenice",
-    "Price": "21 500 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-zidenice-mrkosova/3490964300",
-    "id": "3490964300"
-  },
-  {
     "header": "Pronájem bytu 3+kk 96 m²",
     "Address": "Příkop, Brno - Zábrdovice",
     "Price": "27 000 Kč/měsíc",
@@ -138,5 +131,12 @@
     "Price": "25 500 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-cerna-pole-alesova/486859596",
     "id": "486859596"
+  },
+  {
+    "header": "Pronájem bytu 2+1 70 m²",
+    "Address": "Slepá, Brno - Černá Pole",
+    "Price": "21 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-cerna-pole-slepa/1336468300",
+    "id": "1336468300"
   }
 ]
