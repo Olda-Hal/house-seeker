@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 2+1 63 m²",
+    "Address": "Bayerova, Brno - Veveří",
+    "Price": "17 900 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-veveri-bayerova/65725260",
+    "id": "65725260"
+  },
+  {
     "header": "Pronájem bytu 2+1 45 m²",
     "Address": "Francouzská, Brno - Zábrdovice",
     "Price": "16 000 Kč/měsíc",
@@ -131,12 +138,5 @@
     "Price": "18 900 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-stare-brno-hybesova/1581310796",
     "id": "1581310796"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 82 m²",
-    "Address": "Zeiberlichova, Brno - Soběšice",
-    "Price": "35 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-sobesice-zeiberlichova/878764876",
-    "id": "878764876"
   }
 ]
