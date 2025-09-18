@@ -138,5 +138,54 @@
     "Price": "20 900 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-zabovresky-vychodilova/2076500812",
     "id": "2076500812"
+  },
+  {
+    "header": "PRONÁJEM BYTU 2+1 56 m²",
+    "Address": "Ježkova, Brno - Lesná, Jihomoravský kraj",
+    "Price": "24 000 Kč+ 4 000 Kč",
+    "link": "https://www.bezrealitky.cz/nemovitosti-byty-domy/941290-nabidka-pronajem-bytu-jezkova-brno",
+    "id": "941290"
+  },
+  {
+    "header": "PRONÁJEM BYTU 3+1 69 m²",
+    "Address": "Chlupova, Brno - Ponava, Jihomoravský kraj",
+    "Price": "24 000 Kč+ 5 500 Kč",
+    "link": "https://www.bezrealitky.cz/nemovitosti-byty-domy/946093-nabidka-pronajem-bytu-chlupova-brno",
+    "id": "946093"
+  },
+  {
+    "header": "PRONÁJEM BYTU 3+1 75 m²",
+    "Address": "Pod Nemocnicí, Brno - Bohunice, Jihomoravský kraj",
+    "Price": "27 000 Kč+ 6 000 Kč",
+    "link": "https://www.bezrealitky.cz/nemovitosti-byty-domy/767992-nabidka-pronajem-bytu-pod-nemocnici-brno",
+    "id": "767992"
+  },
+  {
+    "header": "PRONÁJEM BYTU 3+kk 81 m²",
+    "Address": "Bendlova, Brno - Černá Pole, Jihomoravský kraj",
+    "Price": "24 000 Kč+ 5 500 Kč",
+    "link": "https://www.bezrealitky.cz/nemovitosti-byty-domy/575365-nabidka-pronajem-bytu-bendlova-brno",
+    "id": "575365"
+  },
+  {
+    "header": "PRONÁJEM BYTU 3+1 72 m²",
+    "Address": "Ježkova, Brno - Lesná, Jihomoravský kraj",
+    "Price": "22 000 Kč+ 5 100 Kč",
+    "link": "https://www.bezrealitky.cz/nemovitosti-byty-domy/944752-nabidka-pronajem-bytu-jezkova-brno",
+    "id": "944752"
+  },
+  {
+    "header": "PRONÁJEM BYTU 2+1 60 m²",
+    "Address": "Vodova, Brno - Královo Pole, Jihomoravský kraj",
+    "Price": "19 000 Kč+ 5 300 Kč",
+    "link": "https://www.bezrealitky.cz/nemovitosti-byty-domy/800689-nabidka-pronajem-bytu-vodova-brno",
+    "id": "800689"
+  },
+  {
+    "header": "PRONÁJEM BYTU 2+1 62 m²",
+    "Address": "Teyschlova, Brno - Bystrc, Jihomoravský kraj",
+    "Price": "16 000 Kč+ 4 000 Kč",
+    "link": "No Link",
+    "id": "No ID"
   }
 ]
