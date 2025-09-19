@@ -119,6 +119,13 @@
     "id": "5956428"
   },
   {
+    "header": "Pronájem bytu 3+1 74 m²",
+    "Address": "Ondrouškova, Brno - Bystrc",
+    "Price": "17 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-bystrc-ondrouskova/749003596",
+    "id": "749003596"
+  },
+  {
     "header": "Pronájem bytu 3+1 77 m²",
     "Address": "Hochmanova, Brno - Líšeň",
     "Price": "20 000 Kč/měsíc",
@@ -138,12 +145,5 @@
     "Price": "21 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-slatina-prostejovska/312140620",
     "id": "312140620"
-  },
-  {
-    "header": "Pronájem bytu 3+1 70 m²",
-    "Address": "Vychodilova, Brno - Žabovřesky",
-    "Price": "20 900 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-zabovresky-vychodilova/2076500812",
-    "id": "2076500812"
   }
 ]
