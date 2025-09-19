@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 170 m²",
+    "Address": "Zemědělská, Brno - Černá Pole",
+    "Price": "46 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-cerna-pole-zemedelska/51635020",
+    "id": "51635020"
+  },
+  {
     "header": "Pronájem bytu 3+1 73 m²",
     "Address": "Strnadova, Brno - Líšeň",
     "Price": "21 000 Kč/měsíc",
@@ -138,12 +145,5 @@
     "Price": "29 900 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-ponava-stredni/2389365580",
     "id": "2389365580"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 82 m²",
-    "Address": "Kopečná, Brno - Staré Brno",
-    "Price": "30 700 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-stare-brno-kopecna/768193356",
-    "id": "768193356"
   }
 ]
