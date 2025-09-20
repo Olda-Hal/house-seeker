@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 2+1 52 m²",
+    "Address": "Škrochova, Brno - Židenice",
+    "Price": "18 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-zidenice-skrochova/3498369868",
+    "id": "3498369868"
+  },
+  {
     "header": "Pronájem bytu 3+kk 88 m²",
     "Address": "Bratislavská, Brno - Zábrdovice",
     "Price": "36 090 Kč/měsíc",
@@ -112,13 +119,6 @@
     "id": "3157971788"
   },
   {
-    "header": "Ideální adresa v Olomouci",
-    "Address": "Ranní káva na balkóně? Pěšky na nákup i za kulturou? Novotou vonící byt na Šibeníku to má.",
-    "Price": "JTH Group a.s.",
-    "link": "https://a.seznam.cz/v2/click?spotId=4003059&d=AZ7U9ZNANNYGGYUEZYJT5WRFKN8UAY3MEA3MAF29NGT849AW8YN6K6Z9ATMRB2ZJ3YKYE9YI4Q64IWRWTQVA2WWUQYYB53SR4IDCZVVWWXHTPUGUT2ADI8YJSMAYIRVZMNSFRJ4IZ4XZ8RYKCQP6RRD2FUF99YM4MXZM8Y5EIYZD2WYTKCBWWG7A38DVFICST9BWYBN7U94R8EPWGP84U6AS4G38EFD54K8UEH98TCECDRWVJ9ZD2X9ADQ6Q7CBQJMSBPRCYWWUGVFQEEUB7MCSCQZ9SIKRIV632SDF7RJYUCZ4ETS7V4YC6WEHZY88KRU2AD2SDWIKJXSBDX9HRJ4G8DKDV37PN26BUT5M7IVMQW&destination=https%3A//bytysibenik.cz/cs/",
-    "id": ""
-  },
-  {
     "header": "Pronájem bytu 3+kk 80 m²",
     "Address": "Veselá, Brno - Brno-město",
     "Price": "22 500 Kč/měsíc",
@@ -145,12 +145,5 @@
     "Price": "23 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zabrdovice-stara/3207254860",
     "id": "3207254860"
-  },
-  {
-    "header": "Pronájem bytu 2+1 52 m²",
-    "Address": "Křídlovická, Brno - Staré Brno",
-    "Price": "18 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-stare-brno-kridlovicka/3941004108",
-    "id": "3941004108"
   }
 ]
