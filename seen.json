@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 2+1 52 m²",
+    "Address": "Jožky Jabůrkové, Brno - Komín",
+    "Price": "19 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-komin-jozky-jaburkove/3447845708",
+    "id": "3447845708"
+  },
+  {
     "header": "Pronájem bytu 3+kk 110 m²",
     "Address": "Tábor, Brno - Žabovřesky",
     "Price": "32 000 Kč/měsíc",
@@ -138,12 +145,5 @@
     "Price": "36 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-pisarky-neumannova/2085544780",
     "id": "2085544780"
-  },
-  {
-    "header": "Pronájem bytu 2+1 56 m²",
-    "Address": "Ježkova, Brno - Lesná",
-    "Price": "24 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-lesna-jezkova/3282232140",
-    "id": "3282232140"
   }
 ]
