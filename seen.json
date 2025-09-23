@@ -1,5 +1,19 @@
 [
   {
+    "header": "Pronájem bytu 2+1 69 m²",
+    "Address": "Kobližná, Brno - Brno-město",
+    "Price": "30 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-brno-mesto-koblizna/2508649292",
+    "id": "2508649292"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 73 m²",
+    "Address": "Šmahova, Brno - Slatina",
+    "Price": "22 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-slatina-smahova/2921321292",
+    "id": "2921321292"
+  },
+  {
     "header": "Pronájem bytu 3+kk 73 m²",
     "Address": "Koperníkova, Brno - Židenice",
     "Price": "27 000 Kč/měsíc",
@@ -105,13 +119,6 @@
     "id": "3667493708"
   },
   {
-    "header": "Ideální adresa v Olomouci",
-    "Address": "Ranní káva na balkóně? Pěšky na nákup i za kulturou? Novotou vonící byt na Šibeníku to má.",
-    "Price": "JTH Group a.s.",
-    "link": "https://a.seznam.cz/v2/click?spotId=4003059&d=3EJXHIN2R79MNI33W5M8GAWJBCE3DUEQY5MBETK7KTCZGQ9JMARD8B2K9DB8CJCND73IQ5WS27B35BIJ7UTG6U3K3HXGNAEZA32KMP3EIEZ4HW6Y5A39P3T6VUM5EYWDIGFXMW6RBADE79QFJMGK3Q2SBM7R89ESW6HJI6BJ7FVXY8S3EIXCG8RTWXA5FIKPZB6TFXIFJNI9G76SJNV97R7QU65IYC7XHVYSVB3DVI6I5DRSSYJRCRHDQP97I9XASJJSQDXJV7W8TWKYTX655CEKUZ3F9DMC5HERK6YK9RYDZ7XNJR2SY4Q7C3TQJX385E87S9PEHZ6P59VZFG7DA5KB22ZCW9SZS939ADI7A6G8FAS&destination=https%3A//bytysibenik.cz/cs/",
-    "id": ""
-  },
-  {
     "header": "Pronájem bytu 3+1 85 m²",
     "Address": "Tábor, Brno - Ponava",
     "Price": "27 500 Kč/měsíc",
@@ -131,19 +138,5 @@
     "Price": "27 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zabrdovice-prikop/2749731660",
     "id": "2749731660"
-  },
-  {
-    "header": "Pronájem bytu 2+1 52 m²",
-    "Address": "bratří Čapků, Brno - Veveří",
-    "Price": "25 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-veveri-bratri-capku/209052492",
-    "id": "209052492"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 65 m²",
-    "Address": "Alešova, Brno - Černá Pole",
-    "Price": "25 500 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-cerna-pole-alesova/486859596",
-    "id": "486859596"
   }
 ]
