@@ -1,10 +1,24 @@
 [
   {
+    "header": "Pronájem bytu 2+1 71 m²",
+    "Address": "Došlíkova, Brno - Židenice",
+    "Price": "21 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-zidenice-doslikova/1794102092",
+    "id": "1794102092"
+  },
+  {
     "header": "Pronájem bytu 2+1 69 m²",
     "Address": "Kobližná, Brno - Brno-město",
     "Price": "30 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-brno-mesto-koblizna/2508649292",
     "id": "2508649292"
+  },
+  {
+    "header": "Pronájem bytu 3+1 86 m²",
+    "Address": "V Újezdech, Brno - Medlánky",
+    "Price": "25 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-medlanky-v-ujezdech/3488600908",
+    "id": "3488600908"
   },
   {
     "header": "Pronájem bytu 3+kk 73 m²",
@@ -124,19 +138,5 @@
     "Price": "27 500 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-ponava-tabor/4015317836",
     "id": "4015317836"
-  },
-  {
-    "header": "Pronájem bytu 3+1 97 m²",
-    "Address": "Čápkova, Brno - Veveří",
-    "Price": "30 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-veveri-capkova/3041522508",
-    "id": "3041522508"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 96 m²",
-    "Address": "Příkop, Brno - Zábrdovice",
-    "Price": "27 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zabrdovice-prikop/2749731660",
-    "id": "2749731660"
   }
 ]
