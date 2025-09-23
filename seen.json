@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 2+1 52 m²",
+    "Address": "Křídlovická, Brno - Staré Brno",
+    "Price": "16 900 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-stare-brno-kridlovicka/3941004108",
+    "id": "3941004108"
+  },
+  {
     "header": "Pronájem bytu 3+1 96 m²",
     "Address": "Hlinky, Brno - Staré Brno",
     "Price": "18 000 Kč/měsíc",
@@ -131,12 +138,5 @@
     "Price": "28 500 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-veveri-botanicka/4294894412",
     "id": "4294894412"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 75 m²",
-    "Address": "Střední, Brno - Ponava",
-    "Price": "29 900 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-ponava-stredni/2389365580",
-    "id": "2389365580"
   }
 ]
