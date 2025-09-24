@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 2+1 50 m²",
+    "Address": "Veslařská, Brno",
+    "Price": "22 500 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-brno-veslarska/308474700",
+    "id": "308474700"
+  },
+  {
     "header": "Pronájem bytu 3+1 71 m²",
     "Address": "Chládkova, Brno - Žabovřesky",
     "Price": "27 000 Kč/měsíc",
@@ -138,12 +145,5 @@
     "Price": "27 500 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-styrice-renneska-trida/2083775308",
     "id": "2083775308"
-  },
-  {
-    "header": "Pronájem bytu 2+1 52 m²",
-    "Address": "Křídlovická, Brno - Staré Brno",
-    "Price": "16 900 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-stare-brno-kridlovicka/3941004108",
-    "id": "3941004108"
   }
 ]
