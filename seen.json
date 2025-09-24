@@ -14,6 +14,13 @@
     "id": "3941004108"
   },
   {
+    "header": "Pronájem bytu 2+1 54 m²",
+    "Address": "Provazníkova, Brno - Černá Pole",
+    "Price": "24 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-cerna-pole-provaznikova/230675276",
+    "id": "230675276"
+  },
+  {
     "header": "Pronájem bytu 3+1 96 m²",
     "Address": "Hlinky, Brno - Staré Brno",
     "Price": "18 000 Kč/měsíc",
@@ -105,6 +112,13 @@
     "id": "3755336524"
   },
   {
+    "header": "Bydlet ve vlastním?",
+    "Address": "Samozřejmě můžete. Splňte si sen o vlastním bydlení s naší hypotékou bez čekání.",
+    "Price": "Raiffeisenbank",
+    "link": "https://a.seznam.cz/v2/click?spotId=4022677&d=SZK3NJXBPYQGKHV8XSXKU7S458G7HGFSB6CI3HCC77JCZRZN9YHHSKVZH8M5IMRVQ5MGJBPH8IHR9VUIMD2JUNXHRQEV3TFNY5MM35VYWICFNCT75GSYW5PYQY7X9B8NN57CBHGR4XMNSAQ552UK9EJRF8QKWGGY65YTHKQJRDTRKR8VE3JNPPE5GZ458PT8IF39TWJ9E3B8HFCHSWAIR7WV4ETX98F7755CUVPK9BIV6EEAMW2MIQRZWK8AF8VD7RCCDWF29HQCY5IME3VEF5M7ZHWSH8IQWJIQC4A6XDW59XHCDVVXJZJGSJV6XNVFD574Y6KAG3V5TFV3D4TBHB8FFWFIBPRMU4HG644FJE&destination=https%3A//track.adform.net/C/%3Fbn%3D83948482",
+    "id": "%3Fbn%3D83948482"
+  },
+  {
     "header": "Pronájem bytu 3+kk 75 m²",
     "Address": "Jana Uhra, Brno - Veveří",
     "Price": "24 000 Kč/měsíc",
@@ -138,12 +152,5 @@
     "Price": "23 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-cerna-pole-trida-kpt-jarose/3715093324",
     "id": "3715093324"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 82 m²",
-    "Address": "Botanická, Brno - Veveří",
-    "Price": "28 500 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-veveri-botanicka/4294894412",
-    "id": "4294894412"
   }
 ]
