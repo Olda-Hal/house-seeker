@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+1 71 m²",
+    "Address": "Chládkova, Brno - Žabovřesky",
+    "Price": "27 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-zabovresky-chladkova/180024140",
+    "id": "180024140"
+  },
+  {
     "header": "Pronájem bytu 2+1 73 m²",
     "Address": "Horácké náměstí, Brno - Řečkovice",
     "Price": "23 000 Kč/měsíc",
@@ -138,12 +145,5 @@
     "Price": "16 900 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-stare-brno-kridlovicka/3941004108",
     "id": "3941004108"
-  },
-  {
-    "header": "Pronájem bytu 2+1 54 m²",
-    "Address": "Provazníkova, Brno - Černá Pole",
-    "Price": "24 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-cerna-pole-provaznikova/230675276",
-    "id": "230675276"
   }
 ]
