@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+1 80 m²",
+    "Address": "Bohuslava Martinů, Brno - Stránice",
+    "Price": "33 500 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-stranice-bohuslava-martinu/843637580",
+    "id": "843637580"
+  },
+  {
     "header": "Pronájem bytu 3+1 75 m²",
     "Address": "Grohova, Brno - Veveří",
     "Price": "28 000 Kč/měsíc",
@@ -131,12 +138,5 @@
     "Price": "19 900 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-bystrc-cerneho/2612974412",
     "id": "2612974412"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 65 m²",
-    "Address": "Alešova, Brno - Černá Pole",
-    "Price": "25 500 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-cerna-pole-alesova/486859596",
-    "id": "486859596"
   }
 ]
