@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 65 m²",
+    "Address": "Alešova, Brno - Černá Pole",
+    "Price": "25 500 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-cerna-pole-alesova/486859596",
+    "id": "486859596"
+  },
+  {
     "header": "Pronájem bytu 3+kk 74 m²",
     "Address": "Fryčajova, Brno - Obřany",
     "Price": "23 800 Kč/měsíc",
@@ -131,12 +138,5 @@
     "Price": "18 900 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-stare-brno-hybesova/1581310796",
     "id": "1581310796"
-  },
-  {
-    "header": "Pronájem bytu 2+1 32 m²",
-    "Address": "Hybešova, Brno - Staré Brno",
-    "Price": "17 900 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-stare-brno-hybesova/1749082956",
-    "id": "1749082956"
   }
 ]
