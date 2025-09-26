@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 66 m²",
+    "Address": "Renneská třída, Brno - Štýřice",
+    "Price": "27 500 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-styrice-renneska-trida/2083775308",
+    "id": "2083775308"
+  },
+  {
     "header": "Pronájem bytu 2+1 62 m²",
     "Address": "Adamcova, Brno - Bystrc",
     "Price": "20 590 Kč/měsíc",
@@ -131,12 +138,5 @@
     "Price": "16 900 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-stare-brno-/3753243468",
     "id": "3753243468"
-  },
-  {
-    "header": "Pronájem bytu 2+1 40 m²",
-    "Address": "Hybešova, Brno - Staré Brno",
-    "Price": "18 900 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-stare-brno-hybesova/1720054604",
-    "id": "1720054604"
   }
 ]
