@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 2+1 60 m²",
+    "Address": "třída Kpt. Jaroše, Brno - Černá Pole",
+    "Price": "19 900 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-cerna-pole-trida-kpt-jarose/35644236",
+    "id": "35644236"
+  },
+  {
     "header": "Pronájem bytu 3+1 97 m²",
     "Address": "Čápkova, Brno - Veveří",
     "Price": "30 000 Kč/měsíc",
@@ -47,13 +54,6 @@
     "Price": "27 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-stare-brno-nove-sady/3154105164",
     "id": "3154105164"
-  },
-  {
-    "header": "Plánování kuchyně zdarma",
-    "Address": "Naplánujte si s námi perfektní kuchyni! Domluvte si nezávazný termín‼",
-    "Price": "XXXLutz Česká republika",
-    "link": "https://a.seznam.cz/v2/click?spotId=4007351&d=DVAP2SSWT7PAR8BEY5FY6JFUZXUKX99BKCWMTTSEK2M5JJMSTR7CU6AZR6G2J9MVQSVJI7J87XRSWAJ7EPPSFCTSUUM3HI9UJHN4VMT8DSJC2PXAR6AVKZF8YA434RMAJS8JAP5SZZGDP92I7NSR5Z24CE62JI3AN2NJCZPZIT6XI4GUCPSMJS2YKTGID59QZMBM3Z9GVRPZW3T554JSI3MAV8PPQNUCM3J8PXQY9FTRNSYXDDB62KHXJAW8ERZN6ERA7H7B5MIWRSRBJWMCCFC4J4YJNRCHHQJENJ5S9NYDKPMB38ZSHRF7KFPNMA32YW8Q73CQ7XY82SY45ABZM3WZG2RKQAE28XZQV96DF4WG8&destination=https%3A//www.xxxlutz.cz/c/basic-kuchyne",
-    "id": "basic-kuchyne"
   },
   {
     "header": "Pronájem bytu 2+1 62 m²",
@@ -138,12 +138,5 @@
     "Price": "39 500 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zidenice-hroznatova/569590348",
     "id": "569590348"
-  },
-  {
-    "header": "Pronájem bytu 3+1 70 m²",
-    "Address": "Vychodilova, Brno - Žabovřesky",
-    "Price": "20 900 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-zabovresky-vychodilova/2076500812",
-    "id": "2076500812"
   }
 ]
