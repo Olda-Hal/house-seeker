@@ -1,5 +1,19 @@
 [
   {
+    "header": "Pronájem bytu 3+1 75 m²",
+    "Address": "Brno - Brno-Maloměřice a Obřany",
+    "Price": "21 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-brno-malomerice-a-obrany-/1609794380",
+    "id": "1609794380"
+  },
+  {
+    "header": "Pronájem bytu 3+1 75 m²",
+    "Address": "Chodská, Brno - Královo Pole",
+    "Price": "25 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-kralovo-pole-chodska/888918860",
+    "id": "888918860"
+  },
+  {
     "header": "Pronájem bytu 2+1 65 m²",
     "Address": "Mášova, Brno - Veveří",
     "Price": "23 000 Kč/měsíc",
@@ -131,19 +145,5 @@
     "Price": "26 900 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-stare-brno-hybesova/1069871948",
     "id": "1069871948"
-  },
-  {
-    "header": "Pronájem bytu 2+1 45 m²",
-    "Address": "Václavská, Brno - Staré Brno",
-    "Price": "16 900 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-stare-brno-vaclavska/802485068",
-    "id": "802485068"
-  },
-  {
-    "header": "Pronájem bytu 2+1 40 m²",
-    "Address": "Hybešova, Brno - Staré Brno",
-    "Price": "17 900 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-stare-brno-hybesova/2084627276",
-    "id": "2084627276"
   }
 ]
