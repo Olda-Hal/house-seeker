@@ -1,8 +1,36 @@
 [
   {
-    "header": "Pronájem bytu 3+1 75 m²",
+    "header": "Pronájem bytu 3+kk 68 m²",
+    "Address": "Vídeňská, Brno - Přízřenice",
+    "Price": "17 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-prizrenice-videnska/854774604",
+    "id": "854774604"
+  },
+  {
+    "header": "Pronájem bytu 3+1 97 m²",
+    "Address": "Čápkova, Brno - Veveří",
+    "Price": "30 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-veveri-capkova/3041522508",
+    "id": "3041522508"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 96 m²",
+    "Address": "Příkop, Brno - Zábrdovice",
+    "Price": "27 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zabrdovice-prikop/2749731660",
+    "id": "2749731660"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 65 m²",
+    "Address": "Alešova, Brno - Černá Pole",
+    "Price": "25 500 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-cerna-pole-alesova/486859596",
+    "id": "486859596"
+  },
+  {
+    "header": "SLEVA: Pronájem bytu 3+1 75 m²",
     "Address": "Brno - Brno-Maloměřice a Obřany",
-    "Price": "21 000 Kč/měsíc",
+    "Price": "18 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-brno-malomerice-a-obrany-/1609794380",
     "id": "1609794380"
   },
@@ -117,33 +145,5 @@
     "Price": "18 900 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-stare-brno-hybesova/1720054604",
     "id": "1720054604"
-  },
-  {
-    "header": "Pronájem bytu 2+1 34 m²",
-    "Address": "Hybešova, Brno - Staré Brno",
-    "Price": "18 900 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-stare-brno-hybesova/3295998796",
-    "id": "3295998796"
-  },
-  {
-    "header": "Pronájem bytu 2+1 34 m²",
-    "Address": "Václavská, Brno - Staré Brno",
-    "Price": "16 900 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-stare-brno-vaclavska/2541024076",
-    "id": "2541024076"
-  },
-  {
-    "header": "Pronájem bytu 2+1 36 m²",
-    "Address": "Hybešova, Brno - Staré Brno",
-    "Price": "18 900 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-stare-brno-hybesova/729084748",
-    "id": "729084748"
-  },
-  {
-    "header": "Pronájem bytu 3+1 49 m²",
-    "Address": "Hybešova, Brno - Staré Brno",
-    "Price": "26 900 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-stare-brno-hybesova/1069871948",
-    "id": "1069871948"
   }
 ]
