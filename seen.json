@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 73 m²",
+    "Address": "Trnitá, Brno - Trnitá",
+    "Price": "26 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-trnita-trnita/1735971660",
+    "id": "1735971660"
+  },
+  {
     "header": "Pronájem bytu 3+kk 86 m²",
     "Address": "Košinova, Brno - Královo Pole",
     "Price": "32 000 Kč/měsíc",
@@ -131,12 +138,5 @@
     "Price": "19 290 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-komin-jozky-jaburkove/1566495564",
     "id": "1566495564"
-  },
-  {
-    "header": "Pronájem bytu 2+1 65 m²",
-    "Address": "Brno - Obřany",
-    "Price": "16 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-obrany-/1771230028",
-    "id": "1771230028"
   }
 ]
