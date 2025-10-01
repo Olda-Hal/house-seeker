@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+1 84 m²",
+    "Address": "Teyschlova, Brno - Bystrc",
+    "Price": "23 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-bystrc-teyschlova/3813725004",
+    "id": "3813725004"
+  },
+  {
     "header": "Pronájem bytu 3+kk 162 m²",
     "Address": "Bratislavská, Brno - Zábrdovice",
     "Price": "39 312 Kč/měsíc",
@@ -54,13 +61,6 @@
     "Price": "27 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-stare-brno-nove-sady/3154105164",
     "id": "3154105164"
-  },
-  {
-    "header": "Bydlet ve vlastním?",
-    "Address": "Samozřejmě můžete. Splňte si sen o vlastním bydlení s naší hypotékou bez čekání.",
-    "Price": "Raiffeisenbank",
-    "link": "https://a.seznam.cz/v2/click?spotId=4030831&d=XJU7VECRW3TDG3U8T8HHN98XY2UDQE7VXJFEHTU74MIQTBSNQHXQMB3TF7RNDDYY6VFDQQJ8HTWZGSD53H8Y8Z5UFFNQF4VF29ADAI52BZJBE8PA5R72JEGU9NJBYJU6JY426DINQPZMEZ3G752FZX7IBEJIX2F2FDNFSGDWA3PGDFER732KBXZP82TI6JEV22GU5V843P2YTGQ4GDSMQQCCNGX3Y4EUZQ36WTWQNKJSTAQ82T62FYD3D4R6AMAUJ42TI7Q8SSDPIHGDJBFT8D2Y4IJTKKRZUHAXFQGVM2U44KAI279MQAQR3ZPYFMJ6A3V274FMEXVJ9WUJ44AD2YDRGGEH2UWJFACHM9VTKTXV2&destination=https%3A//track.adform.net/C/%3Fbn%3D83966721",
-    "id": "%3Fbn%3D83966721"
   },
   {
     "header": "Pronájem bytu 2+1 62 m²",
@@ -147,10 +147,31 @@
     "id": "308474700"
   },
   {
-    "header": "Pronájem bytu 2+1 76 m²",
-    "Address": "Purkyňova, Brno - Královo Pole",
-    "Price": "18 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-kralovo-pole-purkynova/3940406092",
-    "id": "3940406092"
+    "header": "PRONÁJEM BYTU 3+kk 72 m²",
+    "Address": "Žabí, Brno - Žebětín, Jihomoravský kraj",
+    "Price": "23 500 Kč+ 6 300 Kč",
+    "link": "https://www.bezrealitky.cz/nemovitosti-byty-domy/686174-nabidka-pronajem-bytu-zabi-brno",
+    "id": "686174"
+  },
+  {
+    "header": "PRONÁJEM BYTU 2+1 55 m²",
+    "Address": "Voříškova, Brno - Kohoutovice, Jihomoravský kraj",
+    "Price": "20 500 Kč+ 4 500 Kč",
+    "link": "https://www.bezrealitky.cz/nemovitosti-byty-domy/589013-nabidka-pronajem-bytu-voriskova-brno",
+    "id": "589013"
+  },
+  {
+    "header": "PRONÁJEM BYTU 2+1 54 m²",
+    "Address": "Vysoká, Brno - Štýřice, Jihomoravský kraj",
+    "Price": "18 000 Kč+ 6 000 Kč",
+    "link": "https://www.bezrealitky.cz/nemovitosti-byty-domy/950301-nabidka-pronajem-bytu-vysoka-brno",
+    "id": "950301"
+  },
+  {
+    "header": "PRONÁJEM BYTU 3+1 70 m²",
+    "Address": "Žitná, Brno - Řečkovice, Jihomoravský kraj",
+    "Price": "22 500 Kč+ 5 000 Kč",
+    "link": "https://www.bezrealitky.cz/nemovitosti-byty-domy/950366-nabidka-pronajem-bytu-zitna-brno",
+    "id": "950366"
   }
 ]
