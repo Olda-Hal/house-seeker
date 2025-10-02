@@ -1,5 +1,19 @@
 [
   {
+    "header": "Pronájem bytu 2+1 52 m²",
+    "Address": "Křídlovická, Brno - Staré Brno",
+    "Price": "16 500 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-stare-brno-kridlovicka/3941004108",
+    "id": "3941004108"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 70 m²",
+    "Address": "Banskobystrická, Brno - Řečkovice",
+    "Price": "21 500 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-reckovice-banskobystricka/1127080780",
+    "id": "1127080780"
+  },
+  {
     "header": "Pronájem bytu 2+1 62 m²",
     "Address": "Masarykova, Brno - Brno-město",
     "Price": "15 000 Kč/měsíc",
@@ -124,19 +138,5 @@
     "Price": "26 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-veveri-grohova/957604684",
     "id": "957604684"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 73 m²",
-    "Address": "Šmahova, Brno - Slatina",
-    "Price": "22 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-slatina-smahova/2921321292",
-    "id": "2921321292"
-  },
-  {
-    "header": "Pronájem bytu 2+1 46 m²",
-    "Address": "Brno",
-    "Price": "15 900 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-brno-/4092781388",
-    "id": "4092781388"
   }
 ]
