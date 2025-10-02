@@ -29,13 +29,6 @@
   },
   {
     "header": "Pronájem bytu 2+1 60 m²",
-    "Address": "Kubešova, Brno - Královo Pole",
-    "Price": "24 500 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-kralovo-pole-kubesova/2929775436",
-    "id": "2929775436"
-  },
-  {
-    "header": "Pronájem bytu 2+1 60 m²",
     "Address": "Bieblova, Brno - Černá Pole",
     "Price": "25 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-cerna-pole-bieblova/2090914636",
@@ -138,5 +131,12 @@
     "Price": "23 900 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-stare-brno-hybesova/2453447500",
     "id": "2453447500"
+  },
+  {
+    "header": "Pronájem bytu 2+1 47 m²",
+    "Address": "Václavská, Brno - Staré Brno",
+    "Price": "20 900 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-stare-brno-vaclavska/3699110732",
+    "id": "3699110732"
   }
 ]
