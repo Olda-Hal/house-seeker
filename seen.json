@@ -1,5 +1,19 @@
 [
   {
+    "header": "Pronájem bytu 2+1 57 m²",
+    "Address": "Merhautova, Brno - Černá Pole",
+    "Price": "15 600 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-cerna-pole-merhautova/1300751180",
+    "id": "1300751180"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 65 m²",
+    "Address": "Dřevařská, Brno - Veveří",
+    "Price": "19 990 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-veveri-drevarska/4109882188",
+    "id": "4109882188"
+  },
+  {
     "header": "Pronájem bytu 2+1 52 m²",
     "Address": "Křídlovická, Brno - Staré Brno",
     "Price": "16 500 Kč/měsíc",
@@ -47,13 +61,6 @@
     "Price": "36 090 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zabrdovice-bratislavska/3010061132",
     "id": "3010061132"
-  },
-  {
-    "header": "Bydlet ve vlastním?",
-    "Address": "Samozřejmě můžete. Splňte si sen o vlastním bydlení s naší hypotékou bez čekání.",
-    "Price": "Raiffeisenbank",
-    "link": "https://a.seznam.cz/v2/click?spotId=4030832&d=TFYQBGHIBYKKTXEJJAF5BKFMZJBHDPTKAD6N8KUTJNNBBWWFN8DJIWPSYA3D9UTWGMACATTIUHWG9BTPEIFBKE42VU77WY95U34KQNWWCT65YM8E6VPVKQTG7AWY3H77WD4AXTN8YDDV24FYUS9MWU3UHTJDAHEBMPHD7QTQHF2746UJ6U3GX49A6ERZ3DCZFQ8GCHIUFEGCYYZMTYA3VBFGUB5RZ2AD6VFIQU2MY3W6C4YCZMRXSHE2G3II85J67FJWI8GZDS9FD95RDJSGRWAMW7F9V6RTSC996EZEC4UPHX9CS5PD8RNMY3AZ33VG5XKR28Y9TRUEA4QHXKYHB6G82FIRG8NRWTPV9HBPRUNZUAI&destination=https%3A//track.adform.net/C/%3Fbn%3D83948482",
-    "id": "%3Fbn%3D83948482"
   },
   {
     "header": "Pronájem bytu 2+1 66 m²",
@@ -131,19 +138,5 @@
     "Price": "33 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-veveri-gorkeho/1127994188",
     "id": "1127994188"
-  },
-  {
-    "header": "Pronájem bytu 3+1 75 m²",
-    "Address": "Grohova, Brno - Veveří",
-    "Price": "26 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-veveri-grohova/3893617484",
-    "id": "3893617484"
-  },
-  {
-    "header": "Pronájem bytu 3+1 75 m²",
-    "Address": "Grohova, Brno - Veveří",
-    "Price": "26 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-veveri-grohova/957604684",
-    "id": "957604684"
   }
 ]
