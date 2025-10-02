@@ -1,5 +1,19 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 79 m²",
+    "Address": "Novodvorská, Brno - Žebětín",
+    "Price": "23 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zebetin-novodvorska/1473434444",
+    "id": "1473434444"
+  },
+  {
+    "header": "Pronájem bytu 3+1 80 m²",
+    "Address": "Teyschlova, Brno - Bystrc",
+    "Price": "20 900 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-bystrc-teyschlova/4289188684",
+    "id": "4289188684"
+  },
+  {
     "header": "Pronájem bytu 2+1 70 m²",
     "Address": "Došlíkova, Brno - Židenice",
     "Price": "21 000 Kč/měsíc",
@@ -105,13 +119,6 @@
     "id": "3010061132"
   },
   {
-    "header": "Přidej se k nám!",
-    "Address": "Spojujeme nemovitosti s lidmi. Udělej změnu ve své kariéře. U nás ti zůstane 100% provize.",
-    "Price": "REALITY PRO RADOST",
-    "link": "https://a.seznam.cz/v2/click?spotId=4030717&d=4CIU73R6SDYTVTM8TJXRXIF6A8A2HS9RSADYCX44UN2VWKYVSEZPXYJGSQNVPSZH5GZ2IFTFFSWD2GDSIBTQ7E2ITBFYEJF8Q6QS93ZDAZDXQBIW44MEPMGF8AKQ79GRNKDSVS5HTCZQDMCFMJRY59GSESA9XDXP6EAJQJG2S4ADMWPRJUUUGMAJZJU9CMUNGW4H7GZP9JJCPCXQDVIQSPMRVHZV2RX7V54XERXH9FTBXV2SF5BUAJECEVHMXQAQE4T84F39ARKFI93DH6J64278YC98ZE4T9BGBDZDU32YWAVQMY3RAC53W4HHYHJKY6S7IDBVPJGQJGZV6KEJ68I8UEPCKTE6UIIVEWRQW5N5FUMHQ&destination=https%3A//www.reality-proradost.cz/realitni-servis-pro-maklere/",
-    "id": ""
-  },
-  {
     "header": "Pronájem bytu 2+1 66 m²",
     "Address": "Veselá, Brno - Brno-město",
     "Price": "21 000 Kč/měsíc",
@@ -131,19 +138,5 @@
     "Price": "30 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-veveri-capkova/3041522508",
     "id": "3041522508"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 96 m²",
-    "Address": "Příkop, Brno - Zábrdovice",
-    "Price": "27 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zabrdovice-prikop/2749731660",
-    "id": "2749731660"
-  },
-  {
-    "header": "Pronájem bytu 3+1 85 m²",
-    "Address": "Tábor, Brno - Ponava",
-    "Price": "27 500 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-ponava-tabor/4015317836",
-    "id": "4015317836"
   }
 ]
