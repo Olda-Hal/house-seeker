@@ -1,5 +1,26 @@
 [
   {
+    "header": "Pronájem bytu 2+1 62 m²",
+    "Address": "Adamcova, Brno - Bystrc",
+    "Price": "20 590 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-bystrc-adamcova/2004280140",
+    "id": "2004280140"
+  },
+  {
+    "header": "Pronájem bytu 2+1 49 m²",
+    "Address": "Křižíkova, Brno - Královo Pole",
+    "Price": "19 990 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-kralovo-pole-krizikova/2870072140",
+    "id": "2870072140"
+  },
+  {
+    "header": "Pronájem bytu 2+1 56 m²",
+    "Address": "Jožky Jabůrkové, Brno - Komín",
+    "Price": "19 290 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-komin-jozky-jaburkove/1566495564",
+    "id": "1566495564"
+  },
+  {
     "header": "Pronájem bytu 2+1 52 m²",
     "Address": "Škrochova, Brno - Židenice",
     "Price": "18 000 Kč/měsíc",
@@ -105,13 +126,6 @@
     "id": "2508649292"
   },
   {
-    "header": "Bydlet ve vlastním?",
-    "Address": "Samozřejmě můžete. Splňte si sen o vlastním bydlení s naší hypotékou bez čekání.",
-    "Price": "Raiffeisenbank",
-    "link": "https://a.seznam.cz/v2/click?spotId=4030831&d=TC8546XWYQ8TJIGGHTV4FCEWYNENPK8YCRHBW7GWN38W5JS9RKY7ZRR8NHAIA2G8SHUD3STSB8GT4NMTS6VG5B9RNKMDQ2XBB4U37JPIZZMTRMQS64G42H2JIUYW7694I7KBJRXGVJE984KMM3VTF2WGUG6SQMWWQ52ZUBGCN7FSR3RECEVJA2P8B2P7J62FKCF9YCJ9SWFT5D3Q62P9PKNWKZ7GA8RR2VKKWZZDGSTFHMSCKSEFCRXM9YZHHSXDGHVJKAK77BRD725R3UJTDRT56AP72IPZMH8YHK8CTNWNJ9HB6T7KK6A6X6NBQ98QI295B3WQ3JGJXEJUICTVDUSDU42CJ8FMJ57SF8S8EX5MB2I&destination=https%3A//track.adform.net/C/%3Fbn%3D83966721",
-    "id": "%3Fbn%3D83966721"
-  },
-  {
     "header": "Pronájem bytu 3+1 111 m²",
     "Address": "Berkova, Brno - Královo Pole",
     "Price": "5 000 Kč/měsíc",
@@ -124,26 +138,5 @@
     "Price": "25 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-ponava-ptasinskeho/1255179084",
     "id": "1255179084"
-  },
-  {
-    "header": "Pronájem bytu 2+1 73 m²",
-    "Address": "Jana Uhra, Brno - Veveří",
-    "Price": "25 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-veveri-jana-uhra/2562446156",
-    "id": "2562446156"
-  },
-  {
-    "header": "Pronájem bytu 2+1 57 m²",
-    "Address": "Merhautova, Brno - Černá Pole",
-    "Price": "15 600 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-cerna-pole-merhautova/1300751180",
-    "id": "1300751180"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 65 m²",
-    "Address": "Dřevařská, Brno - Veveří",
-    "Price": "19 990 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-veveri-drevarska/4109882188",
-    "id": "4109882188"
   }
 ]
