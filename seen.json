@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 80 m²",
+    "Address": "Fuchsova, Brno - Trnitá",
+    "Price": "35 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-trnita-fuchsova/1537901388",
+    "id": "1537901388"
+  },
+  {
     "header": "Pronájem bytu 3+kk 75 m²",
     "Address": "Jana Uhra, Brno - Veveří",
     "Price": "24 000 Kč/měsíc",
@@ -138,12 +145,5 @@
     "Price": "39 312 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zabrdovice-bratislavska/2630526284",
     "id": "2630526284"
-  },
-  {
-    "header": "Pronájem bytu 2+1 68 m²",
-    "Address": "Kunzova, Brno - Černá Pole",
-    "Price": "22 900 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-cerna-pole-kunzova/3080115020",
-    "id": "3080115020"
   }
 ]
