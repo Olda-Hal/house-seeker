@@ -1,5 +1,19 @@
 [
   {
+    "header": "Pronájem bytu 3+1 80 m²",
+    "Address": "Banskobystrická, Brno - Řečkovice",
+    "Price": "24 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-reckovice-banskobystricka/3689534284",
+    "id": "3689534284"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 75 m²",
+    "Address": "Komárovská, Brno - Komárov",
+    "Price": "35 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-komarov-komarovska/3670397772",
+    "id": "3670397772"
+  },
+  {
     "header": "Pronájem bytu 3+kk 86 m²",
     "Address": "Košinova, Brno - Královo Pole",
     "Price": "32 000 Kč/měsíc",
@@ -131,19 +145,5 @@
     "Price": "25 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-ponava-ptasinskeho/1255179084",
     "id": "1255179084"
-  },
-  {
-    "header": "Pronájem bytu 2+1 73 m²",
-    "Address": "Jana Uhra, Brno - Veveří",
-    "Price": "25 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-veveri-jana-uhra/2562446156",
-    "id": "2562446156"
-  },
-  {
-    "header": "Pronájem bytu 3+1 75 m²",
-    "Address": "Grohova, Brno - Veveří",
-    "Price": "26 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-veveri-grohova/3893617484",
-    "id": "3893617484"
   }
 ]
