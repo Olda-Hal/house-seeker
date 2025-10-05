@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 65 m²",
+    "Address": "Jandáskova, Brno - Řečkovice",
+    "Price": "19 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-reckovice-jandaskova/2577781580",
+    "id": "2577781580"
+  },
+  {
     "header": "Pronájem bytu 3+1 74 m²",
     "Address": "Seifertova, Brno - Lesná",
     "Price": "23 000 Kč/měsíc",
@@ -138,12 +145,5 @@
     "Price": "21 900 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-veveri-masova/618910540",
     "id": "618910540"
-  },
-  {
-    "header": "Pronájem bytu 2+1 49 m²",
-    "Address": "Slovákova, Brno - Veveří",
-    "Price": "18 500 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-veveri-slovakova/2250625868",
-    "id": "2250625868"
   }
 ]
