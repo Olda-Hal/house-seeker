@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 81 m²",
+    "Address": "Tábor, Brno - Ponava",
+    "Price": "27 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-ponava-tabor/250991436",
+    "id": "250991436"
+  },
+  {
     "header": "Pronájem bytu 3+kk 80 m²",
     "Address": "Fuchsova, Brno - Trnitá",
     "Price": "35 000 Kč/měsíc",
@@ -138,12 +145,5 @@
     "Price": "26 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-trnita-trnita/1735971660",
     "id": "1735971660"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 162 m²",
-    "Address": "Bratislavská, Brno - Zábrdovice",
-    "Price": "39 312 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zabrdovice-bratislavska/2630526284",
-    "id": "2630526284"
   }
 ]
