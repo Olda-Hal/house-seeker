@@ -1,5 +1,33 @@
 [
   {
+    "header": "Pronájem bytu 3+1 64 m²",
+    "Address": "Prušánecká, Brno - Židenice",
+    "Price": "22 990 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-zidenice-prusanecka/2432623436",
+    "id": "2432623436"
+  },
+  {
+    "header": "Pronájem bytu 2+1 56 m²",
+    "Address": "Pionýrská, Brno",
+    "Price": "25 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-brno-pionyrska/3763725132",
+    "id": "3763725132"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 78 m²",
+    "Address": "Ptašínského, Brno - Ponava",
+    "Price": "25 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-ponava-ptasinskeho/1255179084",
+    "id": "1255179084"
+  },
+  {
+    "header": "Pronájem bytu 2+1 73 m²",
+    "Address": "Jana Uhra, Brno - Veveří",
+    "Price": "25 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-veveri-jana-uhra/2562446156",
+    "id": "2562446156"
+  },
+  {
     "header": "Pronájem bytu 3+1 75 m²",
     "Address": "Langrova, Brno - Slatina",
     "Price": "20 000 Kč/měsíc",
@@ -112,45 +140,10 @@
     "id": "5956428"
   },
   {
-    "header": "Nájemní bydlení v klidu",
-    "Address": "Minimum administrativy a maximum péče o vaše pohodlí.",
-    "Price": "Urbaneo",
-    "link": "https://a.seznam.cz/v2/click?spotId=4017777&d=FD8EPJ8U2RQJ9JCXK3DYXYMUD7GA3KCW9A2A7UDH7XJYTZ2KTDSFNSZU72VHAE7KR4YUXJP57BAF5D6R3JBHN2GQSM689RRU5WHY4P5U5TPJ7JPR2VX59U6T99SK46C8T4M6E6N5SI5JSZ6BW6XEII75FHVA9G3IDJGKH7GDQM2VSDP6PU5KGDRZHKAP5XP2BC3HN4UX76RG4N6IKD5DSWI4W4ISPUQ9UZVU2HPN28RHEK2KQ9BNV9VZIKZT5NFETBJZJAAM845ZXQR3RTYUU68XJUACYT39V58V2X3MXSN2ZGY49D2732MRU4NSECRY5BIJQ54MFJ7HCDZMEYZIK8QXSNCHCTQYS8M4VFJG4X9A&destination=https%3A//urbaneo.cz/nase-domy/rezidence-cyril/",
-    "id": ""
-  },
-  {
     "header": "Pronájem bytu 3+1 110 m²",
     "Address": "Kotlářská, Brno - Veveří",
     "Price": "32 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-veveri-kotlarska/22532940",
     "id": "22532940"
-  },
-  {
-    "header": "Pronájem bytu 2+1 66 m²",
-    "Address": "Veselá, Brno - Brno-město",
-    "Price": "21 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-brno-mesto-vesela/3415069516",
-    "id": "3415069516"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 81 m²",
-    "Address": "Tábor, Brno - Ponava",
-    "Price": "27 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-ponava-tabor/250991436",
-    "id": "250991436"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 80 m²",
-    "Address": "Fuchsova, Brno - Trnitá",
-    "Price": "35 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-trnita-fuchsova/1537901388",
-    "id": "1537901388"
-  },
-  {
-    "header": "Pronájem bytu 2+1 63 m²",
-    "Address": "Bayerova, Brno - Veveří",
-    "Price": "15 900 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-veveri-bayerova/561242956",
-    "id": "561242956"
   }
 ]
