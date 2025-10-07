@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 81 m²",
+    "Address": "Tábor, Brno - Ponava",
+    "Price": "27 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-ponava-tabor/250991436",
+    "id": "250991436"
+  },
+  {
     "header": "Pronájem bytu 2+1 55 m²",
     "Address": "Brno - Žabovřesky",
     "Price": "18 000 Kč/měsíc",
@@ -47,13 +54,6 @@
     "Price": "25 990 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-cerna-pole-merhautova/2001453900",
     "id": "2001453900"
-  },
-  {
-    "header": "Nájemní bydlení v klidu",
-    "Address": "Minimum administrativy a maximum péče o vaše pohodlí.",
-    "Price": "Urbaneo",
-    "link": "https://a.seznam.cz/v2/click?spotId=4017777&d=38BT8ABCP85MDQQCDBSGPXBF8CVHCGP5VC5TB5TBRV69SUFUXF6V4QH2YR7SMMGMHFTYJ3XYYBV4IG2RZE53ZVD5MR8DJIUB83CVHHWJJI3MN3XDH7N9E5VT9HKFW79XCNK92THII7FHF7UGR4UT9JAH58T3FYV4A7HFQRA3RAXHIJYCHH9X8B2WU8PAXTS7FK2JFXRJK2JDPHCPECWY9TRWIY9J22TMEHYZTH9AHVISNT9WTS8GJRHR3FX6YM5YFK8GVRQE2YCRJZ3625Z7HH245DM7Z2G2MNFNRRBERISYRSBNZ87EIT65CCYWJ7R6Z5XVMVFGGH8RD8FFSYCVDPB6ER4ZUE43TGUKW5ZGNWUGIDBV&destination=https%3A//urbaneo.cz/nase-domy/rezidence-cyril/",
-    "id": ""
   },
   {
     "header": "Pronájem bytu 3+1 80 m²",
@@ -138,12 +138,5 @@
     "Price": "27 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-zabovresky-chladkova/180024140",
     "id": "180024140"
-  },
-  {
-    "header": "Pronájem bytu 2+1 56 m²",
-    "Address": "Dalimilova, Brno - Královo Pole",
-    "Price": "18 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-kralovo-pole-dalimilova/1166074700",
-    "id": "1166074700"
   }
 ]
