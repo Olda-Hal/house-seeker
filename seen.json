@@ -1,5 +1,40 @@
 [
   {
+    "header": "Pronájem bytu 3+1 62 m²",
+    "Address": "Dunajská, Brno - Starý Lískovec",
+    "Price": "21 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-stary-liskovec-dunajska/3922314060",
+    "id": "3922314060"
+  },
+  {
+    "header": "Pronájem bytu 2+1 62 m²",
+    "Address": "Adamcova, Brno - Bystrc",
+    "Price": "20 390 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-bystrc-adamcova/2004280140",
+    "id": "2004280140"
+  },
+  {
+    "header": "Pronájem bytu 2+1 56 m²",
+    "Address": "Jožky Jabůrkové, Brno - Komín",
+    "Price": "19 290 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-komin-jozky-jaburkove/1566495564",
+    "id": "1566495564"
+  },
+  {
+    "header": "Pronájem bytu 2+1 49 m²",
+    "Address": "Křižíkova, Brno - Královo Pole",
+    "Price": "19 990 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-kralovo-pole-krizikova/2870072140",
+    "id": "2870072140"
+  },
+  {
+    "header": "Pronájem bytu 3+1 85 m²",
+    "Address": "Hansmannova, Brno - Černá Pole",
+    "Price": "20 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-cerna-pole-hansmannova/1187627852",
+    "id": "1187627852"
+  },
+  {
     "header": "Pronájem bytu 3+kk 77 m²",
     "Address": "Jircháře, Brno - Staré Brno",
     "Price": "29 000 Kč/měsíc",
@@ -47,13 +82,6 @@
     "Price": "40 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-jundrov-osikova/1343865676",
     "id": "1343865676"
-  },
-  {
-    "header": "Zdravé bydlení",
-    "Address": "Místo, kde se vám bude dobře dýchat, relaxovat i spát.",
-    "Price": "Urbaneo",
-    "link": "https://a.seznam.cz/v2/click?spotId=4017359&d=TS77SP8E5YZZP7GVTTVA67363HPGRHQVBU5ZQWW6AVHB89CX34MRZ4WPEYCGINK3MZH27YTXFU68YUKX8YT3HGBYR6J8UBZ7CITMBCCWWARGH2TNECT5SDX8KFQR56K352XB944JMFRSUWHQD992JK9GMZAZWSHTBXBN2U9Y3PHXF258JJFE3HRW6W7TSND4T3MZTH2UEJSJAKF38TEP57G25YUIDMYI2I49IT9ZT4ZB2ECHP7ZQEAFVMGKZBT7N8EQ5723ZU8FMRGATW5QFHMNN9ESAV44MPN9QFZC4PJHF9KJHEIEH5RW49X6Y6AX7YV4QMYSZQRT72Z9J8B3JA3JT4JVDJG67NSZCSWBQSEGFSW6CU6&destination=https%3A//www.sreality.cz/detail/pronajem/byt/2%2Bkk/brno-kralovo-pole-rostislavovo-namesti/2340066124",
-    "id": "2340066124"
   },
   {
     "header": "Pronájem bytu 3+kk 87 m²",
@@ -110,47 +138,5 @@
     "Price": "26 900 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-ponava-tabor/4015317836",
     "id": "4015317836"
-  },
-  {
-    "header": "Bydlet ve vlastním?",
-    "Address": "Samozřejmě můžete. Splňte si sen o vlastním bydlení s naší hypotékou bez čekání.",
-    "Price": "Raiffeisenbank",
-    "link": "https://a.seznam.cz/v2/click?spotId=4034724&d=XGJ8UV8VSII3KD2BKQVPAU7E3WWDNBU6S6KPSJE27MX8IQSKQ8DS9ET47WWWZAIQZTEVKPTKDMCXQPYGVMJFYRB7YNP4I4DKFKB688YWZEJAKDZW5MPXVYE4XINENK4RS4IEBED6GZHB72SXI3ZJNADM5T3KZGGPGREW5NJRNTI7QG922VHRDBXBYZN7BR5HHTMWTGZXJJ7R9I6AFT2GN22YR5IX5PSFVBP69I4IRZ285468ZHXDQZSY5MTXN5XQVDTTZ6JWWTSEGGS9EIHCZ8DHDQUPXWSDRKB9S53NYHR36ZD6NU3DBYWFZX9Y8MG29W2AP9M2MXVP7M2NS2PI3EKTSV9YJZ6FI2GAIU3AJ89V8MFZZ2&destination=https%3A//track.adform.net/C/%3Fbn%3D83966722",
-    "id": "%3Fbn%3D83966722"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 100 m²",
-    "Address": "Výpravní, Brno - Horní Heršpice",
-    "Price": "27 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-horni-herspice-vypravni/3556627276",
-    "id": "3556627276"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 81 m²",
-    "Address": "Tábor, Brno - Ponava",
-    "Price": "27 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-ponava-tabor/250991436",
-    "id": "250991436"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 75 m²",
-    "Address": "Jana Uhra, Brno - Veveří",
-    "Price": "24 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-veveri-jana-uhra/839635788",
-    "id": "839635788"
-  },
-  {
-    "header": "Pronájem bytu 3+1 72 m²",
-    "Address": "Vsetínská, Brno - Štýřice",
-    "Price": "24 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-styrice-vsetinska/2348798796",
-    "id": "2348798796"
-  },
-  {
-    "header": "Pronájem bytu 2+1 28 m²",
-    "Address": "Hybešova, Brno - Staré Brno",
-    "Price": "18 900 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-stare-brno-hybesova/1705689932",
-    "id": "1705689932"
   }
 ]
