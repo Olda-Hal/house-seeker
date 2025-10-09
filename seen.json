@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+1 80 m²",
+    "Address": "Uprkova, Brno - Řečkovice",
+    "Price": "20 500 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-reckovice-uprkova/321438540",
+    "id": "321438540"
+  },
+  {
     "header": "Pronájem bytu 3+1 97 m²",
     "Address": "Čápkova, Brno - Veveří",
     "Price": "30 000 Kč/měsíc",
@@ -131,12 +138,5 @@
     "Price": "21 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-cerna-pole-mathonova/1235993420",
     "id": "1235993420"
-  },
-  {
-    "header": "Pronájem bytu 3+1 74 m²",
-    "Address": "Šrámkova, Brno - Lesná",
-    "Price": "23 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-lesna-sramkova/1157219148",
-    "id": "1157219148"
   }
 ]
