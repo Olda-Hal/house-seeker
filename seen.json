@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+1 55 m²",
+    "Address": "Marie Kudeříkové, Brno - Židenice",
+    "Price": "22 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-zidenice-marie-kuderikove/638108492",
+    "id": "638108492"
+  },
+  {
     "header": "Pronájem bytu 3+kk 73 m²",
     "Address": "Chudčická, Brno - Bystrc",
     "Price": "23 000 Kč/měsíc",
@@ -131,12 +138,5 @@
     "Price": "19 290 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-komin-jozky-jaburkove/1566495564",
     "id": "1566495564"
-  },
-  {
-    "header": "Pronájem bytu 2+1 49 m²",
-    "Address": "Křižíkova, Brno - Královo Pole",
-    "Price": "19 990 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-kralovo-pole-krizikova/2870072140",
-    "id": "2870072140"
   }
 ]
