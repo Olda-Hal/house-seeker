@@ -1,17 +1,52 @@
 [
   {
-    "header": "Pronájem bytu 3+kk 82 m²",
-    "Address": "Spolková, Brno - Zábrdovice",
-    "Price": "32 700 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zabrdovice-spolkova/2888880972",
-    "id": "2888880972"
-  },
-  {
     "header": "Pronájem bytu 3+kk 72 m²",
     "Address": "Merhautova, Brno - Černá Pole",
     "Price": "25 990 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-cerna-pole-merhautova/2575024972",
     "id": "2575024972"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 88 m²",
+    "Address": "Bratislavská, Brno - Zábrdovice",
+    "Price": "36 090 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zabrdovice-bratislavska/3010061132",
+    "id": "3010061132"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 100 m²",
+    "Address": "Osiková, Brno - Jundrov",
+    "Price": "40 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-jundrov-osikova/1343865676",
+    "id": "1343865676"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 87 m²",
+    "Address": "Osiková, Brno - Jundrov",
+    "Price": "38 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-jundrov-osikova/2686042956",
+    "id": "2686042956"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 100 m²",
+    "Address": "Osiková, Brno - Jundrov",
+    "Price": "40 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-jundrov-osikova/4028220236",
+    "id": "4028220236"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 72 m²",
+    "Address": "Osiková, Brno - Jundrov",
+    "Price": "38 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-jundrov-osikova/286901068",
+    "id": "286901068"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 82 m²",
+    "Address": "Spolková, Brno - Zábrdovice",
+    "Price": "32 700 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zabrdovice-spolkova/2888880972",
+    "id": "2888880972"
   },
   {
     "header": "Pronájem bytu 2+1 52 m²",
@@ -103,40 +138,5 @@
     "Price": "17 900 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-cerna-pole-provaznikova/651871052",
     "id": "651871052"
-  },
-  {
-    "header": "SLEVA: Pronájem bytu 3+kk 78 m²",
-    "Address": "Ptašínského, Brno - Ponava",
-    "Price": "22 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-ponava-ptasinskeho/1255179084",
-    "id": "1255179084"
-  },
-  {
-    "header": "SLEVA: Pronájem bytu 3+kk 73 m²",
-    "Address": "Jana Uhra, Brno - Veveří",
-    "Price": "22 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-veveri-jana-uhra/2562446156",
-    "id": "2562446156"
-  },
-  {
-    "header": "Pronájem bytu 3+1 75 m²",
-    "Address": "Grohova, Brno - Veveří",
-    "Price": "26 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-veveri-grohova/957604684",
-    "id": "957604684"
-  },
-  {
-    "header": "Pronájem bytu 3+1 110 m²",
-    "Address": "Gorkého, Brno - Veveří",
-    "Price": "33 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-veveri-gorkeho/1127994188",
-    "id": "1127994188"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 75 m²",
-    "Address": "Komárovská, Brno - Komárov",
-    "Price": "49 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-komarov-komarovska/3643315020",
-    "id": "3643315020"
   }
 ]
