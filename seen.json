@@ -1,5 +1,26 @@
 [
   {
+    "header": "Pronájem bytu 3+1 85 m²",
+    "Address": "Tábor, Brno - Ponava",
+    "Price": "26 500 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-ponava-tabor/4015317836",
+    "id": "4015317836"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 100 m²",
+    "Address": "Výpravní, Brno - Horní Heršpice",
+    "Price": "26 700 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-horni-herspice-vypravni/3556627276",
+    "id": "3556627276"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 96 m²",
+    "Address": "Preslova, Brno - Stránice",
+    "Price": "31 500 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-stranice-preslova/4216308556",
+    "id": "4216308556"
+  },
+  {
     "header": "Pronájem bytu 2+1 72 m²",
     "Address": "Božetěchova, Brno - Královo Pole",
     "Price": "20 300 Kč/měsíc",
@@ -117,26 +138,5 @@
     "Price": "22 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-ponava-ptasinskeho/1255179084",
     "id": "1255179084"
-  },
-  {
-    "header": "SLEVA: Pronájem bytu 3+kk 73 m²",
-    "Address": "Jana Uhra, Brno - Veveří",
-    "Price": "22 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-veveri-jana-uhra/2562446156",
-    "id": "2562446156"
-  },
-  {
-    "header": "Pronájem bytu 2+1 52 m²",
-    "Address": "Škrochova, Brno - Židenice",
-    "Price": "18 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-zidenice-skrochova/3498369868",
-    "id": "3498369868"
-  },
-  {
-    "header": "Pronájem bytu 2+1 54 m²",
-    "Address": "Spáčilova, Brno - Černovice",
-    "Price": "15 500 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-cernovice-spacilova/3680949068",
-    "id": "3680949068"
   }
 ]
