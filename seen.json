@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 81 m²",
+    "Address": "třída Generála Píky, Brno - Černá Pole",
+    "Price": "34 800 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-cerna-pole-trida-generala-piky/1451086668",
+    "id": "1451086668"
+  },
+  {
     "header": "Pronájem bytu 3+kk 76 m²",
     "Address": "Spálená, Brno - Trnitá",
     "Price": "24 900 Kč/měsíc",
@@ -131,12 +138,5 @@
     "Price": "29 900 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-ponava-stredni/2389365580",
     "id": "2389365580"
-  },
-  {
-    "header": "Pronájem bytu 2+1 65 m²",
-    "Address": "Brno - Obřany",
-    "Price": "16 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-obrany-/1771230028",
-    "id": "1771230028"
   }
 ]
