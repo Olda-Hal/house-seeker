@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 2+1 72 m²",
+    "Address": "Božetěchova, Brno - Královo Pole",
+    "Price": "20 300 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-kralovo-pole-bozetechova/3900687180",
+    "id": "3900687180"
+  },
+  {
     "header": "Pronájem bytu 3+kk 73 m²",
     "Address": "Šmahova, Brno - Slatina",
     "Price": "22 000 Kč/měsíc",
@@ -131,12 +138,5 @@
     "Price": "15 500 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-cernovice-spacilova/3680949068",
     "id": "3680949068"
-  },
-  {
-    "header": "Pronájem bytu 3+1 55 m²",
-    "Address": "Marie Kudeříkové, Brno - Židenice",
-    "Price": "22 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-zidenice-marie-kuderikove/638108492",
-    "id": "638108492"
   }
 ]
