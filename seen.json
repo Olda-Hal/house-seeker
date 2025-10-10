@@ -1,5 +1,26 @@
 [
   {
+    "header": "Pronájem bytu 3+1 73 m²",
+    "Address": "Merhautova, Brno - Černá Pole",
+    "Price": "25 990 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-cerna-pole-merhautova/2001453900",
+    "id": "2001453900"
+  },
+  {
+    "header": "SLEVA: Pronájem bytu 3+kk 78 m²",
+    "Address": "Ptašínského, Brno - Ponava",
+    "Price": "22 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-ponava-ptasinskeho/1255179084",
+    "id": "1255179084"
+  },
+  {
+    "header": "SLEVA: Pronájem bytu 3+kk 73 m²",
+    "Address": "Jana Uhra, Brno - Veveří",
+    "Price": "22 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-veveri-jana-uhra/2562446156",
+    "id": "2562446156"
+  },
+  {
     "header": "Pronájem bytu 2+1 52 m²",
     "Address": "Škrochova, Brno - Židenice",
     "Price": "18 000 Kč/měsíc",
@@ -40,13 +61,6 @@
     "Price": "18 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-zidenice-krasneho/336118604",
     "id": "336118604"
-  },
-  {
-    "header": "Pronájem bytu 3+1 73 m²",
-    "Address": "Merhautova, Brno - Černá Pole",
-    "Price": "25 990 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-cerna-pole-merhautova/2001453900",
-    "id": "2001453900"
   },
   {
     "header": "Pronájem bytu 3+1 80 m²",
@@ -105,13 +119,6 @@
     "id": "2723382092"
   },
   {
-    "header": "Zdravé bydlení",
-    "Address": "Místo, kde se vám bude dobře dýchat, relaxovat i spát.",
-    "Price": "Urbaneo",
-    "link": "https://a.seznam.cz/v2/click?spotId=4017359&d=CBYWGNQSKSE5TM5W3HIJKGH8TFC9XGFY9PF6SJM9X3BT3ZNKPH264U738MQG5JS7USECCTTGEEZUBGUHFBYAZ86NXZ8P5X5EDMHFV3T6BHBVYHXKHIP9F7S9KDJQRKK5GRRCEFABPJKBYMPIR7FIIZAYGIICHH8RSE5UGGYTBDMZIW64NWK8MERZ3R8KQCKZM5852UZXYC9VCFB43X85TESI2V8AHEG4MYHRJB4I424CSC8S78KWS9XQA56E54Z7GVGIVSRB3I4QF6SVGJ2XEHHSVJVJMIZXTTASSSWX8T7AWRZWFYNCN8WFQM7ZPW9ZQHXWDP9VMIFBHMPENPGKSPKCYIZSWCDCSS4W85FK2JXW3E2&destination=https%3A//www.sreality.cz/detail/pronajem/byt/2%2Bkk/brno-kralovo-pole-rostislavovo-namesti/2340066124",
-    "id": "2340066124"
-  },
-  {
     "header": "Pronájem bytu 2+1 33 m²",
     "Address": "Hybešova, Brno - Staré Brno",
     "Price": "17 900 Kč/měsíc",
@@ -131,19 +138,5 @@
     "Price": "27 990 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-trnita-trnita/3451503436",
     "id": "3451503436"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 89 m²",
-    "Address": "Nové sady, Brno - Staré Brno",
-    "Price": "39 800 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-stare-brno-nove-sady/4238984012",
-    "id": "4238984012"
-  },
-  {
-    "header": "Pronájem bytu 3+1 72 m²",
-    "Address": "Fryčajova, Brno - Obřany",
-    "Price": "18 500 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-obrany-frycajova/1423557452",
-    "id": "1423557452"
   }
 ]
