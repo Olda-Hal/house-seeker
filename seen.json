@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+1 64 m²",
+    "Address": "Prušánecká, Brno - Židenice",
+    "Price": "20 600 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-zidenice-prusanecka/541385548",
+    "id": "541385548"
+  },
+  {
     "header": "Pronájem bytu 3+1 80 m²",
     "Address": "Banskobystrická, Brno - Řečkovice",
     "Price": "23 000 Kč/měsíc",
@@ -131,12 +138,5 @@
     "Price": "31 500 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-stranice-preslova/4216308556",
     "id": "4216308556"
-  },
-  {
-    "header": "Pronájem bytu 2+1 72 m²",
-    "Address": "Božetěchova, Brno - Královo Pole",
-    "Price": "20 300 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-kralovo-pole-bozetechova/3900687180",
-    "id": "3900687180"
   }
 ]
