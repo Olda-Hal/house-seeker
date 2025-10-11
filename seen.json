@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+1 68 m²",
+    "Address": "Jurkovičova, Brno - Lesná",
+    "Price": "18 500 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-lesna-jurkovicova/2699019084",
+    "id": "2699019084"
+  },
+  {
     "header": "Pronájem bytu 3+kk 88 m²",
     "Address": "Bratislavská, Brno - Zábrdovice",
     "Price": "36 090 Kč/měsíc",
@@ -131,12 +138,5 @@
     "Price": "22 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-kralovo-pole-tyrsova/823513932",
     "id": "823513932"
-  },
-  {
-    "header": "Pronájem bytu 2+1 62 m²",
-    "Address": "Zemědělská, Brno - Černá Pole",
-    "Price": "26 900 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-cerna-pole-zemedelska/1349964620",
-    "id": "1349964620"
   }
 ]
