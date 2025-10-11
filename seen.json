@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+1 80 m²",
+    "Address": "Banskobystrická, Brno - Řečkovice",
+    "Price": "23 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-reckovice-banskobystricka/1057997644",
+    "id": "1057997644"
+  },
+  {
     "header": "Pronájem bytu 3+kk 75 m²",
     "Address": "Jana Uhra, Brno - Veveří",
     "Price": "24 000 Kč/měsíc",
@@ -131,12 +138,5 @@
     "Price": "20 300 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-kralovo-pole-bozetechova/3900687180",
     "id": "3900687180"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 73 m²",
-    "Address": "Šmahova, Brno - Slatina",
-    "Price": "22 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-slatina-smahova/2921321292",
-    "id": "2921321292"
   }
 ]
