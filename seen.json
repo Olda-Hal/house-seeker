@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 75 m²",
+    "Address": "Jana Uhra, Brno - Veveří",
+    "Price": "24 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-veveri-jana-uhra/839635788",
+    "id": "839635788"
+  },
+  {
     "header": "Pronájem bytu 3+kk 194 m²",
     "Address": "Hrozňatova, Brno - Židenice",
     "Price": "39 500 Kč/měsíc",
@@ -105,13 +112,6 @@
     "id": "4015317836"
   },
   {
-    "header": "Zdravé bydlení",
-    "Address": "Místo, kde se vám bude dobře dýchat, relaxovat i spát.",
-    "Price": "Urbaneo",
-    "link": "https://a.seznam.cz/v2/click?spotId=4017359&d=N5NVYJ5M6VYZZBDIFAAU75D5TXQ86CNF9NRFIQZJWIZKIVJGUH8MPAWKVVCUB9ASPPGNAUP8US7YJHNQK3XERB2UH5RYG3Y3KU6K2FXK2F8DVQPGT6QHQJWJTZTYN5SPJVAVRW5TNHNYWPZN5RXTFJEKTDAWJ4TVAEF7ITJC3HK4YTCYA958VTVUBGZ26N5M4PJQZ9BWDIX8E55448FMXQEB2K7ZFDC6HG24M3MDQPNH9QHIKHK75YW6ESDSY8MSSJXGMWPRKQF9N22CWDC7EPIP4I4EZPTED8MUN79DTBMMNX2TUPTDB36YZZQGBVPNZGGIYJBV3MWIFJJG8Z5MJMF5MMAGG2TK9WB269IWEA8MY&destination=https%3A//www.sreality.cz/detail/pronajem/byt/2%2Bkk/brno-kralovo-pole-rostislavovo-namesti/2340066124",
-    "id": "2340066124"
-  },
-  {
     "header": "Pronájem bytu 3+kk 100 m²",
     "Address": "Výpravní, Brno - Horní Heršpice",
     "Price": "26 700 Kč/měsíc",
@@ -138,12 +138,5 @@
     "Price": "22 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-slatina-smahova/2921321292",
     "id": "2921321292"
-  },
-  {
-    "header": "Pronájem bytu 2+1 56 m²",
-    "Address": "Pionýrská, Brno - Ponava",
-    "Price": "25 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-ponava-pionyrska/3763725132",
-    "id": "3763725132"
   }
 ]
