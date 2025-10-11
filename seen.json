@@ -1,5 +1,19 @@
 [
   {
+    "header": "Pronájem bytu 3+1 73 m²",
+    "Address": "Merhautova, Brno - Černá Pole",
+    "Price": "25 990 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-cerna-pole-merhautova/2001453900",
+    "id": "2001453900"
+  },
+  {
+    "header": "Pronájem bytu 3+1 74 m²",
+    "Address": "Oderská, Brno - Starý Lískovec",
+    "Price": "20 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-stary-liskovec-oderska/3121595212",
+    "id": "3121595212"
+  },
+  {
     "header": "Pronájem bytu 3+1 64 m²",
     "Address": "Prušánecká, Brno - Židenice",
     "Price": "20 600 Kč/měsíc",
@@ -124,19 +138,5 @@
     "Price": "26 500 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-ponava-tabor/4015317836",
     "id": "4015317836"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 100 m²",
-    "Address": "Výpravní, Brno - Horní Heršpice",
-    "Price": "26 700 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-horni-herspice-vypravni/3556627276",
-    "id": "3556627276"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 96 m²",
-    "Address": "Preslova, Brno - Stránice",
-    "Price": "31 500 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-stranice-preslova/4216308556",
-    "id": "4216308556"
   }
 ]
