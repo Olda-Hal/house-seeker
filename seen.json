@@ -1,5 +1,26 @@
 [
   {
+    "header": "Pronájem bytu 2+1 62 m²",
+    "Address": "Klímova, Brno - Žabovřesky",
+    "Price": "19 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-zabovresky-klimova/3945911116",
+    "id": "3945911116"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 82 m²",
+    "Address": "Spolková, Brno - Zábrdovice",
+    "Price": "32 700 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zabrdovice-spolkova/2888880972",
+    "id": "2888880972"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 73 m²",
+    "Address": "Spolková, Brno - Zábrdovice",
+    "Price": "27 200 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zabrdovice-spolkova/489739084",
+    "id": "489739084"
+  },
+  {
     "header": "Pronájem bytu 3+1 68 m²",
     "Address": "Jurkovičova, Brno - Lesná",
     "Price": "18 500 Kč/měsíc",
@@ -105,13 +126,6 @@
     "id": "2699805516"
   },
   {
-    "header": "Nájemní bydlení v klidu",
-    "Address": "Minimum administrativy a maximum péče o vaše pohodlí.",
-    "Price": "Urbaneo",
-    "link": "https://a.seznam.cz/v2/click?spotId=4017777&d=3TI6JXBP2ZHPRTRM3NZMQGW58S8996G3UVCNREXTVREWCKMBC6H73V486YQJAIYIEJ9BE9PEMV9RDKFIBZGAS6HHIG7VGSIBZSNJYIE7PYAXWAK9AK78BBKYKIC7J6JZH6I7E9UAPNZEIB4K76D6IADD22FGRVRV9UMJ3HAMTUFFSZRX5RY3IMCKTXDDPUU2N7HKUNTPHRFKABK2PBK986K8ACBS7GWNTGR9HUFH9W9RQIGH72YNFMSFBEC7IDJCY4UC499IQTMM7QKMI6MRSEXBXGZWZZW9GTAIHUV3N9T7FBFBHRPXZIEXRUH3JEYE34AZAIZWYKJNZMQHE6TFRQ3FJMWI29XG52S5MEDU4VYY6&destination=https%3A//urbaneo.cz/nase-domy/rezidence-cyril/",
-    "id": ""
-  },
-  {
     "header": "Pronájem bytu 3+1 70 m²",
     "Address": "Vychodilova, Brno - Žabovřesky",
     "Price": "20 900 Kč/měsíc",
@@ -124,26 +138,5 @@
     "Price": "22 600 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zabrdovice-prikop/1749410636",
     "id": "1749410636"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 81 m²",
-    "Address": "třída Generála Píky, Brno - Černá Pole",
-    "Price": "34 800 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-cerna-pole-trida-generala-piky/1451086668",
-    "id": "1451086668"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 76 m²",
-    "Address": "Spálená, Brno - Trnitá",
-    "Price": "24 900 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-trnita-spalena/660132684",
-    "id": "660132684"
-  },
-  {
-    "header": "Pronájem bytu 3+1 120 m²",
-    "Address": "Tyršova, Brno - Královo Pole",
-    "Price": "22 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-kralovo-pole-tyrsova/823513932",
-    "id": "823513932"
   }
 ]
