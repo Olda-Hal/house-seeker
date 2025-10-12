@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+1 68 m²",
+    "Address": "Jurkovičova, Brno - Lesná",
+    "Price": "18 500 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-lesna-jurkovicova/2699019084",
+    "id": "2699019084"
+  },
+  {
     "header": "Pronájem bytu 3+kk 88 m²",
     "Address": "Bratislavská, Brno - Zábrdovice",
     "Price": "36 090 Kč/měsíc",
@@ -33,6 +40,20 @@
     "Price": "25 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-veveri-jaselska/1104147276",
     "id": "1104147276"
+  },
+  {
+    "header": "Pronájem bytu 3+1 74 m²",
+    "Address": "Seifertova, Brno - Lesná",
+    "Price": "23 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-lesna-seifertova/3884045132",
+    "id": "3884045132"
+  },
+  {
+    "header": "Pronájem bytu 3+1 77 m²",
+    "Address": "Hochmanova, Brno - Líšeň",
+    "Price": "20 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-lisen-hochmanova/816112460",
+    "id": "816112460"
   },
   {
     "header": "Pronájem bytu 3+1 73 m²",
@@ -117,26 +138,5 @@
     "Price": "22 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-kralovo-pole-tyrsova/823513932",
     "id": "823513932"
-  },
-  {
-    "header": "Pronájem bytu 2+1 62 m²",
-    "Address": "Zemědělská, Brno - Černá Pole",
-    "Price": "26 900 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-cerna-pole-zemedelska/1349964620",
-    "id": "1349964620"
-  },
-  {
-    "header": "Pronájem bytu 3+1 72 m²",
-    "Address": "Záhřebská, Brno - Žabovřesky",
-    "Price": "20 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-zabovresky-zahrebska/945800012",
-    "id": "945800012"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 74 m²",
-    "Address": "Fryčajova, Brno - Obřany",
-    "Price": "23 800 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-obrany-frycajova/1153291084",
-    "id": "1153291084"
   }
 ]
