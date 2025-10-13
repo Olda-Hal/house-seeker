@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 2+1 56 m²",
+    "Address": "Taussigova, Brno - Židenice",
+    "Price": "18 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-zidenice-taussigova/444449612",
+    "id": "444449612"
+  },
+  {
     "header": "Pronájem bytu 2+1 61 m²",
     "Address": "Teyschlova, Brno - Bystrc",
     "Price": "22 000 Kč/měsíc",
@@ -131,12 +138,5 @@
     "Price": "23 500 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-stare-brno-kopecna/167691084",
     "id": "167691084"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 86 m²",
-    "Address": "Košinova, Brno - Královo Pole",
-    "Price": "32 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-kralovo-pole-kosinova/5956428",
-    "id": "5956428"
   }
 ]
