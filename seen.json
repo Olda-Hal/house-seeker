@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+1 72 m²",
+    "Address": "Jaselská, Brno - Veveří",
+    "Price": "25 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-veveri-jaselska/1104147276",
+    "id": "1104147276"
+  },
+  {
     "header": "Pronájem bytu 3+kk 75 m²",
     "Address": "Střední, Brno - Ponava",
     "Price": "29 900 Kč/měsíc",
@@ -47,13 +54,6 @@
     "Price": "17 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-zabovresky-poznanska/3654140748",
     "id": "3654140748"
-  },
-  {
-    "header": "Bydlet ve vlastním?",
-    "Address": "Samozřejmě můžete. Splňte si sen o vlastním bydlení s naší hypotékou bez čekání.",
-    "Price": "Raiffeisenbank",
-    "link": "https://a.seznam.cz/v2/click?spotId=4038536&d=57C43SD626DF52AD58DAH3U3NE368FSYB6KP2JPHYU2AJWI8MVQ8E6MACU93WANKGDHTQPV9GMRFXDC7PDN4QJ4FR4PWGJU4TCVH9MMGVXCK4BPKKXFZYUCXFNRCEDPS6BJBD5MK9NB95NAJWHX5KYB5NWKWK3NK2B4WSWCG937FJEBF2F59XYE5Q5YSJJBXEU37JGZCGQVHAIDVP96UMRWFCTPH85WFWC9JNDX29FC9IR4ME7MK6TAZN6NAHKPMST2YYW5AWTTAQFZNBFGI9YM4YQA5SMC2D7TENG86S6Z8EFR3AXPFN2IR89AVGVFF27M6DAIPVYQPP3WECWECKR62UVEAJS84FI6RWTGSDJREV2DI&destination=https%3A//track.adform.net/C/%3Fbn%3D83966721",
-    "id": "%3Fbn%3D83966721"
   },
   {
     "header": "Pronájem bytu 3+1 72 m²",
@@ -138,12 +138,5 @@
     "Price": "26 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-stare-brno-nove-sady/3154105164",
     "id": "3154105164"
-  },
-  {
-    "header": "Pronájem bytu 3+1 110 m²",
-    "Address": "Gorkého, Brno - Veveří",
-    "Price": "33 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-veveri-gorkeho/1127994188",
-    "id": "1127994188"
   }
 ]
