@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+1 91 m²",
+    "Address": "Lužova, Brno - Černá Pole",
+    "Price": "24 900 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-cerna-pole-luzova/1176421196",
+    "id": "1176421196"
+  },
+  {
     "header": "Pronájem bytu 2+1 44 m²",
     "Address": "Václavská, Brno - Staré Brno",
     "Price": "16 900 Kč/měsíc",
@@ -131,12 +138,5 @@
     "Price": "27 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-veveri-veveri/4279337804",
     "id": "4279337804"
-  },
-  {
-    "header": "Pronájem bytu 2+1 73 m²",
-    "Address": "Srbská, Brno - Královo Pole",
-    "Price": "20 500 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-kralovo-pole-srbska/3370042188",
-    "id": "3370042188"
   }
 ]
