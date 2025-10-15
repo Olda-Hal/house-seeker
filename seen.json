@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+1 70 m²",
+    "Address": "Haškova, Brno - Lesná",
+    "Price": "22 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-lesna-haskova/2650587980",
+    "id": "2650587980"
+  },
+  {
     "header": "Pronájem bytu 3+1 62 m²",
     "Address": "Dunajská, Brno - Starý Lískovec",
     "Price": "21 000 Kč/měsíc",
@@ -105,13 +112,6 @@
     "id": "2953499468"
   },
   {
-    "header": "Pronájem bytu 2+kk 51 m²",
-    "Address": "Rostislavovo nám., Brno - Královo Pole",
-    "Price": "Urbaneo",
-    "link": "https://a.seznam.cz/v2/click?spotId=4017364&d=SBZSWY5PUDX392KRU4AWUHIYHGGQSVFESW9V2MIPG7Z2JDVHYFW9PRWTFGZJADGA66DDHS7H5MHTB6PUFGSTFZ6UG773UHRNDI98HQAA4R9CC4HRYSSXKAX8BHYG8TZI84ETPICTBCY9DMAI8N7UJT4BHIZGNY3FSDM65DV2XC8VQVPWQGG9F5984AUY6WX4DVRSST9IXE7RGTMXMYXAIZZE4G3WQEEQKIU8APZV4IXNSQYRGR3PCKGMJMEP7TU88EVUVFWXIDVD7QZC5ZAE82TU32PEDHF22A84DZK6XVKYWXKQAIMY56M7KSK2BBFDXWVF4JCSX5TF5QFWSS2KWEFKETZGCHG5HWE8Q56CPY3UI&destination=https%3A//www.sreality.cz/detail/pronajem/byt/2%2Bkk/brno-kralovo-pole-rostislavovo-namesti/2340066124",
-    "id": "2340066124"
-  },
-  {
     "header": "Pronájem bytu 3+1 72 m²",
     "Address": "Souhrady, Brno - Bohunice",
     "Price": "25 000 Kč/měsíc",
@@ -138,12 +138,5 @@
     "Price": "30 990 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-brno-trida-generala-piky/4203594572",
     "id": "4203594572"
-  },
-  {
-    "header": "Pronájem bytu 3+1 72 m²",
-    "Address": "Jaselská, Brno - Veveří",
-    "Price": "25 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-veveri-jaselska/1104147276",
-    "id": "1104147276"
   }
 ]
