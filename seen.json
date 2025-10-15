@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+1 70 m²",
+    "Address": "Vltavská, Brno - Starý Lískovec",
+    "Price": "23 200 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-stary-liskovec-vltavska/4165190476",
+    "id": "4165190476"
+  },
+  {
     "header": "Pronájem bytu 3+1 72 m²",
     "Address": "Jaselská, Brno - Veveří",
     "Price": "25 000 Kč/měsíc",
@@ -47,13 +54,6 @@
     "Price": "23 500 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-bohunice-okrouhla/1423364940",
     "id": "1423364940"
-  },
-  {
-    "header": "Zdravé bydlení",
-    "Address": "Místo, kde se vám bude dobře dýchat, relaxovat i spát.",
-    "Price": "Urbaneo",
-    "link": "https://a.seznam.cz/v2/click?spotId=4017359&d=MWBADE9TKZWC43MUP5WAVFRCBPUIHKBK98HNCBB6HCE2QGVAVT2YIVARFXAWADNTSYFSTU73WJTD9XW8IM2KKE7SFQN9CFJ37DCCJFBAVBKZSHDBHKUMXU58GWM4QQGSW6Z9VB62CG8CZX8FTHVFV3JFD4WNFZN5NKBTPAGBYH22CEG2T8FA66DCAFRDEVZGEIH3QE6EA52A4XQ6W2S6U7QDB5I29VWH3WW47MRHWN7JFHW754HYAG73U2TKQNWJ2RJZUIU5CI6BUITD94R826PYB5YINRRSEIMBDPWFXQK3AQDVWCIIQPP52Z9JNBE8EUTCQNABKJTYDKD7YQWCPEJFWPXMZB7FIUJFDMET3GFJS&destination=https%3A//www.sreality.cz/detail/pronajem/byt/2%2Bkk/brno-kralovo-pole-rostislavovo-namesti/2340066124",
-    "id": "2340066124"
   },
   {
     "header": "Pronájem bytu 3+1 85 m²",
@@ -138,12 +138,5 @@
     "Price": "21 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-stary-liskovec-dunajska/3922314060",
     "id": "3922314060"
-  },
-  {
-    "header": "Pronájem bytu 2+1 54 m²",
-    "Address": "Gabriely Preissové, Brno - Žabovřesky",
-    "Price": "19 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-zabovresky-gabriely-preissove/4159488844",
-    "id": "4159488844"
   }
 ]
