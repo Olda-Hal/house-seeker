@@ -1,5 +1,19 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 68 m²",
+    "Address": "Vrázova, Brno - Žabovřesky",
+    "Price": "20 500 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zabovresky-vrazova/1255981900",
+    "id": "1255981900"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 141 m²",
+    "Address": "Bratislavská, Brno - Zábrdovice",
+    "Price": "24 999 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zabrdovice-bratislavska/3302663500",
+    "id": "3302663500"
+  },
+  {
     "header": "Pronájem bytu 3+1 70 m²",
     "Address": "Haškova, Brno - Lesná",
     "Price": "22 000 Kč/měsíc",
@@ -124,19 +138,5 @@
     "Price": "26 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-trnita-trnita/1735971660",
     "id": "1735971660"
-  },
-  {
-    "header": "SLEVA: Pronájem bytu 2+1 55 m²",
-    "Address": "Neumannova, Brno - Pisárky",
-    "Price": "14 500 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-pisarky-neumannova/2090263372",
-    "id": "2090263372"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 97 m²",
-    "Address": "třída Generála Píky, Brno",
-    "Price": "30 990 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-brno-trida-generala-piky/4203594572",
-    "id": "4203594572"
   }
 ]
