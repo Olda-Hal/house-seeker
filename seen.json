@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 113 m²",
+    "Address": "Zámezí, Brno - Jehnice",
+    "Price": "27 600 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-jehnice-zamezi/2294530892",
+    "id": "2294530892"
+  },
+  {
     "header": "Pronájem bytu 3+1 62 m²",
     "Address": "Dunajská, Brno - Starý Lískovec",
     "Price": "21 000 Kč/měsíc",
@@ -105,13 +112,6 @@
     "id": "4165190476"
   },
   {
-    "header": "Plánování kuchyně zdarma",
-    "Address": "Naplánujte si s námi perfektní kuchyni! Domluvte si nezávazný termín‼",
-    "Price": "XXXLutz Česká republika",
-    "link": "https://a.seznam.cz/v2/click?spotId=4026664&d=Q6VST79E64IYVWJKX6DGHAQ8XYHHUDWHTABHXZ2DGJF736TW78Z6P594R8DBN8ICPTQZ3DHZCWZZKT6WKKHFB9KU2T5MTFTZFA9WWGRNAJBE2KQHHEU2ZX62KYGA9M6J2FU7MZNHVHA75A6SMGC6T4RIBHRKGZWN5VI3TPNUD9QGWMDD998V3ZRY5XD4284XFUZQ4RFMVZB6CHGERZUJHEHH68S27FW7TAHKPDG4RPZS3RG9Z2FUVG58QDRNFCI8ADN7WVEC7U85VBCF6ENPZXXSC7Q4UJB5H9TPUIFMRGYQ7K3D4DFMRMHYNHAM59GF48GF6KKBYGPM6SX6PWMI6DKXD5KIQUD7AN8YJA2UM63C2&destination=https%3A//www.xxxlutz.cz/c/basic-kuchyne",
-    "id": "basic-kuchyne"
-  },
-  {
     "header": "Pronájem bytu 3+1 72 m²",
     "Address": "Jaselská, Brno - Veveří",
     "Price": "25 000 Kč/měsíc",
@@ -138,12 +138,5 @@
     "Price": "26 500 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zabrdovice-prikop/2749731660",
     "id": "2749731660"
-  },
-  {
-    "header": "Pronájem bytu 3+1 97 m²",
-    "Address": "Čápkova, Brno - Veveří",
-    "Price": "30 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-veveri-capkova/3041522508",
-    "id": "3041522508"
   }
 ]
