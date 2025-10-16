@@ -138,54 +138,5 @@
     "Price": "36 090 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zabrdovice-bratislavska/3010061132",
     "id": "3010061132"
-  },
-  {
-    "header": "PRONÁJEM BYTU 3+kk 70 m²",
-    "Address": "Rybářská, Brno - Staré Brno, Jihomoravský kraj",
-    "Price": "27 000 Kč+ 5 500 Kč",
-    "link": "https://www.bezrealitky.cz/nemovitosti-byty-domy/875290-nabidka-pronajem-bytu-rybarska-brno",
-    "id": "875290"
-  },
-  {
-    "header": "PRONÁJEM BYTU 2+1 87 m²",
-    "Address": "Úvoz, Brno - Město Brno, Jihomoravský kraj",
-    "Price": "24 000 Kč+ 4 830 Kč",
-    "link": "https://www.bezrealitky.cz/nemovitosti-byty-domy/955764-nabidka-pronajem-bytu-uvoz-brno",
-    "id": "955764"
-  },
-  {
-    "header": "PRONÁJEM BYTU 3+1 70 m²",
-    "Address": "Zámečnická, Brno - Město Brno, Jihomoravský kraj",
-    "Price": "19 000 Kč+ 4 000 Kč",
-    "link": "https://www.bezrealitky.cz/nemovitosti-byty-domy/955744-nabidka-pronajem-bytu-zamecnicka-brno",
-    "id": "955744"
-  },
-  {
-    "header": "PRONÁJEM BYTU 2+1 68 m²",
-    "Address": "Zemědělská, Brno - Černá Pole, Jihomoravský kraj",
-    "Price": "24 000 Kč+ 4 200 Kč",
-    "link": "https://www.bezrealitky.cz/nemovitosti-byty-domy/754261-nabidka-pronajem-bytu-zemedelska-brno",
-    "id": "754261"
-  },
-  {
-    "header": "PRONÁJEM BYTU 2+1 57 m²",
-    "Address": "Antonína Slavíka, Brno - Černá Pole, Jihomoravský kraj",
-    "Price": "23 600 Kč+ 4 070 Kč",
-    "link": "https://www.bezrealitky.cz/nemovitosti-byty-domy/955326-nabidka-pronajem-bytu-antonina-slavika-brno",
-    "id": "955326"
-  },
-  {
-    "header": "PRONÁJEM BYTU 2+1 51 m²",
-    "Address": "Křídlovická, Brno - Staré Brno, Jihomoravský kraj",
-    "Price": "18 000 Kč+ 6 200 Kč",
-    "link": "https://www.bezrealitky.cz/nemovitosti-byty-domy/904944-nabidka-pronajem-bytu-kridlovicka-brno",
-    "id": "904944"
-  },
-  {
-    "header": "PRONÁJEM BYTU 2+1 56 m²",
-    "Address": "Kotěrova, Brno - Černá Pole, Jihomoravský kraj",
-    "Price": "24 000 Kč+ 5 600 Kč",
-    "link": "https://www.bezrealitky.cz/nemovitosti-byty-domy/954969-nabidka-pronajem-bytu-koterova-brno",
-    "id": "954969"
   }
 ]
