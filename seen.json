@@ -1,5 +1,19 @@
 [
   {
+    "header": "Pronájem bytu 3+1 72 m²",
+    "Address": "Jaselská, Brno - Veveří",
+    "Price": "25 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-veveri-jaselska/1104147276",
+    "id": "1104147276"
+  },
+  {
+    "header": "Pronájem bytu 3+1 91 m²",
+    "Address": "Rybníček, Brno - Ponava",
+    "Price": "20 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-ponava-rybnicek/2210579276",
+    "id": "2210579276"
+  },
+  {
     "header": "Pronájem bytu 3+kk 75 m²",
     "Address": "Komárovská, Brno - Komárov",
     "Price": "49 000 Kč/měsíc",
@@ -105,13 +119,6 @@
     "id": "2294530892"
   },
   {
-    "header": "Přidej se k nám!",
-    "Address": "Spojujeme nemovitosti s lidmi. Udělej změnu ve své kariéře. U nás ti zůstane 100% provize.",
-    "Price": "REALITY PRO RADOST",
-    "link": "https://a.seznam.cz/v2/click?spotId=4030717&d=4THR4W2UB9NBDMBGI7GP49HNY4A5FBU75JR2D56UTPQJSJPE296ZXKJFJCX8VIW3K22VB6I2JA73ZATWGX2A86J98YHQJT35XGUZC9YQG695BRH6IRJSH9CBG25F5K3FZVWD48ZX52I7MQESWUDTHPE8TBA36KHSZ2AT67ATHQH54NBX9PN8QIMC3G3PXI8753UAIA8GHISMR9S67CZWV2PRB5DXRFHJXNN7R5NAV4QBZQNID59SMR887J2B6P32KKXY64HXU58KKNJ67YNVGSSWZS698BCQD8TZ4HDPJXCGJ5PD8SDNB94SDPSF939M29BT4WZAVRBHXVJN6H5VY3BYJHMTRGRP6QU5SKFPW3ZTGA2&destination=https%3A//www.reality-proradost.cz/realitni-servis-pro-maklere/",
-    "id": ""
-  },
-  {
     "header": "Pronájem bytu 3+1 62 m²",
     "Address": "Dunajská, Brno - Starý Lískovec",
     "Price": "21 000 Kč/měsíc",
@@ -131,19 +138,5 @@
     "Price": "22 500 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-kralovo-pole-husitska/3318342476",
     "id": "3318342476"
-  },
-  {
-    "header": "SLEVA: Pronájem bytu 3+1 72 m²",
-    "Address": "Vinohrady, Brno - Štýřice",
-    "Price": "25 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-styrice-vinohrady/1721099084",
-    "id": "1721099084"
-  },
-  {
-    "header": "Pronájem bytu 3+1 80 m²",
-    "Address": "Mathonova, Brno - Černá Pole",
-    "Price": "20 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-cerna-pole-mathonova/1235993420",
-    "id": "1235993420"
   }
 ]
