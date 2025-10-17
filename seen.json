@@ -42,13 +42,6 @@
     "id": "2001453900"
   },
   {
-    "header": "Pronájem bytu 3+1 91 m²",
-    "Address": "Lužova, Brno - Černá Pole",
-    "Price": "24 900 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-cerna-pole-luzova/1176421196",
-    "id": "1176421196"
-  },
-  {
     "header": "Pronájem bytu 3+1 95 m²",
     "Address": "Táborská, Brno - Židenice",
     "Price": "24 000 Kč/měsíc",
@@ -121,7 +114,7 @@
   {
     "header": "Pronájem bytu 3+1 62 m²",
     "Address": "Dunajská, Brno - Starý Lískovec",
-    "Price": "21 000 Kč/měsíc",
+    "Price": "20 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-stary-liskovec-dunajska/3922314060",
     "id": "3922314060"
   },
@@ -138,5 +131,12 @@
     "Price": "22 500 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-kralovo-pole-husitska/3318342476",
     "id": "3318342476"
+  },
+  {
+    "header": "SLEVA: Pronájem bytu 3+1 72 m²",
+    "Address": "Vinohrady, Brno - Štýřice",
+    "Price": "25 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-styrice-vinohrady/1721099084",
+    "id": "1721099084"
   }
 ]
