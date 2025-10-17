@@ -1,5 +1,19 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 75 m²",
+    "Address": "Jana Uhra, Brno - Veveří",
+    "Price": "24 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-veveri-jana-uhra/1370669900",
+    "id": "1370669900"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 79 m²",
+    "Address": "Jaroslava Foglara, Brno - Štýřice",
+    "Price": "24 900 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-styrice-jaroslava-foglara/2695021388",
+    "id": "2695021388"
+  },
+  {
     "header": "Pronájem bytu 3+1 72 m²",
     "Address": "Jaselská, Brno - Veveří",
     "Price": "25 000 Kč/měsíc",
@@ -124,19 +138,5 @@
     "Price": "20 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-stary-liskovec-oderska/3121595212",
     "id": "3121595212"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 97 m²",
-    "Address": "Husitská, Brno - Královo Pole",
-    "Price": "22 500 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-kralovo-pole-husitska/3318342476",
-    "id": "3318342476"
-  },
-  {
-    "header": "SLEVA: Pronájem bytu 3+1 72 m²",
-    "Address": "Vinohrady, Brno - Štýřice",
-    "Price": "25 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-styrice-vinohrady/1721099084",
-    "id": "1721099084"
   }
 ]
