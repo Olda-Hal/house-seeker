@@ -49,27 +49,6 @@
     "id": "3556627276"
   },
   {
-    "header": "Zdravé bydlení",
-    "Address": "Místo, kde se vám bude dobře dýchat, relaxovat i spát.",
-    "Price": "Urbaneo",
-    "link": "https://a.seznam.cz/v2/click?spotId=4017363&d=8TE4XDZVUE5NCBXQC77UZBTKYHGFZFVFFCEKYCIEVXBPRUWZ9MSHSMJUXPQYYC3UUGBU5A993NCPZHS57ETFC7IT44YHYK7243HPY7287ANFGY4ZWBI8I6ECK6TJ3EZ6JXWIUIKGANVVUG58HHFCYFFTMA95JPFNDSEKGF67QCQRPH97M7RKCRRNPD8JH2T5BCQZVIM7S9XXEG9GGKRZ9BZVXRRSEJX2PG822VHICHZYH7EUXVKI56PZSMQP7B7EMWR2YX7G38FE9KPJDEMS46HIGUX4S9UYHKX3Z5ZHJFXC2YAIKASY44QIEI9NGUQ3JQWMAC5GVP5ESVNI8CXRDUS7CW55953W8R42RW7JMSD86H2&destination=https%3A//www.sreality.cz/detail/pronajem/byt/2%2Bkk/brno-kralovo-pole-rostislavovo-namesti/2340066124",
-    "id": "2340066124"
-  },
-  {
-    "header": "Pronájem bytu 2+1 54 m²",
-    "Address": "Spáčilova, Brno - Černovice",
-    "Price": "15 500 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-cernovice-spacilova/3680949068",
-    "id": "3680949068"
-  },
-  {
-    "header": "SLEVA: Pronájem bytu 3+kk 81 m²",
-    "Address": "Tábor, Brno - Ponava",
-    "Price": "24 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-ponava-tabor/250991436",
-    "id": "250991436"
-  },
-  {
     "header": "Pronájem bytu 2+1 60 m²",
     "Address": "Příční, Brno - Zábrdovice",
     "Price": "16 500 Kč/měsíc",
@@ -112,13 +91,6 @@
     "id": "3643315020"
   },
   {
-    "header": "Pronájem bytu 2+kk 51 m²",
-    "Address": "Rostislavovo nám., Brno - Královo Pole",
-    "Price": "Urbaneo",
-    "link": "https://a.seznam.cz/v2/click?spotId=4017360&d=4QSZ4XHPZYCJZKVTNHIDKGG769UKKGQCGHUY3922535BSW79464SREXDTWU4DUEQ3J345INE794UKJPMYVVNTHAZGU9KW9UA6JNBDQ8NMCJ78547YNSNQFN5A6QEF447W3WVH8MAZG7T7EUSJPERZGT2MW59FHICPXTBUIVQ7FMRSQC6YXUTCIW3BPEY45BXEIIJ59DQS68M2Q35PYJ5CWISDY3YWWHTV92Y6G9M8WDG5DYNC7GKD9CGFHEBFBXUJGJJIVBADFZSWRY8HD8VY6ZEGQXK32G2T9PUHY7H784YST98UATJ7F56I87HPKZB22ZA5H599ERYSSAJNAEJ2585SUEYNR7PS4RS5T2EIFGT98A&destination=https%3A//www.sreality.cz/detail/pronajem/byt/2%2Bkk/brno-kralovo-pole-rostislavovo-namesti/2340066124",
-    "id": "2340066124"
-  },
-  {
     "header": "Pronájem bytu 2+1 72 m²",
     "Address": "Sladová, Brno - Staré Brno",
     "Price": "19 800 Kč/měsíc",
@@ -152,5 +124,19 @@
     "Price": "23 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-zebetin-kohoutovicka/1310901068",
     "id": "1310901068"
+  },
+  {
+    "header": "Pronájem bytu 2+1 53 m²",
+    "Address": "náměstí SNP, Brno - Černá Pole",
+    "Price": "17 900 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-cerna-pole-namesti-snp/1381811020",
+    "id": "1381811020"
+  },
+  {
+    "header": "Pronájem bytu 3+1 75 m²",
+    "Address": "Brno - Brno-Maloměřice a Obřany",
+    "Price": "18 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-brno-malomerice-a-obrany-/1609794380",
+    "id": "1609794380"
   }
 ]
