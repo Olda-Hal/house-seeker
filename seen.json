@@ -1,5 +1,19 @@
 [
   {
+    "header": "Pronájem bytu 3+1 73 m²",
+    "Address": "Merhautova, Brno - Černá Pole",
+    "Price": "25 990 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-cerna-pole-merhautova/2001453900",
+    "id": "2001453900"
+  },
+  {
+    "header": "Pronájem bytu 3+1 91 m²",
+    "Address": "Lužova, Brno - Černá Pole",
+    "Price": "24 900 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-cerna-pole-luzova/1176421196",
+    "id": "1176421196"
+  },
+  {
     "header": "Pronájem bytu 3+1 95 m²",
     "Address": "Táborská, Brno - Židenice",
     "Price": "24 000 Kč/měsíc",
@@ -12,13 +26,6 @@
     "Price": "23 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-zebetin-kohoutovicka/1310901068",
     "id": "1310901068"
-  },
-  {
-    "header": "Pronájem bytu 3+1 73 m²",
-    "Address": "Merhautova, Brno - Černá Pole",
-    "Price": "25 990 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-cerna-pole-merhautova/2001453900",
-    "id": "2001453900"
   },
   {
     "header": "Pronájem bytu 2+1 53 m²",
@@ -131,12 +138,5 @@
     "Price": "25 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-medlanky-/3791897420",
     "id": "3791897420"
-  },
-  {
-    "header": "Pronájem bytu 3+1 91 m²",
-    "Address": "Lužova, Brno - Černá Pole",
-    "Price": "24 900 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-cerna-pole-luzova/1176421196",
-    "id": "1176421196"
   }
 ]
