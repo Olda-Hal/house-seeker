@@ -49,6 +49,20 @@
     "id": "3556627276"
   },
   {
+    "header": "Pronájem bytu 2+1 54 m²",
+    "Address": "Spáčilova, Brno - Černovice",
+    "Price": "15 500 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-cernovice-spacilova/3680949068",
+    "id": "3680949068"
+  },
+  {
+    "header": "SLEVA: Pronájem bytu 3+kk 81 m²",
+    "Address": "Tábor, Brno - Ponava",
+    "Price": "24 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-ponava-tabor/250991436",
+    "id": "250991436"
+  },
+  {
     "header": "Pronájem bytu 2+1 60 m²",
     "Address": "Příční, Brno - Zábrdovice",
     "Price": "16 500 Kč/měsíc",
@@ -124,19 +138,5 @@
     "Price": "23 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-zebetin-kohoutovicka/1310901068",
     "id": "1310901068"
-  },
-  {
-    "header": "Pronájem bytu 2+1 53 m²",
-    "Address": "náměstí SNP, Brno - Černá Pole",
-    "Price": "17 900 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-cerna-pole-namesti-snp/1381811020",
-    "id": "1381811020"
-  },
-  {
-    "header": "Pronájem bytu 3+1 75 m²",
-    "Address": "Brno - Brno-Maloměřice a Obřany",
-    "Price": "18 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-brno-malomerice-a-obrany-/1609794380",
-    "id": "1609794380"
   }
 ]
