@@ -112,6 +112,13 @@
     "id": "1613939532"
   },
   {
+    "header": "Pronájem bytu 2+kk 51 m²",
+    "Address": "Rostislavovo nám., Brno - Královo Pole",
+    "Price": "Urbaneo",
+    "link": "https://a.seznam.cz/v2/click?spotId=4017360&d=9W2GGGE6RBUHF7ZN84AGTH3MIQ9XM9A9EDUA9QMM6CHPT4MV36S7P3DQMIII3YKNQ72VYDVFC4NT2MKC2WD7N9T6ASVFSUMUZKIWV5ADGP88WNDT8AEUV8NKSZR94TWE7VNH8YZ8TUXAQMFN9F2HP9FDIK7P3PZNYPJR9V9F3QCIIAXIN2S9Y48MZ5GHAW52AB3EI8SMM5SUFP6TNM54FVA9IXH7R84TW6XDGE748278EI8G7HW4GGGJSAPD3TZFJP4A2NIAFFK5P7WDPITEPM82EBCVABIW5VU7P86IA5ZV4X3AGCCGB8KEVT8T5X645JPEQAXX8HC4TIVXV8DW7G2PMA6SDI3IRDUBU9NRRX4YWRA&destination=https%3A//www.sreality.cz/detail/pronajem/byt/2%2Bkk/brno-kralovo-pole-rostislavovo-namesti/2340066124",
+    "id": "2340066124"
+  },
+  {
     "header": "Pronájem bytu 3+1 68 m²",
     "Address": "Jurkovičova, Brno - Lesná",
     "Price": "18 500 Kč/měsíc",
@@ -145,54 +152,5 @@
     "Price": "25 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-veveri-jaselska/1104147276",
     "id": "1104147276"
-  },
-  {
-    "header": "PRONÁJEM BYTU 3+1 98 m²",
-    "Address": "Bratislavská, Brno - Zábrdovice, Jihomoravský kraj",
-    "Price": "20 000 Kč+ 9 000 Kč",
-    "link": "https://www.bezrealitky.cz/nemovitosti-byty-domy/956886-nabidka-pronajem-bytu-bratislavska-brno",
-    "id": "956886"
-  },
-  {
-    "header": "PRONÁJEM BYTU 3+kk 80 m²",
-    "Address": "Vinařská, Brno - Pisárky, Jihomoravský kraj",
-    "Price": "30 000 Kč+ 7 000 Kč",
-    "link": "https://www.bezrealitky.cz/nemovitosti-byty-domy/684489-nabidka-pronajem-bytu-vinarska-brno",
-    "id": "684489"
-  },
-  {
-    "header": "PRONÁJEM BYTU 2+1 68 m²",
-    "Address": "Kolískova, Brno - Trnitá, Jihomoravský kraj",
-    "Price": "24 500 Kč+ 5 800 Kč",
-    "link": "https://www.bezrealitky.cz/nemovitosti-byty-domy/956680-nabidka-pronajem-bytu-koliskova-brno",
-    "id": "956680"
-  },
-  {
-    "header": "PRONÁJEM BYTU 2+1 87 m²",
-    "Address": "Úvoz, Brno - Město Brno, Jihomoravský kraj",
-    "Price": "24 000 Kč+ 4 830 Kč",
-    "link": "https://www.bezrealitky.cz/nemovitosti-byty-domy/955764-nabidka-pronajem-bytu-uvoz-brno",
-    "id": "955764"
-  },
-  {
-    "header": "PRONÁJEM BYTU 2+1 55 m²",
-    "Address": "Řezáčova, Brno - Komín, Jihomoravský kraj",
-    "Price": "18 000 Kč+ 4 000 Kč",
-    "link": "https://www.bezrealitky.cz/nemovitosti-byty-domy/652010-nabidka-pronajem-bytu-rezacova-brno",
-    "id": "652010"
-  },
-  {
-    "header": "PRONÁJEM BYTU 2+1 72 m²",
-    "Address": "Bezručova, Brno - Staré Brno, Jihomoravský kraj",
-    "Price": "15 000 Kč+ 200 Kč",
-    "link": "https://www.bezrealitky.cz/nemovitosti-byty-domy/956629-nabidka-pronajem-bytu-bezrucova-brno",
-    "id": "956629"
-  },
-  {
-    "header": "PRONÁJEM BYTU 3+1 80 m²",
-    "Address": "Krymská, Brno - Starý Lískovec, Jihomoravský kraj",
-    "Price": "20 500 Kč+ 7 500 Kč",
-    "link": "https://www.bezrealitky.cz/nemovitosti-byty-domy/611891-nabidka-pronajem-bytu-krymska-brno",
-    "id": "611891"
   }
 ]
