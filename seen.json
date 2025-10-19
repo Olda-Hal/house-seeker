@@ -1,5 +1,19 @@
 [
   {
+    "header": "Pronájem bytu 2+1 52 m²",
+    "Address": "Škrochova, Brno - Židenice",
+    "Price": "18 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-zidenice-skrochova/3498369868",
+    "id": "3498369868"
+  },
+  {
+    "header": "Pronájem bytu 3+1 72 m²",
+    "Address": "Jaselská, Brno - Veveří",
+    "Price": "25 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-veveri-jaselska/1104147276",
+    "id": "1104147276"
+  },
+  {
     "header": "Pronájem bytu 3+kk 88 m²",
     "Address": "Bratislavská, Brno - Zábrdovice",
     "Price": "36 090 Kč/měsíc",
@@ -26,13 +40,6 @@
     "Price": "23 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-lisen-strnadova/2953499468",
     "id": "2953499468"
-  },
-  {
-    "header": "Pronájem bytu 3+1 72 m²",
-    "Address": "Jaselská, Brno - Veveří",
-    "Price": "25 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-veveri-jaselska/1104147276",
-    "id": "1104147276"
   },
   {
     "header": "Pronájem bytu 3+1 73 m²",
@@ -138,12 +145,5 @@
     "Price": "32 500 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-brno-mesto-peroutkova/4020536140",
     "id": "4020536140"
-  },
-  {
-    "header": "Pronájem bytu 3+1 95 m²",
-    "Address": "Táborská, Brno - Židenice",
-    "Price": "24 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-zidenice-taborska/1613939532",
-    "id": "1613939532"
   }
 ]
