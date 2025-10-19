@@ -7,6 +7,13 @@
     "id": "1461183308"
   },
   {
+    "header": "Pronájem bytu 3+kk 78 m²",
+    "Address": "K Babě, Brno - Medlánky",
+    "Price": "30 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-medlanky-k-babe/1971438412",
+    "id": "1971438412"
+  },
+  {
     "header": "Pronájem bytu 2+1 65 m²",
     "Address": "Tábor, Brno - Žabovřesky",
     "Price": "22 000 Kč/měsíc",
@@ -138,12 +145,5 @@
     "Price": "29 900 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-kralovo-pole-kosinova/5956428",
     "id": "5956428"
-  },
-  {
-    "header": "Pronájem bytu 3+1 68 m²",
-    "Address": "Labská, Brno - Starý Lískovec",
-    "Price": "22 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-stary-liskovec-labska/3692938060",
-    "id": "3692938060"
   }
 ]
