@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+1 63 m²",
+    "Address": "Havelkova, Brno - Bohunice",
+    "Price": "23 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-bohunice-havelkova/600949580",
+    "id": "600949580"
+  },
+  {
     "header": "Pronájem bytu 3+kk 62 m²",
     "Address": "Spolková, Brno - Zábrdovice",
     "Price": "26 200 Kč/měsíc",
@@ -138,12 +145,5 @@
     "Price": "26 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-trnita-trnita/1735971660",
     "id": "1735971660"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 75 m²",
-    "Address": "Rostislavovo náměstí, Brno - Královo Pole",
-    "Price": "38 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-kralovo-pole-rostislavovo-namesti/1884152652",
-    "id": "1884152652"
   }
 ]
