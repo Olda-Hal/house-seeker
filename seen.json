@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 2+1 65 m²",
+    "Address": "Chodská, Brno - Královo Pole",
+    "Price": "19 600 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-kralovo-pole-chodska/2314650444",
+    "id": "2314650444"
+  },
+  {
     "header": "Pronájem bytu 3+kk 74 m²",
     "Address": "Fryčajova, Brno - Obřany",
     "Price": "23 800 Kč/měsíc",
@@ -138,12 +145,5 @@
     "Price": "22 500 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-pisarky-neumannova/3857498956",
     "id": "3857498956"
-  },
-  {
-    "header": "Pronájem bytu 3+1 80 m²",
-    "Address": "Bohuslava Martinů, Brno - Stránice",
-    "Price": "33 500 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-stranice-bohuslava-martinu/843637580",
-    "id": "843637580"
   }
 ]
