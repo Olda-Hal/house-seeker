@@ -1,5 +1,19 @@
 [
   {
+    "header": "Pronájem bytu 2+1 68 m²",
+    "Address": "Neumannova, Brno - Pisárky",
+    "Price": "22 500 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-pisarky-neumannova/3857498956",
+    "id": "3857498956"
+  },
+  {
+    "header": "Pronájem bytu 3+1 80 m²",
+    "Address": "Bohuslava Martinů, Brno - Stránice",
+    "Price": "33 500 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-stranice-bohuslava-martinu/843637580",
+    "id": "843637580"
+  },
+  {
     "header": "Pronájem bytu 2+1 69 m²",
     "Address": "Mášova, Brno - Veveří",
     "Price": "21 900 Kč/měsíc",
@@ -131,19 +145,5 @@
     "Price": "20 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-bystrc-teyschlova/1820181324",
     "id": "1820181324"
-  },
-  {
-    "header": "Pronájem bytu 2+1 60 m²",
-    "Address": "Dědická, Brno - Slatina",
-    "Price": "20 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-slatina-dedicka/1903084364",
-    "id": "1903084364"
-  },
-  {
-    "header": "Pronájem bytu 3+1 74 m²",
-    "Address": "Seifertova, Brno - Lesná",
-    "Price": "23 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-lesna-seifertova/3884045132",
-    "id": "3884045132"
   }
 ]
