@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+1 73 m²",
+    "Address": "Merhautova, Brno - Černá Pole",
+    "Price": "25 990 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-cerna-pole-merhautova/2001453900",
+    "id": "2001453900"
+  },
+  {
     "header": "Pronájem bytu 3+1 92 m²",
     "Address": "Teyschlova, Brno - Bystrc",
     "Price": "22 000 Kč/měsíc",
@@ -47,13 +54,6 @@
     "Price": "40 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-jundrov-osikova/1343865676",
     "id": "1343865676"
-  },
-  {
-    "header": "Pronájem bytu 3+1 73 m²",
-    "Address": "Merhautova, Brno - Černá Pole",
-    "Price": "25 990 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-cerna-pole-merhautova/2001453900",
-    "id": "2001453900"
   },
   {
     "header": "Pronájem bytu 3+1 97 m²",
