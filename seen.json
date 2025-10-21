@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 2+1 68 m²",
+    "Address": "Brno - Židenice",
+    "Price": "24 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-zidenice-/1485161292",
+    "id": "1485161292"
+  },
+  {
     "header": "Pronájem bytu 3+kk 81 m²",
     "Address": "třída Generála Píky, Brno - Černá Pole",
     "Price": "34 800 Kč/měsíc",
@@ -131,12 +138,5 @@
     "Price": "16 900 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-stare-brno-/3753243468",
     "id": "3753243468"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 76 m²",
-    "Address": "Antonína Slavíka, Brno - Černá Pole",
-    "Price": "30 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-cerna-pole-antonina-slavika/1505149772",
-    "id": "1505149772"
   }
 ]
