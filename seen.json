@@ -1,5 +1,19 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 88 m²",
+    "Address": "Skryjova, Brno - Husovice",
+    "Price": "33 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-husovice-skryjova/195806028",
+    "id": "195806028"
+  },
+  {
+    "header": "Pronájem bytu 3+1 119 m²",
+    "Address": "Solniční, Brno - Brno-město",
+    "Price": "32 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-brno-mesto-solnicni/1706771020",
+    "id": "1706771020"
+  },
+  {
     "header": "Pronájem bytu 2+1 56 m²",
     "Address": "Arbesova, Brno - Lesná",
     "Price": "18 000 Kč/měsíc",
@@ -124,19 +138,5 @@
     "Price": "20 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zabovresky-kovarovicova/1969537868",
     "id": "1969537868"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 81 m²",
-    "Address": "třída Generála Píky, Brno - Černá Pole",
-    "Price": "34 800 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-cerna-pole-trida-generala-piky/1451086668",
-    "id": "1451086668"
-  },
-  {
-    "header": "Pronájem bytu 3+1 97 m²",
-    "Address": "Čápkova, Brno - Veveří",
-    "Price": "30 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-veveri-capkova/3041522508",
-    "id": "3041522508"
   }
 ]
