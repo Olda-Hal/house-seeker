@@ -119,24 +119,24 @@
     "id": "1791279948"
   },
   {
-    "header": "Pronájem bytu 3+1 92 m²",
-    "Address": "Teyschlova, Brno - Bystrc",
-    "Price": "22 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-bystrc-teyschlova/1461183308",
-    "id": "1461183308"
-  },
-  {
-    "header": "Pronájem bytu 3+1 72 m²",
-    "Address": "Jaselská, Brno - Veveří",
-    "Price": "25 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-veveri-jaselska/1104147276",
-    "id": "1104147276"
-  },
-  {
     "header": "Pronájem bytu 2+1 70 m²",
     "Address": "Botanická, Brno",
     "Price": "24 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-brno-botanicka/2115289932",
     "id": "2115289932"
+  },
+  {
+    "header": "Pronájem bytu 2+1 89 m²",
+    "Address": "Kotlářská, Brno - Veveří",
+    "Price": "25 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-veveri-kotlarska/3780375372",
+    "id": "3780375372"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 75 m²",
+    "Address": "Komárovská, Brno - Komárov",
+    "Price": "49 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-komarov-komarovska/3643315020",
+    "id": "3643315020"
   }
 ]
