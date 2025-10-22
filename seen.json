@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+1 72 m²",
+    "Address": "Jaselská, Brno - Veveří",
+    "Price": "25 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-veveri-jaselska/1104147276",
+    "id": "1104147276"
+  },
+  {
     "header": "Pronájem bytu 2+1 70 m²",
     "Address": "Botanická, Brno",
     "Price": "24 000 Kč/měsíc",
@@ -44,7 +51,7 @@
   {
     "header": "Pronájem bytu 3+1 68 m²",
     "Address": "Labská, Brno - Starý Lískovec",
-    "Price": "21 990 Kč/měsíc",
+    "Price": "21 995 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-stary-liskovec-labska/3692938060",
     "id": "3692938060"
   },
@@ -105,13 +112,6 @@
     "id": "1451086668"
   },
   {
-    "header": "Ideální adresa v Olomouci",
-    "Address": "Ranní káva na balkóně? Pěšky na nákup i za kulturou? Novotou vonící byt na Šibeníku to má.",
-    "Price": "JTH Group a.s.",
-    "link": "https://a.seznam.cz/v2/click?spotId=4024869&d=24Y2X657XRSCN973X4W88IKG47T6G7I6X9FS5XYS2RURFZSZK4W2BI5WFS3GKUSF3EJ25W8YTYBU6EYG2NPTYY5RPRI9JPMTQ6QCNT86CHNTCIXNFDXW9GNH5UDBA89TUANMDERY98EAYJ4Z7I9IPIV2KSMV62GSMWTUKEQRMAFNSDNVNFFJZYXTCK7R8S4KQ8JQ9ARRDPHVWSIT9WBQA57RANI5PN8N2JAVDZATX85ZJQKFDFKJPWH6C3CQ9KSCE9NJARBYSF3BMRTI2J3YUTCRZ9BM75X5FBM8HW9E57K5RCDNXZCZH66SG7YB6J9DJHM9PVPC7GPK89VXCZ3GXHC5UHPP6EKWVND6TZHJM6KWY92&destination=https%3A//bytysibenik.cz/cs/",
-    "id": ""
-  },
-  {
     "header": "Pronájem bytu 3+1 97 m²",
     "Address": "Čápkova, Brno - Veveří",
     "Price": "30 000 Kč/měsíc",
@@ -138,12 +138,5 @@
     "Price": "22 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-brno-matzenauerova/3773154124",
     "id": "3773154124"
-  },
-  {
-    "header": "Pronájem bytu 2+1 73 m²",
-    "Address": "Srbská, Brno - Královo Pole",
-    "Price": "19 900 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-kralovo-pole-srbska/3370042188",
-    "id": "3370042188"
   }
 ]
