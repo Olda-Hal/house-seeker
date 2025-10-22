@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 93 m²",
+    "Address": "Charbulova, Brno - Černovice",
+    "Price": "35 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-cernovice-charbulova/280331084",
+    "id": "280331084"
+  },
+  {
     "header": "Pronájem bytu 3+kk 88 m²",
     "Address": "Skryjova, Brno - Husovice",
     "Price": "33 000 Kč/měsíc",
@@ -131,12 +138,5 @@
     "Price": "24 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-veveri-jana-uhra/1370669900",
     "id": "1370669900"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 85 m²",
-    "Address": "Kovařovicova, Brno - Žabovřesky",
-    "Price": "20 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zabovresky-kovarovicova/1969537868",
-    "id": "1969537868"
   }
 ]
