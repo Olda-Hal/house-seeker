@@ -1,5 +1,19 @@
 [
   {
+    "header": "Pronájem bytu 2+1 50 m²",
+    "Address": "Palackého třída, Brno - Královo Pole",
+    "Price": "18 500 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-kralovo-pole-palackeho-trida/2223715148",
+    "id": "2223715148"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 45 m²",
+    "Address": "Slevačská, Brno - Židenice",
+    "Price": "15 400 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zidenice-slevacska/382780236",
+    "id": "382780236"
+  },
+  {
     "header": "Pronájem bytu 3+kk 73 m²",
     "Address": "Šmahova, Brno - Slatina",
     "Price": "22 000 Kč/měsíc",
@@ -124,19 +138,5 @@
     "Price": "21 500 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-bohunice-okrouhla/1423364940",
     "id": "1423364940"
-  },
-  {
-    "header": "Pronájem bytu 2+1 52 m²",
-    "Address": "Jožky Jabůrkové, Brno - Komín",
-    "Price": "18 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-komin-jozky-jaburkove/3447845708",
-    "id": "3447845708"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 76 m²",
-    "Address": "Spálená, Brno - Trnitá",
-    "Price": "24 900 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-trnita-spalena/660132684",
-    "id": "660132684"
   }
 ]
