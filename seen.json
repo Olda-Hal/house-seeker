@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 73 m²",
+    "Address": "Šmahova, Brno - Slatina",
+    "Price": "22 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-slatina-smahova/2921321292",
+    "id": "2921321292"
+  },
+  {
     "header": "Pronájem bytu 3+kk 85 m²",
     "Address": "Kovařovicova, Brno - Žabovřesky",
     "Price": "20 000 Kč/měsíc",
@@ -131,12 +138,5 @@
     "Price": "24 900 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-trnita-spalena/660132684",
     "id": "660132684"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 75 m²",
-    "Address": "Veveří, Brno - Veveří",
-    "Price": "27 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-veveri-veveri/4279337804",
-    "id": "4279337804"
   }
 ]
