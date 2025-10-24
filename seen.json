@@ -1,12 +1,5 @@
 [
   {
-    "header": "Pronájem bytu 2+1 52 m²",
-    "Address": "Úvoz, Brno - Veveří",
-    "Price": "17 500 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-veveri-uvoz/3558486860",
-    "id": "3558486860"
-  },
-  {
     "header": "Pronájem bytu 3+kk 141 m²",
     "Address": "Bratislavská, Brno - Zábrdovice",
     "Price": "24 999 Kč/měsíc",
@@ -145,5 +138,12 @@
     "Price": "27 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-stare-brno-hybesova/974185292",
     "id": "974185292"
+  },
+  {
+    "header": "Pronájem bytu 2+1 56 m²",
+    "Address": "Loosova, Brno - Lesná",
+    "Price": "17 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-lesna-loosova/2705843020",
+    "id": "2705843020"
   }
 ]
