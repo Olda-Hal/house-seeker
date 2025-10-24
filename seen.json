@@ -1,5 +1,19 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 96 m²",
+    "Address": "Preslova, Brno - Stránice",
+    "Price": "14 600 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-stranice-preslova/2234069836",
+    "id": "2234069836"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 128 m²",
+    "Address": "Vídeňská, Brno",
+    "Price": "14 600 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-brno-videnska/3931714380",
+    "id": "3931714380"
+  },
+  {
     "header": "Pronájem bytu 3+kk 65 m²",
     "Address": "Dřevařská, Brno - Veveří",
     "Price": "19 990 Kč/měsíc",
@@ -98,6 +112,13 @@
     "id": "2039268172"
   },
   {
+    "header": "Plánování kuchyně zdarma",
+    "Address": "Naplánujte si s námi perfektní kuchyni! Domluvte si nezávazný termín‼",
+    "Price": "XXXLutz Česká republika",
+    "link": "https://a.seznam.cz/v2/click?spotId=4026663&d=Q54FNQB2VYGHHSNMQW7AWZ8BY7HHU63D4C3IPC7P57NKCTRS4DB76WYJ7HBNTUBW4BEUB4YRBZIZQYXMDYW89YHFS6XRHNK9R3PTDH53EANBYJYMTIKB6JCGJ4ZZNQXY9ZWMKAYSWS7EQT9G8925BFPEGH942EJXI9V8P68Q825F4BTCS5VHF5RQNR7HISEDJ639J8KT87ZE3AIEPRYWNUWRXAGA4E5F46AT8HQN3BCIXEWF7ZBYKFFKK42P624J97JQV97HF37K2A2F6D8CGRM4J8UWT7HWT4EZ3I86GX7I3Z6MIEMFVI9VNKDBFKNNZW438TW3Y5N67VAVYUYKQQAQEKSSC4REY6ZSR8CBQBHPF6M8&destination=https%3A//www.xxxlutz.cz/c/basic-kuchyne",
+    "id": "basic-kuchyne"
+  },
+  {
     "header": "Pronájem bytu 3+kk 75 m²",
     "Address": "Jana Uhra, Brno - Veveří",
     "Price": "24 000 Kč/měsíc",
@@ -131,19 +152,5 @@
     "Price": "22 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-slatina-smahova/2921321292",
     "id": "2921321292"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 85 m²",
-    "Address": "Kovařovicova, Brno - Žabovřesky",
-    "Price": "20 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zabovresky-kovarovicova/1969537868",
-    "id": "1969537868"
-  },
-  {
-    "header": "Pronájem bytu 2+1 58 m²",
-    "Address": "Výstavní, Brno - Staré Brno",
-    "Price": "25 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-stare-brno-vystavni/1308308300",
-    "id": "1308308300"
   }
 ]
