@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 2+1 55 m²",
+    "Address": "Svatoplukova, Brno",
+    "Price": "13 500 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-brno-svatoplukova/3820630860",
+    "id": "3820630860"
+  },
+  {
     "header": "Pronájem bytu 2+1 49 m²",
     "Address": "Slovákova, Brno - Veveří",
     "Price": "18 000 Kč/měsíc",
@@ -138,12 +145,5 @@
     "Price": "18 500 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-lesna-loosova/1575695180",
     "id": "1575695180"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 73 m²",
-    "Address": "Hybešova, Brno - Staré Brno",
-    "Price": "27 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-stare-brno-hybesova/974185292",
-    "id": "974185292"
   }
 ]
