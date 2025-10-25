@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 88 m²",
+    "Address": "Bratislavská, Brno - Zábrdovice",
+    "Price": "36 090 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zabrdovice-bratislavska/3010061132",
+    "id": "3010061132"
+  },
+  {
     "header": "Pronájem bytu 3+kk 96 m²",
     "Address": "Příkop, Brno - Zábrdovice",
     "Price": "26 500 Kč/měsíc",
@@ -138,12 +145,5 @@
     "Price": "40 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-kralovo-pole-rostislavovo-namesti/109417292",
     "id": "109417292"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 141 m²",
-    "Address": "Bratislavská, Brno - Zábrdovice",
-    "Price": "24 999 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zabrdovice-bratislavska/3302663500",
-    "id": "3302663500"
   }
 ]
