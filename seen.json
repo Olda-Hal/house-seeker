@@ -1,5 +1,26 @@
 [
   {
+    "header": "Pronájem bytu 2+1 70 m²",
+    "Address": "Došlíkova, Brno - Židenice",
+    "Price": "21 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-zidenice-doslikova/1794102092",
+    "id": "1794102092"
+  },
+  {
+    "header": "Pronájem bytu 2+1 52 m²",
+    "Address": "Úvoz, Brno - Veveří",
+    "Price": "20 500 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-veveri-uvoz/3107898188",
+    "id": "3107898188"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 74 m²",
+    "Address": "Fryčajova, Brno - Obřany",
+    "Price": "23 800 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-obrany-frycajova/1153291084",
+    "id": "1153291084"
+  },
+  {
     "header": "Pronájem bytu 3+kk 86 m²",
     "Address": "Francouzská, Brno - Zábrdovice",
     "Price": "28 000 Kč/měsíc",
@@ -124,26 +145,5 @@
     "Price": "24 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-veveri-jana-uhra/1370669900",
     "id": "1370669900"
-  },
-  {
-    "header": "Pronájem bytu 2+1 53 m²",
-    "Address": "náměstí SNP, Brno - Černá Pole",
-    "Price": "17 900 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-cerna-pole-namesti-snp/1381811020",
-    "id": "1381811020"
-  },
-  {
-    "header": "Pronájem bytu 2+1 50 m²",
-    "Address": "Palackého třída, Brno - Královo Pole",
-    "Price": "18 500 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-kralovo-pole-palackeho-trida/2223715148",
-    "id": "2223715148"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 45 m²",
-    "Address": "Slevačská, Brno - Židenice",
-    "Price": "15 400 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zidenice-slevacska/382780236",
-    "id": "382780236"
   }
 ]
