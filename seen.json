@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 68 m²",
+    "Address": "Valchařská, Brno - Husovice",
+    "Price": "20 500 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-husovice-valcharska/3978900300",
+    "id": "3978900300"
+  },
+  {
     "header": "Pronájem bytu 3+kk 96 m²",
     "Address": "Preslova, Brno - Stránice",
     "Price": "14 600 Kč/měsíc",
@@ -138,12 +145,5 @@
     "Price": "15 400 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zidenice-slevacska/382780236",
     "id": "382780236"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 73 m²",
-    "Address": "Šmahova, Brno - Slatina",
-    "Price": "22 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-slatina-smahova/2921321292",
-    "id": "2921321292"
   }
 ]
