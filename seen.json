@@ -1,5 +1,19 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 75 m²",
+    "Address": "Jana Uhra, Brno - Veveří",
+    "Price": "24 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-veveri-jana-uhra/1370669900",
+    "id": "1370669900"
+  },
+  {
+    "header": "Pronájem bytu 3+1 72 m²",
+    "Address": "Jaselská, Brno - Veveří",
+    "Price": "25 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-veveri-jaselska/1104147276",
+    "id": "1104147276"
+  },
+  {
     "header": "Pronájem bytu 2+1 70 m²",
     "Address": "Došlíkova, Brno - Židenice",
     "Price": "21 000 Kč/měsíc",
@@ -33,20 +47,6 @@
     "Price": "20 500 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-husovice-valcharska/3978900300",
     "id": "3978900300"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 96 m²",
-    "Address": "Preslova, Brno - Stránice",
-    "Price": "14 600 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-stranice-preslova/2234069836",
-    "id": "2234069836"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 128 m²",
-    "Address": "Vídeňská, Brno",
-    "Price": "14 600 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-brno-videnska/3931714380",
-    "id": "3931714380"
   },
   {
     "header": "Pronájem bytu 3+kk 65 m²",
@@ -98,13 +98,6 @@
     "id": "109417292"
   },
   {
-    "header": "Pronájem bytu 3+1 72 m²",
-    "Address": "Jaselská, Brno - Veveří",
-    "Price": "25 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-veveri-jaselska/1104147276",
-    "id": "1104147276"
-  },
-  {
     "header": "Pronájem bytu 3+kk 141 m²",
     "Address": "Bratislavská, Brno - Zábrdovice",
     "Price": "24 999 Kč/měsíc",
@@ -140,10 +133,17 @@
     "id": "1771230028"
   },
   {
-    "header": "Pronájem bytu 3+kk 75 m²",
-    "Address": "Jana Uhra, Brno - Veveří",
-    "Price": "24 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-veveri-jana-uhra/1370669900",
-    "id": "1370669900"
+    "header": "Pronájem bytu 2+1 53 m²",
+    "Address": "náměstí SNP, Brno - Černá Pole",
+    "Price": "17 900 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-cerna-pole-namesti-snp/1381811020",
+    "id": "1381811020"
+  },
+  {
+    "header": "Pronájem bytu 2+1 50 m²",
+    "Address": "Palackého třída, Brno - Královo Pole",
+    "Price": "18 500 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-kralovo-pole-palackeho-trida/2223715148",
+    "id": "2223715148"
   }
 ]
