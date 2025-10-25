@@ -63,20 +63,6 @@
     "id": "3978900300"
   },
   {
-    "header": "Pronájem bytu 3+kk 96 m²",
-    "Address": "Preslova, Brno - Stránice",
-    "Price": "14 600 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-stranice-preslova/2234069836",
-    "id": "2234069836"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 128 m²",
-    "Address": "Vídeňská, Brno",
-    "Price": "14 600 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-brno-videnska/3931714380",
-    "id": "3931714380"
-  },
-  {
     "header": "Pronájem bytu 3+kk 65 m²",
     "Address": "Dřevařská, Brno - Veveří",
     "Price": "19 990 Kč/měsíc",
@@ -145,5 +131,19 @@
     "Price": "27 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-cerna-pole-helfertova/2265592652",
     "id": "2265592652"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 75 m²",
+    "Address": "Střední, Brno - Ponava",
+    "Price": "29 900 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-ponava-stredni/2389365580",
+    "id": "2389365580"
+  },
+  {
+    "header": "Pronájem bytu 2+1 65 m²",
+    "Address": "Brno - Obřany",
+    "Price": "15 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-obrany-/1771230028",
+    "id": "1771230028"
   }
 ]
