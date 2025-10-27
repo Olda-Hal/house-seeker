@@ -1,5 +1,19 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 95 m²",
+    "Address": "Opuštěná, Brno - Trnitá",
+    "Price": "29 990 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-trnita-opustena/3691524940",
+    "id": "3691524940"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 88 m²",
+    "Address": "Bratislavská, Brno - Zábrdovice",
+    "Price": "36 090 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zabrdovice-bratislavska/3010061132",
+    "id": "3010061132"
+  },
+  {
     "header": "Pronájem bytu 3+1 85 m²",
     "Address": "Nové sady, Brno - Staré Brno",
     "Price": "25 000 Kč/měsíc",
@@ -124,19 +138,5 @@
     "Price": "25 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-veveri-jaselska/1104147276",
     "id": "1104147276"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 62 m²",
-    "Address": "Lipová, Brno - Staré Brno",
-    "Price": "22 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-stare-brno-lipova/3989386060",
-    "id": "3989386060"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 86 m²",
-    "Address": "Košinova, Brno - Královo Pole",
-    "Price": "29 900 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-kralovo-pole-kosinova/5956428",
-    "id": "5956428"
   }
 ]
