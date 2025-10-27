@@ -1,5 +1,19 @@
 [
   {
+    "header": "Pronájem bytu 3+1 92 m²",
+    "Address": "Teyschlova, Brno - Bystrc",
+    "Price": "22 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-bystrc-teyschlova/1461183308",
+    "id": "1461183308"
+  },
+  {
+    "header": "Pronájem bytu 2+1 65 m²",
+    "Address": "Tábor, Brno - Žabovřesky",
+    "Price": "22 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-zabovresky-tabor/4021404492",
+    "id": "4021404492"
+  },
+  {
     "header": "Pronájem bytu 2+1 49 m²",
     "Address": "Slovákova, Brno - Veveří",
     "Price": "18 000 Kč/měsíc",
@@ -124,19 +138,5 @@
     "Price": "21 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-zidenice-doslikova/1794102092",
     "id": "1794102092"
-  },
-  {
-    "header": "Pronájem bytu 2+1 52 m²",
-    "Address": "Úvoz, Brno - Veveří",
-    "Price": "20 500 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-veveri-uvoz/3107898188",
-    "id": "3107898188"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 74 m²",
-    "Address": "Fryčajova, Brno - Obřany",
-    "Price": "23 800 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-obrany-frycajova/1153291084",
-    "id": "1153291084"
   }
 ]
