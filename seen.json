@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 75 m²",
+    "Address": "Komárovská, Brno - Komárov",
+    "Price": "49 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-komarov-komarovska/3643315020",
+    "id": "3643315020"
+  },
+  {
     "header": "Pronájem bytu 3+1 72 m²",
     "Address": "Moldavská, Brno - Bohunice",
     "Price": "22 500 Kč/měsíc",
@@ -16,7 +23,7 @@
   {
     "header": "Pronájem bytu 3+1 85 m²",
     "Address": "Nové sady, Brno - Staré Brno",
-    "Price": "26 000 Kč/měsíc",
+    "Price": "25 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-stare-brno-nove-sady/3154105164",
     "id": "3154105164"
   },
@@ -40,6 +47,13 @@
     "Price": "28 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zabrdovice-francouzska/2039268172",
     "id": "2039268172"
+  },
+  {
+    "header": "Bydlet ve vlastním?",
+    "Address": "Samozřejmě můžete. Splňte si sen o vlastním bydlení s naší hypotékou bez čekání.",
+    "Price": "Raiffeisenbank",
+    "link": "https://a.seznam.cz/v2/click?spotId=4047281&d=H224UA4GDAUTMPCVIZHUTI8R9UK49QHR8ECNQIDSQVY8BXQNFJ3G5432WSYJQXBJQKDAZCBC5N42JNUX23VQUQBIYN5TR8KCCI87B9QZFQ6RIW2BNS23HESY2CEUGH6U67PKHMHBTR82VS46RKKQMVAM54AJ28TXPUVQBUFDBN6UJZANEKW6IUAMEEEFYRYVBIFN4JQZF2JEWTBCHU8HUV5UDN7NJEZNFZEXNV4JPP9H7J5NYIFFDI8NQ3BWSV432SABJKEE8QTBEJDH72XNZ7STX3MX2IPI6QAFSPQCQP3J6U4V67P7W2MMAIQ4W4VB397EV2QMMRYK8T8IEFE4WEM4M5USBUCVW6WVV8J4MGPHE&destination=https%3A//track.adform.net/C/%3Fbn%3D83966722",
+    "id": "%3Fbn%3D83966722"
   },
   {
     "header": "Pronájem bytu 3+1 92 m²",
@@ -131,12 +145,5 @@
     "Price": "36 090 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zabrdovice-bratislavska/3010061132",
     "id": "3010061132"
-  },
-  {
-    "header": "Pronájem bytu 2+1 56 m²",
-    "Address": "Taussigova, Brno - Židenice",
-    "Price": "18 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-zidenice-taussigova/444449612",
-    "id": "444449612"
   }
 ]
