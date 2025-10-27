@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 2+1 85 m²",
+    "Address": "Rybářská, Brno - Staré Brno",
+    "Price": "22 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-stare-brno-rybarska/2883072844",
+    "id": "2883072844"
+  },
+  {
     "header": "Pronájem bytu 3+kk 65 m²",
     "Address": "Dřevařská, Brno - Veveří",
     "Price": "19 990 Kč/měsíc",
@@ -105,13 +112,6 @@
     "id": "1400386380"
   },
   {
-    "header": "Bydlet ve vlastním?",
-    "Address": "Samozřejmě můžete. Splňte si sen o vlastním bydlení s naší hypotékou bez čekání.",
-    "Price": "Raiffeisenbank",
-    "link": "https://a.seznam.cz/v2/click?spotId=4047352&d=2AMZAYQSCMMBRXVXNZ9PB29I6AMEPYBZKX7ZE6XCQGGI9F98E2563APUW2WYD2VVACZKPXURS8YQE8IW3CC9Y9SK34IIHYVN7N9CWXFXC6XGG3W8KAB6DTSKBJC8QPM6TWPSNCZB3Y5E7DHJUIT2HTKQ3B7K3JAQIVH4TKR65T9IAT4R82X2J82P7CSUGPDS2RHCMYBN2M57PWCAAEFJGYJYT9GIHR3725RQ8PC7YU8RYBM9VCUMSPVBSNGV649PZFEPYTYHQEKFUSFH9MWWK3SWD896VG53UAP37HNFK75M2KT8KAV5J2IZ422DA39AT7NTCEHA7ZE4YB2ASGMZMRVVXCTN8SPUAWRM4YRD5W7CY&destination=https%3A//track.adform.net/C/%3Fbn%3D83966722",
-    "id": "%3Fbn%3D83966722"
-  },
-  {
     "header": "Pronájem bytu 3+kk 73 m²",
     "Address": "Hybešova, Brno - Staré Brno",
     "Price": "24 900 Kč/měsíc",
@@ -138,12 +138,5 @@
     "Price": "28 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zabrdovice-francouzska/2039268172",
     "id": "2039268172"
-  },
-  {
-    "header": "Pronájem bytu 3+1 92 m²",
-    "Address": "Teyschlova, Brno - Bystrc",
-    "Price": "22 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-bystrc-teyschlova/1461183308",
-    "id": "1461183308"
   }
 ]
