@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 86 m²",
+    "Address": "Francouzská, Brno - Zábrdovice",
+    "Price": "28 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zabrdovice-francouzska/2039268172",
+    "id": "2039268172"
+  },
+  {
     "header": "Pronájem bytu 2+1 85 m²",
     "Address": "Rybářská, Brno - Staré Brno",
     "Price": "22 000 Kč/měsíc",
@@ -131,12 +138,5 @@
     "Price": "24 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-veveri-jana-uhra/1370669900",
     "id": "1370669900"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 86 m²",
-    "Address": "Francouzská, Brno - Zábrdovice",
-    "Price": "28 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zabrdovice-francouzska/2039268172",
-    "id": "2039268172"
   }
 ]
