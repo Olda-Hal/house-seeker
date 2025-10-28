@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 2+1 52 m²",
+    "Address": "Škrochova, Brno - Židenice",
+    "Price": "18 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-zidenice-skrochova/3498369868",
+    "id": "3498369868"
+  },
+  {
     "header": "Pronájem bytu 2+1 50 m²",
     "Address": "Maškova, Brno - Černá Pole",
     "Price": "16 000 Kč/měsíc",
@@ -131,12 +138,5 @@
     "Price": "21 500 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-bohunice-okrouhla/1423364940",
     "id": "1423364940"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 95 m²",
-    "Address": "Opuštěná, Brno - Trnitá",
-    "Price": "29 990 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-trnita-opustena/3691524940",
-    "id": "3691524940"
   }
 ]
