@@ -1,5 +1,19 @@
 [
   {
+    "header": "Pronájem bytu 3+1 77 m²",
+    "Address": "Jindřichova, Brno - Žabovřesky",
+    "Price": "25 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-zabovresky-jindrichova/3387802444",
+    "id": "3387802444"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 97 m²",
+    "Address": "třída Generála Píky, Brno",
+    "Price": "30 990 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-brno-trida-generala-piky/4203594572",
+    "id": "4203594572"
+  },
+  {
     "header": "Pronájem bytu 2+1 47 m²",
     "Address": "Dobrovského, Brno - Královo Pole",
     "Price": "22 900 Kč/měsíc",
@@ -47,13 +61,6 @@
     "Price": "30 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-veveri-capkova/3041522508",
     "id": "3041522508"
-  },
-  {
-    "header": "Bydlet ve vlastním?",
-    "Address": "Samozřejmě můžete. Splňte si sen o vlastním bydlení s naší hypotékou bez čekání.",
-    "Price": "Raiffeisenbank",
-    "link": "https://a.seznam.cz/v2/click?spotId=4047353&d=ZASHYSRUREFW89GGZNX85RMW6BW896PH7MR54VJ85UE6UUW4YY5NX4WYA3BJ72P2RTW62D82US742MRCPBFHNGM55JDJ5PDTW8CMTB6JRFHKRRDRI9GKZSTICEJ4D25DTSMCJ4DJW2DI7H7J4W7K3SIB9FMVI55PV5V7NCY5YI4FSFHHSB2UDX8HIXGDZ9C4HBPA3Y7Y4Y87M43GMGZEGZV9DNAGSBIHTSPQWY6363IBCWIUDDVCZXIYKCJRH8SM67ZZAX9ERAS62R9VVKDRFD5YUXBHTN5XEXFCHVZGGHZUF5V8A2FU8EH2IYQU7MDNXUZQGPQAW49HB55FG3D7WMXKECIDYG6XAW4PBR9CFW43X45F&destination=https%3A//track.adform.net/C/%3Fbn%3D83966721",
-    "id": "%3Fbn%3D83966721"
   },
   {
     "header": "Pronájem bytu 3+kk 65 m²",
@@ -112,13 +119,6 @@
     "id": "3643315020"
   },
   {
-    "header": "Ideální adresa v Olomouci",
-    "Address": "Ranní káva na balkóně? Pěšky na nákup i za kulturou? Novotou vonící byt na Šibeníku to má.",
-    "Price": "JTH Group a.s.",
-    "link": "https://a.seznam.cz/v2/click?spotId=4024869&d=422Y3ET2X8IPBCKX7TJUM8H77FQ2AB8URSPG7CP7F5FVR4S57BZSVC8BFEQRYPXU5U6C7ZB8ED96DYA8EU6IUXCWDJQ65EC6P4SB49FDBE7JHVPEYT7YXIHV9UKKY99QEQE7XGCUGY4ET6X5CZMITTNFI6T3KASS3SNHSDRHK3YX9SQPG4N5TQX6DJT4KUN8JBPWECX63NUZF45BX7FHG32ZXQ9UY6I87KRFKWRQN9HU3JA9KMJJT8A2F2ZERMF5VXAT2IFFYNZTPCW2V9VFYY5VV9A98TVXPZ4I3UUBB74I3MKDH6KFBAHRCKUF6X5Y6EAX5EKUWWZJSXCGFPFVCSBS6G229D4IK9FBPBXKUCUN7PR6&destination=https%3A//bytysibenik.cz/cs/",
-    "id": ""
-  },
-  {
     "header": "Pronájem bytu 3+kk 75 m²",
     "Address": "Komárovská, Brno - Komárov",
     "Price": "35 000 Kč/měsíc",
@@ -138,19 +138,5 @@
     "Price": "17 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-zidenice-skopalikova/1461662540",
     "id": "1461662540"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 162 m²",
-    "Address": "Bratislavská, Brno - Zábrdovice",
-    "Price": "39 312 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zabrdovice-bratislavska/2630526284",
-    "id": "2630526284"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 75 m²",
-    "Address": "Jana Uhra, Brno - Veveří",
-    "Price": "24 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-veveri-jana-uhra/1370669900",
-    "id": "1370669900"
   }
 ]
