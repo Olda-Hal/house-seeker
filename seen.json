@@ -1,5 +1,19 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 135 m²",
+    "Address": "Bayerova, Brno - Veveří",
+    "Price": "31 900 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-veveri-bayerova/1014838092",
+    "id": "1014838092"
+  },
+  {
+    "header": "Pronájem bytu 3+1 104 m²",
+    "Address": "Masarykova, Brno - Brno-město",
+    "Price": "22 900 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-brno-mesto-masarykova/1920807756",
+    "id": "1920807756"
+  },
+  {
     "header": "Pronájem bytu 3+kk 97 m²",
     "Address": "Husitská, Brno - Královo Pole",
     "Price": "22 500 Kč/měsíc",
@@ -124,19 +138,5 @@
     "Price": "20 300 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-kralovo-pole-bozetechova/3900687180",
     "id": "3900687180"
-  },
-  {
-    "header": "Pronájem bytu 2+1 57 m²",
-    "Address": "Ulička, Brno - Kohoutovice",
-    "Price": "23 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-kohoutovice-ulicka/1979593548",
-    "id": "1979593548"
-  },
-  {
-    "header": "Pronájem bytu 2+1 54 m²",
-    "Address": "Renneská třída, Brno - Štýřice",
-    "Price": "18 500 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-styrice-renneska-trida/1763586892",
-    "id": "1763586892"
   }
 ]
