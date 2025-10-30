@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 2+1 75 m²",
+    "Address": "Tábor, Brno",
+    "Price": "24 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-brno-tabor/3350082380",
+    "id": "3350082380"
+  },
+  {
     "header": "Pronájem bytu 2+1 61 m²",
     "Address": "Pellicova, Brno - Staré Brno",
     "Price": "17 000 Kč/měsíc",
@@ -131,12 +138,5 @@
     "Price": "25 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-zabovresky-jindrichova/3387802444",
     "id": "3387802444"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 97 m²",
-    "Address": "třída Generála Píky, Brno",
-    "Price": "30 990 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-brno-trida-generala-piky/4203594572",
-    "id": "4203594572"
   }
 ]
