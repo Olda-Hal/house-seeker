@@ -1,5 +1,19 @@
 [
   {
+    "header": "Pronájem bytu 2+1 72 m²",
+    "Address": "Božetěchova, Brno - Královo Pole",
+    "Price": "20 300 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-kralovo-pole-bozetechova/3900687180",
+    "id": "3900687180"
+  },
+  {
+    "header": "Pronájem bytu 2+1 57 m²",
+    "Address": "Ulička, Brno - Kohoutovice",
+    "Price": "23 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-kohoutovice-ulicka/1979593548",
+    "id": "1979593548"
+  },
+  {
     "header": "Pronájem bytu 2+1 54 m²",
     "Address": "Renneská třída, Brno - Štýřice",
     "Price": "18 500 Kč/měsíc",
@@ -47,13 +61,6 @@
     "Price": "20 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-styrice-vinohrady/3619472204",
     "id": "3619472204"
-  },
-  {
-    "header": "Bydlet ve vlastním?",
-    "Address": "Samozřejmě můžete. Splňte si sen o vlastním bydlení s naší hypotékou bez čekání.",
-    "Price": "Raiffeisenbank",
-    "link": "https://a.seznam.cz/v2/click?spotId=4047896&d=YAK68BZGU2SPGI3ZGANZ84GIDFBMUPU6WHR8RJ43IIRTIZQSYJJ4PDKU3DQND8WHADZAP92SU252NVSP5H9AZXT7CKI2HCK2JVVGAQW33A4QM4Y858AYKWNXF8FUXXGV5C3XA3KQ4PGRIU4FVPUC72NBEMIQD8UY9YIMDNPHFVTWCXXYDZFDISKAFJKM9TPCWUS7J62DYDEKK8X9FANCHW8XWMFI3XJQ84YQ7E8CF8VGAPCB86J9IEWH94SJTPTAYF85XUH36GB5PQBGZIGDA654GJW79X27JX2T3A2K44NRH6XS2PXS4FXKW4BZJQHMKSCPWWI5W26EZPGJC9H5TM5ZBK9JVBK5WZJ65KHGFQBA&destination=https%3A//track.adform.net/C/%3Fbn%3D83966721",
-    "id": "%3Fbn%3D83966721"
   },
   {
     "header": "Pronájem bytu 3+1 64 m²",
@@ -131,19 +138,5 @@
     "Price": "21 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-kralovo-pole-svatopluka-cecha/1602106188",
     "id": "1602106188"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 96 m²",
-    "Address": "Příkop, Brno - Zábrdovice",
-    "Price": "26 500 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zabrdovice-prikop/2749731660",
-    "id": "2749731660"
-  },
-  {
-    "header": "Pronájem bytu 3+1 97 m²",
-    "Address": "Čápkova, Brno - Veveří",
-    "Price": "30 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-veveri-capkova/3041522508",
-    "id": "3041522508"
   }
 ]
