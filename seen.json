@@ -1,5 +1,26 @@
 [
   {
+    "header": "Pronájem bytu 2+1 65 m²",
+    "Address": "Tábor, Brno - Žabovřesky",
+    "Price": "22 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-zabovresky-tabor/4021404492",
+    "id": "4021404492"
+  },
+  {
+    "header": "Pronájem bytu 3+1 92 m²",
+    "Address": "Teyschlova, Brno - Bystrc",
+    "Price": "22 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-bystrc-teyschlova/1461183308",
+    "id": "1461183308"
+  },
+  {
+    "header": "Pronájem bytu 3+1 103 m²",
+    "Address": "Brno - Brno-město",
+    "Price": "22 900 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-brno-mesto-/3800970060",
+    "id": "3800970060"
+  },
+  {
     "header": "Pronájem bytu 2+1 53 m²",
     "Address": "náměstí SNP, Brno - Černá Pole",
     "Price": "17 900 Kč/měsíc",
@@ -63,13 +84,6 @@
     "id": "3900687180"
   },
   {
-    "header": "Pronájem bytu 2+1 69 m²",
-    "Address": "Kopečná, Brno - Staré Brno",
-    "Price": "25 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-stare-brno-kopecna/2063479628",
-    "id": "2063479628"
-  },
-  {
     "header": "Pronájem bytu 2+1 57 m²",
     "Address": "Ulička, Brno - Kohoutovice",
     "Price": "23 000 Kč/měsíc",
@@ -124,19 +138,5 @@
     "Price": "20 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-styrice-vinohrady/3619472204",
     "id": "3619472204"
-  },
-  {
-    "header": "Pronájem bytu 3+1 64 m²",
-    "Address": "Okrouhlá, Brno - Bohunice",
-    "Price": "21 500 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-bohunice-okrouhla/1423364940",
-    "id": "1423364940"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 86 m²",
-    "Address": "Francouzská, Brno - Zábrdovice",
-    "Price": "28 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zabrdovice-francouzska/2039268172",
-    "id": "2039268172"
   }
 ]
