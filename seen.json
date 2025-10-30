@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 88 m²",
+    "Address": "Bratislavská, Brno - Zábrdovice",
+    "Price": "36 090 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zabrdovice-bratislavska/3010061132",
+    "id": "3010061132"
+  },
+  {
     "header": "Pronájem bytu 3+1 77 m²",
     "Address": "Jindřichova, Brno - Žabovřesky",
     "Price": "25 000 Kč/měsíc",
@@ -131,12 +138,5 @@
     "Price": "14 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-cerna-pole-bartosova/493826892",
     "id": "493826892"
-  },
-  {
-    "header": "Pronájem bytu 2+1 56 m²",
-    "Address": "Skopalíkova, Brno - Židenice",
-    "Price": "17 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-zidenice-skopalikova/1461662540",
-    "id": "1461662540"
   }
 ]
