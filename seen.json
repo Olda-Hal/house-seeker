@@ -1,5 +1,19 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 61 m²",
+    "Address": "Černého, Brno - Bystrc",
+    "Price": "12 100 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-bystrc-cerneho/2353804108",
+    "id": "2353804108"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 67 m²",
+    "Address": "Studentská, Brno - Bohunice",
+    "Price": "12 100 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-bohunice-studentska/3695981388",
+    "id": "3695981388"
+  },
+  {
     "header": "Pronájem bytu 2+1 56 m²",
     "Address": "Kvapilova, Brno - Žabovřesky",
     "Price": "18 000 Kč/měsíc",
@@ -131,12 +145,5 @@
     "Price": "22 500 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-kralovo-pole-husitska/3318342476",
     "id": "3318342476"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 95 m²",
-    "Address": "Opuštěná, Brno - Trnitá",
-    "Price": "29 990 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-trnita-opustena/3691524940",
-    "id": "3691524940"
   }
 ]
