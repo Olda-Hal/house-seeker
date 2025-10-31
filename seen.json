@@ -1,5 +1,33 @@
 [
   {
+    "header": "Pronájem bytu 3+1 80 m²",
+    "Address": "Teyschlova, Brno - Bystrc",
+    "Price": "20 900 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-bystrc-teyschlova/4289188684",
+    "id": "4289188684"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 78 m²",
+    "Address": "Jaroslava Foglara, Brno - Štýřice",
+    "Price": "25 900 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-styrice-jaroslava-foglara/1655227212",
+    "id": "1655227212"
+  },
+  {
+    "header": "Pronájem bytu 2+1 80 m²",
+    "Address": "Brno - Veveří",
+    "Price": "23 900 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-veveri-/1622094668",
+    "id": "1622094668"
+  },
+  {
+    "header": "Pronájem bytu 2+1 79 m²",
+    "Address": "Zahradnická, Brno - Staré Brno",
+    "Price": "23 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-stare-brno-zahradnicka/913032012",
+    "id": "913032012"
+  },
+  {
     "header": "Pronájem bytu 3+kk 75 m²",
     "Address": "Komárovská, Brno - Komárov",
     "Price": "49 000 Kč/měsíc",
@@ -105,45 +133,10 @@
     "id": "4021404492"
   },
   {
-    "header": "Bydlet ve vlastním?",
-    "Address": "Samozřejmě můžete. Splňte si sen o vlastním bydlení s naší hypotékou bez čekání.",
-    "Price": "Raiffeisenbank",
-    "link": "https://a.seznam.cz/v2/click?spotId=4047895&d=9SHSTQFUURGRDGJY5UWNNBJBZWPFP7HBVKIXH4RQBTQUI8FGNYAMVQVHC3QT8NIE5C6QV5H373XFF6A4PBRASZJ8W7K6QX4CKN5RTJHK6KKAPMRI8ZXSP7EX9SRQI9M5TV8IJBKGK99KUURAHGIGY6AP3PZKEBHD9WCF4MS9P2BDWRZ56TDCD43YPHPJFKVTWV2KPXDC4NI2DMTDPY3C77DKY32YTA9RV549C2CK2M7YE6FITTVNAC4D8HTZ45I89UZTGF9DHS5ZJA7W7HJSUMBZHF2W8ZX5R2ZUMP3885SPDP6PHNE2Z39NXQFIGNDZ846PZ6MCJJX79FECHTDTTW7YRHRJBSYHXJXE76FUUAEGPNMRE6&destination=https%3A//track.adform.net/C/%3Fbn%3D83966722",
-    "id": "%3Fbn%3D83966722"
-  },
-  {
     "header": "Pronájem bytu 3+1 92 m²",
     "Address": "Teyschlova, Brno - Bystrc",
     "Price": "22 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-bystrc-teyschlova/1461183308",
     "id": "1461183308"
-  },
-  {
-    "header": "Pronájem bytu 3+1 103 m²",
-    "Address": "Brno - Brno-město",
-    "Price": "22 900 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-brno-mesto-/3800970060",
-    "id": "3800970060"
-  },
-  {
-    "header": "Pronájem bytu 2+1 53 m²",
-    "Address": "náměstí SNP, Brno - Černá Pole",
-    "Price": "17 900 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-cerna-pole-namesti-snp/1381811020",
-    "id": "1381811020"
-  },
-  {
-    "header": "Pronájem bytu 3+1 72 m²",
-    "Address": "Jaselská, Brno - Veveří",
-    "Price": "25 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-veveri-jaselska/1104147276",
-    "id": "1104147276"
-  },
-  {
-    "header": "Pronájem bytu 3+1 104 m²",
-    "Address": "Masarykova, Brno - Brno-město",
-    "Price": "22 900 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-brno-mesto-masarykova/1304310604",
-    "id": "1304310604"
   }
 ]
