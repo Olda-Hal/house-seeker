@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+1 104 m²",
+    "Address": "Masarykova, Brno - Brno-město",
+    "Price": "22 900 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-brno-mesto-masarykova/1304310604",
+    "id": "1304310604"
+  },
+  {
     "header": "Pronájem bytu 3+kk 96 m²",
     "Address": "Příkop, Brno - Zábrdovice",
     "Price": "26 500 Kč/měsíc",
@@ -47,13 +54,6 @@
     "Price": "23 900 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-veveri-/1622094668",
     "id": "1622094668"
-  },
-  {
-    "header": "Bydlet ve vlastním?",
-    "Address": "Samozřejmě můžete. Splňte si sen o vlastním bydlení s naší hypotékou bez čekání.",
-    "Price": "Raiffeisenbank",
-    "link": "https://a.seznam.cz/v2/click?spotId=4047282&d=39IN4XEWZ9Z34N56PFYP9Z49N6CTA8QK7DBE3CTJUWYZNW3PRDEBBYNFHFS6RYDQP66VKCSWW2IUUU7RCMPKTEKVA7DDRNJ7QCNCCCZGFKBYGTGJIHPNXSDKZAS5B8RQMNEFE4HZD9A75TCH5TAB6Q5WYN4H26VWGN4CQTZRMIQZSB3A45YZRB7MT4B2KJMICEVXA3J8BAMVWGJWN5TAM44ADQD5RGHWEGBGB3FAS5WYDFDUF2EUCXQPZGQJI8TK46J7C32UAZNSH96RV6MZ7V2ZNR5EQHDQMBENUVSE4KQNUARPWPF7CBATCFKN7MG9CP75R48FC63QY3X4V8WYG6GU3JEP6E4JTWGTCQCVNCTXT4JE&destination=https%3A//track.adform.net/C/%3Fbn%3D83966721",
-    "id": "%3Fbn%3D83966721"
   },
   {
     "header": "Pronájem bytu 2+1 79 m²",
@@ -138,12 +138,5 @@
     "Price": "22 900 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-brno-mesto-zelny-trh/2725065548",
     "id": "2725065548"
-  },
-  {
-    "header": "Pronájem bytu 2+1 65 m²",
-    "Address": "Tábor, Brno - Žabovřesky",
-    "Price": "22 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-zabovresky-tabor/4021404492",
-    "id": "4021404492"
   }
 ]
