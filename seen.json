@@ -1,5 +1,19 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 62 m²",
+    "Address": "Spolková, Brno - Zábrdovice",
+    "Price": "26 200 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zabrdovice-spolkova/3425751884",
+    "id": "3425751884"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 73 m²",
+    "Address": "Spolková, Brno - Zábrdovice",
+    "Price": "27 200 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zabrdovice-spolkova/489739084",
+    "id": "489739084"
+  },
+  {
     "header": "Pronájem bytu 3+kk 61 m²",
     "Address": "Černého, Brno - Bystrc",
     "Price": "12 100 Kč/měsíc",
@@ -131,19 +145,5 @@
     "Price": "31 900 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-veveri-bayerova/1014838092",
     "id": "1014838092"
-  },
-  {
-    "header": "Pronájem bytu 3+1 104 m²",
-    "Address": "Masarykova, Brno - Brno-město",
-    "Price": "22 900 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-brno-mesto-masarykova/1920807756",
-    "id": "1920807756"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 97 m²",
-    "Address": "Husitská, Brno - Královo Pole",
-    "Price": "22 500 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-kralovo-pole-husitska/3318342476",
-    "id": "3318342476"
   }
 ]
