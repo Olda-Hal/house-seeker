@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 75 m²",
+    "Address": "Jana Uhra, Brno - Veveří",
+    "Price": "24 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-veveri-jana-uhra/1370669900",
+    "id": "1370669900"
+  },
+  {
     "header": "Pronájem bytu 3+kk 86 m²",
     "Address": "Cacovická, Brno - Husovice",
     "Price": "23 900 Kč/měsíc",
@@ -110,13 +117,6 @@
     "Price": "34 800 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-cerna-pole-trida-generala-piky/1451086668",
     "id": "1451086668"
-  },
-  {
-    "header": "SLEVA: Pronájem bytu 3+1 74 m²",
-    "Address": "Šrámkova, Brno - Lesná",
-    "Price": "20 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-lesna-sramkova/1157219148",
-    "id": "1157219148"
   },
   {
     "header": "Pronájem bytu 2+1 53 m²",
