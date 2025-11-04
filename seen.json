@@ -1,5 +1,19 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 111 m²",
+    "Address": "Plachty, Brno - Nový Lískovec",
+    "Price": "32 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-novy-liskovec-plachty/2001875788",
+    "id": "2001875788"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 95 m²",
+    "Address": "Opuštěná, Brno - Trnitá",
+    "Price": "29 990 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-trnita-opustena/3691524940",
+    "id": "3691524940"
+  },
+  {
     "header": "Pronájem bytu 3+kk 75 m²",
     "Address": "Jana Uhra, Brno - Veveří",
     "Price": "24 000 Kč/měsíc",
@@ -19,13 +33,6 @@
     "Price": "20 590 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zidenice-taborska/2203202380",
     "id": "2203202380"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 111 m²",
-    "Address": "Plachty, Brno - Nový Lískovec",
-    "Price": "29 800 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-novy-liskovec-plachty/2001875788",
-    "id": "2001875788"
   },
   {
     "header": "Pronájem bytu 2+1 66 m²",
@@ -119,24 +126,17 @@
     "id": "1451086668"
   },
   {
+    "header": "SLEVA: Pronájem bytu 3+1 74 m²",
+    "Address": "Šrámkova, Brno - Lesná",
+    "Price": "20 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-lesna-sramkova/1157219148",
+    "id": "1157219148"
+  },
+  {
     "header": "Pronájem bytu 2+1 53 m²",
     "Address": "Hradiska, Brno - Obřany",
     "Price": "15 900 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-obrany-hradiska/449434444",
     "id": "449434444"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 67 m²",
-    "Address": "Mikuláškovo náměstí, Brno - Starý Lískovec",
-    "Price": "18 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-stary-liskovec-mikulaskovo-namesti/517157708",
-    "id": "517157708"
-  },
-  {
-    "header": "Pronájem bytu 2+1 46 m²",
-    "Address": "Vinohrady, Brno - Štýřice",
-    "Price": "20 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-styrice-vinohrady/3619472204",
-    "id": "3619472204"
   }
 ]
