@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 2+1 44 m²",
+    "Address": "Francouzská, Brno - Zábrdovice",
+    "Price": "16 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-zabrdovice-francouzska/1047606092",
+    "id": "1047606092"
+  },
+  {
     "header": "Pronájem bytu 3+kk 61 m²",
     "Address": "Churého, Brno - Černovice",
     "Price": "23 000 Kč/měsíc",
@@ -131,12 +138,5 @@
     "Price": "20 900 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-bystrc-ecerova/618804044",
     "id": "618804044"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 74 m²",
-    "Address": "Fryčajova, Brno - Obřany",
-    "Price": "23 800 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-obrany-frycajova/1153291084",
-    "id": "1153291084"
   }
 ]
