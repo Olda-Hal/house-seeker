@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+1 75 m²",
+    "Address": "Kubánská, Brno - Žabovřesky",
+    "Price": "21 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-zabovresky-kubanska/1845572428",
+    "id": "1845572428"
+  },
+  {
     "header": "Pronájem bytu 3+kk 89 m²",
     "Address": "Jírovcova, Brno - Kohoutovice",
     "Price": "24 900 Kč/měsíc",
@@ -131,12 +138,5 @@
     "Price": "20 390 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-bystrc-adamcova/2004280140",
     "id": "2004280140"
-  },
-  {
-    "header": "Pronájem bytu 2+1 49 m²",
-    "Address": "Křižíkova, Brno - Královo Pole",
-    "Price": "19 990 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-kralovo-pole-krizikova/2870072140",
-    "id": "2870072140"
   }
 ]
