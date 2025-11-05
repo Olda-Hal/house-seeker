@@ -112,13 +112,6 @@
     "id": "1047606092"
   },
   {
-    "header": "Pronájem bytu 3+kk 61 m²",
-    "Address": "Churého, Brno - Černovice",
-    "Price": "23 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-cernovice-chureho/7418700",
-    "id": "7418700"
-  },
-  {
     "header": "Pronájem bytu 2+1 66 m²",
     "Address": "Srbská, Brno - Královo Pole",
     "Price": "17 000 Kč/měsíc",
@@ -138,5 +131,12 @@
     "Price": "24 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-zidenice-taborska/1613939532",
     "id": "1613939532"
+  },
+  {
+    "header": "Pronájem bytu 3+1 68 m²",
+    "Address": "Jurkovičova, Brno - Lesná",
+    "Price": "18 500 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-lesna-jurkovicova/2699019084",
+    "id": "2699019084"
   }
 ]
