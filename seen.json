@@ -36,6 +36,13 @@
   },
   {
     "header": "Pronájem bytu 2+1 52 m²",
+    "Address": "Krausova, Brno - Černovice",
+    "Price": "16 500 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-cernovice-krausova/1347433292",
+    "id": "1347433292"
+  },
+  {
+    "header": "Pronájem bytu 2+1 52 m²",
     "Address": "Jožky Jabůrkové, Brno - Komín",
     "Price": "18 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-komin-jozky-jaburkove/3447845708",
@@ -131,12 +138,5 @@
     "Price": "24 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-veveri-jana-uhra/1370669900",
     "id": "1370669900"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 137 m²",
-    "Address": "Hálkova, Brno - Husovice",
-    "Price": "25 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-husovice-halkova/2523804492",
-    "id": "2523804492"
   }
 ]
