@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+1 75 m²",
+    "Address": "Černého, Brno - Bystrc",
+    "Price": "20 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-bystrc-cerneho/3223569228",
+    "id": "3223569228"
+  },
+  {
     "header": "Pronájem bytu 3+1 113 m²",
     "Address": "Botanická, Brno - Veveří",
     "Price": "30 500 Kč/měsíc",
@@ -98,18 +105,18 @@
     "id": "1349964620"
   },
   {
+    "header": "Plánování kuchyně zdarma",
+    "Address": "Naplánujte si s námi perfektní kuchyni! Domluvte si nezávazný termín‼",
+    "Price": "XXXLutz Česká republika",
+    "link": "https://a.seznam.cz/v2/click?spotId=4050207&d=IIFPMZ8WWTFXS8M4SR57IB5HYVIZ9VNA4INKV34XCJZBKZTSKB5PEYSK2CNEAMEJPJY2SKT7FE9B9PBZ2F3BB4QWCMX722A2DWPGTUG4MNDHBR9EM77YMYD2JBY7BAV7N7ZGEDUKV24WAG3TAAMNNXW4G9Y2DSH7T4JQNZN7XAVFAXTGX8VSPNWHN47GHEK25963ICHCCDGSKG8QRWY93G594RS63RG3GJ5XBJHXAPS2Q54C3DJ54JHYHHH7D7HTRQ7ABQD2GRVWHBZFQR4PYCKGEKFZ2KAHTE9KYNDGA66NIMSXZHFRKZUKJIZUYSBJ86B9FNJYNPW3NMEVYD33SY94JWWJSPXTVAFNNP5XMMR3Q&destination=https%3A//www.xxxlutz.cz/c/basic-kuchyne",
+    "id": "basic-kuchyne"
+  },
+  {
     "header": "Pronájem bytu 3+1 120 m²",
     "Address": "Tyršova, Brno - Královo Pole",
     "Price": "22 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-kralovo-pole-tyrsova/823513932",
     "id": "823513932"
-  },
-  {
-    "header": "Bydlet ve vlastním?",
-    "Address": "Samozřejmě můžete. Splňte si sen o vlastním bydlení s naší hypotékou bez čekání.",
-    "Price": "Raiffeisenbank",
-    "link": "https://a.seznam.cz/v2/click?spotId=4052275&d=Z8UAGWVGB2RYKS28DKI3K9U4K4YTWX9HG53P8SF4Q8FRU9TZNKA4XK3RZTUJBDPVQU8VPPWF25A4Q7427CNTY87XEM33GU35HBAHCAR2GKRRTJVSGEBISDBZEHXIZCJD9HVPCRWCKMWEXKIZEIER7TFW8DYSZ7RJS8J97GNCMZINARCUPFGYFIBBYFRIGVZJADCV5KISV9397YHD6J6P6FTFYEKCV2Y4RN8NDWPV9BGCYRS98A3YK2TEAE4GY8BRB66I3G3RIWTF58HVCKBK29YDSUEMBQIKSESWP3KDMJRTYY97SQV2ZYQ4KQXCAT3NFCGBC64CE9DUFZTFKPCHXQ9EZFM3T28G5SVHD7AHM2X8XPA&destination=https%3A//track.adform.net/C/%3Fbn%3D83966721",
-    "id": "%3Fbn%3D83966721"
   },
   {
     "header": "Pronájem bytu 3+kk 61 m²",
@@ -138,12 +145,5 @@
     "Price": "16 900 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-stare-brno-vaclavska/3545404236",
     "id": "3545404236"
-  },
-  {
-    "header": "Pronájem bytu 2+1 40 m²",
-    "Address": "Lipová, Brno - Pisárky",
-    "Price": "14 500 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-pisarky-lipova/1286681420",
-    "id": "1286681420"
   }
 ]
