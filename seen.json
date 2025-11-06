@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 88 m²",
+    "Address": "Bratislavská, Brno - Zábrdovice",
+    "Price": "35 650 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zabrdovice-bratislavska/3010061132",
+    "id": "3010061132"
+  },
+  {
     "header": "Pronájem bytu 3+1 75 m²",
     "Address": "Černého, Brno - Bystrc",
     "Price": "20 000 Kč/měsíc",
@@ -131,12 +138,5 @@
     "Price": "18 900 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-stare-brno-hybesova/729084748",
     "id": "729084748"
-  },
-  {
-    "header": "Pronájem bytu 2+1 41 m²",
-    "Address": "Václavská, Brno - Staré Brno",
-    "Price": "16 900 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-stare-brno-vaclavska/3545404236",
-    "id": "3545404236"
   }
 ]
