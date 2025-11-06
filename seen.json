@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 2+1 54 m²",
+    "Address": "Jílová, Brno - Štýřice",
+    "Price": "19 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-styrice-jilova/732967756",
+    "id": "732967756"
+  },
+  {
     "header": "Pronájem bytu 3+kk 86 m²",
     "Address": "Košinova, Brno - Královo Pole",
     "Price": "29 900 Kč/měsíc",
@@ -131,12 +138,5 @@
     "Price": "20 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zabovresky-sirotkova/4114625356",
     "id": "4114625356"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 95 m²",
-    "Address": "Opuštěná, Brno - Trnitá",
-    "Price": "29 990 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-trnita-opustena/3691524940",
-    "id": "3691524940"
   }
 ]
