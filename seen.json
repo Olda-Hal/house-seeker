@@ -1,5 +1,33 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 68 m²",
+    "Address": "Chudčická, Brno - Bystrc",
+    "Price": "21 900 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-bystrc-chudcicka/2699805516",
+    "id": "2699805516"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 49 m²",
+    "Address": "Příkop, Brno - Zábrdovice",
+    "Price": "22 600 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zabrdovice-prikop/1749410636",
+    "id": "1749410636"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 68 m²",
+    "Address": "Vrázova, Brno - Žabovřesky",
+    "Price": "20 500 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zabovresky-vrazova/1255981900",
+    "id": "1255981900"
+  },
+  {
+    "header": "Pronájem bytu 3+1 75 m²",
+    "Address": "Tučkova, Brno - Veveří",
+    "Price": "23 900 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-veveri-tuckova/2442212172",
+    "id": "2442212172"
+  },
+  {
     "header": "Pronájem bytu 3+kk 61 m²",
     "Address": "Černého, Brno - Bystrc",
     "Price": "12 100 Kč/měsíc",
@@ -110,33 +138,5 @@
     "Price": "23 400 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-cerna-pole-zemedelska/1349964620",
     "id": "1349964620"
-  },
-  {
-    "header": "Pronájem bytu 3+1 120 m²",
-    "Address": "Tyršova, Brno - Královo Pole",
-    "Price": "22 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-kralovo-pole-tyrsova/823513932",
-    "id": "823513932"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 61 m²",
-    "Address": "Churého, Brno - Černovice",
-    "Price": "21 700 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-cernovice-chureho/7418700",
-    "id": "7418700"
-  },
-  {
-    "header": "Pronájem bytu 2+1 69 m²",
-    "Address": "Mášova, Brno - Veveří",
-    "Price": "21 900 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-veveri-masova/9421644",
-    "id": "9421644"
-  },
-  {
-    "header": "Pronájem bytu 2+1 72 m²",
-    "Address": "Kounicova, Brno - Veveří",
-    "Price": "18 900 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-veveri-kounicova/2519085900",
-    "id": "2519085900"
   }
 ]
