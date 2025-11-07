@@ -1,5 +1,19 @@
 [
   {
+    "header": "Pronájem bytu 3+1 92 m²",
+    "Address": "Teyschlova, Brno - Bystrc",
+    "Price": "22 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-bystrc-teyschlova/1461183308",
+    "id": "1461183308"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 159 m²",
+    "Address": "Cejl, Brno",
+    "Price": "25 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-brno-cejl/1201812300",
+    "id": "1201812300"
+  },
+  {
     "header": "Pronájem bytu 3+kk 48 m²",
     "Address": "Nopova, Brno - Židenice",
     "Price": "22 000 Kč/měsíc",
@@ -51,7 +65,7 @@
   {
     "header": "Pronájem bytu 3+kk 111 m²",
     "Address": "Plachty, Brno - Nový Lískovec",
-    "Price": "32 000 Kč/měsíc",
+    "Price": "31 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-novy-liskovec-plachty/2001875788",
     "id": "2001875788"
   },
@@ -105,13 +119,6 @@
     "id": "3001496396"
   },
   {
-    "header": "Bydlet ve vlastním?",
-    "Address": "Samozřejmě můžete. Splňte si sen o vlastním bydlení s naší hypotékou bez čekání.",
-    "Price": "Raiffeisenbank",
-    "link": "https://a.seznam.cz/v2/click?spotId=4052275&d=MBG5I88IVIF74KAM6U4TDYPUQN46RCDF4GHG5G4Y9B4T3KJ3WYVH6YA26BBW5ARV69JKH67YR8GNE2AXKP2ICI26QP63RGFCJ933X99NK53I89NS7S88MMENXP9MUYGSMDQJRGQAXI9N2US82Q8HYQ2WBKV5WEX6XN7VSG3M63VE2AJJ7WTZPQ32PIH577G8Z9E5IHA8U4FCBKU9MIP67VJWGG5UM3K2XBTN39IV8HX2EFHNMCCB96WIW2JQPDW7WEIEHDIAN3DMGNE268F4SXY4ATTTGPTZ7H3ATFARKXNQVRQGRJMN3Q5VHTSFKD98A7A55VA7SH56P6WXCTD6XAVWYCH5M8K2UQWWRHXNZNXN3UI&destination=https%3A//track.adform.net/C/%3Fbn%3D83966721",
-    "id": "%3Fbn%3D83966721"
-  },
-  {
     "header": "Pronájem bytu 2+1 62 m²",
     "Address": "Zemědělská, Brno - Černá Pole",
     "Price": "23 400 Kč/měsíc",
@@ -131,19 +138,5 @@
     "Price": "16 900 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-stare-brno-vaclavska/3545404236",
     "id": "3545404236"
-  },
-  {
-    "header": "Pronájem bytu 2+1 55 m²",
-    "Address": "Ježkova, Brno - Lesná",
-    "Price": "16 500 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-lesna-jezkova/4230427468",
-    "id": "4230427468"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 91 m²",
-    "Address": "Palackého třída, Brno",
-    "Price": "22 300 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-brno-palackeho-trida/3797013324",
-    "id": "3797013324"
   }
 ]
