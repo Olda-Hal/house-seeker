@@ -1,5 +1,26 @@
 [
   {
+    "header": "Pronájem bytu 3+1 72 m²",
+    "Address": "Vsetínská, Brno - Štýřice",
+    "Price": "23 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-styrice-vsetinska/2348798796",
+    "id": "2348798796"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 58 m²",
+    "Address": "Krameriova, Brno - Líšeň",
+    "Price": "19 900 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-lisen-krameriova/492188492",
+    "id": "492188492"
+  },
+  {
+    "header": "Pronájem bytu 2+1 59 m²",
+    "Address": "Studená, Brno - Lesná",
+    "Price": "17 500 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-lesna-studena/1918251852",
+    "id": "1918251852"
+  },
+  {
     "header": "Pronájem bytu 3+kk 95 m²",
     "Address": "Opuštěná, Brno - Trnitá",
     "Price": "29 990 Kč/měsíc",
@@ -105,13 +126,6 @@
     "id": "3643315020"
   },
   {
-    "header": "Bydlet ve vlastním?",
-    "Address": "Samozřejmě můžete. Splňte si sen o vlastním bydlení s naší hypotékou bez čekání.",
-    "Price": "Raiffeisenbank",
-    "link": "https://a.seznam.cz/v2/click?spotId=4052275&d=2CCDYY7K8KU9CEH5MX83VUF3695DJ9ZJIRK2YBBP6BUXVEYGUIY3JVMR6DMKGU8E2XI3AA8KNI7UFUMK3HQ6U8PQCDMIPJTBCVE3MC2JAURB379AFAAZD75EIXNVTDF5EWXJ7V56NYP7IV2K8K5CKNKM9JR7DM3QXARMYAQNFUSIAE9MWUEQKKDQWYPQFRD7TMSX2WEYZ3FUJ6WZMCDHVHGZB6EPBQ33DA3XXZDKNABHQPN6NDKXA24WGBXXQI74RUXAMXWZ6GQTBPM8XH49MIEXVJXHKT93KMXWFRHJVV65EFJV275I59RD4QAN8H67J47CENVUSJPYNN24KG8XWMBQ6FRMPA4Y6JZ3URJH2V4ZN8HD&destination=https%3A//track.adform.net/C/%3Fbn%3D83966721",
-    "id": "%3Fbn%3D83966721"
-  },
-  {
     "header": "Pronájem bytu 2+1 83 m²",
     "Address": "Antonína Macka, Brno - Královo Pole",
     "Price": "22 000 Kč/měsíc",
@@ -124,26 +138,5 @@
     "Price": "25 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-husovice-halkova/2523804492",
     "id": "2523804492"
-  },
-  {
-    "header": "Pronájem bytu 2+1 62 m²",
-    "Address": "Adamcova, Brno - Bystrc",
-    "Price": "20 390 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-bystrc-adamcova/2004280140",
-    "id": "2004280140"
-  },
-  {
-    "header": "Pronájem bytu 2+1 49 m²",
-    "Address": "Křižíkova, Brno - Královo Pole",
-    "Price": "19 990 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-kralovo-pole-krizikova/2870072140",
-    "id": "2870072140"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 56 m²",
-    "Address": "Táborská, Brno - Židenice",
-    "Price": "20 590 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zidenice-taborska/2203202380",
-    "id": "2203202380"
   }
 ]
