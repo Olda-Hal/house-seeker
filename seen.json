@@ -49,13 +49,6 @@
     "id": "2442212172"
   },
   {
-    "header": "Pronájem bytu 3+kk 61 m²",
-    "Address": "Černého, Brno - Bystrc",
-    "Price": "12 100 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-bystrc-cerneho/3524670284",
-    "id": "3524670284"
-  },
-  {
     "header": "Pronájem bytu 3+kk 76 m²",
     "Address": "Spálená, Brno - Trnitá",
     "Price": "23 900 Kč/měsíc",
@@ -68,13 +61,6 @@
     "Price": "21 900 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-cerna-pole-kunzova/3080115020",
     "id": "3080115020"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 67 m²",
-    "Address": "Studentská, Brno - Bohunice",
-    "Price": "12 100 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-bohunice-studentska/806761292",
-    "id": "806761292"
   },
   {
     "header": "Pronájem bytu 3+kk 93 m²",
@@ -138,5 +124,19 @@
     "Price": "16 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-kralovo-pole-galandauerova/3979752268",
     "id": "3979752268"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 73 m²",
+    "Address": "Trnitá, Brno - Trnitá",
+    "Price": "24 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-trnita-trnita/1735971660",
+    "id": "1735971660"
+  },
+  {
+    "header": "Pronájem bytu 2+1 62 m²",
+    "Address": "Zemědělská, Brno - Černá Pole",
+    "Price": "23 400 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-cerna-pole-zemedelska/1349964620",
+    "id": "1349964620"
   }
 ]
