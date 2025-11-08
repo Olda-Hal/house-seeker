@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 137 m²",
+    "Address": "Hálkova, Brno - Husovice",
+    "Price": "25 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-husovice-halkova/2523804492",
+    "id": "2523804492"
+  },
+  {
     "header": "Pronájem bytu 3+kk 111 m²",
     "Address": "Plachty, Brno - Nový Lískovec",
     "Price": "31 000 Kč/měsíc",
@@ -131,12 +138,5 @@
     "Price": "22 300 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-brno-palackeho-trida/3797013324",
     "id": "3797013324"
-  },
-  {
-    "header": "Pronájem bytu 3+1 97 m²",
-    "Address": "Čápkova, Brno - Veveří",
-    "Price": "30 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-veveri-capkova/3041522508",
-    "id": "3041522508"
   }
 ]
