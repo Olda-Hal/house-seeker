@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+1 104 m²",
+    "Address": "Masarykova, Brno - Brno-město",
+    "Price": "22 900 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-brno-mesto-masarykova/1304310604",
+    "id": "1304310604"
+  },
+  {
     "header": "Pronájem bytu 2+1 44 m²",
     "Address": "Francouzská, Brno - Zábrdovice",
     "Price": "16 000 Kč/měsíc",
@@ -128,15 +135,8 @@
   {
     "header": "Pronájem bytu 3+1 80 m²",
     "Address": "Okrouhlá, Brno",
-    "Price": "29 500 Kč/měsíc",
+    "Price": "25 900 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-brno-okrouhla/3649450828",
     "id": "3649450828"
-  },
-  {
-    "header": "Pronájem bytu 2+1 57 m²",
-    "Address": "Cejl, Brno - Zábrdovice",
-    "Price": "17 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-zabrdovice-cejl/75903820",
-    "id": "75903820"
   }
 ]
