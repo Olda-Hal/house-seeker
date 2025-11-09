@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+1 72 m²",
+    "Address": "Jaselská, Brno - Veveří",
+    "Price": "25 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-veveri-jaselska/1104147276",
+    "id": "1104147276"
+  },
+  {
     "header": "Pronájem bytu 2+1 58 m²",
     "Address": "Terezy Novákové, Brno - Řečkovice",
     "Price": "19 000 Kč/měsíc",
@@ -131,12 +138,5 @@
     "Price": "22 900 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-brno-mesto-masarykova/1304310604",
     "id": "1304310604"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 86 m²",
-    "Address": "Brno - Husovice",
-    "Price": "23 900 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-husovice-/1861628748",
-    "id": "1861628748"
   }
 ]
