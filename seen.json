@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 2+1 57 m²",
+    "Address": "Cejl, Brno - Zábrdovice",
+    "Price": "17 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-zabrdovice-cejl/75903820",
+    "id": "75903820"
+  },
+  {
     "header": "Pronájem bytu 3+kk 95 m²",
     "Address": "Opuštěná, Brno - Trnitá",
     "Price": "29 990 Kč/měsíc",
@@ -131,12 +138,5 @@
     "Price": "22 600 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zabrdovice-prikop/1749410636",
     "id": "1749410636"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 68 m²",
-    "Address": "Vrázova, Brno - Žabovřesky",
-    "Price": "20 500 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zabovresky-vrazova/1255981900",
-    "id": "1255981900"
   }
 ]
