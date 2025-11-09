@@ -21,6 +21,13 @@
     "id": "1304310604"
   },
   {
+    "header": "Pronájem bytu 3+1 96 m²",
+    "Address": "Havláskova, Brno - Jehnice",
+    "Price": "22 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-jehnice-havlaskova/711275340",
+    "id": "711275340"
+  },
+  {
     "header": "Pronájem bytu 2+1 44 m²",
     "Address": "Francouzská, Brno - Zábrdovice",
     "Price": "16 000 Kč/měsíc",
@@ -131,12 +138,5 @@
     "Price": "17 900 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-cerna-pole-namesti-snp/1381811020",
     "id": "1381811020"
-  },
-  {
-    "header": "Pronájem bytu 3+1 72 m²",
-    "Address": "Jaselská, Brno - Veveří",
-    "Price": "25 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-veveri-jaselska/1104147276",
-    "id": "1104147276"
   }
 ]
