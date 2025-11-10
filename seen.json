@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+1 72 m²",
+    "Address": "Brno",
+    "Price": "25 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-brno-/755249996",
+    "id": "755249996"
+  },
+  {
     "header": "Pronájem bytu 2+1 58 m²",
     "Address": "Výstavní, Brno - Staré Brno",
     "Price": "25 000 Kč/měsíc",
@@ -131,12 +138,5 @@
     "Price": "19 900 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-kohoutovice-borodinova/3703911244",
     "id": "3703911244"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 68 m²",
-    "Address": "Čejkova, Brno - Židenice",
-    "Price": "24 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zidenice-cejkova/331690828",
-    "id": "331690828"
   }
 ]
