@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 2+1 56 m²",
+    "Address": "Plovdivská, Brno - Žabovřesky",
+    "Price": "19 400 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-zabovresky-plovdivska/2743415628",
+    "id": "2743415628"
+  },
+  {
     "header": "Pronájem bytu 3+1 92 m²",
     "Address": "Teyschlova, Brno - Bystrc",
     "Price": "22 000 Kč/měsíc",
@@ -105,13 +112,6 @@
     "id": "3318342476"
   },
   {
-    "header": "Bydlet ve vlastním?",
-    "Address": "Samozřejmě můžete. Splňte si sen o vlastním bydlení s naší hypotékou bez čekání.",
-    "Price": "Raiffeisenbank",
-    "link": "https://a.seznam.cz/v2/click?spotId=4058634&d=YNE3QP33JDGC5AJ82CVWAYYTF5DGNDCFXZVYQ9EDISJWTJPPP2IKNY3MSQ8GPY3B9IWFHU7MXUIU47QXBPCKK4C7EIZ9Q39UTUQQGFDP3C3GHPBAB78XUUGE86MA4FT6HVZ66JUGY6BW8EYR7AT7K4CG63GNNWZU96SAHD5NFEPXPKU3P7B32SYIC7VNFUYT7TF7MYY838IVM6W3FXWFDWJ8URW7CMMXDUV6W6XC68FWKWJVZVPQGRDNRF884D2MCQ9K9DQT2P3K8BR5Q4FSUJQYBRUZMVBZAE427BG9DEH9RPM5Q9F2Z92J7WBX2VUT2GMK3A46WKYWJ2ZSJ65DYCIMUZS7JUEF3ZE9NC4Z8A6SS&destination=https%3A//track.adform.net/C/%3Fbn%3D83966721",
-    "id": "%3Fbn%3D83966721"
-  },
-  {
     "header": "Pronájem bytu 3+kk 69 m²",
     "Address": "Podnásepní, Brno - Trnitá",
     "Price": "23 000 Kč/měsíc",
@@ -138,12 +138,5 @@
     "Price": "17 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-lesna-studena/1918251852",
     "id": "1918251852"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 137 m²",
-    "Address": "Hálkova, Brno - Husovice",
-    "Price": "25 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-husovice-halkova/2523804492",
-    "id": "2523804492"
   }
 ]
