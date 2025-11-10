@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 75 m²",
+    "Address": "Jana Uhra, Brno - Veveří",
+    "Price": "24 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-veveri-jana-uhra/1370669900",
+    "id": "1370669900"
+  },
+  {
     "header": "Pronájem bytu 3+kk 72 m²",
     "Address": "Moskalykova, Brno - Sadová",
     "Price": "32 000 Kč/měsíc",
@@ -131,12 +138,5 @@
     "Price": "22 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zidenice-nopova/3329962828",
     "id": "3329962828"
-  },
-  {
-    "header": "Pronájem bytu 2+1 56 m²",
-    "Address": "Absolonova, Brno - Komín",
-    "Price": "16 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-komin-absolonova/160838476",
-    "id": "160838476"
   }
 ]
