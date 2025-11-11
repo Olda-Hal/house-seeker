@@ -1,5 +1,19 @@
 [
   {
+    "header": "Pronájem bytu 3+1 86 m²",
+    "Address": "Minská, Brno - Žabovřesky",
+    "Price": "23 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-zabovresky-minska/2886411084",
+    "id": "2886411084"
+  },
+  {
+    "header": "Pronájem bytu 3+1 100 m²",
+    "Address": "Bratislavská, Brno - Zábrdovice",
+    "Price": "20 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-zabrdovice-bratislavska/2433426252",
+    "id": "2433426252"
+  },
+  {
     "header": "Pronájem bytu 2+1 70 m²",
     "Address": "Horácké náměstí, Brno - Řečkovice",
     "Price": "21 000 Kč/měsíc",
@@ -131,19 +145,5 @@
     "Price": "16 500 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-cerna-pole-slepa/1641296716",
     "id": "1641296716"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 78 m²",
-    "Address": "Lučiny, Brno - Slatina",
-    "Price": "24 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-slatina-luciny/3590468428",
-    "id": "3590468428"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 90 m²",
-    "Address": "Antala Staška, Brno - Černá Pole",
-    "Price": "27 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-cerna-pole-antala-staska/2095199052",
-    "id": "2095199052"
   }
 ]
