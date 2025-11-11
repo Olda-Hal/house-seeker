@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 2+1 70 m²",
+    "Address": "Horácké náměstí, Brno - Řečkovice",
+    "Price": "21 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-reckovice-horacke-namesti/1020052300",
+    "id": "1020052300"
+  },
+  {
     "header": "Pronájem bytu 3+1 58 m²",
     "Address": "Vysoká, Brno - Štýřice",
     "Price": "21 900 Kč/měsíc",
@@ -138,12 +145,5 @@
     "Price": "27 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-cerna-pole-antala-staska/2095199052",
     "id": "2095199052"
-  },
-  {
-    "header": "Pronájem bytu 2+1 60 m²",
-    "Address": "Borodinova, Brno - Kohoutovice",
-    "Price": "19 900 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-kohoutovice-borodinova/3703911244",
-    "id": "3703911244"
   }
 ]
