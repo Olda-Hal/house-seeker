@@ -1,5 +1,19 @@
 [
   {
+    "header": "Pronájem bytu 2+1 60 m²",
+    "Address": "Borodinova, Brno - Kohoutovice",
+    "Price": "19 900 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-kohoutovice-borodinova/3703911244",
+    "id": "3703911244"
+  },
+  {
+    "header": "Pronájem bytu 2+1 57 m²",
+    "Address": "Schwaigrova, Brno - Komárov",
+    "Price": "17 500 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-komarov-schwaigrova/3940823884",
+    "id": "3940823884"
+  },
+  {
     "header": "Pronájem bytu 3+kk 48 m²",
     "Address": "Nopova, Brno - Židenice",
     "Price": "22 000 Kč/měsíc",
@@ -131,19 +145,5 @@
     "Price": "21 500 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-bohunice-okrouhla/1423364940",
     "id": "1423364940"
-  },
-  {
-    "header": "Pronájem bytu 2+1 56 m²",
-    "Address": "Plovdivská, Brno - Žabovřesky",
-    "Price": "19 400 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-zabovresky-plovdivska/2743415628",
-    "id": "2743415628"
-  },
-  {
-    "header": "Pronájem bytu 3+1 92 m²",
-    "Address": "Teyschlova, Brno - Bystrc",
-    "Price": "22 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-bystrc-teyschlova/1461183308",
-    "id": "1461183308"
   }
 ]
