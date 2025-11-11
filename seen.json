@@ -1,5 +1,19 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 48 m²",
+    "Address": "Nopova, Brno - Židenice",
+    "Price": "22 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zidenice-nopova/3329962828",
+    "id": "3329962828"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 137 m²",
+    "Address": "Hálkova, Brno - Husovice",
+    "Price": "25 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-husovice-halkova/2523804492",
+    "id": "2523804492"
+  },
+  {
     "header": "Pronájem bytu 2+1 69 m²",
     "Address": "Mášova, Brno - Veveří",
     "Price": "21 900 Kč/měsíc",
@@ -131,19 +145,5 @@
     "Price": "22 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-bystrc-teyschlova/1461183308",
     "id": "1461183308"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 88 m²",
-    "Address": "Bratislavská, Brno - Zábrdovice",
-    "Price": "35 650 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zabrdovice-bratislavska/3010061132",
-    "id": "3010061132"
-  },
-  {
-    "header": "Pronájem bytu 3+1 72 m²",
-    "Address": "Kroměřížská, Brno - Slatina",
-    "Price": "25 900 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-slatina-kromerizska/530920268",
-    "id": "530920268"
   }
 ]
