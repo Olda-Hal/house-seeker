@@ -7,13 +7,6 @@
     "id": "755249996"
   },
   {
-    "header": "Pronájem bytu 2+1 58 m²",
-    "Address": "Výstavní, Brno - Staré Brno",
-    "Price": "25 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-stare-brno-vystavni/1308308300",
-    "id": "1308308300"
-  },
-  {
     "header": "Pronájem bytu 3+kk 81 m²",
     "Address": "třída Generála Píky, Brno - Černá Pole",
     "Price": "34 800 Kč/měsíc",
@@ -112,13 +105,6 @@
     "id": "2743415628"
   },
   {
-    "header": "Pronájem bytu 3+1 92 m²",
-    "Address": "Teyschlova, Brno - Bystrc",
-    "Price": "22 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-bystrc-teyschlova/1461183308",
-    "id": "1461183308"
-  },
-  {
     "header": "Pronájem bytu 3+kk 88 m²",
     "Address": "Bratislavská, Brno - Zábrdovice",
     "Price": "35 650 Kč/měsíc",
@@ -140,10 +126,24 @@
     "id": "3703911244"
   },
   {
-    "header": "Pronájem bytu 3+kk 68 m²",
-    "Address": "Čejkova, Brno - Židenice",
-    "Price": "24 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zidenice-cejkova/331690828",
-    "id": "331690828"
+    "header": "Pronájem bytu 3+kk 92 m²",
+    "Address": "Wágnerova, Brno",
+    "Price": "27 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-brno-wagnerova/1086665548",
+    "id": "1086665548"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 75 m²",
+    "Address": "Komárovská, Brno - Komárov",
+    "Price": "49 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-komarov-komarovska/3643315020",
+    "id": "3643315020"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 85 m²",
+    "Address": "Hlinky, Brno - Brno-střed",
+    "Price": "22 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-brno-stred-hlinky/2408788812",
+    "id": "2408788812"
   }
 ]
