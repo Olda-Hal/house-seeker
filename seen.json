@@ -1,10 +1,24 @@
 [
   {
+    "header": "Pronájem bytu 3+1 70 m²",
+    "Address": "Vychodilova, Brno - Žabovřesky",
+    "Price": "20 900 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-zabovresky-vychodilova/2076500812",
+    "id": "2076500812"
+  },
+  {
     "header": "Pronájem bytu 3+kk 73 m²",
     "Address": "Řípská, Brno - Slatina",
     "Price": "24 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-slatina-ripska/1214980940",
     "id": "1214980940"
+  },
+  {
+    "header": "Pronájem bytu 3+1 83 m²",
+    "Address": "Spodní, Brno - Bohunice",
+    "Price": "24 900 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-bohunice-spodni/510337868",
+    "id": "510337868"
   },
   {
     "header": "Pronájem bytu 3+kk 68 m²",
@@ -131,19 +145,5 @@
     "Price": "22 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-kralovo-pole-tyrsova/823513932",
     "id": "823513932"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 61 m²",
-    "Address": "Churého, Brno - Černovice",
-    "Price": "21 700 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-cernovice-chureho/7418700",
-    "id": "7418700"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 58 m²",
-    "Address": "Krameriova, Brno - Líšeň",
-    "Price": "19 900 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-lisen-krameriova/492188492",
-    "id": "492188492"
   }
 ]
