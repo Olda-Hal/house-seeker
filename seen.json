@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 73 m²",
+    "Address": "Řípská, Brno - Slatina",
+    "Price": "24 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-slatina-ripska/1214980940",
+    "id": "1214980940"
+  },
+  {
     "header": "Pronájem bytu 3+kk 68 m²",
     "Address": "Bučkova, Brno - Slatina",
     "Price": "20 000 Kč/měsíc",
@@ -138,12 +145,5 @@
     "Price": "19 900 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-lisen-krameriova/492188492",
     "id": "492188492"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 89 m²",
-    "Address": "Nové sady, Brno - Staré Brno",
-    "Price": "39 800 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-stare-brno-nove-sady/4238984012",
-    "id": "4238984012"
   }
 ]
