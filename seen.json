@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 75 m²",
+    "Address": "Jana Uhra, Brno - Veveří",
+    "Price": "24 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-veveri-jana-uhra/1370669900",
+    "id": "1370669900"
+  },
+  {
     "header": "Pronájem bytu 2+1 59 m²",
     "Address": "Studená, Brno - Lesná",
     "Price": "17 000 Kč/měsíc",
@@ -131,12 +138,5 @@
     "Price": "23 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-zabovresky-minska/2886411084",
     "id": "2886411084"
-  },
-  {
-    "header": "Pronájem bytu 3+1 100 m²",
-    "Address": "Bratislavská, Brno - Zábrdovice",
-    "Price": "20 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-zabrdovice-bratislavska/2433426252",
-    "id": "2433426252"
   }
 ]
