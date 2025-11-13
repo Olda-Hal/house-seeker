@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 2+1 52 m²",
+    "Address": "Kamínky, Brno - Nový Lískovec",
+    "Price": "17 900 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-novy-liskovec-kaminky/2985960268",
+    "id": "2985960268"
+  },
+  {
     "header": "Pronájem bytu 3+kk 137 m²",
     "Address": "Hálkova, Brno - Husovice",
     "Price": "25 000 Kč/měsíc",
@@ -138,12 +145,5 @@
     "Price": "22 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-kralovo-pole-tyrsova/823513932",
     "id": "823513932"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 61 m²",
-    "Address": "Churého, Brno - Černovice",
-    "Price": "21 700 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-cernovice-chureho/7418700",
-    "id": "7418700"
   }
 ]
