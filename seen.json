@@ -1,5 +1,19 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 137 m²",
+    "Address": "Hálkova, Brno - Husovice",
+    "Price": "25 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-husovice-halkova/2523804492",
+    "id": "2523804492"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 89 m²",
+    "Address": "Jírovcova, Brno - Kohoutovice",
+    "Price": "24 900 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-kohoutovice-jirovcova/942748492",
+    "id": "942748492"
+  },
+  {
     "header": "Pronájem bytu 2+1 70 m²",
     "Address": "Pechova, Brno - Židenice",
     "Price": "25 000 Kč/měsíc",
@@ -19,13 +33,6 @@
     "Price": "14 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-lisen-simackova/664396",
     "id": "664396"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 137 m²",
-    "Address": "Hálkova, Brno - Husovice",
-    "Price": "25 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-husovice-halkova/2523804492",
-    "id": "2523804492"
   },
   {
     "header": "Pronájem bytu 2+1 55 m²",
@@ -138,12 +145,5 @@
     "Price": "21 700 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-cernovice-chureho/7418700",
     "id": "7418700"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 95 m²",
-    "Address": "Opuštěná, Brno - Trnitá",
-    "Price": "29 990 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-trnita-opustena/3691524940",
-    "id": "3691524940"
   }
 ]
