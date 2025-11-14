@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 72 m²",
+    "Address": "Moskalykova, Brno - Sadová",
+    "Price": "32 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-sadova-moskalykova/17969996",
+    "id": "17969996"
+  },
+  {
     "header": "Pronájem bytu 3+1 70 m²",
     "Address": "Vychodilova, Brno - Žabovřesky",
     "Price": "19 900 Kč/měsíc",
@@ -138,12 +145,5 @@
     "Price": "14 500 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-bystrc-rerychova/3632866124",
     "id": "3632866124"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 60 m²",
-    "Address": "Tuřanka, Brno - Slatina",
-    "Price": "19 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-slatina-turanka/3149472588",
-    "id": "3149472588"
   }
 ]
