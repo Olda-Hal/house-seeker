@@ -1,5 +1,19 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 73 m²",
+    "Address": "Spolková, Brno - Zábrdovice",
+    "Price": "26 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zabrdovice-spolkova/489739084",
+    "id": "489739084"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 62 m²",
+    "Address": "Spolková, Brno - Zábrdovice",
+    "Price": "25 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zabrdovice-spolkova/3425751884",
+    "id": "3425751884"
+  },
+  {
     "header": "Pronájem bytu 3+kk 72 m²",
     "Address": "Moskalykova, Brno - Sadová",
     "Price": "32 000 Kč/měsíc",
@@ -124,19 +138,5 @@
     "Price": "19 900 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-kohoutovice-borodinova/3703911244",
     "id": "3703911244"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 93 m²",
-    "Address": "Neumannova, Brno - Brno-střed",
-    "Price": "48 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-brno-stred-neumannova/2325291852",
-    "id": "2325291852"
-  },
-  {
-    "header": "Pronájem bytu 3+1 54 m²",
-    "Address": "Bieblova, Brno - Černá Pole",
-    "Price": "23 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-cerna-pole-bieblova/3600360268",
-    "id": "3600360268"
   }
 ]
