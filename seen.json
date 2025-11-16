@@ -1,5 +1,19 @@
 [
   {
+    "header": "Pronájem bytu 3+1 69 m²",
+    "Address": "Gruzínská, Brno - Bohunice",
+    "Price": "22 700 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-bohunice-gruzinska/1105539916",
+    "id": "1105539916"
+  },
+  {
+    "header": "Pronájem bytu 3+1 72 m²",
+    "Address": "Jaselská, Brno - Veveří",
+    "Price": "25 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-veveri-jaselska/1104147276",
+    "id": "1104147276"
+  },
+  {
     "header": "Pronájem bytu 2+1 55 m²",
     "Address": "Brno - Žabovřesky",
     "Price": "18 000 Kč/měsíc",
@@ -119,24 +133,10 @@
     "id": "1460192076"
   },
   {
-    "header": "Pronájem bytu 3+1 72 m²",
-    "Address": "Jaselská, Brno - Veveří",
-    "Price": "25 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-veveri-jaselska/1104147276",
-    "id": "1104147276"
-  },
-  {
     "header": "Pronájem bytu 3+1 104 m²",
     "Address": "Masarykova, Brno - Brno-město",
     "Price": "22 900 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-brno-mesto-masarykova/1304310604",
     "id": "1304310604"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 72 m²",
-    "Address": "Fryčajova, Brno - Obřany",
-    "Price": "23 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-obrany-frycajova/4195103564",
-    "id": "4195103564"
   }
 ]
