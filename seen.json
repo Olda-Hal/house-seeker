@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 2+1 55 m²",
+    "Address": "Brno - Žabovřesky",
+    "Price": "18 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-zabovresky-/3340485452",
+    "id": "3340485452"
+  },
+  {
     "header": "Pronájem bytu 2+1 75 m²",
     "Address": "Gorkého, Brno - Veveří",
     "Price": "21 500 Kč/měsíc",
@@ -131,12 +138,5 @@
     "Price": "23 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-obrany-frycajova/4195103564",
     "id": "4195103564"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 73 m²",
-    "Address": "Spolková, Brno - Zábrdovice",
-    "Price": "26 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zabrdovice-spolkova/489739084",
-    "id": "489739084"
   }
 ]
