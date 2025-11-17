@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 2+1 58 m²",
+    "Address": "Výstavní, Brno - Staré Brno",
+    "Price": "25 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-stare-brno-vystavni/1308308300",
+    "id": "1308308300"
+  },
+  {
     "header": "Pronájem bytu 3+1 83 m²",
     "Address": "Mlýnská, Brno - Trnitá",
     "Price": "29 500 Kč/měsíc",
@@ -131,12 +138,5 @@
     "Price": "24 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-cernovice-spacilova/300954444",
     "id": "300954444"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 111 m²",
-    "Address": "Plachty, Brno - Nový Lískovec",
-    "Price": "31 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-novy-liskovec-plachty/2001875788",
-    "id": "2001875788"
   }
 ]
