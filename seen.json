@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 2+1 49 m²",
+    "Address": "Křižíkova, Brno - Královo Pole",
+    "Price": "18 990 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-kralovo-pole-krizikova/2870072140",
+    "id": "2870072140"
+  },
+  {
     "header": "Pronájem bytu 3+kk 81 m²",
     "Address": "třída Generála Píky, Brno - Černá Pole",
     "Price": "34 800 Kč/měsíc",
@@ -19,13 +26,6 @@
     "Price": "23 500 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-cerna-pole-mathonova/2617586508",
     "id": "2617586508"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 88 m²",
-    "Address": "Bratislavská, Brno - Zábrdovice",
-    "Price": "35 650 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zabrdovice-bratislavska/3010061132",
-    "id": "3010061132"
   },
   {
     "header": "Pronájem bytu 3+1 68 m²",
