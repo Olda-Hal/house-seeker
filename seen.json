@@ -1,5 +1,19 @@
 [
   {
+    "header": "Pronájem bytu 3+1 85 m²",
+    "Address": "Nové sady, Brno - Staré Brno",
+    "Price": "25 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-stare-brno-nove-sady/3154105164",
+    "id": "3154105164"
+  },
+  {
+    "header": "Pronájem bytu 3+1 79 m²",
+    "Address": "Klímova, Brno - Žabovřesky",
+    "Price": "27 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-zabovresky-klimova/332342092",
+    "id": "332342092"
+  },
+  {
     "header": "Pronájem bytu 2+1 70 m²",
     "Address": "Pechova, Brno - Židenice",
     "Price": "25 000 Kč/měsíc",
@@ -131,19 +145,5 @@
     "Price": "21 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-bohunice-ukrajinska/439296844",
     "id": "439296844"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 75 m²",
-    "Address": "Rostislavovo náměstí, Brno - Královo Pole",
-    "Price": "42 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-kralovo-pole-rostislavovo-namesti/1884152652",
-    "id": "1884152652"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 75 m²",
-    "Address": "Komárovská, Brno - Komárov",
-    "Price": "49 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-komarov-komarovska/3643315020",
-    "id": "3643315020"
   }
 ]
