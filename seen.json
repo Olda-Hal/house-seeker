@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+1 66 m²",
+    "Address": "Havlenova, Brno - Štýřice",
+    "Price": "23 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-styrice-havlenova/2384339788",
+    "id": "2384339788"
+  },
+  {
     "header": "Pronájem bytu 2+1 53 m²",
     "Address": "náměstí SNP, Brno - Černá Pole",
     "Price": "19 900 Kč/měsíc",
@@ -138,12 +145,5 @@
     "Price": "20 300 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-brno-skrivanova/2730107724",
     "id": "2730107724"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 111 m²",
-    "Address": "Plachty, Brno - Nový Lískovec",
-    "Price": "28 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-novy-liskovec-plachty/2831098700",
-    "id": "2831098700"
   }
 ]
