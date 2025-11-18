@@ -7,6 +7,13 @@
     "id": "2384339788"
   },
   {
+    "header": "Pronájem bytu 3+1 72 m²",
+    "Address": "Vltavská, Brno - Starý Lískovec",
+    "Price": "27 500 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-stary-liskovec-vltavska/4011729740",
+    "id": "4011729740"
+  },
+  {
     "header": "Pronájem bytu 2+1 53 m²",
     "Address": "náměstí SNP, Brno - Černá Pole",
     "Price": "19 900 Kč/měsíc",
@@ -138,12 +145,5 @@
     "Price": "21 500 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-styrice-vysoka/476980044",
     "id": "476980044"
-  },
-  {
-    "header": "Pronájem bytu 2+1 75 m²",
-    "Address": "Skřivanova, Brno",
-    "Price": "20 300 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-brno-skrivanova/2730107724",
-    "id": "2730107724"
   }
 ]
