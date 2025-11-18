@@ -1,8 +1,15 @@
 [
   {
+    "header": "Pronájem bytu 2+1 72 m²",
+    "Address": "Božetěchova, Brno - Královo Pole",
+    "Price": "20 300 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-kralovo-pole-bozetechova/3900687180",
+    "id": "3900687180"
+  },
+  {
     "header": "Pronájem bytu 3+1 66 m²",
     "Address": "Havlenova, Brno - Štýřice",
-    "Price": "23 000 Kč/měsíc",
+    "Price": "22 500 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-styrice-havlenova/2384339788",
     "id": "2384339788"
   },
@@ -131,19 +138,5 @@
     "Price": "26 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-sadova-mensikova/3313378124",
     "id": "3313378124"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 62 m²",
-    "Address": "Lipová, Brno - Staré Brno",
-    "Price": "22 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-stare-brno-lipova/3989386060",
-    "id": "3989386060"
-  },
-  {
-    "header": "Pronájem bytu 2+1 54 m²",
-    "Address": "Vysoká, Brno - Štýřice",
-    "Price": "21 500 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-styrice-vysoka/476980044",
-    "id": "476980044"
   }
 ]
