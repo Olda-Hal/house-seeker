@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 2+1 67 m²",
+    "Address": "Petrůvky, Brno - Židenice",
+    "Price": "15 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-zidenice-petruvky/2858099532",
+    "id": "2858099532"
+  },
+  {
     "header": "Pronájem bytu 3+kk 60 m²",
     "Address": "Tuřanka, Brno - Slatina",
     "Price": "25 000 Kč/měsíc",
@@ -131,12 +138,5 @@
     "Price": "22 500 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-kralovo-pole-husitska/3318342476",
     "id": "3318342476"
-  },
-  {
-    "header": "Pronájem bytu 2+1 49 m²",
-    "Address": "Křižíkova, Brno - Královo Pole",
-    "Price": "18 990 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-kralovo-pole-krizikova/2870072140",
-    "id": "2870072140"
   }
 ]
