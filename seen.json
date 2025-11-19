@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 60 m²",
+    "Address": "Tuřanka, Brno - Slatina",
+    "Price": "25 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-slatina-turanka/2297307980",
+    "id": "2297307980"
+  },
+  {
     "header": "Pronájem bytu 2+1 72 m²",
     "Address": "Božetěchova, Brno - Královo Pole",
     "Price": "20 300 Kč/měsíc",
@@ -131,12 +138,5 @@
     "Price": "18 990 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-kralovo-pole-krizikova/2870072140",
     "id": "2870072140"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 87 m²",
-    "Address": "Menšíkova, Brno - Sadová",
-    "Price": "26 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-sadova-mensikova/3313378124",
-    "id": "3313378124"
   }
 ]
