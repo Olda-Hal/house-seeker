@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 2+1 47 m²",
+    "Address": "Purkyňova, Brno - Královo Pole",
+    "Price": "21 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-kralovo-pole-purkynova/1577853772",
+    "id": "1577853772"
+  },
+  {
     "header": "Pronájem bytu 3+kk 65 m²",
     "Address": "Dřevařská, Brno - Veveří",
     "Price": "19 990 Kč/měsíc",
@@ -138,12 +145,5 @@
     "Price": "27 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-cerna-pole-antala-staska/1412879180",
     "id": "1412879180"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 76 m²",
-    "Address": "Střední, Brno - Ponava",
-    "Price": "23 500 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-ponava-stredni/2677875532",
-    "id": "2677875532"
   }
 ]
