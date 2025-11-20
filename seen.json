@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 70 m²",
+    "Address": "Kotkova, Brno - Černovice",
+    "Price": "27 900 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-cernovice-kotkova/3841794892",
+    "id": "3841794892"
+  },
+  {
     "header": "Pronájem bytu 2+1 57 m²",
     "Address": "Schwaigrova, Brno - Komárov",
     "Price": "17 500 Kč/měsíc",
@@ -138,12 +145,5 @@
     "Price": "15 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-kralovo-pole-jungmannova/474817356",
     "id": "474817356"
-  },
-  {
-    "header": "Pronájem bytu 3+1 73 m²",
-    "Address": "Vondrákova, Brno - Bystrc",
-    "Price": "19 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-bystrc-vondrakova/21832524",
-    "id": "21832524"
   }
 ]
