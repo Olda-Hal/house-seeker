@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+1 75 m²",
+    "Address": "Černého, Brno - Bystrc",
+    "Price": "19 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-bystrc-cerneho/3223569228",
+    "id": "3223569228"
+  },
+  {
     "header": "Pronájem bytu 3+kk 137 m²",
     "Address": "Hálkova, Brno - Husovice",
     "Price": "25 000 Kč/měsíc",
@@ -138,12 +145,5 @@
     "Price": "25 500 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-cerna-pole-alesova/486859596",
     "id": "486859596"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 127 m²",
-    "Address": "Skorkovského, Brno - Židenice",
-    "Price": "22 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zidenice-skorkovskeho/1784554316",
-    "id": "1784554316"
   }
 ]
