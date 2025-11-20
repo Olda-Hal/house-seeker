@@ -1,5 +1,19 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 87 m²",
+    "Address": "Nad Dědinou, Brno - Bystrc",
+    "Price": "22 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-bystrc-nad-dedinou/3039568716",
+    "id": "3039568716"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 97 m²",
+    "Address": "Husitská, Brno - Královo Pole",
+    "Price": "22 500 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-kralovo-pole-husitska/3318342476",
+    "id": "3318342476"
+  },
+  {
     "header": "Pronájem bytu 3+kk 82 m²",
     "Address": "Údolní, Brno - Veveří",
     "Price": "32 000 Kč/měsíc",
@@ -131,19 +145,5 @@
     "Price": "23 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-stare-brno-zahradnicka/913032012",
     "id": "913032012"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 89 m²",
-    "Address": "Nové sady, Brno - Staré Brno",
-    "Price": "39 800 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-stare-brno-nove-sady/4238984012",
-    "id": "4238984012"
-  },
-  {
-    "header": "Pronájem bytu 3+1 97 m²",
-    "Address": "Čápkova, Brno - Veveří",
-    "Price": "30 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-veveri-capkova/3041522508",
-    "id": "3041522508"
   }
 ]
