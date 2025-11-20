@@ -1,8 +1,22 @@
 [
   {
+    "header": "Pronájem bytu 3+1 113 m²",
+    "Address": "Botanická, Brno - Veveří",
+    "Price": "30 500 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-veveri-botanicka/3122672460",
+    "id": "3122672460"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 86 m²",
+    "Address": "Brno - Husovice",
+    "Price": "23 900 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-husovice-/1861628748",
+    "id": "1861628748"
+  },
+  {
     "header": "Pronájem bytu 2+1 62 m²",
     "Address": "Zemědělská, Brno - Černá Pole",
-    "Price": "23 400 Kč/měsíc",
+    "Price": "22 900 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-cerna-pole-zemedelska/1349964620",
     "id": "1349964620"
   },
@@ -131,19 +145,5 @@
     "Price": "18 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-komin-jozky-jaburkove/3447845708",
     "id": "3447845708"
-  },
-  {
-    "header": "Pronájem bytu 3+1 72 m²",
-    "Address": "Jaselská, Brno - Veveří",
-    "Price": "25 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-veveri-jaselska/1104147276",
-    "id": "1104147276"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 95 m²",
-    "Address": "Opuštěná, Brno - Trnitá",
-    "Price": "29 990 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-trnita-opustena/3691524940",
-    "id": "3691524940"
   }
 ]
