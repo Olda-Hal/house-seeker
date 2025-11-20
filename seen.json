@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 77 m²",
+    "Address": "Komárovská, Brno - Komárov",
+    "Price": "35 490 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-komarov-komarovska/3152814924",
+    "id": "3152814924"
+  },
+  {
     "header": "Pronájem bytu 2+1 89 m²",
     "Address": "Kotlářská, Brno - Veveří",
     "Price": "25 000 Kč/měsíc",
@@ -138,12 +145,5 @@
     "Price": "22 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-bystrc-nad-dedinou/3039568716",
     "id": "3039568716"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 82 m²",
-    "Address": "Pálavské náměstí, Brno - Židenice",
-    "Price": "23 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zidenice-palavske-namesti/526132044",
-    "id": "526132044"
   }
 ]
