@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 137 m²",
+    "Address": "Hálkova, Brno - Husovice",
+    "Price": "25 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-husovice-halkova/2523804492",
+    "id": "2523804492"
+  },
+  {
     "header": "Pronájem bytu 3+1 113 m²",
     "Address": "Botanická, Brno - Veveří",
     "Price": "30 500 Kč/měsíc",
@@ -138,12 +145,5 @@
     "Price": "22 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zidenice-skorkovskeho/1784554316",
     "id": "1784554316"
-  },
-  {
-    "header": "Pronájem bytu 2+1 52 m²",
-    "Address": "Jožky Jabůrkové, Brno - Komín",
-    "Price": "18 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-komin-jozky-jaburkove/3447845708",
-    "id": "3447845708"
   }
 ]
