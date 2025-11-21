@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 2+1 60 m²",
+    "Address": "Kotkova, Brno - Černovice",
+    "Price": "27 900 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-cernovice-kotkova/3586925388",
+    "id": "3586925388"
+  },
+  {
     "header": "Pronájem bytu 2+1 62 m²",
     "Address": "Zemědělská, Brno - Černá Pole",
     "Price": "23 400 Kč/měsíc",
@@ -131,12 +138,5 @@
     "Price": "23 800 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-obrany-frycajova/1153291084",
     "id": "1153291084"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 70 m²",
-    "Address": "Reissigova, Brno - Ponava",
-    "Price": "21 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-ponava-reissigova/3660325708",
-    "id": "3660325708"
   }
 ]
