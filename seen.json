@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+1 150 m²",
+    "Address": "Mučednická, Brno - Žabovřesky",
+    "Price": "29 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-zabovresky-mucednicka/315507276",
+    "id": "315507276"
+  },
+  {
     "header": "Pronájem bytu 3+kk 111 m²",
     "Address": "Plachty, Brno - Nový Lískovec",
     "Price": "28 000 Kč/měsíc",
@@ -47,13 +54,6 @@
     "Price": "20 990 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-veveri-antoninska/3197641548",
     "id": "3197641548"
-  },
-  {
-    "header": "Best of REALFEST 2025",
-    "Address": "To nej z 10 let REALFESTu! Top řečníci, panelky, workshopy, investice, právo, networking",
-    "Price": "RVI s.r.o.",
-    "link": "https://a.seznam.cz/v2/click?spotId=4063195&d=MUHSXF8GMKUIE4INYUF3XYI627EKH3JV3S9XXBC3NYCKY8KUUW2JURRPY68Y44WTG8B9773CSKM2YNJKRNKWY9IDNADUJNW2CQKXE2B8S2QCI6C6D8H3JCAHCV9YMIRGHFQJYVFZTZ5YJRQWI7583JC7FZ5IJNRHFYUPS3NRRYNXP7HMFKDAQ42IZZSKNV6S4TYKAFIRQ7P4B7NZSTHGNE7KH9J297PCKJPK93TASSFTHCAEYT2AS7Y5NGG7FV58R6SWS723EPNGATK2K5VPUXD72347MAJBV2JJDUI7MEJDGPMRH4FNEGE77KKTFIEEGQFNM72XMKDKHGW4WEXJG6XNN7RGXYF9FNQVWRGIU7968WS&destination=https%3A//realfest.cz/",
-    "id": ""
   },
   {
     "header": "Pronájem bytu 3+1 91 m²",
@@ -138,12 +138,5 @@
     "Price": "20 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-reckovice-horacke-namesti/1020052300",
     "id": "1020052300"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 95 m²",
-    "Address": "Opuštěná, Brno - Trnitá",
-    "Price": "29 990 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-trnita-opustena/3691524940",
-    "id": "3691524940"
   }
 ]
