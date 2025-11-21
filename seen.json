@@ -1,5 +1,19 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 95 m²",
+    "Address": "Opuštěná, Brno - Trnitá",
+    "Price": "29 990 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-trnita-opustena/3691524940",
+    "id": "3691524940"
+  },
+  {
+    "header": "Pronájem bytu 3+1 72 m²",
+    "Address": "Kroměřížská, Brno - Slatina",
+    "Price": "25 900 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-slatina-kromerizska/530920268",
+    "id": "530920268"
+  },
+  {
     "header": "Pronájem bytu 3+kk 78 m²",
     "Address": "Lučiny, Brno - Slatina",
     "Price": "24 000 Kč/měsíc",
@@ -124,19 +138,5 @@
     "Price": "25 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-veveri-kotlarska/3780375372",
     "id": "3780375372"
-  },
-  {
-    "header": "Pronájem bytu 2+1 57 m²",
-    "Address": "Antonínská, Brno - Veveří",
-    "Price": "20 990 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-veveri-antoninska/3197641548",
-    "id": "3197641548"
-  },
-  {
-    "header": "Pronájem bytu 3+1 91 m²",
-    "Address": "Brno - Žabovřesky",
-    "Price": "22 500 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-zabovresky-/1075585868",
-    "id": "1075585868"
   }
 ]
