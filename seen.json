@@ -1,5 +1,33 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 82 m²",
+    "Address": "Fuchsova, Brno - Trnitá",
+    "Price": "29 990 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-trnita-fuchsova/2815632204",
+    "id": "2815632204"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 72 m²",
+    "Address": "Merhautova, Brno - Černá Pole",
+    "Price": "25 990 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-cerna-pole-merhautova/3570606924",
+    "id": "3570606924"
+  },
+  {
+    "header": "Pronájem bytu 3+1 54 m²",
+    "Address": "Bieblova, Brno - Černá Pole",
+    "Price": "23 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-cerna-pole-bieblova/3600360268",
+    "id": "3600360268"
+  },
+  {
+    "header": "Pronájem bytu 3+1 72 m²",
+    "Address": "Jaselská, Brno - Veveří",
+    "Price": "25 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-veveri-jaselska/1104147276",
+    "id": "1104147276"
+  },
+  {
     "header": "Pronájem bytu 2+1 57 m²",
     "Address": "Antonínská, Brno - Veveří",
     "Price": "20 990 Kč/měsíc",
@@ -105,45 +133,10 @@
     "id": "1460192076"
   },
   {
-    "header": "Best of REALFEST 2025",
-    "Address": "To nej z 10 let REALFESTu! Top řečníci, panelky, workshopy, investice, právo, networking",
-    "Price": "RVI s.r.o.",
-    "link": "https://a.seznam.cz/v2/click?spotId=4063195&d=9XII6DTBDK6P9D7RKU7EGATDYUVBBIZUIPNNK6EB4P8S47UTU2PNPPBJQS4PYITBMCAAZTAKAH6KYS4V5S5XC9E852JSHXJF6N429TUFDUTBDGD56SC59C525XTBWQY3MVHQG5BSRTUDQ687EKIF933G9C46B3R5CBG6VV6KB487CPNXBDTP43MRSSXM2VWZGQ9A7EICK8CTSZMXUAAM9TJ6JY9F56GNDU5EQCBXTNGU2XT5SZPFS4S3F23QCV94WIGVXN2S88Q2HHT34H888X3QMF79X4B37F76TSG33QX4XI9FNYQFSC6QCTDBGTSKR9KSPYZTUCNP7HTNDIHEIKEXNHE8JRQX3NNZRD2SKG5Z73B8&destination=https%3A//realfest.cz/",
-    "id": ""
-  },
-  {
     "header": "Pronájem bytu 3+kk 89 m²",
     "Address": "Nové sady, Brno - Staré Brno",
     "Price": "39 800 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-stare-brno-nove-sady/4238984012",
     "id": "4238984012"
-  },
-  {
-    "header": "Pronájem bytu 2+1 79 m²",
-    "Address": "Zahradnická, Brno - Staré Brno",
-    "Price": "23 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-stare-brno-zahradnicka/913032012",
-    "id": "913032012"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 65 m²",
-    "Address": "Dřevařská, Brno - Veveří",
-    "Price": "19 990 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-veveri-drevarska/4109882188",
-    "id": "4109882188"
-  },
-  {
-    "header": "Pronájem bytu 3+1 97 m²",
-    "Address": "Čápkova, Brno - Veveří",
-    "Price": "30 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-veveri-capkova/3041522508",
-    "id": "3041522508"
-  },
-  {
-    "header": "Pronájem bytu 2+1 60 m²",
-    "Address": "Borodinova, Brno - Kohoutovice",
-    "Price": "19 900 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-kohoutovice-borodinova/3703911244",
-    "id": "3703911244"
   }
 ]
