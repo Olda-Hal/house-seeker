@@ -1,5 +1,19 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 48 m²",
+    "Address": "Nopova, Brno - Židenice",
+    "Price": "22 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zidenice-nopova/3329962828",
+    "id": "3329962828"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 137 m²",
+    "Address": "Hálkova, Brno - Husovice",
+    "Price": "25 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-husovice-halkova/2523804492",
+    "id": "2523804492"
+  },
+  {
     "header": "Pronájem bytu 3+1 72 m²",
     "Address": "Jaselská, Brno - Veveří",
     "Price": "25 000 Kč/měsíc",
@@ -124,19 +138,5 @@
     "Price": "25 990 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-cerna-pole-merhautova/3570606924",
     "id": "3570606924"
-  },
-  {
-    "header": "Pronájem bytu 3+1 54 m²",
-    "Address": "Bieblova, Brno - Černá Pole",
-    "Price": "23 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-cerna-pole-bieblova/3600360268",
-    "id": "3600360268"
-  },
-  {
-    "header": "Pronájem bytu 2+1 57 m²",
-    "Address": "Antonínská, Brno - Veveří",
-    "Price": "20 990 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-veveri-antoninska/3197641548",
-    "id": "3197641548"
   }
 ]
