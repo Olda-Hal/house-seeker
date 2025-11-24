@@ -1,5 +1,26 @@
 [
   {
+    "header": "Pronájem bytu 2+1 60 m²",
+    "Address": "Kotkova, Brno - Černovice",
+    "Price": "27 900 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-cernovice-kotkova/3586925388",
+    "id": "3586925388"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 70 m²",
+    "Address": "Kotkova, Brno - Černovice",
+    "Price": "27 900 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-cernovice-kotkova/3841794892",
+    "id": "3841794892"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 70 m²",
+    "Address": "Kotkova, Brno - Černovice",
+    "Price": "27 900 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-cernovice-kotkova/2499617612",
+    "id": "2499617612"
+  },
+  {
     "header": "Pronájem bytu 3+kk 65 m²",
     "Address": "Komárovská, Brno - Komárov",
     "Price": "35 000 Kč/měsíc",
@@ -105,13 +126,6 @@
     "id": "1460192076"
   },
   {
-    "header": "Plánování kuchyně zdarma",
-    "Address": "Naplánujte si s námi perfektní kuchyni! Domluvte si nezávazný termín‼",
-    "Price": "XXXLutz Česká republika",
-    "link": "https://a.seznam.cz/v2/click?spotId=4050207&d=7YG2U9J4DIRAU7IC4T6N6SXS2GS7N45PFJD8GFDUGWIE2RIP2TXH52S68XY5JDNZQRIY76IWR6M32YSJ67KZWNBZUKRIHUDY45XSE6WFV3HKHXWWWAAU84H2SD27WUZDKBS2AFEQ7BI3J2TX5SMA6KYT4H8UQCNEDDDDBWQUFJG7BNS53PVNGPVB2C2FFJAQUFFPBMDQ2287QBQ9AICI6NA4Q8PYXKU9D8ICHU7Q7Q6U4B7RZRR7Q33DPG8K3NWA4YRG7IUGVSDHSD3XQFB9SQ3PP3W9R4IYKXV9DCDDZGUDSZ3JVB3AENV975SBK6DB9AY95CUXXQT3MUY4JAAUVBUXJBSNBB6Z4VFNR9KSE5AA&destination=https%3A//www.xxxlutz.cz/c/basic-kuchyne",
-    "id": "basic-kuchyne"
-  },
-  {
     "header": "Pronájem bytu 3+1 97 m²",
     "Address": "Čápkova, Brno - Veveří",
     "Price": "30 000 Kč/měsíc",
@@ -124,26 +138,5 @@
     "Price": "19 900 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-trnita-koliskova/3546428236",
     "id": "3546428236"
-  },
-  {
-    "header": "Pronájem bytu 2+1 54 m²",
-    "Address": "Vysoká, Brno - Štýřice",
-    "Price": "21 500 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-styrice-vysoka/476980044",
-    "id": "476980044"
-  },
-  {
-    "header": "Pronájem bytu 2+1 54 m²",
-    "Address": "Hlinky, Brno - Staré Brno",
-    "Price": "19 900 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-stare-brno-hlinky/486785868",
-    "id": "486785868"
-  },
-  {
-    "header": "Pronájem bytu 3+1 63 m²",
-    "Address": "Havelkova, Brno - Bohunice",
-    "Price": "22 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-bohunice-havelkova/600949580",
-    "id": "600949580"
   }
 ]
