@@ -1,5 +1,19 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 78 m²",
+    "Address": "Lučiny, Brno - Slatina",
+    "Price": "24 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-slatina-luciny/3590468428",
+    "id": "3590468428"
+  },
+  {
+    "header": "Pronájem bytu 2+1 46 m²",
+    "Address": "Francouzská, Brno - Zábrdovice",
+    "Price": "16 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-zabrdovice-francouzska/3331466060",
+    "id": "3331466060"
+  },
+  {
     "header": "Pronájem bytu 2+1 60 m²",
     "Address": "Palackého třída, Brno",
     "Price": "24 000 Kč/měsíc",
@@ -124,19 +138,5 @@
     "Price": "15 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-veveri-udolni/53818188",
     "id": "53818188"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 111 m²",
-    "Address": "Plachty, Brno - Nový Lískovec",
-    "Price": "28 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-novy-liskovec-plachty/2831098700",
-    "id": "2831098700"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 95 m²",
-    "Address": "Opuštěná, Brno - Trnitá",
-    "Price": "29 990 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-trnita-opustena/3691524940",
-    "id": "3691524940"
   }
 ]
