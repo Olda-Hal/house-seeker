@@ -1,5 +1,19 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 75 m²",
+    "Address": "Komárovská, Brno - Komárov",
+    "Price": "49 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-komarov-komarovska/3643315020",
+    "id": "3643315020"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 73 m²",
+    "Address": "Řípská, Brno - Slatina",
+    "Price": "24 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-slatina-ripska/1214980940",
+    "id": "1214980940"
+  },
+  {
     "header": "Pronájem bytu 2+1 51 m²",
     "Address": "Třískalova, Brno - Lesná",
     "Price": "18 000 Kč/měsíc",
@@ -124,19 +138,5 @@
     "Price": "18 500 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-lesna-jurkovicova/2699019084",
     "id": "2699019084"
-  },
-  {
-    "header": "Pronájem bytu 3+1 66 m²",
-    "Address": "Havlenova, Brno - Štýřice",
-    "Price": "19 900 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-styrice-havlenova/2384339788",
-    "id": "2384339788"
-  },
-  {
-    "header": "Pronájem bytu 2+1 66 m²",
-    "Address": "Srbská, Brno - Královo Pole",
-    "Price": "17 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-kralovo-pole-srbska/4235342668",
-    "id": "4235342668"
   }
 ]
