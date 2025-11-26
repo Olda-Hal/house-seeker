@@ -7,6 +7,13 @@
     "id": "1380393804"
   },
   {
+    "header": "Pronájem bytu 3+kk 88 m²",
+    "Address": "Fillova, Brno - Lesná",
+    "Price": "24 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-lesna-fillova/2722571084",
+    "id": "2722571084"
+  },
+  {
     "header": "Pronájem bytu 3+kk 111 m²",
     "Address": "Plachty, Brno - Nový Lískovec",
     "Price": "28 000 Kč/měsíc",
@@ -131,12 +138,5 @@
     "Price": "29 500 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-stare-brno-hlinky/4127601484",
     "id": "4127601484"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 75 m²",
-    "Address": "Havlíčkova, Brno - Stránice",
-    "Price": "25 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-stranice-havlickova/319693644",
-    "id": "319693644"
   }
 ]
