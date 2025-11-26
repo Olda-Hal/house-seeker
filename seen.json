@@ -1,5 +1,19 @@
 [
   {
+    "header": "Pronájem bytu 2+1 57 m²",
+    "Address": "Antonínská, Brno - Veveří",
+    "Price": "20 990 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-veveri-antoninska/3197641548",
+    "id": "3197641548"
+  },
+  {
+    "header": "Pronájem bytu 3+1 78 m²",
+    "Address": "Brno - Štýřice",
+    "Price": "25 900 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-styrice-/3171951436",
+    "id": "3171951436"
+  },
+  {
     "header": "Pronájem bytu 2+1 53 m²",
     "Address": "náměstí SNP, Brno - Černá Pole",
     "Price": "19 900 Kč/měsíc",
@@ -124,19 +138,5 @@
     "Price": "22 500 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-cerna-pole-zemedelska/1349964620",
     "id": "1349964620"
-  },
-  {
-    "header": "Pronájem bytu 3+1 120 m²",
-    "Address": "Tyršova, Brno - Královo Pole",
-    "Price": "22 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-kralovo-pole-tyrsova/823513932",
-    "id": "823513932"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 65 m²",
-    "Address": "Alešova, Brno - Černá Pole",
-    "Price": "25 500 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-cerna-pole-alesova/486859596",
-    "id": "486859596"
   }
 ]
