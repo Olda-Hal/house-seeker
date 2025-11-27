@@ -14,13 +14,6 @@
     "id": "3197641548"
   },
   {
-    "header": "Pronájem bytu 3+1 100 m²",
-    "Address": "Bratislavská, Brno - Zábrdovice",
-    "Price": "20 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-zabrdovice-bratislavska/2433426252",
-    "id": "2433426252"
-  },
-  {
     "header": "Pronájem bytu 2+1 72 m²",
     "Address": "Božetěchova, Brno - Královo Pole",
     "Price": "18 900 Kč/měsíc",
@@ -138,5 +131,12 @@
     "Price": "25 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-cerna-pole-koterova/183968588",
     "id": "183968588"
+  },
+  {
+    "header": "Pronájem bytu 3+1 75 m²",
+    "Address": "Černého, Brno - Bystrc",
+    "Price": "19 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-bystrc-cerneho/3223569228",
+    "id": "3223569228"
   }
 ]
