@@ -1,5 +1,19 @@
 [
   {
+    "header": "Pronájem bytu 2+1 57 m²",
+    "Address": "Antonínská, Brno - Veveří",
+    "Price": "20 990 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-veveri-antoninska/3197641548",
+    "id": "3197641548"
+  },
+  {
+    "header": "Pronájem bytu 3+1 100 m²",
+    "Address": "Bratislavská, Brno - Zábrdovice",
+    "Price": "20 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-zabrdovice-bratislavska/2433426252",
+    "id": "2433426252"
+  },
+  {
     "header": "Pronájem bytu 2+1 72 m²",
     "Address": "Božetěchova, Brno - Královo Pole",
     "Price": "18 900 Kč/měsíc",
@@ -124,19 +138,5 @@
     "Price": "19 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-bystrc-cerneho/3223569228",
     "id": "3223569228"
-  },
-  {
-    "header": "Pronájem bytu 3+1 77 m²",
-    "Address": "Galandauerova, Brno - Královo Pole",
-    "Price": "23 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-kralovo-pole-galandauerova/1414476620",
-    "id": "1414476620"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 111 m²",
-    "Address": "Plachty, Brno - Nový Lískovec",
-    "Price": "28 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-novy-liskovec-plachty/2831098700",
-    "id": "2831098700"
   }
 ]
