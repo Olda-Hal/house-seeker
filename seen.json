@@ -1,5 +1,19 @@
 [
   {
+    "header": "Pronájem bytu 3+1 75 m²",
+    "Address": "Černého, Brno - Bystrc",
+    "Price": "19 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-bystrc-cerneho/3223569228",
+    "id": "3223569228"
+  },
+  {
+    "header": "Pronájem bytu 3+1 77 m²",
+    "Address": "Galandauerova, Brno - Královo Pole",
+    "Price": "23 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-kralovo-pole-galandauerova/1414476620",
+    "id": "1414476620"
+  },
+  {
     "header": "Pronájem bytu 3+kk 111 m²",
     "Address": "Plachty, Brno - Nový Lískovec",
     "Price": "28 000 Kč/měsíc",
@@ -47,13 +61,6 @@
     "Price": "23 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-stare-brno-zahradnicka/913032012",
     "id": "913032012"
-  },
-  {
-    "header": "Bydlet ve vlastním?",
-    "Address": "Samozřejmě můžete. Splňte si sen o vlastním bydlení s naší hypotékou bez čekání.",
-    "Price": "Raiffeisenbank",
-    "link": "https://a.seznam.cz/v2/click?spotId=4068236&d=VC6GNVI4PEPFCC5ZP9A4RTTGRA7M3JVQCMMNK7T5QJV23NGZFKSWJN46T49SXIZD65KDNJRXNV5QWPBTUFER37G2DVTUP3DTPHKVZV66GFUDYTX98YICQY45CZ2QRUBP62VH8XBKX52N5RCNE9RIPXSZXXM6JC8XUT7P4C5VZTMI3GQMFV23F7MAG74X5IGX9Q5XQZM3GY8R8AV8ZD5BYXZTWK6F3PA8CDBJEGS4EH4ECF7X6V9JM8QTBUQYFKW9QTYTFRDUCXAHREZAW9SB9XPH4YH5CUTE973HQHQWC3TDS4U9EN9NTMZYICF8JUGAX2CE8RUCA53JKR63UQ9PUWY72TDV6MYW5PW8CFTB4GWJJ4I&destination=https%3A//track.adform.net/C/%3Fbn%3D83948482",
-    "id": "%3Fbn%3D83948482"
   },
   {
     "header": "Pronájem bytu 3+kk 89 m²",
@@ -131,19 +138,5 @@
     "Price": "25 500 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-cerna-pole-alesova/486859596",
     "id": "486859596"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 82 m²",
-    "Address": "Fuchsova, Brno - Trnitá",
-    "Price": "29 990 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-trnita-fuchsova/2815632204",
-    "id": "2815632204"
-  },
-  {
-    "header": "Pronájem bytu 3+1 76 m²",
-    "Address": "Brno - Líšeň",
-    "Price": "19 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-lisen-/396043084",
-    "id": "396043084"
   }
 ]
