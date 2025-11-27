@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 66 m²",
+    "Address": "Kotěrova, Brno - Černá Pole",
+    "Price": "25 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-cerna-pole-koterova/183968588",
+    "id": "183968588"
+  },
+  {
     "header": "Pronájem bytu 3+1 75 m²",
     "Address": "Černého, Brno - Bystrc",
     "Price": "19 000 Kč/měsíc",
@@ -131,12 +138,5 @@
     "Price": "25 500 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-cerna-pole-alesova/486859596",
     "id": "486859596"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 82 m²",
-    "Address": "Fuchsova, Brno - Trnitá",
-    "Price": "29 990 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-trnita-fuchsova/2815632204",
-    "id": "2815632204"
   }
 ]
