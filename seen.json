@@ -1,5 +1,19 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 75 m²",
+    "Address": "Turgeněvova, Brno - Černovice",
+    "Price": "23 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-cernovice-turgenevova/1052189516",
+    "id": "1052189516"
+  },
+  {
+    "header": "Pronájem bytu 2+1 55 m²",
+    "Address": "Brno - Brno-Královo Pole",
+    "Price": "19 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-brno-kralovo-pole-/532095820",
+    "id": "532095820"
+  },
+  {
     "header": "Pronájem bytu 3+kk 66 m²",
     "Address": "Kotěrova, Brno - Černá Pole",
     "Price": "25 000 Kč/měsíc",
@@ -124,19 +138,5 @@
     "Price": "22 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zidenice-skorkovskeho/1784554316",
     "id": "1784554316"
-  },
-  {
-    "header": "Pronájem bytu 2+1 52 m²",
-    "Address": "Jožky Jabůrkové, Brno - Komín",
-    "Price": "18 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-komin-jozky-jaburkove/3447845708",
-    "id": "3447845708"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 65 m²",
-    "Address": "Alešova, Brno - Černá Pole",
-    "Price": "25 500 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-cerna-pole-alesova/486859596",
-    "id": "486859596"
   }
 ]
