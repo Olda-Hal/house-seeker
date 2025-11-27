@@ -105,13 +105,6 @@
     "id": "476980044"
   },
   {
-    "header": "Pronájem bytu 2+1 54 m²",
-    "Address": "Hlinky, Brno - Staré Brno",
-    "Price": "19 900 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-stare-brno-hlinky/486785868",
-    "id": "486785868"
-  },
-  {
     "header": "Pronájem bytu 3+1 63 m²",
     "Address": "Havelkova, Brno - Bohunice",
     "Price": "22 000 Kč/měsíc",
@@ -138,5 +131,12 @@
     "Price": "25 500 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-cerna-pole-alesova/486859596",
     "id": "486859596"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 82 m²",
+    "Address": "Fuchsova, Brno - Trnitá",
+    "Price": "29 990 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-trnita-fuchsova/2815632204",
+    "id": "2815632204"
   }
 ]
