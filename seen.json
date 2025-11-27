@@ -1,5 +1,26 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 111 m²",
+    "Address": "Plachty, Brno - Nový Lískovec",
+    "Price": "28 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-novy-liskovec-plachty/2831098700",
+    "id": "2831098700"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 100 m²",
+    "Address": "Osiková, Brno - Jundrov",
+    "Price": "40 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-jundrov-osikova/4028220236",
+    "id": "4028220236"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 72 m²",
+    "Address": "Osiková, Brno - Jundrov",
+    "Price": "38 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-jundrov-osikova/286901068",
+    "id": "286901068"
+  },
+  {
     "header": "Pronájem bytu 3+kk 88 m²",
     "Address": "Střední, Brno - Ponava",
     "Price": "35 000 Kč/měsíc",
@@ -12,13 +33,6 @@
     "Price": "24 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-lesna-fillova/2722571084",
     "id": "2722571084"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 111 m²",
-    "Address": "Plachty, Brno - Nový Lískovec",
-    "Price": "28 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-novy-liskovec-plachty/2831098700",
-    "id": "2831098700"
   },
   {
     "header": "Pronájem bytu 3+kk 65 m²",
@@ -124,19 +138,5 @@
     "Price": "19 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-lisen-/396043084",
     "id": "396043084"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 95 m²",
-    "Address": "Opuštěná, Brno - Trnitá",
-    "Price": "29 990 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-trnita-opustena/3691524940",
-    "id": "3691524940"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 93 m²",
-    "Address": "Hlinky, Brno - Staré Brno",
-    "Price": "29 500 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-stare-brno-hlinky/4127601484",
-    "id": "4127601484"
   }
 ]
