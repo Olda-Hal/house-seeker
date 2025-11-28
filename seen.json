@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 93 m²",
+    "Address": "U Památníku, Brno - Kníničky",
+    "Price": "28 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-kninicky-u-pamatniku/2703631180",
+    "id": "2703631180"
+  },
+  {
     "header": "Pronájem bytu 3+kk 75 m²",
     "Address": "Komárovská, Brno - Komárov",
     "Price": "49 000 Kč/měsíc",
@@ -105,13 +112,6 @@
     "id": "3340485452"
   },
   {
-    "header": "Ideální adresa v Olomouci",
-    "Address": "Ranní káva na balkóně? Pěšky na nákup i za kulturou? Novotou vonící byt na Šibeníku to má.",
-    "Price": "JTH Group a.s.",
-    "link": "https://a.seznam.cz/v2/click?spotId=4046410&d=FJXAENKGN2H48C55A6DQP43NHEA75UY2MJQCD6KHR9KA7QCKCGZS78AA7T2SG5QEQC2B3RT7NWS7M2EMYURW64BVHI4A7MEHW37WBKXUZYX5M83QD2QDCBVX9DC95543H4RYJRRI2X7XAG46V4Z3B3PGK736TAF54ARNR72Q8VPQX6C38P49EEZA7SIB3S7NA6RYHH2U9T4VJ92S2J2YCXBGWKRXBUQ9ABDAVP2XCWCDAEENJVKCJ4YETGY4KFHIU23RSQPSQDFKZCE577HS4Q9XMH9HX8H7QXFPCKUCGV9MHAEDFRFNYW29ERUU9W8JIT8Z6P3TCUC82KBEU84RWVS2J6A2U3KSFD6H3XFN6KVX8VB5&destination=https%3A//bytysibenik.cz/cs/",
-    "id": ""
-  },
-  {
     "header": "Pronájem bytu 3+kk 65 m²",
     "Address": "Dřevařská, Brno - Veveří",
     "Price": "19 990 Kč/měsíc",
@@ -138,12 +138,5 @@
     "Price": "21 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-bystrc-chudcicka/1460192076",
     "id": "1460192076"
-  },
-  {
-    "header": "Pronájem bytu 3+1 97 m²",
-    "Address": "Čápkova, Brno - Veveří",
-    "Price": "30 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-veveri-capkova/3041522508",
-    "id": "3041522508"
   }
 ]
