@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+1 68 m²",
+    "Address": "Osová, Brno - Starý Lískovec",
+    "Price": "21 500 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-stary-liskovec-osova/235283276",
+    "id": "235283276"
+  },
+  {
     "header": "Pronájem bytu 3+1 80 m²",
     "Address": "Bohunická, Brno - Horní Heršpice",
     "Price": "31 200 Kč/měsíc",
@@ -131,12 +138,5 @@
     "Price": "19 990 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-veveri-drevarska/4109882188",
     "id": "4109882188"
-  },
-  {
-    "header": "Pronájem bytu 2+1 79 m²",
-    "Address": "Zahradnická, Brno - Staré Brno",
-    "Price": "22 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-stare-brno-zahradnicka/913032012",
-    "id": "913032012"
   }
 ]
