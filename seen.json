@@ -1,5 +1,19 @@
 [
   {
+    "header": "Pronájem bytu 2+1 53 m²",
+    "Address": "náměstí SNP, Brno - Černá Pole",
+    "Price": "19 900 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-cerna-pole-namesti-snp/1381811020",
+    "id": "1381811020"
+  },
+  {
+    "header": "Pronájem bytu 2+1 58 m²",
+    "Address": "Venhudova, Brno - Černá Pole",
+    "Price": "24 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-cerna-pole-venhudova/2666734412",
+    "id": "2666734412"
+  },
+  {
     "header": "Pronájem bytu 2+1 52 m²",
     "Address": "Úvoz, Brno - Veveří",
     "Price": "20 500 Kč/měsíc",
@@ -124,19 +138,5 @@
     "Price": "30 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-malomerice-selska/2726765388",
     "id": "2726765388"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 75 m²",
-    "Address": "Turgeněvova, Brno - Černovice",
-    "Price": "23 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-cernovice-turgenevova/1052189516",
-    "id": "1052189516"
-  },
-  {
-    "header": "Pronájem bytu 2+1 55 m²",
-    "Address": "Brno - Brno-Královo Pole",
-    "Price": "19 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-brno-kralovo-pole-/532095820",
-    "id": "532095820"
   }
 ]
