@@ -1,5 +1,26 @@
 [
   {
+    "header": "Pronájem bytu 2+1 62 m²",
+    "Address": "Zemědělská, Brno - Černá Pole",
+    "Price": "22 500 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-cerna-pole-zemedelska/1349964620",
+    "id": "1349964620"
+  },
+  {
+    "header": "Pronájem bytu 3+1 120 m²",
+    "Address": "Tyršova, Brno - Královo Pole",
+    "Price": "22 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-kralovo-pole-tyrsova/823513932",
+    "id": "823513932"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 61 m²",
+    "Address": "Churého, Brno - Černovice",
+    "Price": "21 700 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-cernovice-chureho/7418700",
+    "id": "7418700"
+  },
+  {
     "header": "Pronájem bytu 3+1 71 m²",
     "Address": "Renneská třída, Brno - Štýřice",
     "Price": "24 000 Kč/měsíc",
@@ -9,7 +30,7 @@
   {
     "header": "Pronájem bytu 2+1 62 m²",
     "Address": "Strnadova, Brno - Líšeň",
-    "Price": "15 500 Kč/měsíc",
+    "Price": "16 500 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-lisen-strnadova/2812683084",
     "id": "2812683084"
   },
@@ -117,26 +138,5 @@
     "Price": "21 500 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-stary-liskovec-osova/235283276",
     "id": "235283276"
-  },
-  {
-    "header": "Pronájem bytu 3+1 80 m²",
-    "Address": "Bohunická, Brno - Horní Heršpice",
-    "Price": "31 200 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-horni-herspice-bohunicka/3557172044",
-    "id": "3557172044"
-  },
-  {
-    "header": "Pronájem bytu 3+1 70 m²",
-    "Address": "Foltýnova, Brno - Bystrc",
-    "Price": "23 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-bystrc-foltynova/1211507532",
-    "id": "1211507532"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 93 m²",
-    "Address": "U Památníku, Brno - Kníničky",
-    "Price": "28 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-kninicky-u-pamatniku/2703631180",
-    "id": "2703631180"
   }
 ]
