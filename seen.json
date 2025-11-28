@@ -1,5 +1,19 @@
 [
   {
+    "header": "Pronájem bytu 2+1 52 m²",
+    "Address": "Úvoz, Brno - Veveří",
+    "Price": "20 500 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-veveri-uvoz/3107898188",
+    "id": "3107898188"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 74 m²",
+    "Address": "Fryčajova, Brno - Obřany",
+    "Price": "23 800 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-obrany-frycajova/1153291084",
+    "id": "1153291084"
+  },
+  {
     "header": "Pronájem bytu 2+1 65 m²",
     "Address": "Pellicova, Brno",
     "Price": "19 800 Kč/měsíc",
@@ -124,19 +138,5 @@
     "Price": "19 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-brno-kralovo-pole-/532095820",
     "id": "532095820"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 66 m²",
-    "Address": "Kotěrova, Brno - Černá Pole",
-    "Price": "25 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-cerna-pole-koterova/183968588",
-    "id": "183968588"
-  },
-  {
-    "header": "Pronájem bytu 3+1 75 m²",
-    "Address": "Černého, Brno - Bystrc",
-    "Price": "19 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-bystrc-cerneho/3223569228",
-    "id": "3223569228"
   }
 ]
