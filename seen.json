@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 2+1 62 m²",
+    "Address": "Strnadova, Brno - Líšeň",
+    "Price": "15 500 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-lisen-strnadova/2812683084",
+    "id": "2812683084"
+  },
+  {
     "header": "Pronájem bytu 2+1 54 m²",
     "Address": "Vysoká, Brno - Štýřice",
     "Price": "21 500 Kč/měsíc",
@@ -131,12 +138,5 @@
     "Price": "49 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-komarov-komarovska/3643315020",
     "id": "3643315020"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 111 m²",
-    "Address": "Plachty, Brno - Nový Lískovec",
-    "Price": "28 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-novy-liskovec-plachty/2831098700",
-    "id": "2831098700"
   }
 ]
