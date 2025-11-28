@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+1 71 m²",
+    "Address": "Renneská třída, Brno - Štýřice",
+    "Price": "24 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-styrice-renneska-trida/873280332",
+    "id": "873280332"
+  },
+  {
     "header": "Pronájem bytu 2+1 62 m²",
     "Address": "Strnadova, Brno - Líšeň",
     "Price": "15 500 Kč/měsíc",
@@ -131,12 +138,5 @@
     "Price": "28 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-kninicky-u-pamatniku/2703631180",
     "id": "2703631180"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 75 m²",
-    "Address": "Komárovská, Brno - Komárov",
-    "Price": "49 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-komarov-komarovska/3643315020",
-    "id": "3643315020"
   }
 ]
