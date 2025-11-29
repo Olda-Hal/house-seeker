@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 2+1 57 m²",
+    "Address": "Antonínská, Brno - Veveří",
+    "Price": "20 990 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-veveri-antoninska/3197641548",
+    "id": "3197641548"
+  },
+  {
     "header": "Pronájem bytu 3+1 120 m²",
     "Address": "Antonína Slavíka, Brno - Černá Pole",
     "Price": "30 990 Kč/měsíc",
@@ -131,12 +138,5 @@
     "Price": "23 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-brno-tabor/3350082380",
     "id": "3350082380"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 72 m²",
-    "Address": "Merhautova, Brno - Černá Pole",
-    "Price": "25 990 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-cerna-pole-merhautova/3570606924",
-    "id": "3570606924"
   }
 ]
