@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+1 120 m²",
+    "Address": "Antonína Slavíka, Brno - Černá Pole",
+    "Price": "30 990 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-cerna-pole-antonina-slavika/3356566348",
+    "id": "3356566348"
+  },
+  {
     "header": "Pronájem bytu 2+1 55 m²",
     "Address": "Foerstrova, Brno - Žabovřesky",
     "Price": "16 500 Kč/měsíc",
@@ -131,12 +138,5 @@
     "Price": "25 990 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-cerna-pole-merhautova/3570606924",
     "id": "3570606924"
-  },
-  {
-    "header": "Pronájem bytu 2+1 72 m²",
-    "Address": "Božetěchova, Brno - Královo Pole",
-    "Price": "18 900 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-kralovo-pole-bozetechova/3900687180",
-    "id": "3900687180"
   }
 ]
