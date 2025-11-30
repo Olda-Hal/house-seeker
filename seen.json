@@ -138,5 +138,61 @@
     "Price": "16 500 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-lisen-strnadova/2812683084",
     "id": "2812683084"
+  },
+  {
+    "header": "PRONÁJEM BYTU 3+1 76 m²",
+    "Address": "Herčíkova, Brno - Královo Pole, Jihomoravský kraj",
+    "Price": "22 000 Kč+ 6 500 Kč",
+    "link": "https://www.bezrealitky.cz/nemovitosti-byty-domy/969364-nabidka-pronajem-bytu-hercikova-brno",
+    "id": "969364"
+  },
+  {
+    "header": "PRONÁJEM BYTU 2+1 70 m²",
+    "Address": "Vodní, Brno - Staré Brno, Jihomoravský kraj",
+    "Price": "15 000 Kč+ 200 Kč",
+    "link": "https://www.bezrealitky.cz/nemovitosti-byty-domy/969358-nabidka-pronajem-bytu-vodni-brno",
+    "id": "969358"
+  },
+  {
+    "header": "PRONÁJEM BYTU 2+1 58 m²",
+    "Address": "Palackého třída, Brno - Královo Pole, Jihomoravský kraj",
+    "Price": "13 500 Kč+ 5 500 Kč",
+    "link": "https://www.bezrealitky.cz/nemovitosti-byty-domy/743485-nabidka-pronajem-bytu-palackeho-trida-brno",
+    "id": "743485"
+  },
+  {
+    "header": "PRONÁJEM BYTU 3+1 50 m²",
+    "Address": "Gajdošova, Brno - Židenice, Jihomoravský kraj",
+    "Price": "19 500 Kč+ 2 750 Kč",
+    "link": "https://www.bezrealitky.cz/nemovitosti-byty-domy/958502-nabidka-pronajem-bytu-gajdosova-brno",
+    "id": "958502"
+  },
+  {
+    "header": "PRONÁJEM BYTU 3+kk 87 m²",
+    "Address": "Menšíkova, Brno - Sadová, Jihomoravský kraj",
+    "Price": "30 000 Kč+ 6 000 Kč",
+    "link": "https://www.bezrealitky.cz/nemovitosti-byty-domy/968801-nabidka-pronajem-bytu-mensikova-brno",
+    "id": "968801"
+  },
+  {
+    "header": "PRONÁJEM BYTU 2+1 54 m²",
+    "Address": "Veleckého, Brno - Židenice, Jihomoravský kraj",
+    "Price": "18 000 Kč+ 4 000 Kč",
+    "link": "https://www.bezrealitky.cz/nemovitosti-byty-domy/968226-nabidka-pronajem-bytu-veleckeho-brno",
+    "id": "968226"
+  },
+  {
+    "header": "PRONÁJEM BYTU 3+kk 86 m²",
+    "Address": "Cacovická, Brno - Husovice, Jihomoravský kraj",
+    "Price": "23 900 Kč+ 4 020 Kč",
+    "link": "https://www.bezrealitky.cz/nemovitosti-byty-domy/958497-nabidka-pronajem-bytu-cacovicka-brno",
+    "id": "958497"
+  },
+  {
+    "header": "PRONÁJEM BYTU 2+1 60 m²",
+    "Address": "Letovická, Brno - Řečkovice, Jihomoravský kraj",
+    "Price": "19 000 Kč+ 4 500 Kč",
+    "link": "No Link",
+    "id": "No ID"
   }
 ]
