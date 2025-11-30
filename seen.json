@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 111 m²",
+    "Address": "Plachty, Brno - Nový Lískovec",
+    "Price": "28 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-novy-liskovec-plachty/2831098700",
+    "id": "2831098700"
+  },
+  {
     "header": "Pronájem bytu 3+kk 100 m²",
     "Address": "Vídeňská, Brno",
     "Price": "29 000 Kč/měsíc",
@@ -131,12 +138,5 @@
     "Price": "25 500 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-cerna-pole-luzanecka/3287425868",
     "id": "3287425868"
-  },
-  {
-    "header": "Pronájem bytu 3+1 120 m²",
-    "Address": "Antonína Slavíka, Brno - Černá Pole",
-    "Price": "30 990 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-cerna-pole-antonina-slavika/3356566348",
-    "id": "3356566348"
   }
 ]
