@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 2+1 66 m²",
+    "Address": "Mášova, Brno - Veveří",
+    "Price": "20 900 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-veveri-masova/2382177100",
+    "id": "2382177100"
+  },
+  {
     "header": "Pronájem bytu 3+1 72 m²",
     "Address": "Jaselská, Brno - Veveří",
     "Price": "25 000 Kč/měsíc",
@@ -105,13 +112,6 @@
     "id": "1460192076"
   },
   {
-    "header": "Ideální adresa v Olomouci",
-    "Address": "Ranní káva na balkóně? Pěšky na nákup i za kulturou? Novotou vonící byt na Šibeníku to má.",
-    "Price": "JTH Group a.s.",
-    "link": "https://a.seznam.cz/v2/click?spotId=4046410&d=MCYVG3A7JB9JPC6I72KHBIWTFNSIZGFXD59US97T3X584V82NB5TZTDEIXHISVS7KMGHHCMMPQMBYC9GDKBX3MI78TVKKIVY6CIRQ5ERHU4RQ4GC5QTC5Q3NBUQMQUVBTGJY9ZHQNUQJKC7W9FHDRPY3E8EBWMPUDRYGKBM3HDNPF7QRDAU6C75XPYW5ZPSJARIGHP7U9J4QDE5TWTBCKZQVBHY9YBHUJ8RX3Y5MP3D4K32PNVFB9TJQN549I65ZZ9W4B5ZECAHVIC3FFJ893ZCXP53RCMM56ESIFCIUQZ36PNIM5DYQDW6XNI3AED7SHP2ABTHY2K5AIMTBGMMYJ64MYHYU3ZUK7IQK2QCJ3YVXJBA&destination=https%3A//bytysibenik.cz/cs/",
-    "id": ""
-  },
-  {
     "header": "Pronájem bytu 3+1 97 m²",
     "Address": "Čápkova, Brno - Veveří",
     "Price": "30 000 Kč/měsíc",
@@ -138,12 +138,5 @@
     "Price": "22 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-bohunice-havelkova/600949580",
     "id": "600949580"
-  },
-  {
-    "header": "Pronájem bytu 2+1 68 m²",
-    "Address": "Kolískova, Brno - Trnitá",
-    "Price": "19 900 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-trnita-koliskova/3546428236",
-    "id": "3546428236"
   }
 ]
