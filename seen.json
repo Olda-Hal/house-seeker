@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 2+1 51 m²",
+    "Address": "Nejedlého, Brno - Lesná",
+    "Price": "20 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-lesna-nejedleho/1594172236",
+    "id": "1594172236"
+  },
+  {
     "header": "Pronájem bytu 3+kk 73 m²",
     "Address": "Spolková, Brno - Zábrdovice",
     "Price": "25 500 Kč/měsíc",
@@ -47,13 +54,6 @@
     "Price": "21 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-bystrc-chudcicka/1460192076",
     "id": "1460192076"
-  },
-  {
-    "header": "Přidej se k nám!",
-    "Address": "Spojujeme nemovitosti s lidmi. Udělej změnu ve své kariéře. U nás ti zůstane 100% provize.",
-    "Price": "REALITY PRO RADOST",
-    "link": "https://a.seznam.cz/v2/click?spotId=4054014&d=WYCZ5RVM2GR3J2KV8SSR6SS8X8RVNEJ5UZMF2BZIWQW5D4N3ZSMRXXFENVV7ZMN9E65IUMMU3XF4FRAKQK8WDNVM9IF9VFAJK9QUVQ2RGSID7CS48T4ED6SXHCRZ7QVA5DFV3D745RJKNFS6HGEGMGKITJ923Z2GCXTHVFYNHCFQZQMNXIRNBN3TGIER5UJ9SQD26BPC5YU7WS9SVQE77Y4G2PBWFVV4TDD9M33H2K8M9QM5WGD2RP25JSTAKFRVZPKPXDKPI6ZQQGCCI9N5AHYIT5KE6MRBQJ823CFVN2ASB6IZPMZCRFMXEBS47PW6V3PS8F7R7EGQT5MPPZ76EQ9TWC4EBTCCAPMTSQQBD7GFGVU9RW&destination=https%3A//www.reality-proradost.cz/realitni-servis-pro-maklere/",
-    "id": ""
   },
   {
     "header": "Pronájem bytu 3+1 97 m²",
@@ -138,12 +138,5 @@
     "Price": "24 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-zidenice-taborska/1613939532",
     "id": "1613939532"
-  },
-  {
-    "header": "Pronájem bytu 3+1 64 m²",
-    "Address": "Bzenecká, Brno - Židenice",
-    "Price": "21 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-zidenice-bzenecka/4099220300",
-    "id": "4099220300"
   }
 ]
