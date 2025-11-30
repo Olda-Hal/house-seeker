@@ -1,5 +1,19 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 73 m²",
+    "Address": "Spolková, Brno - Zábrdovice",
+    "Price": "25 500 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zabrdovice-spolkova/489739084",
+    "id": "489739084"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 62 m²",
+    "Address": "Spolková, Brno - Zábrdovice",
+    "Price": "24 500 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zabrdovice-spolkova/3425751884",
+    "id": "3425751884"
+  },
+  {
     "header": "Pronájem bytu 3+kk 72 m²",
     "Address": "Merhautova, Brno - Černá Pole",
     "Price": "25 990 Kč/měsíc",
@@ -124,19 +138,5 @@
     "Price": "21 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-zidenice-bzenecka/4099220300",
     "id": "4099220300"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 137 m²",
-    "Address": "Hálkova, Brno - Husovice",
-    "Price": "25 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-husovice-halkova/2523804492",
-    "id": "2523804492"
-  },
-  {
-    "header": "Pronájem bytu 2+1 60 m²",
-    "Address": "Nopova, Brno - Židenice",
-    "Price": "18 500 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-zidenice-nopova/3042255692",
-    "id": "3042255692"
   }
 ]
