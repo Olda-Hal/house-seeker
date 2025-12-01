@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+1 92 m²",
+    "Address": "Teyschlova, Brno - Bystrc",
+    "Price": "22 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-bystrc-teyschlova/1461183308",
+    "id": "1461183308"
+  },
+  {
     "header": "Pronájem bytu 2+1 75 m²",
     "Address": "Gorkého, Brno - Veveří",
     "Price": "21 500 Kč/měsíc",
@@ -131,12 +138,5 @@
     "Price": "35 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-cernovice-stolcova/3807519564",
     "id": "3807519564"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 80 m²",
-    "Address": "Turgeněvova, Brno - Černovice",
-    "Price": "23 990 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-cernovice-turgenevova/447030092",
-    "id": "447030092"
   }
 ]
