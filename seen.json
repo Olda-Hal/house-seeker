@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 2+1 75 m²",
+    "Address": "Gorkého, Brno - Veveří",
+    "Price": "21 500 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-veveri-gorkeho/2141725516",
+    "id": "2141725516"
+  },
+  {
     "header": "Pronájem bytu 2+1 48 m²",
     "Address": "Stará, Brno - Zábrdovice",
     "Price": "17 000 Kč/měsíc",
@@ -131,12 +138,5 @@
     "Price": "23 990 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-cernovice-turgenevova/447030092",
     "id": "447030092"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 75 m²",
-    "Address": "Komárovská, Brno - Komárov",
-    "Price": "49 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-komarov-komarovska/3643315020",
-    "id": "3643315020"
   }
 ]
