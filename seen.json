@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 48 m²",
+    "Address": "Nopova, Brno - Židenice",
+    "Price": "22 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zidenice-nopova/2157388620",
+    "id": "2157388620"
+  },
+  {
     "header": "Pronájem bytu 3+kk 111 m²",
     "Address": "Plachty, Brno - Nový Lískovec",
     "Price": "28 000 Kč/měsíc",
@@ -44,7 +51,7 @@
   {
     "header": "Pronájem bytu 3+kk 72 m²",
     "Address": "Opuštěná, Brno - Trnitá",
-    "Price": "30 000 Kč/měsíc",
+    "Price": "32 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-trnita-opustena/1977951052",
     "id": "1977951052"
   },
@@ -131,12 +138,5 @@
     "Price": "39 800 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-stare-brno-nove-sady/4238984012",
     "id": "4238984012"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 73 m²",
-    "Address": "Chudčická, Brno - Bystrc",
-    "Price": "21 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-bystrc-chudcicka/1460192076",
-    "id": "1460192076"
   }
 ]
