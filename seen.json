@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 2+1 48 m²",
+    "Address": "Stará, Brno - Zábrdovice",
+    "Price": "17 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-zabrdovice-stara/237249356",
+    "id": "237249356"
+  },
+  {
     "header": "Pronájem bytu 2+1 54 m²",
     "Address": "Vysoká, Brno - Štýřice",
     "Price": "21 500 Kč/měsíc",
@@ -131,12 +138,5 @@
     "Price": "49 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-komarov-komarovska/3643315020",
     "id": "3643315020"
-  },
-  {
-    "header": "Pronájem bytu 3+1 73 m²",
-    "Address": "Vlkova, Brno - Líšeň",
-    "Price": "21 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-lisen-vlkova/3238339404",
-    "id": "3238339404"
   }
 ]
