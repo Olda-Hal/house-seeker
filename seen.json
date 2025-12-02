@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+1 90 m²",
+    "Address": "Údolní, Brno - Stránice",
+    "Price": "34 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-stranice-udolni/3248497484",
+    "id": "3248497484"
+  },
+  {
     "header": "Pronájem bytu 3+1 92 m²",
     "Address": "Teyschlova, Brno - Bystrc",
     "Price": "22 000 Kč/měsíc",
@@ -131,12 +138,5 @@
     "Price": "25 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-lesna-sramkova/2377458508",
     "id": "2377458508"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 103 m²",
-    "Address": "Štolcova, Brno - Černovice",
-    "Price": "35 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-cernovice-stolcova/3807519564",
-    "id": "3807519564"
   }
 ]
