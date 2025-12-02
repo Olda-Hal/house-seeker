@@ -1,5 +1,19 @@
 [
   {
+    "header": "Pronájem bytu 2+1 53 m²",
+    "Address": "náměstí SNP, Brno - Černá Pole",
+    "Price": "19 900 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-cerna-pole-namesti-snp/1381811020",
+    "id": "1381811020"
+  },
+  {
+    "header": "Pronájem bytu 3+1 120 m²",
+    "Address": "Tyršova, Brno - Královo Pole",
+    "Price": "22 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-kralovo-pole-tyrsova/823513932",
+    "id": "823513932"
+  },
+  {
     "header": "Pronájem bytu 2+1 48 m²",
     "Address": "Stará, Brno - Zábrdovice",
     "Price": "17 000 Kč/měsíc",
@@ -124,19 +138,5 @@
     "Price": "21 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-kralovo-pole-srbska/3079414604",
     "id": "3079414604"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 91 m²",
-    "Address": "Mojmírovo náměstí, Brno - Královo Pole",
-    "Price": "24 400 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-kralovo-pole-mojmirovo-namesti/1253319500",
-    "id": "1253319500"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 56 m²",
-    "Address": "Táborská, Brno - Židenice",
-    "Price": "20 590 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zidenice-taborska/2203202380",
-    "id": "2203202380"
   }
 ]
