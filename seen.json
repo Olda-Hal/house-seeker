@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 2+1 66 m²",
+    "Address": "Kuršova, Brno - Bystrc",
+    "Price": "18 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-bystrc-kursova/2212766540",
+    "id": "2212766540"
+  },
+  {
     "header": "Pronájem bytu 2+1 53 m²",
     "Address": "Černého, Brno - Bystrc",
     "Price": "14 900 Kč/měsíc",
@@ -131,12 +138,5 @@
     "Price": "30 500 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-veveri-botanicka/3122672460",
     "id": "3122672460"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 86 m²",
-    "Address": "Brno - Husovice",
-    "Price": "23 900 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-husovice-/1861628748",
-    "id": "1861628748"
   }
 ]
