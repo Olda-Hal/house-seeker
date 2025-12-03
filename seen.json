@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+1 51 m²",
+    "Address": "Skorkovského, Brno - Židenice",
+    "Price": "16 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-zidenice-skorkovskeho/1654330188",
+    "id": "1654330188"
+  },
+  {
     "header": "Pronájem bytu 2+1 50 m²",
     "Address": "Skorkovského, Brno - Židenice",
     "Price": "16 000 Kč/měsíc",
@@ -131,12 +138,5 @@
     "Price": "15 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-zidenice-gebauerova/1041507148",
     "id": "1041507148"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 77 m²",
-    "Address": "Komárovská, Brno - Komárov",
-    "Price": "35 490 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-komarov-komarovska/2938835788",
-    "id": "2938835788"
   }
 ]
