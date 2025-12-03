@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 2+1 53 m²",
+    "Address": "Černého, Brno - Bystrc",
+    "Price": "14 900 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-bystrc-cerneho/2644714316",
+    "id": "2644714316"
+  },
+  {
     "header": "Pronájem bytu 2+1 60 m²",
     "Address": "Borodinova, Brno - Kohoutovice",
     "Price": "19 900 Kč/měsíc",
@@ -93,7 +100,7 @@
   {
     "header": "Pronájem bytu 3+kk 72 m²",
     "Address": "Merhautova, Brno - Černá Pole",
-    "Price": "25 990 Kč/měsíc",
+    "Price": "24 990 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-cerna-pole-merhautova/3570606924",
     "id": "3570606924"
   },
@@ -131,12 +138,5 @@
     "Price": "25 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-veveri-kotlarska/3878359884",
     "id": "3878359884"
-  },
-  {
-    "header": "Pronájem bytu 3+1 120 m²",
-    "Address": "Tyršova, Brno - Královo Pole",
-    "Price": "22 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-kralovo-pole-tyrsova/823513932",
-    "id": "823513932"
   }
 ]
