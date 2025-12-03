@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 2+1 60 m²",
+    "Address": "Borodinova, Brno - Kohoutovice",
+    "Price": "19 900 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-kohoutovice-borodinova/3703911244",
+    "id": "3703911244"
+  },
+  {
     "header": "Pronájem bytu 3+1 73 m²",
     "Address": "Vlkova, Brno - Líšeň",
     "Price": "21 000 Kč/měsíc",
@@ -131,12 +138,5 @@
     "Price": "22 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-kralovo-pole-tyrsova/823513932",
     "id": "823513932"
-  },
-  {
-    "header": "Pronájem bytu 2+1 48 m²",
-    "Address": "Stará, Brno - Zábrdovice",
-    "Price": "17 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-zabrdovice-stara/237249356",
-    "id": "237249356"
   }
 ]
