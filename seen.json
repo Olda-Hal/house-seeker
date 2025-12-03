@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 2+1 50 m²",
+    "Address": "Skorkovského, Brno - Židenice",
+    "Price": "16 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-zidenice-skorkovskeho/93000524",
+    "id": "93000524"
+  },
+  {
     "header": "Pronájem bytu 2+1 53 m²",
     "Address": "Černého, Brno - Bystrc",
     "Price": "14 900 Kč/měsíc",
@@ -93,7 +100,7 @@
   {
     "header": "Pronájem bytu 2+1 53 m²",
     "Address": "náměstí SNP, Brno - Černá Pole",
-    "Price": "19 900 Kč/měsíc",
+    "Price": "18 900 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-cerna-pole-namesti-snp/1381811020",
     "id": "1381811020"
   },
@@ -131,12 +138,5 @@
     "Price": "35 490 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-komarov-komarovska/2938835788",
     "id": "2938835788"
-  },
-  {
-    "header": "Pronájem bytu 2+1 89 m²",
-    "Address": "Kotlářská, Brno - Veveří",
-    "Price": "25 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-veveri-kotlarska/3878359884",
-    "id": "3878359884"
   }
 ]
