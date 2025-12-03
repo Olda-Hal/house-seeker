@@ -7,13 +7,6 @@
     "id": "2938835788"
   },
   {
-    "header": "Pronájem bytu 3+1 96 m²",
-    "Address": "Havláskova, Brno - Jehnice",
-    "Price": "22 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-jehnice-havlaskova/711275340",
-    "id": "711275340"
-  },
-  {
     "header": "Pronájem bytu 2+1 89 m²",
     "Address": "Kotlářská, Brno - Veveří",
     "Price": "25 000 Kč/měsíc",
@@ -138,5 +131,12 @@
     "Price": "31 900 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-pisarky-hlinky/846926668",
     "id": "846926668"
+  },
+  {
+    "header": "Pronájem bytu 3+1 72 m²",
+    "Address": "Kroměřížská, Brno - Slatina",
+    "Price": "25 900 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-slatina-kromerizska/530920268",
+    "id": "530920268"
   }
 ]
