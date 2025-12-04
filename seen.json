@@ -1,5 +1,19 @@
 [
   {
+    "header": "Pronájem bytu 3+1 75 m²",
+    "Address": "Černého, Brno - Bystrc",
+    "Price": "19 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-bystrc-cerneho/3223569228",
+    "id": "3223569228"
+  },
+  {
+    "header": "Pronájem bytu 3+1 85 m²",
+    "Address": "Nové sady, Brno - Staré Brno",
+    "Price": "25 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-stare-brno-nove-sady/3154105164",
+    "id": "3154105164"
+  },
+  {
     "header": "Pronájem bytu 3+kk 93 m²",
     "Address": "Hlinky, Brno - Staré Brno",
     "Price": "29 500 Kč/měsíc",
@@ -124,19 +138,5 @@
     "Price": "20 900 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-kralovo-pole-palackeho-trida/3797013324",
     "id": "3797013324"
-  },
-  {
-    "header": "Pronájem bytu 2+1 54 m²",
-    "Address": "Vysoká, Brno - Štýřice",
-    "Price": "21 500 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-styrice-vysoka/476980044",
-    "id": "476980044"
-  },
-  {
-    "header": "Pronájem bytu 2+1 68 m²",
-    "Address": "Kolískova, Brno - Trnitá",
-    "Price": "19 900 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-trnita-koliskova/3546428236",
-    "id": "3546428236"
   }
 ]
