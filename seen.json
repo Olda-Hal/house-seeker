@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 70 m²",
+    "Address": "Ponětovická, Brno - Slatina",
+    "Price": "24 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-slatina-ponetovicka/949621580",
+    "id": "949621580"
+  },
+  {
     "header": "Pronájem bytu 3+1 73 m²",
     "Address": "Štefánikova, Brno - Ponava",
     "Price": "29 000 Kč/měsíc",
@@ -131,12 +138,5 @@
     "Price": "34 800 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-cerna-pole-trida-generala-piky/1451086668",
     "id": "1451086668"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 93 m²",
-    "Address": "Neumannova, Brno - Brno-střed",
-    "Price": "48 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-brno-stred-neumannova/2325291852",
-    "id": "2325291852"
   }
 ]
