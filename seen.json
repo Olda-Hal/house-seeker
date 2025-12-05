@@ -1,5 +1,19 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 94 m²",
+    "Address": "Hrozňatova, Brno - Židenice",
+    "Price": "32 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zidenice-hroznatova/941298508",
+    "id": "941298508"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 173 m²",
+    "Address": "Květinářská, Brno - Brno-město",
+    "Price": "50 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-brno-mesto-kvetinarska/3921220428",
+    "id": "3921220428"
+  },
+  {
     "header": "Pronájem bytu 2+1 59 m²",
     "Address": "Záhumenice, Brno - Horní Heršpice",
     "Price": "12 900 Kč/měsíc",
@@ -114,7 +128,7 @@
   {
     "header": "Pronájem bytu 3+kk 99 m²",
     "Address": "Kopečná, Brno - Staré Brno",
-    "Price": "30 000 Kč/měsíc",
+    "Price": "33 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-stare-brno-kopecna/3108574028",
     "id": "3108574028"
   },
@@ -131,19 +145,5 @@
     "Price": "19 990 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-veveri-drevarska/4109882188",
     "id": "4109882188"
-  },
-  {
-    "header": "Pronájem bytu 2+1 79 m²",
-    "Address": "Zahradnická, Brno - Staré Brno",
-    "Price": "22 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-stare-brno-zahradnicka/913032012",
-    "id": "913032012"
-  },
-  {
-    "header": "Pronájem bytu 2+1 51 m²",
-    "Address": "Krásného, Brno - Židenice",
-    "Price": "18 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-zidenice-krasneho/336118604",
-    "id": "336118604"
   }
 ]
