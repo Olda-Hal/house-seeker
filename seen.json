@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 2+1 53 m²",
+    "Address": "náměstí SNP, Brno - Černá Pole",
+    "Price": "18 900 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-cerna-pole-namesti-snp/1381811020",
+    "id": "1381811020"
+  },
+  {
     "header": "Pronájem bytu 3+kk 99 m²",
     "Address": "Kopečná, Brno - Staré Brno",
     "Price": "30 000 Kč/měsíc",
@@ -138,12 +145,5 @@
     "Price": "20 590 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zidenice-taborska/2203202380",
     "id": "2203202380"
-  },
-  {
-    "header": "Pronájem bytu 2+1 59 m²",
-    "Address": "Škroupova, Brno - Židenice",
-    "Price": "16 590 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-zidenice-skroupova/1467229004",
-    "id": "1467229004"
   }
 ]
