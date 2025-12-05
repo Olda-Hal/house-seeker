@@ -1,5 +1,19 @@
 [
   {
+    "header": "Pronájem bytu 2+1 52 m²",
+    "Address": "Úvoz, Brno - Veveří",
+    "Price": "20 500 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-veveri-uvoz/3107898188",
+    "id": "3107898188"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 74 m²",
+    "Address": "Fryčajova, Brno - Obřany",
+    "Price": "23 800 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-obrany-frycajova/1153291084",
+    "id": "1153291084"
+  },
+  {
     "header": "Pronájem bytu 3+kk 81 m²",
     "Address": "třída Generála Píky, Brno - Černá Pole",
     "Price": "34 800 Kč/měsíc",
@@ -131,19 +145,5 @@
     "Price": "50 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-brno-mesto-kvetinarska/3921220428",
     "id": "3921220428"
-  },
-  {
-    "header": "Pronájem bytu 2+1 59 m²",
-    "Address": "Záhumenice, Brno - Horní Heršpice",
-    "Price": "12 900 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-horni-herspice-zahumenice/3685290828",
-    "id": "3685290828"
-  },
-  {
-    "header": "Pronájem bytu 3+1 72 m²",
-    "Address": "Kroměřížská, Brno - Slatina",
-    "Price": "25 900 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-slatina-kromerizska/530920268",
-    "id": "530920268"
   }
 ]
