@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 76 m²",
+    "Address": "Spálená, Brno - Trnitá",
+    "Price": "22 900 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-trnita-spalena/660132684",
+    "id": "660132684"
+  },
+  {
     "header": "Pronájem bytu 3+kk 152 m²",
     "Address": "Kumpoštova, Brno - Sadová",
     "Price": "40 500 Kč/měsíc",
@@ -138,12 +145,5 @@
     "Price": "24 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-slatina-ponetovicka/949621580",
     "id": "949621580"
-  },
-  {
-    "header": "Pronájem bytu 3+1 73 m²",
-    "Address": "Štefánikova, Brno - Ponava",
-    "Price": "29 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-ponava-stefanikova/213521228",
-    "id": "213521228"
   }
 ]
