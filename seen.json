@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 2+1 72 m²",
+    "Address": "Božetěchova, Brno - Královo Pole",
+    "Price": "18 900 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-kralovo-pole-bozetechova/3900687180",
+    "id": "3900687180"
+  },
+  {
     "header": "Pronájem bytu 3+kk 126 m²",
     "Address": "Brno - Brno-Řečkovice a Mokrá Hora",
     "Price": "25 800 Kč/měsíc",
@@ -40,6 +47,13 @@
     "Price": "48 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-brno-stred-neumannova/2325291852",
     "id": "2325291852"
+  },
+  {
+    "header": "Nové nájemní bydlení.",
+    "Address": "Bezpečný a komfortní domov v srdci města Slavkov u Brna.",
+    "Price": "Anvete Senior",
+    "link": "https://a.seznam.cz/v2/click?spotId=4079267&d=AG29YVWXATMB646UVTRN2NIEYF8XSQUVHJDVVEN5JQB9JF5J8D7UZM3ERTU99F6423AIEMBZZEUJIIVJNT25GTP58N5KEJIZY7WDSGZKRU79AKGG6XRJCJ7HD2JQ96HH8IVXAWST2NGUFZN72KH7ZM4JRJUIG95Q9PGV7A4J6QXCPC6IQ5A6KI24ZBVJZPPMHZ4U73EUSZKXZIFPBIBUJ867JM6H7T75IUGY2NYYUKWSIX8FRBYTISVPJFMZ38SZZ3NEGRDCDNMPSWQ82QDVDQVWXUFPBAR7WPWRCCJEEDX22H2SPWZ3RU2MTZZYRKVJEU7E9AZPAUKITKEK94IFNM3PCEEU79KIHMSQIBY5ZAUS&destination=https%3A//slavkov.anvete-senior.cz",
+    "id": "slavkov.anvete-senior.cz"
   },
   {
     "header": "Pronájem bytu 2+1 54 m²",
@@ -131,12 +145,5 @@
     "Price": "22 900 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-bystrc-cerneho/829035340",
     "id": "829035340"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 111 m²",
-    "Address": "Plachty, Brno - Nový Lískovec",
-    "Price": "28 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-novy-liskovec-plachty/2831098700",
-    "id": "2831098700"
   }
 ]
