@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+1 95 m²",
+    "Address": "Táborská, Brno - Židenice",
+    "Price": "24 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-zidenice-taborska/1613939532",
+    "id": "1613939532"
+  },
+  {
     "header": "Pronájem bytu 2+1 53 m²",
     "Address": "náměstí SNP, Brno - Černá Pole",
     "Price": "18 900 Kč/měsíc",
@@ -131,12 +138,5 @@
     "Price": "23 800 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-obrany-frycajova/1153291084",
     "id": "1153291084"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 81 m²",
-    "Address": "třída Generála Píky, Brno - Černá Pole",
-    "Price": "34 800 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-cerna-pole-trida-generala-piky/1451086668",
-    "id": "1451086668"
   }
 ]
