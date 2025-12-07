@@ -1,40 +1,5 @@
 [
   {
-    "header": "Pronájem bytu 3+kk 74 m²",
-    "Address": "Fryčajova, Brno - Obřany",
-    "Price": "23 800 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-obrany-frycajova/1153291084",
-    "id": "1153291084"
-  },
-  {
-    "header": "Pronájem bytu 2+1 52 m²",
-    "Address": "Úvoz, Brno - Veveří",
-    "Price": "20 500 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-veveri-uvoz/3107898188",
-    "id": "3107898188"
-  },
-  {
-    "header": "Pronájem bytu 3+1 72 m²",
-    "Address": "Jaselská, Brno - Veveří",
-    "Price": "25 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-veveri-jaselska/1104147276",
-    "id": "1104147276"
-  },
-  {
-    "header": "Pronájem bytu 3+1 95 m²",
-    "Address": "Táborská, Brno - Židenice",
-    "Price": "24 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-zidenice-taborska/1613939532",
-    "id": "1613939532"
-  },
-  {
-    "header": "Pronájem bytu 2+1 53 m²",
-    "Address": "náměstí SNP, Brno - Černá Pole",
-    "Price": "18 900 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-cerna-pole-namesti-snp/1381811020",
-    "id": "1381811020"
-  },
-  {
     "header": "Pronájem bytu 2+1 79 m²",
     "Address": "Zahradnická, Brno - Staré Brno",
     "Price": "22 000 Kč/měsíc",
@@ -47,13 +12,6 @@
     "Price": "39 800 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-stare-brno-nove-sady/4238984012",
     "id": "4238984012"
-  },
-  {
-    "header": "Nové nájemní bydlení.",
-    "Address": "Bezpečný a komfortní domov v srdci města Slavkov u Brna.",
-    "Price": "Anvete Senior",
-    "link": "https://a.seznam.cz/v2/click?spotId=4079266&d=JBPZ3C8UKS8QNJ4W4RJ38JFCQ2K3T7IRCESD3TFIY5RRWIFJ86JIAAZ4B6IPE6N5W85EF96DI8DQIMT6USNXHKY6EWWJ76B5QEAX379QT6VD3B8Y63X5CX2SMIA2MU65JPNQ6D7T2Y8PXWSWW9MQHXEN5H5IN7K84A3I48RU8ZC6EIJV4ZAHG3S3IKTGVWUMWHM79GMRJYXD4YZRR9JPKG7NRX4GUQ2MFDJADXME4YCUDUJ8RVJWWJF7IKU9NVJ4ZJPKJWZHXCDX5BCCG65JGTUWTGA37FUQ3BERAIXAYH736VW8DYJ7WQ47AIZ6Y6BZABA3QXZ8PGKWRQSDSWNBRW4GHHSIMF9QZ5ZPBIHAGKMB3ZA&destination=https%3A//slavkov.anvete-senior.cz",
-    "id": "slavkov.anvete-senior.cz"
   },
   {
     "header": "Pronájem bytu 2+1 51 m²",
@@ -112,6 +70,48 @@
     "id": "3546428236"
   },
   {
+    "header": "Pronájem bytu 3+kk 70 m²",
+    "Address": "Spáčilova, Brno - Černovice",
+    "Price": "23 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-cernovice-spacilova/300954444",
+    "id": "300954444"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 74 m²",
+    "Address": "Fryčajova, Brno - Obřany",
+    "Price": "23 800 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-obrany-frycajova/1153291084",
+    "id": "1153291084"
+  },
+  {
+    "header": "Pronájem bytu 2+1 52 m²",
+    "Address": "Úvoz, Brno - Veveří",
+    "Price": "20 500 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-veveri-uvoz/3107898188",
+    "id": "3107898188"
+  },
+  {
+    "header": "Pronájem bytu 3+1 72 m²",
+    "Address": "Jaselská, Brno - Veveří",
+    "Price": "25 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-veveri-jaselska/1104147276",
+    "id": "1104147276"
+  },
+  {
+    "header": "Pronájem bytu 3+1 95 m²",
+    "Address": "Táborská, Brno - Židenice",
+    "Price": "24 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-zidenice-taborska/1613939532",
+    "id": "1613939532"
+  },
+  {
+    "header": "Pronájem bytu 2+1 53 m²",
+    "Address": "náměstí SNP, Brno - Černá Pole",
+    "Price": "18 900 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-cerna-pole-namesti-snp/1381811020",
+    "id": "1381811020"
+  },
+  {
     "header": "Pronájem bytu 2+1 52 m²",
     "Address": "Kamínky, Brno - Nový Lískovec",
     "Price": "16 990 Kč/měsíc",
@@ -138,12 +138,5 @@
     "Price": "18 900 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-kralovo-pole-bozetechova/3900687180",
     "id": "3900687180"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 126 m²",
-    "Address": "Brno - Brno-Řečkovice a Mokrá Hora",
-    "Price": "25 800 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-brno-reckovice-a-mokra-hora-/2501583692",
-    "id": "2501583692"
   }
 ]
