@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 77 m²",
+    "Address": "Komárovská, Brno - Komárov",
+    "Price": "35 490 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-komarov-komarovska/2938835788",
+    "id": "2938835788"
+  },
+  {
     "header": "Pronájem bytu 3+kk 72 m²",
     "Address": "Merhautova, Brno - Černá Pole",
     "Price": "24 990 Kč/měsíc",
@@ -131,12 +138,5 @@
     "Price": "50 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-brno-mesto-kvetinarska/3921220428",
     "id": "3921220428"
-  },
-  {
-    "header": "Pronájem bytu 3+1 120 m²",
-    "Address": "Antonína Slavíka, Brno - Černá Pole",
-    "Price": "30 990 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-cerna-pole-antonina-slavika/3356566348",
-    "id": "3356566348"
   }
 ]
