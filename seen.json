@@ -1,5 +1,26 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 94 m²",
+    "Address": "Hrozňatova, Brno - Židenice",
+    "Price": "32 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zidenice-hroznatova/941298508",
+    "id": "941298508"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 111 m²",
+    "Address": "Plachty, Brno - Nový Lískovec",
+    "Price": "28 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-novy-liskovec-plachty/2831098700",
+    "id": "2831098700"
+  },
+  {
+    "header": "Pronájem bytu 3+1 72 m²",
+    "Address": "Jaselská, Brno - Veveří",
+    "Price": "25 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-veveri-jaselska/1104147276",
+    "id": "1104147276"
+  },
+  {
     "header": "Pronájem bytu 3+kk 85 m²",
     "Address": "Hlinky, Brno - Brno-střed",
     "Price": "22 000 Kč/měsíc",
@@ -84,13 +105,6 @@
     "id": "2793935692"
   },
   {
-    "header": "Pronájem bytu 3+1 63 m²",
-    "Address": "Bořetická, Brno - Židenice",
-    "Price": "17 500 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-zidenice-boreticka/898110284",
-    "id": "898110284"
-  },
-  {
     "header": "Pronájem bytu 3+kk 132 m²",
     "Address": "Vinohrady, Brno - Štýřice",
     "Price": "43 000 Kč/měsíc",
@@ -103,13 +117,6 @@
     "Price": "25 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-stare-brno-nove-sady/3154105164",
     "id": "3154105164"
-  },
-  {
-    "header": "Nové nájemní bydlení.",
-    "Address": "Bezpečný a komfortní domov v srdci města Slavkov u Brna.",
-    "Price": "Anvete Senior",
-    "link": "https://a.seznam.cz/v2/click?spotId=4079266&d=R5YJXYBKS2SQUQEVCXTBB88HUT8YVDVZ8D6XTFRB2JXV52Q5YG79MCJ2IFQDQES5HFVPZC9NB3BYW3YWCJS4FBD3M29TBYNC4M84W2FRZJFTCV5I3QQEJIQ9Y94YANTXSIEDY82RHNZFM3B2URZXHED6UKJAJQ6IQ7KYVCEV22KSFE9QZFYSDR9WS5KPVUBUQ6M7HDU8VI4ATQUE2QD4GBPT6AWVNC9VWMHBTWTM6XKNATMR4I28J564Z3GPADGKQ9H78FC6YCWJBTSGU3QD4Z3I3BMDP8I5DNEBBD833QRWU684J8T5B89VXEXY53MXC5U687KKHXGCJSZ5QI94CE7VR6VNGCIQYPVPD6UWXXHS&destination=https%3A//slavkov.anvete-senior.cz",
-    "id": "slavkov.anvete-senior.cz"
   },
   {
     "header": "Pronájem bytu 2+1 60 m²",
@@ -131,19 +138,5 @@
     "Price": "28 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-jundrov-jedlova/2027426636",
     "id": "2027426636"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 95 m²",
-    "Address": "Opuštěná, Brno - Trnitá",
-    "Price": "27 990 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-trnita-opustena/3691524940",
-    "id": "3691524940"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 77 m²",
-    "Address": "Tyršova, Brno - Královo Pole",
-    "Price": "21 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-kralovo-pole-tyrsova/2681738060",
-    "id": "2681738060"
   }
 ]
