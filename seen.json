@@ -1,5 +1,19 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 132 m²",
+    "Address": "Vinohrady, Brno - Štýřice",
+    "Price": "43 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-styrice-vinohrady/3770159948",
+    "id": "3770159948"
+  },
+  {
+    "header": "Pronájem bytu 3+1 85 m²",
+    "Address": "Nové sady, Brno - Staré Brno",
+    "Price": "25 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-stare-brno-nove-sady/3154105164",
+    "id": "3154105164"
+  },
+  {
     "header": "Pronájem bytu 2+1 60 m²",
     "Address": "Dřevařská, Brno - Veveří",
     "Price": "19 500 Kč/měsíc",
@@ -105,13 +119,6 @@
     "id": "600949580"
   },
   {
-    "header": "Nové nájemní bydlení.",
-    "Address": "Bezpečný a komfortní domov v srdci města Slavkov u Brna.",
-    "Price": "Anvete Senior",
-    "link": "https://a.seznam.cz/v2/click?spotId=4079267&d=XIN9AZR9SUEDWTQMEF34T4IQTE55WH2T3CKUJK49YQ2PG59A7FX94MU9JATN4XQZAW7FP3QKURFZ26XXGCA6WSDNR9KGGJUQSTNDRPJMAXB8EP5ZME7RFSFNRNQ57DQ39GW6PPRJH2K3Y4RSHBPQ8U5M9BXM9S5CUTAAXM8D57GNFZYMEANPK5QZFBP5KK8XWCMNG4FQNHSZ88UZ8NVW9JNE7K9N9S6UPP6HVCARE64CUGP9U97NTAV68KG6EBBJKW87JB9R54NGCJ3J5T7SKAJ2SEKUKP27JFVNSBSBHHYCWGAGP8UK7MV9RRQCIA537S5ZV5S8TA7IWVEPQA7T3YGTWJKPPSAN85QFTNTHMDMDF82&destination=https%3A//slavkov.anvete-senior.cz",
-    "id": "slavkov.anvete-senior.cz"
-  },
-  {
     "header": "Pronájem bytu 3+kk 73 m²",
     "Address": "Chudčická, Brno - Bystrc",
     "Price": "20 000 Kč/měsíc",
@@ -126,24 +133,10 @@
     "id": "3041522508"
   },
   {
-    "header": "Pronájem bytu 3+kk 91 m²",
-    "Address": "Palackého třída, Brno - Královo Pole",
-    "Price": "20 900 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-kralovo-pole-palackeho-trida/3797013324",
-    "id": "3797013324"
-  },
-  {
     "header": "Pronájem bytu 3+kk 65 m²",
     "Address": "Dřevařská, Brno - Veveří",
-    "Price": "19 990 Kč/měsíc",
+    "Price": "18 990 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-veveri-drevarska/4109882188",
     "id": "4109882188"
-  },
-  {
-    "header": "Pronájem bytu 2+1 54 m²",
-    "Address": "Vysoká, Brno - Štýřice",
-    "Price": "21 500 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-styrice-vysoka/476980044",
-    "id": "476980044"
   }
 ]
