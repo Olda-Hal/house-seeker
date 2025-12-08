@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 2+1 50 m²",
+    "Address": "Maškova, Brno - Černá Pole",
+    "Price": "16 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-cerna-pole-maskova/338637644",
+    "id": "338637644"
+  },
+  {
     "header": "Pronájem bytu 3+1 78 m²",
     "Address": "Kamanova, Brno - Královo Pole",
     "Price": "26 000 Kč/měsíc",
@@ -91,7 +98,7 @@
     "id": "2265592652"
   },
   {
-    "header": "Pronájem bytu 3+kk 1154 m²",
+    "header": "Pronájem bytu 3+kk 65 m²",
     "Address": "Řeznická, Brno - Trnitá",
     "Price": "23 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-trnita-reznicka/2688488268",
@@ -131,12 +138,5 @@
     "Price": "25 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-veveri-jaselska/1104147276",
     "id": "1104147276"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 85 m²",
-    "Address": "Hlinky, Brno - Brno-střed",
-    "Price": "22 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-brno-stred-hlinky/2408788812",
-    "id": "2408788812"
   }
 ]
