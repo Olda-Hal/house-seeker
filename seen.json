@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 2+1 75 m²",
+    "Address": "Gorkého, Brno - Veveří",
+    "Price": "21 500 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-veveri-gorkeho/2141725516",
+    "id": "2141725516"
+  },
+  {
     "header": "Pronájem bytu 2+1 50 m²",
     "Address": "Maškova, Brno - Černá Pole",
     "Price": "16 000 Kč/měsíc",
@@ -131,12 +138,5 @@
     "Price": "28 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-novy-liskovec-plachty/2831098700",
     "id": "2831098700"
-  },
-  {
-    "header": "Pronájem bytu 3+1 72 m²",
-    "Address": "Jaselská, Brno - Veveří",
-    "Price": "25 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-veveri-jaselska/1104147276",
-    "id": "1104147276"
   }
 ]
