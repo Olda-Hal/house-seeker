@@ -1,5 +1,19 @@
 [
   {
+    "header": "Pronájem bytu 2+1 58 m²",
+    "Address": "Venhudova, Brno - Černá Pole",
+    "Price": "24 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-cerna-pole-venhudova/2666734412",
+    "id": "2666734412"
+  },
+  {
+    "header": "Pronájem bytu 2+1 52 m²",
+    "Address": "Gebauerova, Brno - Židenice",
+    "Price": "15 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-zidenice-gebauerova/1041507148",
+    "id": "1041507148"
+  },
+  {
     "header": "Pronájem bytu 3+kk 77 m²",
     "Address": "Komárovská, Brno - Komárov",
     "Price": "35 490 Kč/měsíc",
@@ -105,13 +119,6 @@
     "id": "3107898188"
   },
   {
-    "header": "Nové nájemní bydlení.",
-    "Address": "Bezpečný a komfortní domov v srdci města Slavkov u Brna.",
-    "Price": "Anvete Senior",
-    "link": "https://a.seznam.cz/v2/click?spotId=4079268&d=DD5D5R38RDNW8QM93DBE36AKCS7JB3I4V5I2PPTZFFX6ICN7TW67UYMG8BNQ8S5R3KSPAIQP9AGE3NRTVIQFRIY2DQDNEAQSCWAX35K9JQ46EQ2KVJEJE24RICTUKRQSVZ9RJHM2R88JE2NEAQ47C38868QYN8EZPTBEQWW2SZB78GIW2WJIEUMIJA6MZ9T7U7Q5X76UAWDA5T3GF5QSVTZQ84FTVMW833CK3EKBE25SISYJZYV2JGDWXBH5EBD2769R3MDK9NEDIJV5TXZ9WWRFVYDMCVVUM3GSRWVR4726MGNUX82VYNTJAX3WDAUGMGMKI5MURIKMQS4P9DAQ7U3GYCJGIUVDVW8JZBGMC3UA&destination=https%3A//slavkov.anvete-senior.cz",
-    "id": "slavkov.anvete-senior.cz"
-  },
-  {
     "header": "Pronájem bytu 3+1 72 m²",
     "Address": "Jaselská, Brno - Veveří",
     "Price": "25 000 Kč/měsíc",
@@ -131,19 +138,5 @@
     "Price": "18 900 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-cerna-pole-namesti-snp/1381811020",
     "id": "1381811020"
-  },
-  {
-    "header": "Pronájem bytu 2+1 52 m²",
-    "Address": "Kamínky, Brno - Nový Lískovec",
-    "Price": "16 990 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-novy-liskovec-kaminky/2985960268",
-    "id": "2985960268"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 173 m²",
-    "Address": "Květinářská, Brno - Brno-město",
-    "Price": "50 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-brno-mesto-kvetinarska/3921220428",
-    "id": "3921220428"
   }
 ]
