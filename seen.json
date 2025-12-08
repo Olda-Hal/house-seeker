@@ -1,5 +1,33 @@
 [
   {
+    "header": "Pronájem bytu 2+1 49 m²",
+    "Address": "Helfertova, Brno - Černá Pole",
+    "Price": "27 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-cerna-pole-helfertova/2265592652",
+    "id": "2265592652"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 1154 m²",
+    "Address": "Řeznická, Brno - Trnitá",
+    "Price": "23 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-trnita-reznicka/2688488268",
+    "id": "2688488268"
+  },
+  {
+    "header": "Pronájem bytu 2+1 72 m²",
+    "Address": "Božetěchova, Brno - Královo Pole",
+    "Price": "18 900 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-kralovo-pole-bozetechova/3900687180",
+    "id": "3900687180"
+  },
+  {
+    "header": "Pronájem bytu 3+1 100 m²",
+    "Address": "Jugoslávská, Brno",
+    "Price": "25 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-brno-jugoslavska/913646412",
+    "id": "913646412"
+  },
+  {
     "header": "Pronájem bytu 3+kk 94 m²",
     "Address": "Hrozňatova, Brno - Židenice",
     "Price": "32 000 Kč/měsíc",
@@ -105,45 +133,10 @@
     "id": "2793935692"
   },
   {
-    "header": "Nové nájemní bydlení.",
-    "Address": "Bezpečný a komfortní domov v srdci města Slavkov u Brna.",
-    "Price": "Anvete Senior",
-    "link": "https://a.seznam.cz/v2/click?spotId=4079266&d=9Q8U22PW6DQ3DKP8PWGNHJ483TZ5WA85EVWMXQPCGEMWKE66SIPZ4AJVSD32Y4YBJ6RMQMBKIWDYSEBVXYRAT4BTYEVZ9FNKCRTKTIUZ5REK8PNJETAXQST6RKRERRR8C2TGMX5I9PU3QCZI6J7P9WAXT5BUWQAZVBNIMFVYBDGVAPGFUIN32PBT6FGCQ65PQJMUMMY36UY92FEAV7GKY7THTV68J5UIVPVQ8MPTVKZGK7I8K8WEA7CH596ZENV3VTZHJMJMU93FTRAGTPIXEDQA9CCPGS5CRMXIRRC6J75RSX5TA846ZA4IHVVGCWN58DW2JGXQBJVHG4E44RM9T9ATQZHIQHZJHBKNA9KMJDHBUIU3UN&destination=https%3A//slavkov.anvete-senior.cz",
-    "id": "slavkov.anvete-senior.cz"
-  },
-  {
     "header": "Pronájem bytu 3+kk 132 m²",
     "Address": "Vinohrady, Brno - Štýřice",
     "Price": "43 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-styrice-vinohrady/3770159948",
     "id": "3770159948"
-  },
-  {
-    "header": "Pronájem bytu 3+1 85 m²",
-    "Address": "Nové sady, Brno - Staré Brno",
-    "Price": "25 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-stare-brno-nove-sady/3154105164",
-    "id": "3154105164"
-  },
-  {
-    "header": "Pronájem bytu 2+1 60 m²",
-    "Address": "Dřevařská, Brno - Veveří",
-    "Price": "19 500 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-veveri-drevarska/2510820172",
-    "id": "2510820172"
-  },
-  {
-    "header": "Pronájem bytu 2+1 75 m²",
-    "Address": "Veveří, Brno",
-    "Price": "21 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-brno-veveri/3403158348",
-    "id": "3403158348"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 97 m²",
-    "Address": "Jedlová, Brno - Jundrov",
-    "Price": "28 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-jundrov-jedlova/2027426636",
-    "id": "2027426636"
   }
 ]
