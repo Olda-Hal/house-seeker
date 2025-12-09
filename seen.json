@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+1 72 m²",
+    "Address": "Bzenecká, Brno - Židenice",
+    "Price": "26 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-zidenice-bzenecka/3021869900",
+    "id": "3021869900"
+  },
+  {
     "header": "Pronájem bytu 2+1 53 m²",
     "Address": "náměstí SNP, Brno - Černá Pole",
     "Price": "18 900 Kč/měsíc",
@@ -131,12 +138,5 @@
     "Price": "17 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-stare-brno-pellicova/420987724",
     "id": "420987724"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 87 m²",
-    "Address": "Nad Dědinou, Brno - Bystrc",
-    "Price": "22 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-bystrc-nad-dedinou/3039568716",
-    "id": "3039568716"
   }
 ]
