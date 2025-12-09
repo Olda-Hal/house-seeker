@@ -1,5 +1,19 @@
 [
   {
+    "header": "Pronájem bytu 2+1 49 m²",
+    "Address": "Helfertova, Brno - Černá Pole",
+    "Price": "Cena na vyžádání",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-cerna-pole-helfertova/2265592652",
+    "id": "2265592652"
+  },
+  {
+    "header": "Pronájem bytu 2+1 55 m²",
+    "Address": "Brno - Žabovřesky",
+    "Price": "17 500 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-zabovresky-/3340485452",
+    "id": "3340485452"
+  },
+  {
     "header": "Pronájem bytu 3+kk 95 m²",
     "Address": "Opuštěná, Brno - Trnitá",
     "Price": "27 990 Kč/měsíc",
@@ -105,13 +119,6 @@
     "id": "1460192076"
   },
   {
-    "header": "Pronájem bytu 2+1 51 m²",
-    "Address": "Krásného, Brno - Židenice",
-    "Price": "18 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-zidenice-krasneho/336118604",
-    "id": "336118604"
-  },
-  {
     "header": "Pronájem bytu 3+kk 89 m²",
     "Address": "Nové sady, Brno - Staré Brno",
     "Price": "39 800 Kč/měsíc",
@@ -131,12 +138,5 @@
     "Price": "18 990 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-veveri-drevarska/4109882188",
     "id": "4109882188"
-  },
-  {
-    "header": "Pronájem bytu 3+1 96 m²",
-    "Address": "Havláskova, Brno - Jehnice",
-    "Price": "22 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-jehnice-havlaskova/711275340",
-    "id": "711275340"
   }
 ]
