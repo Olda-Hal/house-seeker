@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 2+1 53 m²",
+    "Address": "náměstí SNP, Brno - Černá Pole",
+    "Price": "18 900 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-cerna-pole-namesti-snp/1381811020",
+    "id": "1381811020"
+  },
+  {
     "header": "Pronájem bytu 3+kk 81 m²",
     "Address": "třída Generála Píky, Brno - Černá Pole",
     "Price": "34 800 Kč/měsíc",
@@ -131,12 +138,5 @@
     "Price": "22 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-bystrc-nad-dedinou/3039568716",
     "id": "3039568716"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 66 m²",
-    "Address": "Slámova, Brno - Černovice",
-    "Price": "28 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-cernovice-slamova/2488320844",
-    "id": "2488320844"
   }
 ]
