@@ -1,5 +1,19 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 66 m²",
+    "Address": "Slámova, Brno - Černovice",
+    "Price": "28 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-cernovice-slamova/2488320844",
+    "id": "2488320844"
+  },
+  {
+    "header": "Pronájem bytu 2+1 70 m²",
+    "Address": "Čápkova, Brno - Veveří",
+    "Price": "32 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-veveri-capkova/4006601548",
+    "id": "4006601548"
+  },
+  {
     "header": "Pronájem bytu 2+1 52 m²",
     "Address": "Gebauerova, Brno - Židenice",
     "Price": "15 000 Kč/měsíc",
@@ -124,19 +138,5 @@
     "Price": "18 500 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-kohoutovice-voriskova/2367296332",
     "id": "2367296332"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 97 m²",
-    "Address": "Charvatská, Brno - Královo Pole",
-    "Price": "42 500 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-kralovo-pole-charvatska/4076802892",
-    "id": "4076802892"
-  },
-  {
-    "header": "Pronájem bytu 2+1 75 m²",
-    "Address": "Gorkého, Brno - Veveří",
-    "Price": "21 500 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-veveri-gorkeho/2141725516",
-    "id": "2141725516"
   }
 ]
