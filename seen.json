@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 70 m²",
+    "Address": "Spáčilova, Brno - Černovice",
+    "Price": "23 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-cernovice-spacilova/300954444",
+    "id": "300954444"
+  },
+  {
     "header": "Pronájem bytu 2+1 52 m²",
     "Address": "Hlinky, Brno - Staré Brno",
     "Price": "18 000 Kč/měsíc",
@@ -54,13 +61,6 @@
     "Price": "18 500 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-stare-brno-kridlovicka/1757287244",
     "id": "1757287244"
-  },
-  {
-    "header": "Nové nájemní bydlení.",
-    "Address": "Bezpečný a komfortní domov v srdci města Slavkov u Brna.",
-    "Price": "Anvete Senior",
-    "link": "https://a.seznam.cz/v2/click?spotId=4079266&d=8WNN5YKPMB2FVKCZC6DDB6IIWJF9XIXI8Y3KTRVA6UM28FZEWB3VN6EWWU8UBGR8FEAXB67E7BAG37MAFK4I4SWAQFTEMYMMJC9QTW5BWJMSQEHYKXVXNHEYRUFKBTE594F4BZY2JVKNXDKNI9HPTK85D4U8D2AGG9PY7KQQDHX3CZ874EDDBMYS9W5I8C7J5B2JTJF9D3DTYVPB5BC62WEZEG6TV9BG6PW955YCSTK9NCY8VZ92W6BC4N528DU93YMHTSF8WZ99XMZ5XQ5M65IWSZH9C2VJCCUH5DI3CDKNM8KJVE7TF7CP4V4I4JKPM89TSYVJ7RCGTS5DTZAUAHQGWVDS48HR5XXTG28T969BIJ3XW6&destination=https%3A//slavkov.anvete-senior.cz",
-    "id": "slavkov.anvete-senior.cz"
   },
   {
     "header": "Pronájem bytu 3+kk 94 m²",
@@ -145,12 +145,5 @@
     "Price": "20 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-zabovresky-chladkova/303960908",
     "id": "303960908"
-  },
-  {
-    "header": "Pronájem bytu 3+1 72 m²",
-    "Address": "Bzenecká, Brno - Židenice",
-    "Price": "26 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-zidenice-bzenecka/3021869900",
-    "id": "3021869900"
   }
 ]
