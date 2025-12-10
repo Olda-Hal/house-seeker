@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 120 m²",
+    "Address": "Skácelova, Brno - Královo Pole",
+    "Price": "40 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-kralovo-pole-skacelova/2925335372",
+    "id": "2925335372"
+  },
+  {
     "header": "Pronájem bytu 3+kk 89 m²",
     "Address": "Nové sady, Brno - Staré Brno",
     "Price": "39 800 Kč/měsíc",
@@ -138,12 +145,5 @@
     "Price": "18 500 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zidenice-pechova/1083052876",
     "id": "1083052876"
-  },
-  {
-    "header": "Pronájem bytu 2+1 53 m²",
-    "Address": "Křídlovická, Brno - Staré Brno",
-    "Price": "18 500 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-stare-brno-kridlovicka/1757287244",
-    "id": "1757287244"
   }
 ]
