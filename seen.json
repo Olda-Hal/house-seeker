@@ -56,13 +56,6 @@
     "id": "976950092"
   },
   {
-    "header": "Bydlet ve vlastním?",
-    "Address": "Samozřejmě můžete. Splňte si sen o vlastním bydlení s naší hypotékou bez čekání.",
-    "Price": "Raiffeisenbank",
-    "link": "https://a.seznam.cz/v2/click?spotId=4078745&d=MTA6YW2ZC7MUZGXHST7G8KHEPUMXI6R3APZRR7AMMEJ23J3CICQZB5TGHZ7DZM2WQNBIVSDS92RWCG543J7TZTXD29M3D6MVNRJ8I65IP7IBJYX96V9QSHTNH8TRV3AINKF4Y9Q2PMTZ27G94X99GYKC8RI3XXIPEWJ9SR6R7EPKDV2VPCM2QJ3HYSD8IX7ZKB9HHVQGGVVIRS53IJJDFR7WG4547ZKWMS5B7GUKQH5NHZ5FYUYN2RQUXUGFKPBK8Y7WR75RKB3BKCTUHAH7CWT3GT5RKKV2W87AIU2UVWZP3EZWKJCHJ52VX43XK2TNJV2QYNYT57CRT5NCT4T5G486QTM3H6C9NEC6P86CXD6ZUWE4&destination=https%3A//track.adform.net/C/%3Fbn%3D83948482",
-    "id": "%3Fbn%3D83948482"
-  },
-  {
     "header": "Pronájem bytu 3+kk 83 m²",
     "Address": "Řehořova, Brno - Černovice",
     "Price": "30 000 Kč/měsíc",
@@ -112,6 +105,13 @@
     "id": "4255785804"
   },
   {
+    "header": "Nové nájemní bydlení.",
+    "Address": "Bezpečný a komfortní domov v srdci města Slavkov u Brna.",
+    "Price": "Anvete Senior",
+    "link": "https://a.seznam.cz/v2/click?spotId=4079268&d=Y9IQ4WYDFK4G6B73BSXJ4WGSSNZ7BIY89PSFK6QHGVYUWPHGU8X7245SMA8DZ5C6WTY38A2QY363URP977QKVWQW4M4BJXD8IG4MNB74PIDQE82WEB365BWMUDI5YYWNXTZBTEH6F2VEJ3KK9MV8G2JX7MKGCUYGVDFY9SWY6PRV9Y2H9WJYJEQXNMZKVKWUQ252VCZZXEZGCM9WER8E3575ZBKUE8AP8AWYPN8NSWIAJAXX76EY6B5AIFJHXCYWS4Q72UWPJRDS83E8QNZP32Q447PUWNUKQ29AQ2XGHR3YKACZJH9BS8QPASXVTYYCJHN4KGZEIA79C8THY577778KJ3K2KVW86IUR4MDUYG3YIGS&destination=https%3A//slavkov.anvete-senior.cz",
+    "id": "slavkov.anvete-senior.cz"
+  },
+  {
     "header": "Pronájem bytu 3+kk 70 m²",
     "Address": "Reissigova, Brno - Ponava",
     "Price": "20 500 Kč/měsíc",
@@ -145,12 +145,5 @@
     "Price": "22 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zidenice-nopova/2157388620",
     "id": "2157388620"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 70 m²",
-    "Address": "Pechova, Brno - Židenice",
-    "Price": "18 500 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zidenice-pechova/1083052876",
-    "id": "1083052876"
   }
 ]
