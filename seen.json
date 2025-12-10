@@ -1,5 +1,33 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 70 m²",
+    "Address": "Pechova, Brno - Židenice",
+    "Price": "18 500 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zidenice-pechova/1083052876",
+    "id": "1083052876"
+  },
+  {
+    "header": "Pronájem bytu 2+1 53 m²",
+    "Address": "Křídlovická, Brno - Staré Brno",
+    "Price": "18 500 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-stare-brno-kridlovicka/1757287244",
+    "id": "1757287244"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 94 m²",
+    "Address": "Hrozňatova, Brno - Židenice",
+    "Price": "32 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zidenice-hroznatova/941298508",
+    "id": "941298508"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 111 m²",
+    "Address": "Plachty, Brno - Nový Lískovec",
+    "Price": "28 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-novy-liskovec-plachty/2831098700",
+    "id": "2831098700"
+  },
+  {
     "header": "Pronájem bytu 3+1 120 m²",
     "Address": "Antonína Slavíka, Brno - Černá Pole",
     "Price": "30 990 Kč/měsíc",
@@ -112,45 +140,10 @@
     "id": "4238984012"
   },
   {
-    "header": "Nové nájemní bydlení.",
-    "Address": "Bezpečný a komfortní domov v srdci města Slavkov u Brna.",
-    "Price": "Anvete Senior",
-    "link": "https://a.seznam.cz/v2/click?spotId=4079267&d=PFI9ZUSDNJY5IWXDXCUVQUMTQ2W9EYNN48KD4A5W6SFQY8QQRHMFHE6BUIEIGXB5WZ8D79TVGFSBJPH2D9HHSQR5W65VXFE9348JJDURBW6HYAT42AWQ8ZZPR7F8CDK8GDFVKUUQ6MAICRVYRD9AVP6N9YHS2GUWA36XKUH9TR9QBXBX54Y63S33QTWUWU94AUERPZIFAW6VGU3NHV6339I6PY7BJ8FQWGRA7AN8UC9QIZ3RGPJ93DPFWVBT4QPAEW539DCK5VY27K98TFN7VZJNZHQQR2UGRWRK5SKKD99A5YF7HDEP6NGKW524CHRVC45US36HKJGAE34Y37KPV6P2I4MIV7SJ2EGS3PMFXKFHH42&destination=https%3A//slavkov.anvete-senior.cz",
-    "id": "slavkov.anvete-senior.cz"
-  },
-  {
     "header": "Pronájem bytu 3+kk 73 m²",
     "Address": "Chudčická, Brno - Bystrc",
     "Price": "19 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-bystrc-chudcicka/1460192076",
     "id": "1460192076"
-  },
-  {
-    "header": "Pronájem bytu 3+1 63 m²",
-    "Address": "Havelkova, Brno - Bohunice",
-    "Price": "22 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-bohunice-havelkova/600949580",
-    "id": "600949580"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 65 m²",
-    "Address": "Dřevařská, Brno - Veveří",
-    "Price": "18 990 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-veveri-drevarska/4109882188",
-    "id": "4109882188"
-  },
-  {
-    "header": "Pronájem bytu 2+1 79 m²",
-    "Address": "Zahradnická, Brno - Staré Brno",
-    "Price": "22 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-stare-brno-zahradnicka/913032012",
-    "id": "913032012"
-  },
-  {
-    "header": "Pronájem bytu 2+1 54 m²",
-    "Address": "Vysoká, Brno - Štýřice",
-    "Price": "21 500 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-styrice-vysoka/476980044",
-    "id": "476980044"
   }
 ]
