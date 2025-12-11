@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 68 m²",
+    "Address": "Brno - Veveří",
+    "Price": "31 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-veveri-/870126412",
+    "id": "870126412"
+  },
+  {
     "header": "Pronájem bytu 2+1 49 m²",
     "Address": "Helfertova, Brno - Černá Pole",
     "Price": "Cena na vyžádání",
@@ -47,13 +54,6 @@
     "Price": "40 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-kralovo-pole-skacelova/2925335372",
     "id": "2925335372"
-  },
-  {
-    "header": "Nové nájemní bydlení.",
-    "Address": "Bezpečný a komfortní domov v srdci města Slavkov u Brna.",
-    "Price": "Anvete Senior",
-    "link": "https://a.seznam.cz/v2/click?spotId=4079267&d=KWBHSP69WWGCVHKPTE67SDXMMNRIJQM6DRIRR5EN4QTQTRFWF49FR2TMIWWBXWMG2KNW5E6ZZYV3WTH45EM2AP3EDISKTH7BB6Z76TQTIN5VSK5VBMT8F7KSSQAYXTG6CURB4KD2UC3FD738AJCFYEW7Q28F4PAHT8XZ3BY585XNBBC5CZTICKFHHFD8XBWTX65HPMPYW5E8PDBJX8JIHF7TZBWDXQFI4RI36EUITQKFVITPRJRUP8CSCKPRY94DH9NWQ3N6AC2D7TV9NVUSRJUICG8GRQZ2UEV4NRABDIFKWUPX388FH9YIFNRJ5EHT2NJJYG5JQ8KNM63QSRDNNBHMRV9PHVRSITKY5SBBF2IHA&destination=https%3A//slavkov.anvete-senior.cz",
-    "id": "slavkov.anvete-senior.cz"
   },
   {
     "header": "Pronájem bytu 3+kk 89 m²",
@@ -138,12 +138,5 @@
     "Price": "29 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-ponava-stefanikova/213521228",
     "id": "213521228"
-  },
-  {
-    "header": "Pronájem bytu 2+1 52 m²",
-    "Address": "Hlinky, Brno - Staré Brno",
-    "Price": "18 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-stare-brno-hlinky/4255785804",
-    "id": "4255785804"
   }
 ]
