@@ -1,5 +1,19 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 87 m²",
+    "Address": "Zoubkova, Brno - Nový Lískovec",
+    "Price": "23 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-novy-liskovec-zoubkova/4289663820",
+    "id": "4289663820"
+  },
+  {
+    "header": "Pronájem bytu 2+1 53 m²",
+    "Address": "náměstí SNP, Brno - Černá Pole",
+    "Price": "18 900 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-cerna-pole-namesti-snp/1381811020",
+    "id": "1381811020"
+  },
+  {
     "header": "Pronájem bytu 3+kk 60 m²",
     "Address": "Tuřanka, Brno - Slatina",
     "Price": "25 000 Kč/měsíc",
@@ -112,13 +126,6 @@
     "id": "976950092"
   },
   {
-    "header": "Nové nájemní bydlení.",
-    "Address": "Bezpečný a komfortní domov v srdci města Slavkov u Brna.",
-    "Price": "Anvete Senior",
-    "link": "https://a.seznam.cz/v2/click?spotId=4079268&d=93457VXIJ989T7J4ZGB54UH5PISFSYAF8QYJEYVMCETG5BWI5PS6XX7WSESZUA44KU38BHZJXMVC4GNB2K9JPA8AFW58I7WUDNG2R29A39Z62G29RWVWY7854MVKQN7QUP72PPCNMNKUVDAKH9PH6CZDAE4C9FE8VKSB8RQKTCRMJQ4T7M58QZTEXEG9VCRZFTY22SNAW2RF55HM68PAU5XAGE8JATRRTFI42B7XMBUMDFUFRVTHVACDPPFPAT7SSHNTHB6VV9786Z7PB28QQRI3DRPU23MVGHZFYMMAI6ZDKGW373VQ6SWVESZ9V8HKERDJMEHWNRVKNVC4YUVSE4HRTSTYKZQN3NFHKK99NSJ4SGS3&destination=https%3A//slavkov.anvete-senior.cz",
-    "id": "slavkov.anvete-senior.cz"
-  },
-  {
     "header": "Pronájem bytu 3+kk 95 m²",
     "Address": "Opuštěná, Brno - Trnitá",
     "Price": "27 990 Kč/měsíc",
@@ -138,19 +145,5 @@
     "Price": "32 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zidenice-hroznatova/941298508",
     "id": "941298508"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 111 m²",
-    "Address": "Plachty, Brno - Nový Lískovec",
-    "Price": "28 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-novy-liskovec-plachty/2831098700",
-    "id": "2831098700"
-  },
-  {
-    "header": "Pronájem bytu 2+1 52 m²",
-    "Address": "Ondrouškova, Brno - Bystrc",
-    "Price": "17 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-bystrc-ondrouskova/3598521164",
-    "id": "3598521164"
   }
 ]
