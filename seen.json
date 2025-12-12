@@ -1,5 +1,19 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 75 m²",
+    "Address": "Komárovská, Brno - Komárov",
+    "Price": "49 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-komarov-komarovska/3643315020",
+    "id": "3643315020"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 88 m²",
+    "Address": "Střední, Brno - Ponava",
+    "Price": "32 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-ponava-stredni/1380393804",
+    "id": "1380393804"
+  },
+  {
     "header": "Pronájem bytu 3+kk 141 m²",
     "Address": "Bratislavská, Brno - Zábrdovice",
     "Price": "24 999 Kč/měsíc",
@@ -112,13 +126,6 @@
     "id": "1451086668"
   },
   {
-    "header": "Nové nájemní bydlení.",
-    "Address": "Bezpečný a komfortní domov v srdci města Slavkov u Brna.",
-    "Price": "Anvete Senior",
-    "link": "https://a.seznam.cz/v2/click?spotId=4079266&d=QRZVCD5R7PZUGRP39MI2W46T463YCNTA585FS9CADQ24USM77TB5DG8MYM76JY9MFBUI9JU72W7V653C2B942IE7IIFS6GREDTSBKRY9GAIARG56DZ44RU7TSRWWIUG6Z9HH2Z78AXM9M53P45JSSX4WCGSCYKFBP3JAPKVG5W6FUXNTXBRSU5PMNI6MWEFFAJZRENQNAJVY7IEQWT7TBHBYR4M4HCAK89CGG4UMZETY3HNXM66THIZ3QHSTIGA7TG24PWT755J7JJPM46FFEXFVIXKGE96V6H7HNVAQHFA27SJ8WV6SE6IWHMRIXRIPK99T8N4T7H3X7P2VPSAWTDCHUWEBK4YFHEB4NP7M6Z8VQMAS&destination=https%3A//slavkov.anvete-senior.cz",
-    "id": "slavkov.anvete-senior.cz"
-  },
-  {
     "header": "Pronájem bytu 3+kk 93 m²",
     "Address": "Neumannova, Brno - Brno-střed",
     "Price": "48 000 Kč/měsíc",
@@ -138,19 +145,5 @@
     "Price": "39 800 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-stare-brno-nove-sady/4238984012",
     "id": "4238984012"
-  },
-  {
-    "header": "Pronájem bytu 3+1 63 m²",
-    "Address": "Havelkova, Brno - Bohunice",
-    "Price": "22 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-bohunice-havelkova/600949580",
-    "id": "600949580"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 65 m²",
-    "Address": "Dřevařská, Brno - Veveří",
-    "Price": "18 990 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-veveri-drevarska/4109882188",
-    "id": "4109882188"
   }
 ]
