@@ -1,5 +1,19 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 60 m²",
+    "Address": "Tuřanka, Brno - Slatina",
+    "Price": "25 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-slatina-turanka/2297307980",
+    "id": "2297307980"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 70 m²",
+    "Address": "Reissigova, Brno - Ponava",
+    "Price": "20 500 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-ponava-reissigova/3660325708",
+    "id": "3660325708"
+  },
+  {
     "header": "Pronájem bytu 3+1 160 m²",
     "Address": "Libušino údolí, Brno",
     "Price": "35 000 Kč/měsíc",
@@ -131,19 +145,5 @@
     "Price": "17 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-bystrc-ondrouskova/3598521164",
     "id": "3598521164"
-  },
-  {
-    "header": "Pronájem bytu 3+1 106 m²",
-    "Address": "Údolní, Brno",
-    "Price": "31 800 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-brno-udolni/2260538188",
-    "id": "2260538188"
-  },
-  {
-    "header": "Pronájem bytu 3+1 92 m²",
-    "Address": "Teyschlova, Brno - Bystrc",
-    "Price": "22 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-bystrc-teyschlova/1461183308",
-    "id": "1461183308"
   }
 ]
