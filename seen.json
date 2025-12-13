@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 2+1 62 m²",
+    "Address": "Foltýnova, Brno - Bystrc",
+    "Price": "18 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-bystrc-foltynova/765203276",
+    "id": "765203276"
+  },
+  {
     "header": "Pronájem bytu 3+kk 73 m²",
     "Address": "Chudčická, Brno - Bystrc",
     "Price": "19 000 Kč/měsíc",
@@ -138,12 +145,5 @@
     "Price": "19 900 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zabovresky-vrazova/1255981900",
     "id": "1255981900"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 81 m²",
-    "Address": "třída Generála Píky, Brno - Černá Pole",
-    "Price": "34 800 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-cerna-pole-trida-generala-piky/1451086668",
-    "id": "1451086668"
   }
 ]
