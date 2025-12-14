@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 77 m²",
+    "Address": "Komárovská, Brno - Komárov",
+    "Price": "35 490 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-komarov-komarovska/2938835788",
+    "id": "2938835788"
+  },
+  {
     "header": "Pronájem bytu 3+1 120 m²",
     "Address": "Tyršova, Brno - Královo Pole",
     "Price": "22 000 Kč/měsíc",
@@ -124,13 +131,6 @@
     "Price": "16 590 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-zidenice-skroupova/1467229004",
     "id": "1467229004"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 77 m²",
-    "Address": "Komárovská, Brno - Komárov",
-    "Price": "35 490 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-komarov-komarovska/2938835788",
-    "id": "2938835788"
   },
   {
     "header": "Pronájem bytu 2+1 49 m²",
