@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 82 m²",
+    "Address": "Fuchsova, Brno - Trnitá",
+    "Price": "29 990 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-trnita-fuchsova/2815632204",
+    "id": "2815632204"
+  },
+  {
     "header": "Pronájem bytu 3+kk 87 m²",
     "Address": "Nad Dědinou, Brno - Bystrc",
     "Price": "22 000 Kč/měsíc",
@@ -47,6 +54,13 @@
     "Price": "22 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-brno-stred-hlinky/2408788812",
     "id": "2408788812"
+  },
+  {
+    "header": "Plánování kuchyně zdarma",
+    "Address": "Naplánujte si s námi perfektní kuchyni! Domluvte si nezávazný termín‼",
+    "Price": "XXXLutz Česká republika",
+    "link": "https://a.seznam.cz/v2/click?spotId=4070610&d=6CFU5C8DG7JCG4JHQ3ZW8KBMKJ9CTMR7QJPXT23J8CXZYZ7DRMYNKQQDAPKQHS8UYPGY5FA4DCR7MGWB3794BWF9WZBB6FY47824TKIW79JDEAW4KQXVR6CNRNFJYK4KI4QJ9S6G52SY3PPUIQ3AD72VKI72CG5FK4QE2QEZYQQ9CNBK3QQZU6YXBYN4VCUC226J75ETIPT8WF324KZSRKM7X76SCK4A7BYXJ7AH6PBW7HZP5HVVUDEXIJSHG7JETCM9YI4BJBMAZ5DPK6KFECVTDBCMFBFKBSQNQMH7N6YNYYTSUY7NKQJJJBK6I3EZJ63A38YPZ64YWRKI52EWYDUAWMMDERJ8F923DKYC5B2ZEZA&destination=https%3A//www.xxxlutz.cz/c/basic-kuchyne",
+    "id": "basic-kuchyne"
   },
   {
     "header": "Pronájem bytu 3+1 120 m²",
@@ -105,6 +119,13 @@
     "id": "3691524940"
   },
   {
+    "header": "Nové nájemní bydlení.",
+    "Address": "Bezpečný a komfortní domov v srdci města Slavkov u Brna.",
+    "Price": "Anvete Senior",
+    "link": "https://a.seznam.cz/v2/click?spotId=4079267&d=QWXHBEC6H4RZD4Z787EUZCP5T5Z472RIS9S9TQWUVBRDSUHAAJN5W8UC47PCD2VZFU3D353QDRTCTCJ48ZD3B7H7D2UTR58QI9GRKNH6M2RX7C85DCJA3KSEA5YY6E4PGH45IBFHMD57P6TJMH5KHH493J3I2RPDEQCID6NBW4QT3KW4V9YF9TIF2THR3PNQHYEHWTVEXKT7BDW2UR7BTB6UXZA4R6KWR75EEE49MMMDZYBTJMIE92VGW7GW9Q4FVMU8MKJY35XAHNX93H95MSUGBYBVVDKVDJUPTHZX6AE96XTYY495QK5V6WY6EX5NYWRJN7UGWHB824243UYC2BP2CFWAVB8FM759FRTQMMT79YI&destination=https%3A//slavkov.anvete-senior.cz",
+    "id": "slavkov.anvete-senior.cz"
+  },
+  {
     "header": "Pronájem bytu 2+1 52 m²",
     "Address": "Gebauerova, Brno - Židenice",
     "Price": "15 000 Kč/měsíc",
@@ -138,12 +159,5 @@
     "Price": "21 500 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-bohunice-moldavska/1362301772",
     "id": "1362301772"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 77 m²",
-    "Address": "Komárovská, Brno - Komárov",
-    "Price": "35 490 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-komarov-komarovska/2938835788",
-    "id": "2938835788"
   }
 ]
