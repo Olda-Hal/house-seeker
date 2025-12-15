@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+1 106 m²",
+    "Address": "Údolní, Brno",
+    "Price": "31 800 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-brno-udolni/2260538188",
+    "id": "2260538188"
+  },
+  {
     "header": "Pronájem bytu 3+kk 75 m²",
     "Address": "Rostislavovo náměstí, Brno - Královo Pole",
     "Price": "35 000 Kč/měsíc",
@@ -112,13 +119,6 @@
     "id": "1362301772"
   },
   {
-    "header": "Nové nájemní bydlení.",
-    "Address": "Bezpečný a komfortní domov v srdci města Slavkov u Brna.",
-    "Price": "Anvete Senior",
-    "link": "https://a.seznam.cz/v2/click?spotId=4079268&d=M2D226BD8E7YJYA6S2RRHTENRUFKBB2ZKSGC4G9XSXNM9A4MT68RQ8AVTWPFRXRVRJY2A7M5WDPTDE8UG73BYIYBA4BN9KVKMI2FYDQZW96QZ6GJG63Q458D4GCKZZYU2KZSM75T3ZK7T8HFGNM7VSI6EJ32NA634JEVZH3X9TP7SPZZGQF6JCNK9KSND3U4VXNBX6BVB2PNPTZBH4QW29C6GMF8PCJPDX3D8J5YAVT6CDAYH93UYXWSAWX8N9GCDK5D3CQTH6ISCIVGZCQY2JWPTQCH73ACCQBI7E8DS8P6DDX6BZ7QGKW9NQ4FGTHXGKK4I8DKCI3T3JGKMR7F9KVQBZF6TKJ2S66AA62DTJGVQY79EN&destination=https%3A//slavkov.anvete-senior.cz",
-    "id": "slavkov.anvete-senior.cz"
-  },
-  {
     "header": "Pronájem bytu 3+kk 77 m²",
     "Address": "Komárovská, Brno - Komárov",
     "Price": "35 490 Kč/měsíc",
@@ -145,12 +145,5 @@
     "Price": "19 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-bystrc-chudcicka/1460192076",
     "id": "1460192076"
-  },
-  {
-    "header": "Pronájem bytu 3+1 63 m²",
-    "Address": "Havelkova, Brno - Bohunice",
-    "Price": "22 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-bohunice-havelkova/600949580",
-    "id": "600949580"
   }
 ]
