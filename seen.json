@@ -1,5 +1,19 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 72 m²",
+    "Address": "Jaselská, Brno - Veveří",
+    "Price": "25 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-veveri-jaselska/2202932044",
+    "id": "2202932044"
+  },
+  {
+    "header": "Pronájem bytu 3+1 103 m²",
+    "Address": "Brno - Brno-město",
+    "Price": "22 900 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-brno-mesto-/3782873932",
+    "id": "3782873932"
+  },
+  {
     "header": "Pronájem bytu 3+kk 75 m²",
     "Address": "Havlíčkova, Brno - Stránice",
     "Price": "25 000 Kč/měsíc",
@@ -131,19 +145,5 @@
     "Price": "31 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-veveri-/870126412",
     "id": "870126412"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 82 m²",
-    "Address": "Fuchsova, Brno - Trnitá",
-    "Price": "29 990 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-trnita-fuchsova/2815632204",
-    "id": "2815632204"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 87 m²",
-    "Address": "Nad Dědinou, Brno - Bystrc",
-    "Price": "22 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-bystrc-nad-dedinou/3039568716",
-    "id": "3039568716"
   }
 ]
