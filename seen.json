@@ -1,5 +1,19 @@
 [
   {
+    "header": "Pronájem bytu 3+1 75 m²",
+    "Address": "Oderská, Brno - Starý Lískovec",
+    "Price": "23 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-stary-liskovec-oderska/3250721612",
+    "id": "3250721612"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 66 m²",
+    "Address": "Trnitá, Brno - Trnitá",
+    "Price": "26 990 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-trnita-trnita/2662273868",
+    "id": "2662273868"
+  },
+  {
     "header": "Pronájem bytu 2+1 52 m²",
     "Address": "Gebauerova, Brno - Židenice",
     "Price": "15 000 Kč/měsíc",
@@ -131,19 +145,5 @@
     "Price": "22 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-bohunice-havelkova/600949580",
     "id": "600949580"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 73 m²",
-    "Address": "Chudčická, Brno - Bystrc",
-    "Price": "19 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-bystrc-chudcicka/1460192076",
-    "id": "1460192076"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 89 m²",
-    "Address": "Nové sady, Brno - Staré Brno",
-    "Price": "39 800 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-stare-brno-nove-sady/4238984012",
-    "id": "4238984012"
   }
 ]
