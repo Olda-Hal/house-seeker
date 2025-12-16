@@ -1,5 +1,26 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 75 m²",
+    "Address": "Havlíčkova, Brno - Stránice",
+    "Price": "25 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-stranice-havlickova/319693644",
+    "id": "319693644"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 72 m²",
+    "Address": "Osiková, Brno - Jundrov",
+    "Price": "38 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-jundrov-osikova/286901068",
+    "id": "286901068"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 100 m²",
+    "Address": "Osiková, Brno - Jundrov",
+    "Price": "40 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-jundrov-osikova/4028220236",
+    "id": "4028220236"
+  },
+  {
     "header": "Pronájem bytu 3+kk 95 m²",
     "Address": "Opuštěná, Brno - Trnitá",
     "Price": "27 990 Kč/měsíc",
@@ -112,13 +133,6 @@
     "id": "870126412"
   },
   {
-    "header": "Nové nájemní bydlení.",
-    "Address": "Bezpečný a komfortní domov v srdci města Slavkov u Brna.",
-    "Price": "Anvete Senior",
-    "link": "https://a.seznam.cz/v2/click?spotId=4079266&d=WFYHW8I3TU5IAHQK4S6ZEF3VNUJ7JC7JNG2NX5CYDDQPE4HZJ7MZDDK9FV2TAS797YTKG8REVDPVNQCC9G9AGTM99866SPEX4PGVNNTZYDS9I2M9GGH6F5A2ZEZWH6VC4UE8CAV4YHT8QC5Z7XZXT8NMKEVZP4JBYK28VJAZIVZXJQHXZ52YE2A9V4UDC9RR6UMRBRAUFQQ9NU8BAWZZM2W833WIN5NG4NF6VDKGM3HNVPSIHNMIZ6QMBW8H2FXEPFKXVS2B6U8WNPX75MNPP483VXATAUGX4R9NAKC5895CRSQ9P8BGYCIQWX3SHW32VTEXA6VPHCV5BS246QMN68TEAN99EVKMRS6HN5UPW2CS&destination=https%3A//slavkov.anvete-senior.cz",
-    "id": "slavkov.anvete-senior.cz"
-  },
-  {
     "header": "Pronájem bytu 3+kk 82 m²",
     "Address": "Fuchsova, Brno - Trnitá",
     "Price": "29 990 Kč/měsíc",
@@ -131,26 +145,5 @@
     "Price": "22 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-bystrc-nad-dedinou/3039568716",
     "id": "3039568716"
-  },
-  {
-    "header": "Pronájem bytu 2+1 53 m²",
-    "Address": "Úvoz, Brno - Brno-střed",
-    "Price": "25 500 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-brno-stred-uvoz/2092110668",
-    "id": "2092110668"
-  },
-  {
-    "header": "Pronájem bytu 2+1 52 m²",
-    "Address": "Úvoz, Brno - Veveří",
-    "Price": "20 500 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-veveri-uvoz/3107898188",
-    "id": "3107898188"
-  },
-  {
-    "header": "Pronájem bytu 3+1 106 m²",
-    "Address": "Údolní, Brno",
-    "Price": "31 800 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-brno-udolni/2260538188",
-    "id": "2260538188"
   }
 ]
