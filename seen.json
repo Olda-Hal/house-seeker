@@ -1,5 +1,33 @@
 [
   {
+    "header": "Pronájem bytu 3+1 120 m²",
+    "Address": "Tyršova, Brno - Královo Pole",
+    "Price": "22 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-kralovo-pole-tyrsova/823513932",
+    "id": "823513932"
+  },
+  {
+    "header": "Pronájem bytu 3+1 71 m²",
+    "Address": "Černého, Brno - Bystrc",
+    "Price": "22 900 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-bystrc-cerneho/829035340",
+    "id": "829035340"
+  },
+  {
+    "header": "Pronájem bytu 2+1 58 m²",
+    "Address": "Renneská třída, Brno - Štýřice",
+    "Price": "18 500 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-styrice-renneska-trida/863769420",
+    "id": "863769420"
+  },
+  {
+    "header": "Pronájem bytu 2+1 49 m²",
+    "Address": "Anenská, Brno - Staré Brno",
+    "Price": "15 990 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-stare-brno-anenska/1443959628",
+    "id": "1443959628"
+  },
+  {
     "header": "Pronájem bytu 3+kk 75 m²",
     "Address": "Havlíčkova, Brno - Stránice",
     "Price": "25 000 Kč/měsíc",
@@ -56,13 +84,6 @@
     "id": "1789862732"
   },
   {
-    "header": "Nové nájemní bydlení.",
-    "Address": "Bezpečný a komfortní domov v srdci města Slavkov u Brna.",
-    "Price": "Anvete Senior",
-    "link": "https://a.seznam.cz/v2/click?spotId=4079266&d=ECNHPJKWB65H5ET6ZM2IT25B597UICZ92NN6YSTZCQKGA4J8J9SXUQFWADXZV9A9YN2UUVP5H2AZY389SPFWB5APRDJ63646Y7VMJ5Y9P6AVRE9VHSYSGF5D25NSDE364JC2PJ6IEDR4ZR7PYE9VPB6XRQ7HNI3HAXSYZRG9RX8NSU9C2TR6Y5H8RDEFPKKIN8G6FYVMWG2D9VMGB3FWDZ3W8QFJ98EW26YMD9W9SDUEI8STHYMZUFJGK4IS6FWFNZNU4CKQJ7MJ57U7GD2K7BGXCTVVDGSKB4MT7NE4ECPCMM2M39WX9FPARFAZDWNARFUG9BQ6SYMQR9JSA3TP3GVJZNX9KYTJWUXTYZS5DWCQQNA&destination=https%3A//slavkov.anvete-senior.cz",
-    "id": "slavkov.anvete-senior.cz"
-  },
-  {
     "header": "Pronájem bytu 3+kk 82 m²",
     "Address": "Fuchsova, Brno - Trnitá",
     "Price": "29 990 Kč/měsíc",
@@ -72,7 +93,7 @@
   {
     "header": "Pronájem bytu 2+1 82 m²",
     "Address": "Moldavská, Brno - Bohunice",
-    "Price": "21 500 Kč/měsíc",
+    "Price": "19 400 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-bohunice-moldavska/1308693324",
     "id": "1308693324"
   },
@@ -124,33 +145,5 @@
     "Price": "18 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-lisen-kucerova/2260742988",
     "id": "2260742988"
-  },
-  {
-    "header": "Pronájem bytu 2+1 49 m²",
-    "Address": "Helfertova, Brno - Černá Pole",
-    "Price": "Cena na vyžádání",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-cerna-pole-helfertova/2265592652",
-    "id": "2265592652"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 88 m²",
-    "Address": "Křídlovická, Brno - Staré Brno",
-    "Price": "23 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-stare-brno-kridlovicka/2520847180",
-    "id": "2520847180"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 111 m²",
-    "Address": "Plachty, Brno - Nový Lískovec",
-    "Price": "28 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-novy-liskovec-plachty/2831098700",
-    "id": "2831098700"
-  },
-  {
-    "header": "Pronájem bytu 2+1 60 m²",
-    "Address": "Kotkova, Brno - Černovice",
-    "Price": "27 900 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-cernovice-kotkova/3586925388",
-    "id": "3586925388"
   }
 ]
