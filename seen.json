@@ -1,5 +1,26 @@
 [
   {
+    "header": "Pronájem bytu 2+1 53 m²",
+    "Address": "náměstí SNP, Brno - Černá Pole",
+    "Price": "18 900 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-cerna-pole-namesti-snp/1381811020",
+    "id": "1381811020"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 72 m²",
+    "Address": "Merhautova, Brno - Černá Pole",
+    "Price": "24 990 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-cerna-pole-merhautova/3570606924",
+    "id": "3570606924"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 162 m²",
+    "Address": "Bratislavská, Brno - Zábrdovice",
+    "Price": "39 312 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zabrdovice-bratislavska/2630526284",
+    "id": "2630526284"
+  },
+  {
     "header": "Pronájem bytu 2+1 52 m²",
     "Address": "Gebauerova, Brno - Židenice",
     "Price": "15 000 Kč/měsíc",
@@ -12,13 +33,6 @@
     "Price": "32 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-brno-stred-rybarska/2598114124",
     "id": "2598114124"
-  },
-  {
-    "header": "Pronájem bytu 2+1 53 m²",
-    "Address": "náměstí SNP, Brno - Černá Pole",
-    "Price": "18 900 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-cerna-pole-namesti-snp/1381811020",
-    "id": "1381811020"
   },
   {
     "header": "Pronájem bytu 2+1 80 m²",
@@ -131,19 +145,5 @@
     "Price": "40 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-jundrov-osikova/4028220236",
     "id": "4028220236"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 95 m²",
-    "Address": "Opuštěná, Brno - Trnitá",
-    "Price": "27 990 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-trnita-opustena/3691524940",
-    "id": "3691524940"
-  },
-  {
-    "header": "Pronájem bytu 2+1 58 m²",
-    "Address": "Venhudova, Brno - Černá Pole",
-    "Price": "24 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-cerna-pole-venhudova/2666734412",
-    "id": "2666734412"
   }
 ]
