@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 2+1 66 m²",
+    "Address": "Renneská třída, Brno - Štýřice",
+    "Price": "19 990 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-styrice-renneska-trida/2549158732",
+    "id": "2549158732"
+  },
+  {
     "header": "Pronájem bytu 3+kk 75 m²",
     "Address": "Rostislavovo náměstí, Brno - Královo Pole",
     "Price": "35 000 Kč/měsíc",
@@ -112,13 +119,6 @@
     "id": "1308693324"
   },
   {
-    "header": "Nové nájemní bydlení.",
-    "Address": "Bezpečný a komfortní domov v srdci města Slavkov u Brna.",
-    "Price": "Anvete Senior",
-    "link": "https://a.seznam.cz/v2/click?spotId=4079266&d=ZCKJVR7IAWJX8QNAE84BGTX59HKU2JGKZYW3DHE66VBBSZ6DYX9USEPWS9R572KJHX79IVC73XIS6NQ3NCJVIXUDAMARDM9SB8URH77MMPCBNZNC9P3BXD66UD4C5GJI4H7BAM4P2J6G6DVPUGCD22XAT4FQWHJ8DZKHNCFE8XBHWYY7QX73TR96NNY25SPZXKIV4RJJDQBF2PQ22TYT4E38VCRQCBH5S7RTSQWSG2BD8FAIQQC5GS77SYRUMGW8HIBP3SXZD6GZ9TGIQCUDKRDVVXIZEPSDK87JRCAXIJUTWAQWABISANU9BHP48I9NR3F4ZM8474NDFY4H92ZMJZENQSU2JC6BT67GDJD6U23SKCMN&destination=https%3A//slavkov.anvete-senior.cz",
-    "id": "slavkov.anvete-senior.cz"
-  },
-  {
     "header": "Pronájem bytu 3+kk 95 m²",
     "Address": "Opuštěná, Brno - Trnitá",
     "Price": "27 990 Kč/měsíc",
@@ -145,12 +145,5 @@
     "Price": "23 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-ponava-stefanikova/479384396",
     "id": "479384396"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 173 m²",
-    "Address": "Květinářská, Brno - Brno-město",
-    "Price": "50 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-brno-mesto-kvetinarska/288428876",
-    "id": "288428876"
   }
 ]
