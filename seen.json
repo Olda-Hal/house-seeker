@@ -1,5 +1,19 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 75 m²",
+    "Address": "Rostislavovo náměstí, Brno - Královo Pole",
+    "Price": "35 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-kralovo-pole-rostislavovo-namesti/538702668",
+    "id": "538702668"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 62 m²",
+    "Address": "Lipová, Brno",
+    "Price": "22 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-brno-lipova/561779532",
+    "id": "561779532"
+  },
+  {
     "header": "Pronájem bytu 3+1 120 m²",
     "Address": "Tyršova, Brno - Královo Pole",
     "Price": "22 000 Kč/měsíc",
@@ -131,19 +145,5 @@
     "Price": "50 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-brno-mesto-kvetinarska/288428876",
     "id": "288428876"
-  },
-  {
-    "header": "Pronájem bytu 2+1 60 m²",
-    "Address": "Borodinova, Brno - Kohoutovice",
-    "Price": "19 900 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-kohoutovice-borodinova/3703911244",
-    "id": "3703911244"
-  },
-  {
-    "header": "Pronájem bytu 2+1 56 m²",
-    "Address": "Kučerova, Brno - Líšeň",
-    "Price": "18 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-lisen-kucerova/2260742988",
-    "id": "2260742988"
   }
 ]
