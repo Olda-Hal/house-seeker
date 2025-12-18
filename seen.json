@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 77 m²",
+    "Address": "Komárovská, Brno - Komárov",
+    "Price": "35 490 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-komarov-komarovska/2938835788",
+    "id": "2938835788"
+  },
+  {
     "header": "Pronájem bytu 3+kk 70 m²",
     "Address": "Reissigova, Brno - Ponava",
     "Price": "20 500 Kč/měsíc",
@@ -112,13 +119,6 @@
     "id": "1789862732"
   },
   {
-    "header": "Nové nájemní bydlení.",
-    "Address": "Bezpečný a komfortní domov v srdci města Slavkov u Brna.",
-    "Price": "Anvete Senior",
-    "link": "https://a.seznam.cz/v2/click?spotId=4079266&d=8SA5QBVTJE6W4FTX4MZSGSHTBEMGCAVFAAV2ZWM55FQDUGAQXM3HYXKNFNA9XAIV5BZ7QIQ3UHM3IDAJ3MMGZEP88YI4RYG6BESIH529MSZ2FJK4QNPGJEVMVMEC27YM8F4SYYPKUAAR5RUQ86KW6A4ZE2H938WK7FCZUJHTJNM4MUS8JQVGERG4B87RGN9RE5A5U8Q23V5XC7IEI9CYUDECESFI853YWGNRWQJ9DEWHP4NIMFG3X4SEH3N2NM88TGH3GVCVUWEIDDZU22BJATTZBRRIDVCBNXSHUZKPA335XN4C966HVJDIFP3TRQMHGXIY8FRRVNKEIIBI9SKPQP3AJQ8A7QKKTHB22Y4PD23BVY2&destination=https%3A//slavkov.anvete-senior.cz",
-    "id": "slavkov.anvete-senior.cz"
-  },
-  {
     "header": "Pronájem bytu 3+kk 82 m²",
     "Address": "Fuchsova, Brno - Trnitá",
     "Price": "29 990 Kč/měsíc",
@@ -145,12 +145,5 @@
     "Price": "23 500 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-zabrdovice-koliste/872485708",
     "id": "872485708"
-  },
-  {
-    "header": "Pronájem bytu 2+1 67 m²",
-    "Address": "Koliště, Brno - Zábrdovice",
-    "Price": "22 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-zabrdovice-koliste/1610355532",
-    "id": "1610355532"
   }
 ]
