@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 72 m²",
+    "Address": "Jaselská, Brno - Veveří",
+    "Price": "25 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-veveri-jaselska/2202932044",
+    "id": "2202932044"
+  },
+  {
     "header": "Pronájem bytu 3+kk 77 m²",
     "Address": "Komárovská, Brno - Komárov",
     "Price": "35 490 Kč/měsíc",
@@ -112,13 +119,6 @@
     "id": "476980044"
   },
   {
-    "header": "Nové nájemní bydlení.",
-    "Address": "Bezpečný a komfortní domov v srdci města Slavkov u Brna.",
-    "Price": "Anvete Senior",
-    "link": "https://a.seznam.cz/v2/click?spotId=4079268&d=QQMC47KXTM3A975W8RJ9T7SMC9NK93VBWNTVD3ZCB6REA28Y3Y2T55PNFJ5T8X6KX9TJMMCTJUNJ3SDQQ32G3AVP8RC68FT6PPPP8V8JAKSY5PBJ9CGJWR3ZQVGBS3R4DW9MCN8M7CY5TAT7DYTG94DVJUPAYEE8Z5WMQD4RMHQ9G33BN46FB4F8RRNZ8DF8V2VAD4FVGXNFD2Q4SG2VHEIX9YJUAQY7JFAHPV5JPB6CTRA3TRBG8AXD6KV5GA9S43A3KTM36UCNEYUDWSK37DS4AY9EW5FKPJSUDYZANZHPC9GIMCP9GE7WJ3NNU92TDNKYJ979PQM2YNH7ZMZRNGKA64PQXJDXT23KTYEKN4X9EAW3&destination=https%3A//slavkov.anvete-senior.cz",
-    "id": "slavkov.anvete-senior.cz"
-  },
-  {
     "header": "Pronájem bytu 3+kk 83 m²",
     "Address": "Řehořova, Brno - Černovice",
     "Price": "30 000 Kč/měsíc",
@@ -145,12 +145,5 @@
     "Price": "27 990 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-trnita-opustena/3691524940",
     "id": "3691524940"
-  },
-  {
-    "header": "Pronájem bytu 2+1 74 m²",
-    "Address": "Koliště, Brno - Zábrdovice",
-    "Price": "23 500 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-zabrdovice-koliste/872485708",
-    "id": "872485708"
   }
 ]
