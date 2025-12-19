@@ -1,5 +1,19 @@
 [
   {
+    "header": "Pronájem bytu 2+1 53 m²",
+    "Address": "náměstí SNP, Brno - Černá Pole",
+    "Price": "18 900 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-cerna-pole-namesti-snp/1381811020",
+    "id": "1381811020"
+  },
+  {
+    "header": "Pronájem bytu 2+1 52 m²",
+    "Address": "Ondrouškova, Brno - Bystrc",
+    "Price": "17 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-bystrc-ondrouskova/3598521164",
+    "id": "3598521164"
+  },
+  {
     "header": "Pronájem bytu 3+kk 79 m²",
     "Address": "Křížkovského, Brno - Staré Brno",
     "Price": "27 000 Kč/měsíc",
@@ -131,19 +145,5 @@
     "Price": "35 490 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-komarov-komarovska/2938835788",
     "id": "2938835788"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 70 m²",
-    "Address": "Reissigova, Brno - Ponava",
-    "Price": "20 500 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-ponava-reissigova/3660325708",
-    "id": "3660325708"
-  },
-  {
-    "header": "Pronájem bytu 2+1 66 m²",
-    "Address": "Renneská třída, Brno - Štýřice",
-    "Price": "19 990 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-styrice-renneska-trida/2549158732",
-    "id": "2549158732"
   }
 ]
