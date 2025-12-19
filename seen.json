@@ -1,5 +1,26 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 81 m²",
+    "Address": "třída Generála Píky, Brno - Černá Pole",
+    "Price": "34 800 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-cerna-pole-trida-generala-piky/1451086668",
+    "id": "1451086668"
+  },
+  {
+    "header": "Pronájem bytu 2+1 57 m²",
+    "Address": "Mathonova, Brno - Černá Pole",
+    "Price": "23 500 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-cerna-pole-mathonova/2617586508",
+    "id": "2617586508"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 93 m²",
+    "Address": "Neumannova, Brno - Brno-střed",
+    "Price": "48 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-brno-stred-neumannova/2325291852",
+    "id": "2325291852"
+  },
+  {
     "header": "Pronájem bytu 3+1 78 m²",
     "Address": "Kamanova, Brno - Královo Pole",
     "Price": "24 500 Kč/měsíc",
@@ -112,13 +133,6 @@
     "id": "3302663500"
   },
   {
-    "header": "Nové nájemní bydlení.",
-    "Address": "Bezpečný a komfortní domov v srdci města Slavkov u Brna.",
-    "Price": "Anvete Senior",
-    "link": "https://a.seznam.cz/v2/click?spotId=4079267&d=QYPZM5QBIXPI8TGJ88DXX8RRNRJJUXFDQGAITTVJMBTFXWB68EBN2QW9CUD8WASE97UGDXI7VG946QN5M8YTS8J5I9M5IVG56FINV45HIBJU487R6VUG55XH2UWTJHMX2IHDVHS452XMGW5NHQNMVR44KQ7J26UWYM3UAJIBUACYRQ97ZHN83UHQK3UW3H4ANA9F8HKXIYX6P9KA757FZWGR9XXH3PHCTHCBGBUWKWGH6NTEH445X4T66ITXABMGZHV6C8P4K7XETHR233SP9MV39XP6SNW2AQWNIJK5A8ESG2CABYHW5WDHHKGKNK4RSN3BYHS3XDAJZKP86RXPU3Y8KHHACCNTS4A3SWUB2FZAZYS&destination=https%3A//slavkov.anvete-senior.cz",
-    "id": "slavkov.anvete-senior.cz"
-  },
-  {
     "header": "Pronájem bytu 3+kk 95 m²",
     "Address": "Opuštěná, Brno - Trnitá",
     "Price": "27 990 Kč/měsíc",
@@ -131,26 +145,5 @@
     "Price": "18 900 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-cerna-pole-namesti-snp/1381811020",
     "id": "1381811020"
-  },
-  {
-    "header": "Pronájem bytu 2+1 52 m²",
-    "Address": "Ondrouškova, Brno - Bystrc",
-    "Price": "17 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-bystrc-ondrouskova/3598521164",
-    "id": "3598521164"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 79 m²",
-    "Address": "Křížkovského, Brno - Staré Brno",
-    "Price": "27 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-stare-brno-krizkovskeho/273683276",
-    "id": "273683276"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 62 m²",
-    "Address": "Spolková, Brno - Zábrdovice",
-    "Price": "24 500 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zabrdovice-spolkova/3425751884",
-    "id": "3425751884"
   }
 ]
