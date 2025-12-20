@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 65 m²",
+    "Address": "Spolková, Brno - Zábrdovice",
+    "Price": "23 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zabrdovice-spolkova/444011340",
+    "id": "444011340"
+  },
+  {
     "header": "Pronájem bytu 3+kk 104 m²",
     "Address": "Netroufalky, Brno - Bohunice",
     "Price": "33 000 Kč/měsíc",
@@ -138,12 +145,5 @@
     "Price": "49 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-komarov-komarovska/3643315020",
     "id": "3643315020"
-  },
-  {
-    "header": "Pronájem bytu 2+1 78 m²",
-    "Address": "Lidická, Brno - Veveří",
-    "Price": "19 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-veveri-lidicka/2066748236",
-    "id": "2066748236"
   }
 ]
