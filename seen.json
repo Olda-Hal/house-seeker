@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 67 m²",
+    "Address": "Bieblova, Brno - Černá Pole",
+    "Price": "23 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-cerna-pole-bieblova/2035749708",
+    "id": "2035749708"
+  },
+  {
     "header": "Pronájem bytu 3+1 96 m²",
     "Address": "Havláskova, Brno - Jehnice",
     "Price": "22 000 Kč/měsíc",
@@ -138,12 +145,5 @@
     "Price": "24 990 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-cerna-pole-merhautova/3570606924",
     "id": "3570606924"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 75 m²",
-    "Address": "Rostislavovo náměstí, Brno - Královo Pole",
-    "Price": "35 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-kralovo-pole-rostislavovo-namesti/1884152652",
-    "id": "1884152652"
   }
 ]
