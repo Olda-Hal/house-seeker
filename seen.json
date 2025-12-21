@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 55 m²",
+    "Address": "Příkrá, Brno - Žabovřesky",
+    "Price": "20 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zabovresky-prikra/3328381772",
+    "id": "3328381772"
+  },
+  {
     "header": "Pronájem bytu 3+kk 66 m²",
     "Address": "Komárovská, Brno - Komárov",
     "Price": "29 900 Kč/měsíc",
@@ -138,12 +145,5 @@
     "Price": "33 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-bohunice-netroufalky/2826376012",
     "id": "2826376012"
-  },
-  {
-    "header": "Pronájem bytu 2+1 55 m²",
-    "Address": "Botanická, Brno - Ponava",
-    "Price": "18 500 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-ponava-botanicka/3698791244",
-    "id": "3698791244"
   }
 ]
