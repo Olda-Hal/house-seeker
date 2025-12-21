@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 95 m²",
+    "Address": "Opuštěná, Brno - Trnitá",
+    "Price": "27 990 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-trnita-opustena/3691524940",
+    "id": "3691524940"
+  },
+  {
     "header": "Pronájem bytu 2+1 63 m²",
     "Address": "Palackého třída, Brno - Královo Pole",
     "Price": "18 900 Kč/měsíc",
@@ -112,13 +119,6 @@
     "id": "444011340"
   },
   {
-    "header": "Nové nájemní bydlení.",
-    "Address": "Bezpečný a komfortní domov v srdci města Slavkov u Brna.",
-    "Price": "Anvete Senior",
-    "link": "https://a.seznam.cz/v2/click?spotId=4079267&d=U7G9S76XGGNZTIFKGKXZ54SRC5Q6BZZK5ITNRAV7PJNTBB8U82YGAB9BHSAQWBBIMTY3JUPG8BV3K49498HUVPHDC49CMFK5PX8QVZCHW7JCFJV3ZQNDABQZEP8IWBX27RQ9SC4N3ZYV6G2HIUT3QBEKQ5MTR4ZJPQ36RS358VRWVRVR8XXZPBA6JYK9SMDHBSWWEW2VB89RHDRWMMDXUG6B34YWISHI2QNH365922KKWHXPNUTZMGQWFHEE4UK6E9EFDQEVH7RYGDDV5HYSMKFY8IK84ABNTXAZ7TW4EGB5AR3TKZ79CWZIQ6SKYSQSBYYQQAQZ8VTCUYQBKCGBS7CDVANEEYW6SCCMINS2FDE2JR88&destination=https%3A//slavkov.anvete-senior.cz",
-    "id": "slavkov.anvete-senior.cz"
-  },
-  {
     "header": "Pronájem bytu 3+kk 104 m²",
     "Address": "Netroufalky, Brno - Bohunice",
     "Price": "33 000 Kč/měsíc",
@@ -138,13 +138,6 @@
     "Price": "24 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-zidenice-taborska/1613939532",
     "id": "1613939532"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 95 m²",
-    "Address": "Opuštěná, Brno - Trnitá",
-    "Price": "27 990 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-trnita-opustena/3691524940",
-    "id": "3691524940"
   },
   {
     "header": "Pronájem bytu 2+1 55 m²",
