@@ -1,5 +1,54 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 56 m²",
+    "Address": "Táborská, Brno - Židenice",
+    "Price": "20 590 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zidenice-taborska/2203202380",
+    "id": "2203202380"
+  },
+  {
+    "header": "Pronájem bytu 2+1 59 m²",
+    "Address": "Škroupova, Brno - Židenice",
+    "Price": "16 590 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-zidenice-skroupova/1467229004",
+    "id": "1467229004"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 77 m²",
+    "Address": "Komárovská, Brno - Komárov",
+    "Price": "35 490 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-komarov-komarovska/2938835788",
+    "id": "2938835788"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 97 m²",
+    "Address": "Klatovská, Brno - Ponava",
+    "Price": "39 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-ponava-klatovska/2852328268",
+    "id": "2852328268"
+  },
+  {
+    "header": "Pronájem bytu 2+1 62 m²",
+    "Address": "Foerstrova, Brno - Žabovřesky",
+    "Price": "20 590 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-zabovresky-foerstrova/403903308",
+    "id": "403903308"
+  },
+  {
+    "header": "Pronájem bytu 2+1 66 m²",
+    "Address": "Renneská třída, Brno - Štýřice",
+    "Price": "19 990 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-styrice-renneska-trida/2549158732",
+    "id": "2549158732"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 62 m²",
+    "Address": "Lužánecká, Brno - Černá Pole",
+    "Price": "25 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-cerna-pole-luzanecka/3287425868",
+    "id": "3287425868"
+  },
+  {
     "header": "Pronájem bytu 3+kk 75 m²",
     "Address": "Komárovská, Brno - Komárov",
     "Price": "49 000 Kč/měsíc",
@@ -63,11 +112,11 @@
     "id": "2517046092"
   },
   {
-    "header": "Pronájem bytu 3+kk 77 m²",
-    "Address": "Komárovská, Brno - Komárov",
-    "Price": "35 490 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-komarov-komarovska/2938835788",
-    "id": "2938835788"
+    "header": "Nové nájemní bydlení.",
+    "Address": "Bezpečný a komfortní domov v srdci města Slavkov u Brna.",
+    "Price": "Anvete Senior",
+    "link": "https://a.seznam.cz/v2/click?spotId=4079266&d=D3JP6SDC4PU2QW5A6A2N8EZ2DYRCZMV46KSTQXBX3GTAQ5W5XXPJRHPM8NRRNE3B98QR7R7IY85TA39Z6XCIDUGQ2W6Y3698D7884MFE8FS6MZCD99VXECG2E6IHEA5F2CQQKXW2CW7TPEDRWFND52RSKH223R23KKXQ92DENRT8R8R2STZJMFR6BYI9H6TQNC4YQRV8PX9KEQTFII3ZABIVKHMKZZA3NEE4AKNEHXB6E84QKJRGJK27N4XIPXI89QXPXG8MQQP6WTV53665EXN7FVSFBVH2XII963QX57JR2B5CRZQKWDZBIF5WWJDDHNCM62ZXZ8HREJNYZ96XKYZGVASXYPC7GH2ZWT4NJVSW8&destination=https%3A//slavkov.anvete-senior.cz",
+    "id": "slavkov.anvete-senior.cz"
   },
   {
     "header": "Pronájem bytu 3+kk 70 m²",
@@ -103,47 +152,5 @@
     "Price": "18 990 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-veveri-drevarska/4109882188",
     "id": "4109882188"
-  },
-  {
-    "header": "Pronájem bytu 3+1 78 m²",
-    "Address": "Kamanova, Brno - Královo Pole",
-    "Price": "24 500 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-kralovo-pole-kamanova/976950092",
-    "id": "976950092"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 83 m²",
-    "Address": "Řehořova, Brno - Černovice",
-    "Price": "30 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-cernovice-rehorova/1789862732",
-    "id": "1789862732"
-  },
-  {
-    "header": "Pronájem bytu 2+1 54 m²",
-    "Address": "Vysoká, Brno - Štýřice",
-    "Price": "20 500 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-styrice-vysoka/476980044",
-    "id": "476980044"
-  },
-  {
-    "header": "Pronájem bytu 2+1 52 m²",
-    "Address": "Ondrouškova, Brno - Bystrc",
-    "Price": "17 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-bystrc-ondrouskova/3598521164",
-    "id": "3598521164"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 94 m²",
-    "Address": "Hrozňatova, Brno - Židenice",
-    "Price": "32 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zidenice-hroznatova/941298508",
-    "id": "941298508"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 111 m²",
-    "Address": "Plachty, Brno - Nový Lískovec",
-    "Price": "28 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-novy-liskovec-plachty/2831098700",
-    "id": "2831098700"
   }
 ]
