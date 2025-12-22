@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 64 m²",
+    "Address": "Škrochova, Brno - Židenice",
+    "Price": "24 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zidenice-skrochova/3683062604",
+    "id": "3683062604"
+  },
+  {
     "header": "Pronájem bytu 3+kk 81 m²",
     "Address": "třída Generála Píky, Brno - Černá Pole",
     "Price": "34 800 Kč/měsíc",
@@ -112,13 +119,6 @@
     "id": "2852328268"
   },
   {
-    "header": "Nové nájemní bydlení.",
-    "Address": "Bezpečný a komfortní domov v srdci města Slavkov u Brna.",
-    "Price": "Anvete Senior",
-    "link": "https://a.seznam.cz/v2/click?spotId=4079266&d=CQ6UD8N87JAB6D5VGWM3PG2NX6FUCRF9WSC96X56YQ4YVH9C93RYIDQIE73JJ8ERXUD7TXDS7TNQ2BSH6XQRMEBXPAKUEJ7RB4PWKTIVW2GRZ7J9NY4FUXKW928TAVBK29FWGQ6WA9PUX37Z66M7VQCUJZNVAEQNIKZ6CUR3KNIH6XGFSW4ITSSGGWPMTWEIMQB5EYGDYNJ5GNNT4D8YIW6IAQZR386UQT8BUFXB754BNU2KJH9BXTVG92WJE29CATWMRWBUMTI94BUYPN4HYPJF5MSSJWTY6HKIBCMRNQCTEZF5NRE7SFX5KAVNPJ7BQ5RCN2E32JDT75QWFHXSH9U4PXXIMCM5KH4FXP5QKVWYWZCN&destination=https%3A//slavkov.anvete-senior.cz",
-    "id": "slavkov.anvete-senior.cz"
-  },
-  {
     "header": "Pronájem bytu 2+1 62 m²",
     "Address": "Foerstrova, Brno - Žabovřesky",
     "Price": "20 590 Kč/měsíc",
@@ -145,12 +145,5 @@
     "Price": "49 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-komarov-komarovska/3643315020",
     "id": "3643315020"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 72 m²",
-    "Address": "Jaselská, Brno - Veveří",
-    "Price": "25 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-veveri-jaselska/2202932044",
-    "id": "2202932044"
   }
 ]
