@@ -1,5 +1,19 @@
 [
   {
+    "header": "Pronájem bytu 3+1 75 m²",
+    "Address": "Oderská, Brno - Starý Lískovec",
+    "Price": "23 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-stary-liskovec-oderska/3250721612",
+    "id": "3250721612"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 82 m²",
+    "Address": "Fuchsova, Brno - Trnitá",
+    "Price": "29 990 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-trnita-fuchsova/2815632204",
+    "id": "2815632204"
+  },
+  {
     "header": "Pronájem bytu 3+kk 56 m²",
     "Address": "Táborská, Brno - Židenice",
     "Price": "20 590 Kč/měsíc",
@@ -98,6 +112,13 @@
     "id": "1381811020"
   },
   {
+    "header": "Nové nájemní bydlení.",
+    "Address": "Bezpečný a komfortní domov v srdci města Slavkov u Brna.",
+    "Price": "Anvete Senior",
+    "link": "https://a.seznam.cz/v2/click?spotId=4079266&d=HT6ZS5D3Q9SHT3XYIRFVRBJCCQWY2WG3AWKBT67GXP75ATW4ZANEJW9PD43NMXKTMCWUK4AZMP4ZGB7Y9BHM6YWACMV5K96S5VBXZKX6DQ4HSZMM8Y9F8EQ8H5V2JTE3ANBUS8NTRZWFSA2TJB2JR4DCP9G749IK6YK2QVWHIK7ZU6XS3WHKAIQPG7FACCJXTCWJR9M748HRG3PEPNSNEAY2D76MPTJKSJ9P9R94ECY8JJ6K5VCI7QX8E8DNPPMFGU4UWTTP45ABUJQ8YP79949J5BC5E9A5XZD8NV6TWGZK5CDAWJS48YAVJ2CP5CKJ33U5J3BWTY9GSR38ASVQ2ITV7D3ZQ92BNP7RADQQ8PENI&destination=https%3A//slavkov.anvete-senior.cz",
+    "id": "slavkov.anvete-senior.cz"
+  },
+  {
     "header": "Pronájem bytu 3+kk 72 m²",
     "Address": "Merhautova, Brno - Černá Pole",
     "Price": "24 990 Kč/měsíc",
@@ -110,13 +131,6 @@
     "Price": "17 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-lesna-triskalova/2517046092",
     "id": "2517046092"
-  },
-  {
-    "header": "Nové byty blízko centra",
-    "Address": "Moderní byty 2+kk s terasou, novostavba s výtahem, garážové stání, skvělá lokalita.",
-    "Price": "BRAVIS REALITY s.r.o.",
-    "link": "https://a.seznam.cz/v2/click?spotId=4086203&d=YHX6W9J9S2A3B963T7PBTDNHNQKZWCDBWG6Q2QWEICTZUKTWENWS9HFVAIT8CTIWP3RANVWTN7TVEXJFMI5GI2RQ98F58A23DRYHWURSW4CKST9EHMN3FWK6VWCIZJFIVUFKRT32JSI4DJIZ37QHXSAVAXVPV2EX5UHFCG3MKJ37BET87E3YHJNQAHAE8RFW6XPSP8JP986KCBUIU36DBBTZJTKUZPP2BJWI7F7Q3HPSUEAV2KVJZXB4YH7B3B4E5FTB26637TWCBWIB43N94XRSPCIZVDE2PZI8G9Y7BUWEFU27TH8VK5Y2JUXDXJQSTV438YFUMFF3EI5NRA3S9RZ6HBW5TRCBV266VBH82EFUWD2&destination=https%3A//www.bravis.cz/pronajem-bytu-auerswaldova",
-    "id": "pronajem-bytu-auerswaldova"
   },
   {
     "header": "Pronájem bytu 3+kk 70 m²",
@@ -138,19 +152,5 @@
     "Price": "19 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-bystrc-chudcicka/1460192076",
     "id": "1460192076"
-  },
-  {
-    "header": "Pronájem bytu 3+1 63 m²",
-    "Address": "Havelkova, Brno - Bohunice",
-    "Price": "22 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-bohunice-havelkova/600949580",
-    "id": "600949580"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 65 m²",
-    "Address": "Dřevařská, Brno - Veveří",
-    "Price": "18 990 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-veveri-drevarska/4109882188",
-    "id": "4109882188"
   }
 ]
