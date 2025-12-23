@@ -1,10 +1,24 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 95 m²",
+    "Address": "Opuštěná, Brno - Trnitá",
+    "Price": "27 990 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-trnita-opustena/3691524940",
+    "id": "3691524940"
+  },
+  {
     "header": "Pronájem bytu 3+1 73 m²",
     "Address": "Jugoslávská, Brno",
     "Price": "22 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-brno-jugoslavska/4036432716",
     "id": "4036432716"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 64 m²",
+    "Address": "Škrochova, Brno - Židenice",
+    "Price": "24 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zidenice-skrochova/3683062604",
+    "id": "3683062604"
   },
   {
     "header": "Pronájem bytu 3+kk 81 m²",
@@ -98,6 +112,13 @@
     "id": "2203202380"
   },
   {
+    "header": "Nové nájemní bydlení.",
+    "Address": "Bezpečný a komfortní domov v srdci města Slavkov u Brna.",
+    "Price": "Anvete Senior",
+    "link": "https://a.seznam.cz/v2/click?spotId=4079268&d=H8QRUDGPUGIT83CIAU9ZQ9ID48THJUVTBE85FQY6GTQDFD75DMCZ5PCMHFRSIRTMEYC2YZIKEERS8FS6GJ24HICBEIUDVW9ST7S8RT22CC9GN69HPH7Y37A627VTUMR7CGNB9DKYXNKX6NHY3XJDVRPQWQ37CHDKQCQGSRK38U3SC53IQXC4UANUXUGW86P574PKMCFQ3RIM3WNQXHQCJ8FETIJXD8ZZKKXN8EM7A7MPK7ND2UUG22NY3K5DYDMEE6GC8UP2ABQZ6D3SUMXNSN9663MVVWGBZZZ6KHAH58YBPHGUSIKM27782PAWU59FQRE9DGJJQ58EQNAA4RS55C7AT8PKM25PMBR6WX9SUBJRRNS&destination=https%3A//slavkov.anvete-senior.cz",
+    "id": "slavkov.anvete-senior.cz"
+  },
+  {
     "header": "Pronájem bytu 2+1 59 m²",
     "Address": "Škroupova, Brno - Židenice",
     "Price": "16 590 Kč/měsíc",
@@ -110,13 +131,6 @@
     "Price": "35 490 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-komarov-komarovska/2938835788",
     "id": "2938835788"
-  },
-  {
-    "header": "Moderní byty 2+kk Brno",
-    "Address": "Novostavba v blízkosti centra Brna, terasy, garážové stání.",
-    "Price": "BRAVIS REALITY s.r.o.",
-    "link": "https://a.seznam.cz/v2/click?spotId=4086204&d=EZYAQ9JDKNNHCHFXVGCGKFJG9EW3DJ7PV9CEGAJU2HEJ9R6ZSEU6HF9CU3E3CY63SNZKJFBFMJ2HZY7B328B7AJJYGKM9ABP3CPFSI5YA949N4A8MM25EX2366BAU6VBUBD63S2CE3DCZN7ZHDYUAR6T7GB3SAVAS2I8DNFY4ICX3Z9Q2S9GZEXPAW62VIAWRQ5UMD9BNN9W7RTIV5QKW2H422BECPIX5XQZW6JBXFB4CGG22IJYSKFQRHBAC6R3W4RBU35SXJPDINEMCSXPUF6STRWHIBT9DXGZZRMQXJ84MZFW853C6NI9SPEEGAZJPTKWK2UD4APHHJRHKC4A9NFC6MB9W5MAYVCP7H43XBY7QWA&destination=https%3A//www.bravis.cz/pronajem-bytu-auerswaldova",
-    "id": "pronajem-bytu-auerswaldova"
   },
   {
     "header": "Pronájem bytu 3+kk 97 m²",
@@ -138,19 +152,5 @@
     "Price": "19 990 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-styrice-renneska-trida/2549158732",
     "id": "2549158732"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 62 m²",
-    "Address": "Lužánecká, Brno - Černá Pole",
-    "Price": "25 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-cerna-pole-luzanecka/3287425868",
-    "id": "3287425868"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 75 m²",
-    "Address": "Komárovská, Brno - Komárov",
-    "Price": "49 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-komarov-komarovska/3643315020",
-    "id": "3643315020"
   }
 ]
