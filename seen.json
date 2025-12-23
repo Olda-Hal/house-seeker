@@ -56,6 +56,13 @@
     "id": "600949580"
   },
   {
+    "header": "Nové nájemní bydlení.",
+    "Address": "Bezpečný a komfortní domov v srdci města Slavkov u Brna.",
+    "Price": "Anvete Senior",
+    "link": "https://a.seznam.cz/v2/click?spotId=4079268&d=JUWRPW63AYIPIA2MTZEZMRKXARWS65T7GHRBDKAD5DN3CX92CB2UXXMACYM84MBMGWAEKDYWKD7JJFKQYW353E9TJ94Y6KCGJ92GA5ZZKJC6S49S6VU3ASUBPMXHFBMZJFRMGYEGKDVHFHBB2S59PARIIPCZ33XYXP42XPBTI283TDHIXZIEF58KFFG7X4KCISMB2XA3Z7EMND7KNVCDJ7WJDRFHSYUFQXME4CFPEZ8K6CZFXQBFQG5FX8X23QFB98GAXQI2MYT5Q8HFPYAKMUE4FGRYQDVH3PWWG7PJADP7WVDKGVU8E6MHFGSDTPNEEI9DGUI2NV29SS29N2ZFGI9E5XM944SAPMSUNW7I8Y6S&destination=https%3A//slavkov.anvete-senior.cz",
+    "id": "slavkov.anvete-senior.cz"
+  },
+  {
     "header": "Pronájem bytu 3+kk 65 m²",
     "Address": "Dřevařská, Brno - Veveří",
     "Price": "18 990 Kč/měsíc",
@@ -98,13 +105,6 @@
     "id": "1789862732"
   },
   {
-    "header": "Pronájem bytu 3+1 75 m²",
-    "Address": "Oderská, Brno - Starý Lískovec",
-    "Price": "23 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-stary-liskovec-oderska/3250721612",
-    "id": "3250721612"
-  },
-  {
     "header": "Pronájem bytu 3+kk 82 m²",
     "Address": "Fuchsova, Brno - Trnitá",
     "Price": "29 990 Kč/měsíc",
@@ -112,18 +112,18 @@
     "id": "2815632204"
   },
   {
-    "header": "Nové nájemní bydlení.",
-    "Address": "Bezpečný a komfortní domov v srdci města Slavkov u Brna.",
-    "Price": "Anvete Senior",
-    "link": "https://a.seznam.cz/v2/click?spotId=4079266&d=48KIPJJSTH428A35AVS32BERAC58PRMWZEFDIVKZU4TU26E8P7K8ZNWQNUIRBI75D9VFJM6MCCH4FHH884NVEUYZ2QQUZ2ZP4F69UTVAIA6ZX3QVZWMMENMET5HRNUCZDVFIT8U4XQY6FE5UGD6CZFC4EJACV2EF68IVAMS5WCHD9JXZAJBHTHHQXXN5T8Y89DQ3T5JWJHM8CG9SM5CM8S8FHE2YBFANX5P2SMS9A5PYCXETHI84AZXDE4RFPA58U895HS6BN4E6QA7IYHF3IZ4HMUE2PTSXES6N4V9Y7IG8NUQ89VUGUTW5X4RYGRB9GSYD97UIM762FTQ2C4WQEXE7PIQU8E54B9Y43IMTA9XN34GUEA&destination=https%3A//slavkov.anvete-senior.cz",
-    "id": "slavkov.anvete-senior.cz"
-  },
-  {
     "header": "Pronájem bytu 3+kk 56 m²",
     "Address": "Táborská, Brno - Židenice",
     "Price": "20 590 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zidenice-taborska/2203202380",
     "id": "2203202380"
+  },
+  {
+    "header": "Moderní byty 2+kk Brno",
+    "Address": "Novostavba v blízkosti centra Brna, terasy, garážové stání.",
+    "Price": "BRAVIS REALITY s.r.o.",
+    "link": "https://a.seznam.cz/v2/click?spotId=4086204&d=PN99KX2M3VVUDDV8877RVRAVUAHDCBIHNI6224DRCRQRKP5VG8RZPN62C5P2FM6F6VA92U2UJGFHRQFNP38P3T4A6ACB9ICWP4IA4S3Z3YNUD3E48HIGIE5XGSYU7PQUM4BG93JX25JJZJDDDIPMU9AHES2QTZQMJWQ7QS4NH4SHKE6CTN47B2TS9JAIUVV3TJCTNEVTTCJE4GVSXB9JRXWR6HASXGI83T2VAQXTFCGXJMK3RXNQAK9SPJGZW2W48BPEBZH2JCZN9VARHRRWQWPGHVTABQT4Y2XV3H4ZGBKZ6PQS7EJ9JXFXWG2J248HC82G2X5I5VBPCI7CVFNDCXISZ77JBXAMMHCQUNDPGHDA&destination=https%3A//www.bravis.cz/pronajem-bytu-auerswaldova",
+    "id": "pronajem-bytu-auerswaldova"
   },
   {
     "header": "Pronájem bytu 2+1 59 m²",
@@ -152,5 +152,12 @@
     "Price": "20 590 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-zabovresky-foerstrova/403903308",
     "id": "403903308"
+  },
+  {
+    "header": "Pronájem bytu 2+1 66 m²",
+    "Address": "Renneská třída, Brno - Štýřice",
+    "Price": "19 990 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-styrice-renneska-trida/2549158732",
+    "id": "2549158732"
   }
 ]
