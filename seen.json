@@ -1,5 +1,26 @@
 [
   {
+    "header": "Pronájem bytu 3+1 70 m²",
+    "Address": "Bieblova, Brno - Černá Pole",
+    "Price": "26 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-cerna-pole-bieblova/239473484",
+    "id": "239473484"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 73 m²",
+    "Address": "Chudčická, Brno - Bystrc",
+    "Price": "19 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-bystrc-chudcicka/1460192076",
+    "id": "1460192076"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 89 m²",
+    "Address": "Nové sady, Brno - Staré Brno",
+    "Price": "39 800 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-stare-brno-nove-sady/4238984012",
+    "id": "4238984012"
+  },
+  {
     "header": "Pronájem bytu 3+1 63 m²",
     "Address": "Havelkova, Brno - Bohunice",
     "Price": "22 000 Kč/měsíc",
@@ -56,13 +77,6 @@
     "id": "2996245324"
   },
   {
-    "header": "Výhoda prvního nájemníka",
-    "Address": "Nové, stylové moderní byty 2+kk, terasy, garážové stání v domě.",
-    "Price": "BRAVIS REALITY s.r.o.",
-    "link": "https://a.seznam.cz/v2/click?spotId=4086202&d=G5I5YAYR2HCF5XM2EGBMUDDRPWJ8WKND7RTETPHBVUXCSDTH24NV98ZIGSP362QMP58QAHSAW8X4C2P9FKSZYPNSV42VC2WBFZX6WWX37F7PPZNEFB4TG4288AYETH337I3NW26C7DJB2RT6D62QUCKR3M3GG4CN88CZIENTVY3JUNCPA948QFGYBQGRQV39Y92C9NIWTRI5E9E8PB99USVBIRHJN45X2DYIA338N4TBQRIQ9SDJNQFYM7XWT69JKHU4Q3YWB23Q95ZJ37DWA7Y28A4WRBT62NPE6JVG434JQR95IFDJWEWKB7RZVRRFGY46KDF88KWJ9KTU7Y2IKSQ4D976NA3NSHQTDHPRJ3YDA&destination=https%3A//www.bravis.cz/pronajem-bytu-auerswaldova",
-    "id": "pronajem-bytu-auerswaldova"
-  },
-  {
     "header": "Pronájem bytu 3+kk 95 m²",
     "Address": "Opuštěná, Brno - Trnitá",
     "Price": "27 990 Kč/měsíc",
@@ -98,18 +112,11 @@
     "id": "2617586508"
   },
   {
-    "header": "Pronájem bytu 3+kk 89 m²",
-    "Address": "Nové sady, Brno - Staré Brno",
-    "Price": "39 800 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-stare-brno-nove-sady/4238984012",
-    "id": "4238984012"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 73 m²",
-    "Address": "Chudčická, Brno - Bystrc",
-    "Price": "19 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-bystrc-chudcicka/1460192076",
-    "id": "1460192076"
+    "header": "Nové nájemní bydlení.",
+    "Address": "Bezpečný a komfortní domov v srdci města Slavkov u Brna.",
+    "Price": "Anvete Senior",
+    "link": "https://a.seznam.cz/v2/click?spotId=4079268&d=DJQF6GKKNMIFYKZWKNEHTIP5YII5ANU8E5XI3VGB7TN5J2TPEIU5K2NHQVRMQHE7HQRZWIHMI8ZIJZQNHFNI85NVETBJDEQV8UEHHEA7A4ZETINCDKZDXNBD2WMCYWZC5K3IXU27ISEFV2FG3HC6CQUEGYVD9JIAKJR36N7TU7B8UCZVN85CB4IF9DN6V68D9TMNDQMZSDJG5Z4ISFQAV96TCZDFBM4C2AJ2HAYC7F3WHT739UP8GFC6N3PCCDQC38JTIJI9R4ZBIYTJTRIFQSVZKIPM2DZCUTN74TWWCKE988TCPUA7RMJ46KKZSGI6BUJQFTBYWCV8Y3BDAW6NUQQSPWN2RAUDQFNMFB2UFVKS&destination=https%3A//slavkov.anvete-senior.cz",
+    "id": "slavkov.anvete-senior.cz"
   },
   {
     "header": "Pronájem bytu 3+kk 82 m²",
@@ -117,13 +124,6 @@
     "Price": "29 990 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-trnita-fuchsova/2815632204",
     "id": "2815632204"
-  },
-  {
-    "header": "Nové nájemní bydlení.",
-    "Address": "Bezpečný a komfortní domov v srdci města Slavkov u Brna.",
-    "Price": "Anvete Senior",
-    "link": "https://a.seznam.cz/v2/click?spotId=4079268&d=IGY4XX29BYIEJQS8VYTYDT7JZZZ5YDKSGD25CVN8XZSQ9MP5J3JKWBHIBG2PJ3VM86T78KGISX7ZF5ARZJW5ITRXW2HTUUHGQ2QJIC62B9N7Y37F2QWJSCES6RGNBRKYE5MAJ2JDU87AA9N287JHUHMJCJA9QP824VJ35EN8A5BVVMNV5JUQZAAA6AJG4RZQVWA43BK9JSIJ3FQWY3AUYWDW8XEBEWRZ4QXHEBB4QW4HYC96GPCKTNPR6SEAWJAI5JFBYIUYKCHSFMXGFCBGEXRGCEF8UQXT2VD7PHMUM8T9P9ZN7CP5P328C8DPX9XTP8U8HYQBNYKY9W66IGG22FHSDCQQDHN5U69HT5BHQBDZC&destination=https%3A//slavkov.anvete-senior.cz",
-    "id": "slavkov.anvete-senior.cz"
   },
   {
     "header": "Pronájem bytu 3+kk 56 m²",
@@ -152,12 +152,5 @@
     "Price": "39 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-ponava-klatovska/2852328268",
     "id": "2852328268"
-  },
-  {
-    "header": "Pronájem bytu 2+1 62 m²",
-    "Address": "Foerstrova, Brno - Žabovřesky",
-    "Price": "20 590 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-zabovresky-foerstrova/403903308",
-    "id": "403903308"
   }
 ]
