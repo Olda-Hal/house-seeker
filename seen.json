@@ -1,17 +1,17 @@
 [
   {
-    "header": "Pronájem bytu 3+kk 73 m²",
-    "Address": "Spolková, Brno - Zábrdovice",
-    "Price": "22 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zabrdovice-spolkova/444011340",
-    "id": "444011340"
-  },
-  {
     "header": "Pronájem bytu 2+1 53 m²",
     "Address": "náměstí SNP, Brno - Černá Pole",
     "Price": "18 900 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-cerna-pole-namesti-snp/1381811020",
     "id": "1381811020"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 73 m²",
+    "Address": "Spolková, Brno - Zábrdovice",
+    "Price": "22 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zabrdovice-spolkova/444011340",
+    "id": "444011340"
   },
   {
     "header": "Pronájem bytu 3+1 70 m²",
@@ -110,13 +110,6 @@
     "Price": "24 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zidenice-skrochova/3683062604",
     "id": "3683062604"
-  },
-  {
-    "header": "Nové nájemní bydlení.",
-    "Address": "Bezpečný a komfortní domov v srdci města Slavkov u Brna.",
-    "Price": "Anvete Senior",
-    "link": "https://a.seznam.cz/v2/click?spotId=4079268&d=SNA5HVEYFC923WV9IPIWDN2CDGUAWUAZ2ZPTRJW3S8TB2795FXCRHAQEBI54TCEK2MSU8GYTFQ6F9C79ZJHUU8QJZ6NQXH3IRHNWN4UCGKSBDEWPUUJ8R9QS6C5X4FYHMJ7P23FTQG49G6ENIGZQGTTA24ZPXGPQU4JQ5QHWN8DA3CKJ4RUQWK5UZ4AKT6SZCFZM25TQFJJY4PFB9J6GSKANVZ5H5E5HDBE6EP848ZCJPPKHFBH7RTZVP4HC92YZ5IZPDFMI6EM99VHK9EIAQUZQR4AI27ZWXAM6DJAQZHB85H9DWSXDWAPCDB32262WWWCJHPVEP4ESP83NTWCS6NIQP5F4Z4X8SWMF97GCN2PXASI8&destination=https%3A//slavkov.anvete-senior.cz",
-    "id": "slavkov.anvete-senior.cz"
   },
   {
     "header": "Pronájem bytu 3+kk 81 m²",
