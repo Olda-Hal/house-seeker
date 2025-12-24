@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 66 m²",
+    "Address": "Kotěrova, Brno - Černá Pole",
+    "Price": "25 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-cerna-pole-koterova/183968588",
+    "id": "183968588"
+  },
+  {
     "header": "Pronájem bytu 2+1 53 m²",
     "Address": "náměstí SNP, Brno - Černá Pole",
     "Price": "18 900 Kč/měsíc",
@@ -105,6 +112,13 @@
     "id": "4036432716"
   },
   {
+    "header": "Moderní byty 2+kk Brno",
+    "Address": "Novostavba v blízkosti centra Brna, terasy, garážové stání.",
+    "Price": "BRAVIS REALITY s.r.o.",
+    "link": "https://a.seznam.cz/v2/click?spotId=4086209&d=T3AV467XJYVTTYCSSBP5KCDKPGQSMNG9WDHK4T5VJ6ZCPJA7YMVBFCHNDV8IQGNKVJU436ZYPVX5NM2BPACDAEQIGKKHX4BZSP6V9XB3QTIW5QPJJBQDZPEVGUZRJN7CMABQAW74DCSWFG7GAVVKUFDMZDRDEIPKZAG9Q4MVE74Z4HSD6TFB674DBCBWXDD8HG8F298TE79TE4J8TH2493G4YZHS4QN8ZI9M4BGATZANYH4TCCAFIEZ2VDRVZUHUGYTNGCSBSKPZ7XVEEM3YAGZRUABEWAZDQJ2WDQ6NM9XPU8WXFNFZF3HVC54AGWZZICGT5QGEQ6FHFRPHVS5YDRETWRD7H668YY63VE6UJZ3X8&destination=https%3A//www.bravis.cz/pronajem-bytu-auerswaldova",
+    "id": "pronajem-bytu-auerswaldova"
+  },
+  {
     "header": "Pronájem bytu 3+kk 64 m²",
     "Address": "Škrochova, Brno - Židenice",
     "Price": "24 000 Kč/měsíc",
@@ -138,12 +152,5 @@
     "Price": "20 590 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zidenice-taborska/2203202380",
     "id": "2203202380"
-  },
-  {
-    "header": "Pronájem bytu 2+1 59 m²",
-    "Address": "Škroupova, Brno - Židenice",
-    "Price": "16 590 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-zidenice-skroupova/1467229004",
-    "id": "1467229004"
   }
 ]
