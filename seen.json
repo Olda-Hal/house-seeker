@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 82 m²",
+    "Address": "Fuchsova, Brno - Trnitá",
+    "Price": "29 990 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-trnita-fuchsova/2815632204",
+    "id": "2815632204"
+  },
+  {
     "header": "Pronájem bytu 3+kk 95 m²",
     "Address": "Opuštěná, Brno - Trnitá",
     "Price": "27 990 Kč/měsíc",
@@ -105,18 +112,18 @@
     "id": "2325291852"
   },
   {
+    "header": "Výhoda prvního nájemníka",
+    "Address": "Nové, stylové moderní byty 2+kk, terasy, garážové stání v domě.",
+    "Price": "BRAVIS REALITY s.r.o.",
+    "link": "https://a.seznam.cz/v2/click?spotId=4086202&d=SS5KFPBW2N9SMUFCR2SURUZU29EFT8X9N5BYGYFPR63Y8UY69ARARJX4ETKJ6F6A9MD4ZZUUZ2EUHB7E66M4PYDW6JESMPPFIX24BBS7T2RFQEJ7STABHI3Y3S7D8M9V7IAHF7VBH9QU32535GJNIRRU9T5FYU65Y3I88DV6T3Y9N4KVM8FDNT6SAI9CME7FQNWS79H4CNF79XS8CBUSI22DIGDSF9QIR67EJ4SZQGC43YEHW4NAREB4AFHXXI2F5NFQB6D3IJQKEG9AWTQM2W6FS9M7JJFJTDI3XM9ASKHEA5IJDCXDERICFK9PU5KYSZDHD9R93TIG3X2UDPRKZAFSJW3V65GM5HTTZPN4N957CPUC&destination=https%3A//www.bravis.cz/pronajem-bytu-auerswaldova",
+    "id": "pronajem-bytu-auerswaldova"
+  },
+  {
     "header": "Pronájem bytu 3+kk 66 m²",
     "Address": "Trnitá, Brno - Trnitá",
     "Price": "26 990 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-trnita-trnita/2662273868",
     "id": "2662273868"
-  },
-  {
-    "header": "Nové nájemní bydlení.",
-    "Address": "Bezpečný a komfortní domov v srdci města Slavkov u Brna.",
-    "Price": "Anvete Senior",
-    "link": "https://a.seznam.cz/v2/click?spotId=4079267&d=YQ7K6UMK4WWF2JXCQMSUXBQDD7BXFCI8W2T6NI2THP7W2VIM95A5DE8SDB5UV5IT29RTVUF89AXCMKFF3YEPVRDZMUN6MXT3VENSRWD738WTV5GQB3JHH5EVKP6KGE777U92HYZVP8BR7JVI85J85227MFTEGF2H5J5WIFDA6G4QN49WHY7AGX588BIIKV3FBE9APJVVBCU2ZZ89PANQESJ3VNDK2QM8DXDH8MS4AWKEEGA8KN8C884PJ3X4DBATM5ZVDDSHWK7VFPSGJ5X7YQSYIK8FMVVCIFXRVUM4F7G26K8GDZ4Y7FHQIJ67JF5I5BRKZ7GGJ69M4RIN59WK3VP94ZGFDD73I5AWWU82XQTE6FHQ&destination=https%3A//slavkov.anvete-senior.cz",
-    "id": "slavkov.anvete-senior.cz"
   },
   {
     "header": "Pronájem bytu 3+1 75 m²",
@@ -145,12 +152,5 @@
     "Price": "34 800 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-cerna-pole-trida-generala-piky/1451086668",
     "id": "1451086668"
-  },
-  {
-    "header": "Pronájem bytu 2+1 57 m²",
-    "Address": "Mathonova, Brno - Černá Pole",
-    "Price": "23 500 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-cerna-pole-mathonova/2617586508",
-    "id": "2617586508"
   }
 ]
