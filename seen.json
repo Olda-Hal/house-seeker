@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+1 75 m²",
+    "Address": "Černého, Brno - Bystrc",
+    "Price": "19 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-bystrc-cerneho/3223569228",
+    "id": "3223569228"
+  },
+  {
     "header": "Pronájem bytu 3+kk 77 m²",
     "Address": "Komárovská, Brno - Komárov",
     "Price": "35 490 Kč/měsíc",
@@ -56,13 +63,6 @@
     "id": "1789862732"
   },
   {
-    "header": "Moderní byty 2+kk Brno",
-    "Address": "Novostavba v blízkosti centra Brna, terasy, garážové stání.",
-    "Price": "BRAVIS REALITY s.r.o.",
-    "link": "https://a.seznam.cz/v2/click?spotId=4086209&d=NSW9TIBECR3MGME49MBGGCM9UM9YJE76FGXK4HU68R7ERN2SRFARU8IUV2C9SKBNXUBNPQ658KMTJYFRNDXCSWAG939A49SUH2TB2BIGFHS6N773XDNBA5J292ATZZSWFWUZSPTV2ZFF6VGWDJWSUG73UMN7PEB8JW8WTP5T5YCPSGC8NEARE33XFI7ZVBP4CMJER994ABG2VUF2A9HJ5ESIVDJQY3SU6SBTUY3ARFEMA2G3UFV7PAVYCHCPEZB7GIAAWFJCSCZUJYNMHRMAKSMBQ58BKZ4WGKNAMTGX2YSPX9JDXXZ4AIBZSUEPKK7AF4EAMJ3PE8Z8STAVT7IGH26IEIPIZX2QV37SCV5SUB6VQW2&destination=https%3A//www.bravis.cz/pronajem-bytu-auerswaldova",
-    "id": "pronajem-bytu-auerswaldova"
-  },
-  {
     "header": "Pronájem bytu 3+kk 82 m²",
     "Address": "Fuchsova, Brno - Trnitá",
     "Price": "29 990 Kč/měsíc",
@@ -112,18 +112,18 @@
     "id": "444011340"
   },
   {
+    "header": "Nové nájemní bydlení.",
+    "Address": "Bezpečný a komfortní domov v srdci města Slavkov u Brna.",
+    "Price": "Anvete Senior",
+    "link": "https://a.seznam.cz/v2/click?spotId=4079268&d=HPK8MIQBUYKTR5Y2XAEV5HU6H235WPE3SBP2BA9AK9KG33Q75T8Q7MYKYFQ34ZWZWZHYZ9MIBNBRKXANQMXYN5UH3WZ7QU8Q7UVV8ZMBA5CGMP9BXGCFYXVSGZCDPGFHG6DRTB3QH968ZBR6EFPSZSE6AQIMYTJCRSZDVAB4P7WAABUBPYJ79DX5R6UVP758X2DWB4JJ9AH4329MWAQF6H75W34MBI8F4WNPS56NNSHVXGKVIYHGFFH4PFDZBRET6UHXRT3F4RAWCDYHECP247QQWT4GBTET5ZKQAPK8W7W3VGU9XXEGT89DZ89EUJBW9XJCFAW7H98748ZZXJXNJPCAG4KXIDG7VXYMY66UNQMTB2KR&destination=https%3A//slavkov.anvete-senior.cz",
+    "id": "slavkov.anvete-senior.cz"
+  },
+  {
     "header": "Pronájem bytu 3+1 70 m²",
     "Address": "Bieblova, Brno - Černá Pole",
     "Price": "26 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-cerna-pole-bieblova/239473484",
     "id": "239473484"
-  },
-  {
-    "header": "Nové byty blízko centra",
-    "Address": "Moderní byty 2+kk s terasou, novostavba s výtahem, garážové stání, skvělá lokalita.",
-    "Price": "BRAVIS REALITY s.r.o.",
-    "link": "https://a.seznam.cz/v2/click?spotId=4086203&d=VEMQGHHJK2MBFWH4A6462PM5YHWRUG78YFQCMR6236KT2CEEP486PCQT48Y7M48GBGCGWX4J72EGBC8ATE6BVBMD7UPD7BMXU8HWXFDXDDV97JVXP4ARV5VITBEVHPGUF9ZCHUDFDNW98SP7Y4UTBKG5CR4GZI8EY8XYYEWUBJMU5ASRSWNQIX8TVCPNZRJI5MJGNGFBFRJNK854ZZDGHCBSUNAZ79ZU8B4VZEPY32NCISZR6PINXZZZGCZ6ZE4WUMU25CPGDQICMTABIXJGSEGJA7SMKCMNHQYYQ77MRGI58HFB4AC222KHISX7K8PNJQD5W2AKCTCSYRYHIPN3D5NHZBEC55S8STA4QMQTZ2F2TFI&destination=https%3A//www.bravis.cz/pronajem-bytu-auerswaldova",
-    "id": "pronajem-bytu-auerswaldova"
   },
   {
     "header": "Pronájem bytu 3+kk 93 m²",
@@ -152,12 +152,5 @@
     "Price": "22 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-brno-jugoslavska/4036432716",
     "id": "4036432716"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 64 m²",
-    "Address": "Škrochova, Brno - Židenice",
-    "Price": "24 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zidenice-skrochova/3683062604",
-    "id": "3683062604"
   }
 ]
