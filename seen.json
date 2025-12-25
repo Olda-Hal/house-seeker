@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 66 m²",
+    "Address": "Komárovská, Brno - Komárov",
+    "Price": "29 900 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-komarov-komarovska/3642561356",
+    "id": "3642561356"
+  },
+  {
     "header": "Pronájem bytu 3+1 75 m²",
     "Address": "Černého, Brno - Bystrc",
     "Price": "19 000 Kč/měsíc",
@@ -138,12 +145,5 @@
     "Price": "24 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-reckovice-boskovicka/2996245324",
     "id": "2996245324"
-  },
-  {
-    "header": "Pronájem bytu 3+1 73 m²",
-    "Address": "Jugoslávská, Brno",
-    "Price": "22 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-brno-jugoslavska/4036432716",
-    "id": "4036432716"
   }
 ]
