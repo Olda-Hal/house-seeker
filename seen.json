@@ -56,6 +56,13 @@
     "id": "2815632204"
   },
   {
+    "header": "Nové nájemní bydlení.",
+    "Address": "Bezpečný a komfortní domov v srdci města Slavkov u Brna.",
+    "Price": "Anvete Senior",
+    "link": "https://a.seznam.cz/v2/click?spotId=4079268&d=A4ZW3RI2MCAD2VQCQV6VH4B7MFIBS829H9FKJH8IVZ58V3NEVGZQF5ZG2MBWEGUZCKVWKKCG562TA55FG5QR3P93Q5YU4BJR6WYY6PHWGK3BAI8KHZ4GJGRXHB89A9DAQYT669FD22JK8ZZB48CX9E24VNMD2D9CQ8T9U69FKZW7Q5E7WIB4ZJRR95DURU7TQU9UXZQA84W6385G2DNUXYBF7RITW5R463AR8Y3RH5FU37KJUT8EQGJCFJADZIUVFI5WYJ5WPRWYTINHXXWK3X7P886HTB46RZYKJDDHFS6YKY3W6NXUINTCC5H5645IVYNNEQQ38VYK5GENIZ5MFXKB94BZK3RKS7UV2RNBCBZ2IVA&destination=https%3A//slavkov.anvete-senior.cz",
+    "id": "slavkov.anvete-senior.cz"
+  },
+  {
     "header": "Pronájem bytu 3+kk 95 m²",
     "Address": "Opuštěná, Brno - Trnitá",
     "Price": "27 990 Kč/měsíc",
@@ -110,6 +117,13 @@
     "Price": "48 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-brno-stred-neumannova/2325291852",
     "id": "2325291852"
+  },
+  {
+    "header": "Moderní byty 2+kk Brno",
+    "Address": "Novostavba v blízkosti centra Brna, terasy, garážové stání.",
+    "Price": "BRAVIS REALITY s.r.o.",
+    "link": "https://a.seznam.cz/v2/click?spotId=4086204&d=ZTFZW7HABDBB9HTQUQ2WCXXSRQNCMZU9VA5RD8HCW32VNHIMAN7W3GD7EFJNCMTV9BJYYFMIT8TTBF8S5Y5JIZHA8EMF48RR73WG6RJEX2RY9HZ9WW8RHIR8GWMQIIIA259XNQMEYHQF8Z99RKN7ZQMTBWKRDVNY86TGPNSV73UVUI2PJCM2ZVNM34AT4BZSUZZXT4TT4ZEPGI4SYYD77KHVMSKQPCMQ2DDN4DN9QBCMIFY2C5VN4876F579MTYTZ5I9MB7S52G8VVQZTM5KN92HE6HPI79H3WDPCGGIGVCEUR4YS35CGQ6WVEHQFA6QXAIU8ZU9QCEI6ABWDBG9I3PTBCPHZPGFGIGY6EZEA87A5SS&destination=https%3A//www.bravis.cz/pronajem-bytu-auerswaldova",
+    "id": "pronajem-bytu-auerswaldova"
   },
   {
     "header": "Pronájem bytu 3+kk 66 m²",
