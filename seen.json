@@ -28,13 +28,6 @@
     "id": "4238984012"
   },
   {
-    "header": "Pronájem bytu 3+kk 65 m²",
-    "Address": "Dřevařská, Brno - Veveří",
-    "Price": "18 990 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-veveri-drevarska/4109882188",
-    "id": "4109882188"
-  },
-  {
     "header": "Pronájem bytu 3+1 78 m²",
     "Address": "Kamanova, Brno - Královo Pole",
     "Price": "24 500 Kč/měsíc",
@@ -56,18 +49,18 @@
     "id": "476980044"
   },
   {
-    "header": "Nové byty blízko centra",
-    "Address": "Moderní byty 2+kk s terasou, novostavba s výtahem, garážové stání, skvělá lokalita.",
-    "Price": "BRAVIS REALITY s.r.o.",
-    "link": "https://a.seznam.cz/v2/click?spotId=4086208&d=VTNGM5CQND8W5EBEBK7D7PMCX7URJRZXJVAKHDRE36HZY4NQG97K9M9IP4M9JPQMRYUZ7DA7RDV7SSR2F45XST829ZH4A55SX3QDJMPEFM8DM9JTKMQ6S976JSTDP28QRGXWJPZQTYJIBSQN6C3NPU6C4EQ7U9ZM8WDWRGJGKVTZF82GM85DHQJP9SB37UXAXW9UI25482GYAF9TWT267AKCR5B6WVT7H7TWUDRCGQ7QM9ZUBJNTZEZ5CEF6TI4KJUNEBV85E5VFGD9T2KETW3WBEM28U92BYR3AWSZ2S7Z9N9ZZ4M3UGCIDA5KGEAGX8A5Q9P9ZDW7EGEYFR5NWWBI7UBBX85I762VKHTWQMEN2PFI&destination=https%3A//www.bravis.cz/pronajem-bytu-auerswaldova",
-    "id": "pronajem-bytu-auerswaldova"
-  },
-  {
     "header": "Pronájem bytu 3+kk 72 m²",
     "Address": "Třískalova, Brno",
     "Price": "27 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-brno-triskalova/3352695628",
     "id": "3352695628"
+  },
+  {
+    "header": "Nové nájemní bydlení.",
+    "Address": "Bezpečný a komfortní domov v srdci města Slavkov u Brna.",
+    "Price": "Anvete Senior",
+    "link": "https://a.seznam.cz/v2/click?spotId=4079266&d=JYJ7CWV9WTENPX7PX3XH83PVKHBDUKX5YX6C6T7GSUCD5DNQQN2YKU6UIVPXMNTNUZY3JFMKK5F4MNEGW4K3TTP9KP9I39C7MZAXMZ8P7NUMF8VFXCIJCWYWHE89C3YSCQZ5YWZFERPQM3DU62XBW3ENNEBD9X9G3RMMA4T9M3CVEM5CJZYZZD599JUANP26APATK4KKEWSVJIKTNJCUXF2FVAC2DHQC3T5BD6RT2FMRUGM6748RKJ2XC9XJMAVYS8HNHCCMNDHMKW67YPQNIRYHXK54WH22HH8NG9K6KFBYUC4DDCND4QMN9MJ9HT85WSX6CRSPGXHPHYRMDQYARDB2YXB5QFPV9TASC87R5W5KMAI&destination=https%3A//slavkov.anvete-senior.cz",
+    "id": "slavkov.anvete-senior.cz"
   },
   {
     "header": "Pronájem bytu 3+1 72 m²",
@@ -119,13 +112,6 @@
     "id": "3328381772"
   },
   {
-    "header": "Nové nájemní bydlení.",
-    "Address": "Bezpečný a komfortní domov v srdci města Slavkov u Brna.",
-    "Price": "Anvete Senior",
-    "link": "https://a.seznam.cz/v2/click?spotId=4079267&d=NQ2GYCK6WB3A2M7AKBYYJUI4229A8I9I65ZTU3QPD9ZIWBXPGQBWNGVN39PR94XB73XY8Q67QZHF59IWTZVV7V8Y7BKCMYG37GQUS2BJXYU735VMBRFQ9R7SVUUJQT9NR2FZH35ZVMDFBXHSS92F7HTSTGYVDW2U4GJM9XQSQ8XZWNR22RD9HPMVTGC2KM82CXNTM9J7NGCCKBFI2XEJ4JDA57SDTQMXA8EVITXNPV5HWYY2JBKVY58N5WCVIR2SH5IKGD5CJYD5BIIKW77K64QEYFB47YBVUPSUTQCG67EBPXIAE574W6GQJ4DE3ZVUYKFEBMTA44K9SRE3XTZRTP76U5X7RV3YCRCKKI47AFEM5DS&destination=https%3A//slavkov.anvete-senior.cz",
-    "id": "slavkov.anvete-senior.cz"
-  },
-  {
     "header": "Pronájem bytu 3+kk 72 m²",
     "Address": "Jaselská, Brno - Veveří",
     "Price": "25 000 Kč/měsíc",
@@ -159,5 +145,12 @@
     "Price": "38 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-jundrov-osikova/286901068",
     "id": "286901068"
+  },
+  {
+    "header": "Pronájem bytu 2+1 53 m²",
+    "Address": "náměstí SNP, Brno - Černá Pole",
+    "Price": "18 900 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-cerna-pole-namesti-snp/1381811020",
+    "id": "1381811020"
   }
 ]
