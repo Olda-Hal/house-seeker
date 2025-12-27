@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 70 m²",
+    "Address": "Reissigova, Brno - Ponava",
+    "Price": "20 500 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-ponava-reissigova/3660325708",
+    "id": "3660325708"
+  },
+  {
     "header": "Pronájem bytu 3+1 63 m²",
     "Address": "Havelkova, Brno - Bohunice",
     "Price": "22 000 Kč/měsíc",
@@ -112,13 +119,6 @@
     "id": "3976598348"
   },
   {
-    "header": "Moderní byty 2+kk Brno",
-    "Address": "Novostavba v blízkosti centra Brna, terasy, garážové stání.",
-    "Price": "BRAVIS REALITY s.r.o.",
-    "link": "https://a.seznam.cz/v2/click?spotId=4086204&d=3UIBQ5KGYKZZGH25QQFC93QJ4SIHPBGVEZKTWXASGZGIKAH3YDT8KV8RQHMKTQNQHK9N52S4MX549Q9PFGTB76V9GWIARNMMP7D7K3NIX8HWXPKVB7NTEXJJAHKTHRBMSHF7T5ADISEVI23XSKTITWPVQAI2BEA36IJUYFHG3RRTKSFNTH7RY7NHI4XBIF6I48GURK5AV2IXI97ZHFYBWJZKNX36NW5C8NTBFSFS9NDASGI54SHVAQ5XK5XI6GTGA4NJ4JSIVZAHIW65PYSEWHRF97A76C3VVM7KE22TTPG9MJ37GHSXS3WNX6HC9QSRWVGBTDDTM8HS7GKYCEK4EP2JBXH6R6PH59892RRSQYAU45I&destination=https%3A//www.bravis.cz/pronajem-bytu-auerswaldova",
-    "id": "pronajem-bytu-auerswaldova"
-  },
-  {
     "header": "Pronájem bytu 3+kk 66 m²",
     "Address": "Komárovská, Brno - Komárov",
     "Price": "29 900 Kč/měsíc",
@@ -145,12 +145,5 @@
     "Price": "35 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-komarov-komarovska/3670397772",
     "id": "3670397772"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 66 m²",
-    "Address": "Kotěrova, Brno - Černá Pole",
-    "Price": "25 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-cerna-pole-koterova/183968588",
-    "id": "183968588"
   }
 ]
