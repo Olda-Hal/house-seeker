@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+1 95 m²",
+    "Address": "Táborská, Brno - Židenice",
+    "Price": "24 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-zidenice-taborska/1613939532",
+    "id": "1613939532"
+  },
+  {
     "header": "Pronájem bytu 3+kk 77 m²",
     "Address": "Komárovská, Brno - Komárov",
     "Price": "35 490 Kč/měsíc",
@@ -138,12 +145,5 @@
     "Price": "20 500 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-ponava-reissigova/3660325708",
     "id": "3660325708"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 55 m²",
-    "Address": "Příkrá, Brno - Žabovřesky",
-    "Price": "20 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zabovresky-prikra/3328381772",
-    "id": "3328381772"
   }
 ]
