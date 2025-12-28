@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 2+1 49 m²",
+    "Address": "Helfertova, Brno - Černá Pole",
+    "Price": "Cena na vyžádání",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-cerna-pole-helfertova/2265592652",
+    "id": "2265592652"
+  },
+  {
     "header": "Pronájem bytu 3+kk 95 m²",
     "Address": "Opuštěná, Brno - Trnitá",
     "Price": "27 990 Kč/měsíc",
@@ -56,13 +63,6 @@
     "id": "976950092"
   },
   {
-    "header": "Nové nájemní bydlení.",
-    "Address": "Bezpečný a komfortní domov v srdci města Slavkov u Brna.",
-    "Price": "Anvete Senior",
-    "link": "https://a.seznam.cz/v2/click?spotId=4079267&d=AJDV6MDSIIBT3YBMT6HZEHCM7MDIYG7KPUI8AUH9BZ6MHFXYHFZY9BD39GUAEAX43IH5D8CU2UY4AG2P55KG5EUI53K6FNYF9946V2DATJWAEVB6IB9JRJAZGCSY2XVJHP4YZ6A34CHB65YZHJ9BSVM6CDJMG8NIX2QY85JJB3FQVMWCW5BI8JCZXKKJJHQWPQZ2YCERHRCKNWF43JIMHRCZUQQQQR5KSSQ3C2IFQ9WKR9IZ2CPQM2DR3UKK955YUWVWMSQKFC3NMT5SHDYB9EUAJDQTENBN84K6N629CD247CG98KBH3HB8V6UK5BUTTXSVC6DGQCC9J2U3YR79A3CCX54J5WRWT7SPM7G2IYQA&destination=https%3A//slavkov.anvete-senior.cz",
-    "id": "slavkov.anvete-senior.cz"
-  },
-  {
     "header": "Pronájem bytu 3+kk 83 m²",
     "Address": "Řehořova, Brno - Černovice",
     "Price": "30 000 Kč/měsíc",
@@ -112,6 +112,13 @@
     "id": "3976598348"
   },
   {
+    "header": "Nové byty blízko centra",
+    "Address": "Moderní byty 2+kk s terasou, novostavba s výtahem, garážové stání, skvělá lokalita.",
+    "Price": "BRAVIS REALITY s.r.o.",
+    "link": "https://a.seznam.cz/v2/click?spotId=4086203&d=TRWPT2H5TW33E6DFKWXCB8NATJUDT7TDRY93DDDAPTHUC6Q3BAX2S3FRQ6UK5VZ3VGT7SJTDVHZ7AW5FV96RD5FVBEKVB7X379JYQSCH9IMGZSTYFWH6EP434E88AUGB7HDWAJ6S3MXMDZ8CETUHES49YRNEYG7MN8S7U3DCYP2NGV8XV2YN784JNWU8RX5C3E3JCEUCK7YV3F63YTDP79VSP46JPS762BW7B9XGUUVMPD6E7DG92UTT2I52T3FJAT9I34ND9UBUQZI8GGBNPRX3NX2F93UAEYT2UNEKX2HA9RTZVW4MS9AVQGJ7TVFW635BX6H5YZJ5CAX4TNMC7UPG6PPQT7KF2AF7VTDJQSSQ6&destination=https%3A//www.bravis.cz/pronajem-bytu-auerswaldova",
+    "id": "pronajem-bytu-auerswaldova"
+  },
+  {
     "header": "Pronájem bytu 3+kk 70 m²",
     "Address": "Reissigova, Brno - Ponava",
     "Price": "20 500 Kč/měsíc",
@@ -145,12 +152,5 @@
     "Price": "27 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zebetin-risova/974525260",
     "id": "974525260"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 75 m²",
-    "Address": "Komárovská, Brno - Komárov",
-    "Price": "49 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-komarov-komarovska/3643315020",
-    "id": "3643315020"
   }
 ]
