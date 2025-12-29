@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 55 m²",
+    "Address": "Příkrá, Brno - Žabovřesky",
+    "Price": "20 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zabovresky-prikra/3328381772",
+    "id": "3328381772"
+  },
+  {
     "header": "Pronájem bytu 2+1 63 m²",
     "Address": "Úvoz, Brno - Brno-město",
     "Price": "24 000 Kč/měsíc",
@@ -98,18 +105,18 @@
     "id": "1381811020"
   },
   {
-    "header": "Pronájem bytu 3+kk 55 m²",
-    "Address": "Příkrá, Brno - Žabovřesky",
-    "Price": "20 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zabovresky-prikra/3328381772",
-    "id": "3328381772"
-  },
-  {
     "header": "Pronájem bytu 3+1 95 m²",
     "Address": "Táborská, Brno - Židenice",
     "Price": "24 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-zidenice-taborska/1613939532",
     "id": "1613939532"
+  },
+  {
+    "header": "Moderní byty 2+kk Brno",
+    "Address": "Novostavba v blízkosti centra Brna, terasy, garážové stání.",
+    "Price": "BRAVIS REALITY s.r.o.",
+    "link": "https://a.seznam.cz/v2/click?spotId=4086209&d=JF2KK564T2ECUMYJJ8UHECUY4Y974YEMY368VBXNBPEID47CHAGGNRXVUCQYSJ9YCIRUYB7W6N3JQJCWEW5ETRJR357X75769B64IWBTVH7QWB3MID9UIMRC4BK9UUVZW77DY5CNX96NMSN853XMZWT74WPVXTUKCSCN9X2SG4PBQ2WIGR4759WQTFMFSFV7U6JYXE8WJUH6KGANR2DZBVPKWMIYFC75AGR8YTDKZVBWP28UCXQHXKYMK5KFYTZ4PU79BRKEYW24XVTH8CWR8YVR5MI9V6XJEHY2E74PUVYSRH2PGI3UPVWCADAF5YZYVEJFTZRF2B7J48YJA8X325NPU4JZFX7ADRFTKVQR5B4V64S&destination=https%3A//www.bravis.cz/pronajem-bytu-auerswaldova",
+    "id": "pronajem-bytu-auerswaldova"
   },
   {
     "header": "Pronájem bytu 3+kk 77 m²",
