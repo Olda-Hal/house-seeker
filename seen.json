@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 97 m²",
+    "Address": "Charvatská, Brno - Královo Pole",
+    "Price": "39 900 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-kralovo-pole-charvatska/3028685644",
+    "id": "3028685644"
+  },
+  {
     "header": "Pronájem bytu 3+1 63 m²",
     "Address": "Havelkova, Brno - Bohunice",
     "Price": "22 000 Kč/měsíc",
@@ -112,13 +119,6 @@
     "id": "3302663500"
   },
   {
-    "header": "Nové nájemní bydlení.",
-    "Address": "Bezpečný a komfortní domov v srdci města Slavkov u Brna.",
-    "Price": "Anvete Senior",
-    "link": "https://a.seznam.cz/v2/click?spotId=4079266&d=55MVYITYGHQMXFJ2HWYRFBQYQ5DBTQ2SICF9XXUT2DCNPWRJPSCY2RURTNCCIGVWV2Z5W72AJNT7V4VEGKJ5MKGFPAP3FFXU6J8G2Y44R5UT5AB63Y9F8VSFTH2V5JDD43DA9RUNKRB2HHDRMIRUCI89XD8TWGRER4XJFF5PQG9H4IPPE5RZ8899HHHR3GZJ3WI2R3X6HRGQCX8YWT4AH8S5JU8QYXC34W78MWH5H8YH94383A3S8XUX8R3FTKQFSNI93TTN35XAWUBZE8BUX5TMVTKKTNTD4MW5NEGMQ76HWVZ2PIK4KC5R7DHBFNS7U8TAJFV8NWC9KCIR4ESAUMVQKI7RNPKU9TYKNKF423MKTGRC&destination=https%3A//slavkov.anvete-senior.cz",
-    "id": "slavkov.anvete-senior.cz"
-  },
-  {
     "header": "Pronájem bytu 3+kk 72 m²",
     "Address": "Jaselská, Brno - Veveří",
     "Price": "25 000 Kč/měsíc",
@@ -145,12 +145,5 @@
     "Price": "27 990 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-zabrdovice-merhautova/3088061260",
     "id": "3088061260"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 85 m²",
-    "Address": "Cacovická, Brno - Husovice",
-    "Price": "24 990 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-husovice-cacovicka/3976598348",
-    "id": "3976598348"
   }
 ]
