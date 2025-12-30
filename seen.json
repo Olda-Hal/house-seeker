@@ -1,5 +1,19 @@
 [
   {
+    "header": "Pronájem bytu 3+1 90 m²",
+    "Address": "Vážného, Brno - Řečkovice",
+    "Price": "8 900 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-reckovice-vazneho/992285516",
+    "id": "992285516"
+  },
+  {
+    "header": "Pronájem bytu 2+1 53 m²",
+    "Address": "náměstí SNP, Brno - Černá Pole",
+    "Price": "18 900 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-cerna-pole-namesti-snp/1381811020",
+    "id": "1381811020"
+  },
+  {
     "header": "Pronájem bytu 2+1 45 m²",
     "Address": "Klímova, Brno - Žabovřesky",
     "Price": "20 000 Kč/měsíc",
@@ -54,13 +68,6 @@
     "Price": "26 990 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-trnita-trnita/2662273868",
     "id": "2662273868"
-  },
-  {
-    "header": "Nové byty blízko centra",
-    "Address": "Moderní byty 2+kk s terasou, novostavba s výtahem, garážové stání, skvělá lokalita.",
-    "Price": "BRAVIS REALITY s.r.o.",
-    "link": "https://a.seznam.cz/v2/click?spotId=4086203&d=RDWQSSU6K4HBJH6FZJRD5GYRCZ926F6YUR4KCRJS9FZIG68HP77BVJSRMKR29N9C6ETFWBYE66JYB9PUMGW59HQQAVJ5SAF26NE3ZPHFD4XCE45JV28QH52XNI9T8PZGB8NUPACHUUWQ6XX28ZKHAUGWQQ23CBBYZHPN6K9CTAJS7T2US4UQV2EJDTVEG4QUA4P4QIDSDNYJHDV7AM7I8SG97MUKWII5QVI2A3VSMFMI8MCEU6XQKG8BHIDPMJ2TDV2BVJRR8WCTZFSRY9M82XFN7CW6R7WTBBHPHXEBN5R37RHUICSTB9WQ7BSSMITIZI9KKEF6BPCJGNETQN4EQFQ3N467FKXTD45CK6C3FHQS&destination=https%3A//www.bravis.cz/pronajem-bytu-auerswaldova",
-    "id": "pronajem-bytu-auerswaldova"
   },
   {
     "header": "Pronájem bytu 3+kk 81 m²",
@@ -119,13 +126,6 @@
     "id": "2499617612"
   },
   {
-    "header": "Nové nájemní bydlení.",
-    "Address": "Bezpečný a komfortní domov v srdci města Slavkov u Brna.",
-    "Price": "Anvete Senior",
-    "link": "https://a.seznam.cz/v2/click?spotId=4079267&d=7AVHV8SKRMNDT39TWDIQ74MJU3T42U5GRP9FK3UINH5YYSCDZUPM5HGCRFQW95TY44DNEM8N75Z5UJE488FR4Q65KG2ATYSZZRZGNIX4F3PEM9JJ5BNAEWP6QTQIDAF7TDQQBR5WJEZ6VWXQUXKQZJATDCDE97JGVJ9SMGDJH3A5BP9R9YT58INNHITIP6EA7BIHTTDU5C88TVN4JPEU36AMDJUQQ35H6HE6JPC8JQC7G9JXSACGUZ4YFWJ8A8BHNK9J8YPAKC3KKYGMANM6ZKVCXV9Z4WB89XSNQ2VB2NVT4Y3A8JS9WNNERMB9F5WC72KCKAK4F66R98DIAMPRYG633S3WDZ346D3PAS35FWEA&destination=https%3A//slavkov.anvete-senior.cz",
-    "id": "slavkov.anvete-senior.cz"
-  },
-  {
     "header": "Pronájem bytu 3+kk 95 m²",
     "Address": "Opuštěná, Brno - Trnitá",
     "Price": "27 990 Kč/měsíc",
@@ -145,19 +145,5 @@
     "Price": "15 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-zidenice-gebauerova/1041507148",
     "id": "1041507148"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 82 m²",
-    "Address": "Fuchsova, Brno - Trnitá",
-    "Price": "29 990 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-trnita-fuchsova/2815632204",
-    "id": "2815632204"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 55 m²",
-    "Address": "Příkrá, Brno - Žabovřesky",
-    "Price": "20 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zabovresky-prikra/3328381772",
-    "id": "3328381772"
   }
 ]
