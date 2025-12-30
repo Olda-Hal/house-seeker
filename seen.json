@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 66 m²",
+    "Address": "Trnitá, Brno - Trnitá",
+    "Price": "26 990 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-trnita-trnita/2662273868",
+    "id": "2662273868"
+  },
+  {
     "header": "Pronájem bytu 3+kk 81 m²",
     "Address": "třída Generála Píky, Brno - Černá Pole",
     "Price": "34 800 Kč/měsíc",
@@ -54,13 +61,6 @@
     "Price": "27 900 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-cernovice-kotkova/2499617612",
     "id": "2499617612"
-  },
-  {
-    "header": "Nové nájemní bydlení.",
-    "Address": "Bezpečný a komfortní domov v srdci města Slavkov u Brna.",
-    "Price": "Anvete Senior",
-    "link": "https://a.seznam.cz/v2/click?spotId=4079268&d=VB57CTZTZFK43NY6FFNR6PIGZ8A5CDRTUBZV79HQ5ZI6GIXB6KKVPC74GIE5T6FRZYU7JBPFWDGERVQW8ESKH8BH5AFJ47QZWMBDKTPF7Q389TKG7ERKXK4JBE3W73FD9GEYK6AQTU2SFGMCTVN4DCF8SV7VI2VJ6E5UVNCYFC2N6EQKIK6GQYA4W7NEGWS9N42JA5AS78MWUT4IIE3AZ9NP7TK3QWU426I27SSFNVWGQQUU82RUR5A6DXYMUUAFX3AGRUUARGPMHVC28E3NJCKRXEC5V4U6WTKAKFBNBGPFZFHK38VT83QQSMG4YSTRK9HSC4F4CZ57R4SDKN8RQP93V7MK49JVSKBGZCR9R424RPZ3&destination=https%3A//slavkov.anvete-senior.cz",
-    "id": "slavkov.anvete-senior.cz"
   },
   {
     "header": "Pronájem bytu 3+kk 95 m²",
@@ -119,13 +119,6 @@
     "id": "1789862732"
   },
   {
-    "header": "Moderní byty 2+kk Brno",
-    "Address": "Novostavba v blízkosti centra Brna, terasy, garážové stání.",
-    "Price": "BRAVIS REALITY s.r.o.",
-    "link": "https://a.seznam.cz/v2/click?spotId=4086204&d=D66AQ79CSBQN87YEEZQPGWKR6JQD8UV6JWG8RFEIV42DWR5AVMGSVWQMRCFVV3FTEGT3DISSGGP9NBAYJN5322QWQVCSMP555RYP3HKVP6J28X37D3YH2GIY99VP7MJJM49GHFUX83BA9TB9EPR3GJJ9JENDGXEGIYKBHU3FPNXDYDZ5QHHTG5F4QHVTRCJ5GKCRX895PQ9CF559E68ZMED2TZZR76NDR7UYMMZ6KD8JBE8RFHACTNA8M8FAD5KUKCI6SV344NSIDUYYYJPMVUHPRU9YT5RVKDPJCG54A6ZINB9RIGJFJ8PDIJDJDMNQTX75EJZUQ6E6NKKMYY8K29CZ2T9HPGYZPH254CS3H8Q5Q5X2&destination=https%3A//www.bravis.cz/pronajem-bytu-auerswaldova",
-    "id": "pronajem-bytu-auerswaldova"
-  },
-  {
     "header": "Pronájem bytu 2+1 52 m²",
     "Address": "Gebauerova, Brno - Židenice",
     "Price": "15 000 Kč/měsíc",
@@ -152,12 +145,5 @@
     "Price": "8 900 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-reckovice-vazneho/992285516",
     "id": "992285516"
-  },
-  {
-    "header": "Pronájem bytu 2+1 63 m²",
-    "Address": "Úvoz, Brno - Brno-město",
-    "Price": "24 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-brno-mesto-uvoz/2184057676",
-    "id": "2184057676"
   }
 ]
