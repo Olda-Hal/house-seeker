@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 73 m²",
+    "Address": "Spolková, Brno - Zábrdovice",
+    "Price": "22 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zabrdovice-spolkova/444011340",
+    "id": "444011340"
+  },
+  {
     "header": "Pronájem bytu 2+1 49 m²",
     "Address": "Helfertova, Brno - Černá Pole",
     "Price": "Cena na vyžádání",
@@ -112,13 +119,6 @@
     "id": "992285516"
   },
   {
-    "header": "Moderní byty 2+kk Brno",
-    "Address": "Novostavba v blízkosti centra Brna, terasy, garážové stání.",
-    "Price": "BRAVIS REALITY s.r.o.",
-    "link": "https://a.seznam.cz/v2/click?spotId=4086204&d=GKBZBAH4QMZXD9YTR9GF8EU9C8MS7DB2EPNYH8S6JIGF3KMAIBAS5RY23GS4CP9B8FRHZBTE9RNNSZP22SKWPQCJDJSM539CNXTN6Y6EDPF8HYBDJ72JFZAAP7AINCYWW8PGU75XC73JMBM7BDETWRHGPUR962ZQCE2XKNA7ZFG783XWYS3NBVKSZ82K7YH7NGHXZZAUTNFIRR7SHWX9UDZFVY7P9IYYJQ9K37UI6IH6SUBUN2ZXMUIPRK8TYTTWUW5N98QGJ2Y3UNTADZ3W2QCBCGQWY8WQ3NRSNM3SDUD2V4BS2E4N3IXZUWDKEXUEQXR59PBGAI5PBHVWE7XM3HAZGFMT4R7IAA69KRYFFVAA&destination=https%3A//www.bravis.cz/pronajem-bytu-auerswaldova",
-    "id": "pronajem-bytu-auerswaldova"
-  },
-  {
     "header": "Pronájem bytu 2+1 63 m²",
     "Address": "Úvoz, Brno - Brno-město",
     "Price": "24 000 Kč/měsíc",
@@ -145,12 +145,5 @@
     "Price": "49 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-komarov-komarovska/3643315020",
     "id": "3643315020"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 67 m²",
-    "Address": "Bieblova, Brno - Černá Pole",
-    "Price": "23 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-cerna-pole-bieblova/2035749708",
-    "id": "2035749708"
   }
 ]
