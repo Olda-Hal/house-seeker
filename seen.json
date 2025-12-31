@@ -56,13 +56,6 @@
     "id": "2815632204"
   },
   {
-    "header": "Nové nájemní bydlení.",
-    "Address": "Bezpečný a komfortní domov v srdci města Slavkov u Brna.",
-    "Price": "Anvete Senior",
-    "link": "https://a.seznam.cz/v2/click?spotId=4079268&d=WJMB4WUNH98XJ8N999T22IICVSRKMQPXIHHURRDXTRNSUT2ATNMR9WXI9TY6D87C2FFD6Z36R3AGJJXGAJ9CYBYWBCMH86BJGKCMMWB68HG5YSUJVW7IQS4A43BH5BTIWB7NKMJC36DZCEZ7RYT3AV76H7RJ3JJBVJBV4NHW534ZHSG7ST92TAWGWF7VPNSGMFWHV3GQ2PEYF72TUFMSHTYMRUU5DJB75VK5JHW3HA6Y53FVRTANP3DEFDWNZBRP6YYN8PFPCWH9SN7YVJVVTB4UNVCD8GWQS57A4BQF27YHZDDVX64HAG4WYT4YN4D9I7K8MZBR5TDTR4XH3E9EYYNIZ5EU659787HBR65J2UE2N&destination=https%3A//slavkov.anvete-senior.cz",
-    "id": "slavkov.anvete-senior.cz"
-  },
-  {
     "header": "Pronájem bytu 3+kk 95 m²",
     "Address": "Opuštěná, Brno - Trnitá",
     "Price": "27 990 Kč/měsíc",
@@ -117,6 +110,13 @@
     "Price": "22 500 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-kralovo-pole-tyrsova/1231295308",
     "id": "1231295308"
+  },
+  {
+    "header": "Výhoda prvního nájemníka",
+    "Address": "Nové, stylové moderní byty 2+kk, terasy, garážové stání v domě.",
+    "Price": "BRAVIS REALITY s.r.o.",
+    "link": "https://a.seznam.cz/v2/click?spotId=4086207&d=N4BH77BYGWWRU5GJI3HKZDSJCRUE6TYXSUW28R49TVVRCTP5SDZCUH5K7V5ZZCR9V7JAHPP2VCQ77NS9GUN222HWW76FYHVUGWFYQBIMP7DNR9RR6D7GNNBUQYBIDMPP2T8NXTR7FD8SA7M67QZPTN9HG4R4EDDPYQZZDQNT4F58IK8YCHB5H9ABP34NQXG6DE5DBGI2I7VUZ5I88QP99WWH4FIB8SKPHSUTU7YTICGCM897ZB2WB5V92SWINY7Z9NDARV36HXC4K2BNCFTJ7KXFV7JPTB73YPG92CCMCQN5NC6XIC3BZJ2TR5K5JU267PBYKGZMJH8A8WZHRU83GFZJ74UJPT9BVQMN93MNN39ED6I&destination=https%3A//www.bravis.cz/pronajem-bytu-auerswaldova",
+    "id": "pronajem-bytu-auerswaldova"
   },
   {
     "header": "Pronájem bytu 2+1 45 m²",
