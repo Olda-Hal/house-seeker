@@ -56,13 +56,6 @@
     "id": "3691524940"
   },
   {
-    "header": "Nové byty blízko centra",
-    "Address": "Moderní byty 2+kk s terasou, novostavba s výtahem, garážové stání, skvělá lokalita.",
-    "Price": "BRAVIS REALITY s.r.o.",
-    "link": "https://a.seznam.cz/v2/click?spotId=4086203&d=R9SIFMIT46WDBXEID62X6IJNXW85ZT8MD4G74MMI7BSMDF5DAS2AXJQGRJ3863IGHPSI3ARMANE3MVB7CP9JFWJ8PMKV95GHE3Q8UFGYXG7QVBZXQ7MYTNP7JPDRYR6SKFW684CDEMUVFDF23M6U3YNX2TXY5P2W2EPPSNW55HU2JB93V8KU3DU8YK3GRMHEDW22C9IIG3RFIEV7K69T3AB24GANSEJ9Q2F6FDZM824H9GWZPZWUVSTY8H5JFKIY9KY3B58VCK5N37H2DCKNUZXXTW4WP4W7RW2J244HYM7596EHZVHGBCIMKJ64Z2C25FGQGDMJQ4W7PGH23U9YPRMDSP9WJ65IQ3YYRHBV6D9GQEA&destination=https%3A//www.bravis.cz/pronajem-bytu-auerswaldova",
-    "id": "pronajem-bytu-auerswaldova"
-  },
-  {
     "header": "Pronájem bytu 2+1 70 m²",
     "Address": "Filipínského, Brno - Židenice",
     "Price": "24 000 Kč/měsíc",
@@ -117,6 +110,13 @@
     "Price": "20 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-zabovresky-klimova/2357531468",
     "id": "2357531468"
+  },
+  {
+    "header": "Nové nájemní bydlení.",
+    "Address": "Bezpečný a komfortní domov v srdci města Slavkov u Brna.",
+    "Price": "Anvete Senior",
+    "link": "https://a.seznam.cz/v2/click?spotId=4079267&d=JIFDGT34ZWQUYA9BHK7Z55PCM4E4N7M36ED7BJYYNDDRG4I2C6JJQ58N4F5WQ2PIQDAQYRBKB7C6HS7TMEA2FQ7YQJGIDHPBGJUKASRMFHXRF4R46KI76UPMRZ5QN76PXSCHMFFB64XRVFDS48Q99QYSUNXTA5I3M4B9Q5GGEBQS3DRUWMT8U33T7SJWK5QUY6H8SNB9V5ZIPFHDNW765VUM24BD8E8WUPU87EMX4ZQIGV96Y4BJRIZTWQXF6ERFWNYIUW5S6SPBDV5VQUJGRMK858ND5HAH7YQ2S8RSN7UAPHAMCX6VKEVTEZ84JFRIDQSP49ZZVIKFR2YIWP4I57QS2FF84Q5WTAPREN2KG5G6W&destination=https%3A//slavkov.anvete-senior.cz",
+    "id": "slavkov.anvete-senior.cz"
   },
   {
     "header": "Pronájem bytu 3+kk 66 m²",
