@@ -1,10 +1,66 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 73 m²",
+    "Address": "Chudčická, Brno - Bystrc",
+    "Price": "19 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-bystrc-chudcicka/1460192076",
+    "id": "1460192076"
+  },
+  {
+    "header": "Pronájem bytu 3+1 63 m²",
+    "Address": "Havelkova, Brno - Bohunice",
+    "Price": "22 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-bohunice-havelkova/600949580",
+    "id": "600949580"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 89 m²",
+    "Address": "Nové sady, Brno - Staré Brno",
+    "Price": "39 800 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-stare-brno-nove-sady/4238984012",
+    "id": "4238984012"
+  },
+  {
+    "header": "Pronájem bytu 3+1 78 m²",
+    "Address": "Kamanova, Brno - Královo Pole",
+    "Price": "24 500 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-kralovo-pole-kamanova/976950092",
+    "id": "976950092"
+  },
+  {
+    "header": "Pronájem bytu 2+1 54 m²",
+    "Address": "Vysoká, Brno - Štýřice",
+    "Price": "20 500 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-styrice-vysoka/476980044",
+    "id": "476980044"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 83 m²",
+    "Address": "Řehořova, Brno - Černovice",
+    "Price": "30 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-cernovice-rehorova/1789862732",
+    "id": "1789862732"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 82 m²",
+    "Address": "Fuchsova, Brno - Trnitá",
+    "Price": "29 990 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-trnita-fuchsova/2815632204",
+    "id": "2815632204"
+  },
+  {
     "header": "Pronájem bytu 3+kk 95 m²",
     "Address": "Opuštěná, Brno - Trnitá",
     "Price": "27 990 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-trnita-opustena/3691524940",
     "id": "3691524940"
+  },
+  {
+    "header": "Nové byty blízko centra",
+    "Address": "Moderní byty 2+kk s terasou, novostavba s výtahem, garážové stání, skvělá lokalita.",
+    "Price": "BRAVIS REALITY s.r.o.",
+    "link": "https://a.seznam.cz/v2/click?spotId=4086203&d=R9SIFMIT46WDBXEID62X6IJNXW85ZT8MD4G74MMI7BSMDF5DAS2AXJQGRJ3863IGHPSI3ARMANE3MVB7CP9JFWJ8PMKV95GHE3Q8UFGYXG7QVBZXQ7MYTNP7JPDRYR6SKFW684CDEMUVFDF23M6U3YNX2TXY5P2W2EPPSNW55HU2JB93V8KU3DU8YK3GRMHEDW22C9IIG3RFIEV7K69T3AB24GANSEJ9Q2F6FDZM824H9GWZPZWUVSTY8H5JFKIY9KY3B58VCK5N37H2DCKNUZXXTW4WP4W7RW2J244HYM7596EHZVHGBCIMKJ64Z2C25FGQGDMJQ4W7PGH23U9YPRMDSP9WJ65IQ3YYRHBV6D9GQEA&destination=https%3A//www.bravis.cz/pronajem-bytu-auerswaldova",
+    "id": "pronajem-bytu-auerswaldova"
   },
   {
     "header": "Pronájem bytu 2+1 70 m²",
@@ -63,60 +119,11 @@
     "id": "2357531468"
   },
   {
-    "header": "Pronájem bytu 3+kk 73 m²",
-    "Address": "Chudčická, Brno - Bystrc",
-    "Price": "19 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-bystrc-chudcicka/1460192076",
-    "id": "1460192076"
-  },
-  {
-    "header": "Pronájem bytu 3+1 63 m²",
-    "Address": "Havelkova, Brno - Bohunice",
-    "Price": "22 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-bohunice-havelkova/600949580",
-    "id": "600949580"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 89 m²",
-    "Address": "Nové sady, Brno - Staré Brno",
-    "Price": "39 800 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-stare-brno-nove-sady/4238984012",
-    "id": "4238984012"
-  },
-  {
-    "header": "Pronájem bytu 3+1 78 m²",
-    "Address": "Kamanova, Brno - Královo Pole",
-    "Price": "24 500 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-kralovo-pole-kamanova/976950092",
-    "id": "976950092"
-  },
-  {
-    "header": "Pronájem bytu 2+1 54 m²",
-    "Address": "Vysoká, Brno - Štýřice",
-    "Price": "20 500 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-styrice-vysoka/476980044",
-    "id": "476980044"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 83 m²",
-    "Address": "Řehořova, Brno - Černovice",
-    "Price": "30 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-cernovice-rehorova/1789862732",
-    "id": "1789862732"
-  },
-  {
     "header": "Pronájem bytu 3+kk 66 m²",
     "Address": "Trnitá, Brno - Trnitá",
     "Price": "26 990 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-trnita-trnita/2662273868",
     "id": "2662273868"
-  },
-  {
-    "header": "Nové nájemní bydlení.",
-    "Address": "Bezpečný a komfortní domov v srdci města Slavkov u Brna.",
-    "Price": "Anvete Senior",
-    "link": "https://a.seznam.cz/v2/click?spotId=4079266&d=YZ8KX82WQDAWU5AS6SBE6Z8Z3NVD4PAC4P838G9HIFX5BKZIGYH98RHF87VFFK8CA5PJBYQDGN7WEHGUCC6IWATKBGFUTPRC6I8CZUZXK556VQ7U52HBY2SPDPQZS893T2QVV72E6HBU5CIFSQG5IK42VZQIXKX5TU8KG9I2IY3TDKF267A3W3577JCCVG5CIARNIVX4BK2I33T9UMS5D39VA52M5PM7HE5RFZW5XKKC4UYXR7RSDZTV2CTKM5DJWJRFBDQQI2SCGRM56V7JRJXGFGWU764S3ZYAWBRSQ3EGXNFCXVV6RFYFGMBCJW4VPC4936UP474QRBSUQRDC3FZ9DQVDX29GJC54FDBIAKUA&destination=https%3A//slavkov.anvete-senior.cz",
-    "id": "slavkov.anvete-senior.cz"
   },
   {
     "header": "Pronájem bytu 3+kk 81 m²",
@@ -145,12 +152,5 @@
     "Price": "22 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zabrdovice-spolkova/444011340",
     "id": "444011340"
-  },
-  {
-    "header": "Pronájem bytu 2+1 49 m²",
-    "Address": "Helfertova, Brno - Černá Pole",
-    "Price": "Cena na vyžádání",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-cerna-pole-helfertova/2265592652",
-    "id": "2265592652"
   }
 ]
