@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 2+1 73 m²",
+    "Address": "Tyršova, Brno - Královo Pole",
+    "Price": "22 500 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-kralovo-pole-tyrsova/1231295308",
+    "id": "1231295308"
+  },
+  {
     "header": "Pronájem bytu 2+1 53 m²",
     "Address": "náměstí SNP, Brno - Černá Pole",
     "Price": "18 900 Kč/měsíc",
@@ -138,12 +145,5 @@
     "Price": "15 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-zidenice-gebauerova/1041507148",
     "id": "1041507148"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 82 m²",
-    "Address": "Fuchsova, Brno - Trnitá",
-    "Price": "29 990 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-trnita-fuchsova/2815632204",
-    "id": "2815632204"
   }
 ]
