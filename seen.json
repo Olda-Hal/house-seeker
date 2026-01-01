@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 2+1 80 m²",
+    "Address": "Žabovřeská, Brno - Pisárky",
+    "Price": "29 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-pisarky-zabovreska/2164527948",
+    "id": "2164527948"
+  },
+  {
     "header": "Pronájem bytu 3+1 95 m²",
     "Address": "Táborská, Brno - Židenice",
     "Price": "24 000 Kč/měsíc",
@@ -138,12 +145,5 @@
     "Price": "25 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-cerna-pole-koterova/183968588",
     "id": "183968588"
-  },
-  {
-    "header": "Pronájem bytu 2+1 53 m²",
-    "Address": "náměstí SNP, Brno - Černá Pole",
-    "Price": "18 900 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-cerna-pole-namesti-snp/1381811020",
-    "id": "1381811020"
   }
 ]
