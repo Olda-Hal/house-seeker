@@ -1,5 +1,47 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 73 m²",
+    "Address": "Chudčická, Brno - Bystrc",
+    "Price": "19 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-bystrc-chudcicka/1460192076",
+    "id": "1460192076"
+  },
+  {
+    "header": "Pronájem bytu 3+1 63 m²",
+    "Address": "Havelkova, Brno - Bohunice",
+    "Price": "22 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-bohunice-havelkova/600949580",
+    "id": "600949580"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 89 m²",
+    "Address": "Nové sady, Brno - Staré Brno",
+    "Price": "39 800 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-stare-brno-nove-sady/4238984012",
+    "id": "4238984012"
+  },
+  {
+    "header": "Pronájem bytu 3+1 78 m²",
+    "Address": "Kamanova, Brno - Královo Pole",
+    "Price": "24 500 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-kralovo-pole-kamanova/976950092",
+    "id": "976950092"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 83 m²",
+    "Address": "Řehořova, Brno - Černovice",
+    "Price": "30 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-cernovice-rehorova/1789862732",
+    "id": "1789862732"
+  },
+  {
+    "header": "Pronájem bytu 2+1 54 m²",
+    "Address": "Vysoká, Brno - Štýřice",
+    "Price": "20 500 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-styrice-vysoka/476980044",
+    "id": "476980044"
+  },
+  {
     "header": "Pronájem bytu 3+kk 95 m²",
     "Address": "Opuštěná, Brno - Trnitá",
     "Price": "27 990 Kč/měsíc",
@@ -49,48 +91,6 @@
     "id": "3976598348"
   },
   {
-    "header": "Pronájem bytu 3+kk 73 m²",
-    "Address": "Chudčická, Brno - Bystrc",
-    "Price": "19 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-bystrc-chudcicka/1460192076",
-    "id": "1460192076"
-  },
-  {
-    "header": "Pronájem bytu 3+1 63 m²",
-    "Address": "Havelkova, Brno - Bohunice",
-    "Price": "22 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-bohunice-havelkova/600949580",
-    "id": "600949580"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 89 m²",
-    "Address": "Nové sady, Brno - Staré Brno",
-    "Price": "39 800 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-stare-brno-nove-sady/4238984012",
-    "id": "4238984012"
-  },
-  {
-    "header": "Pronájem bytu 3+1 78 m²",
-    "Address": "Kamanova, Brno - Královo Pole",
-    "Price": "24 500 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-kralovo-pole-kamanova/976950092",
-    "id": "976950092"
-  },
-  {
-    "header": "Pronájem bytu 2+1 54 m²",
-    "Address": "Vysoká, Brno - Štýřice",
-    "Price": "20 500 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-styrice-vysoka/476980044",
-    "id": "476980044"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 83 m²",
-    "Address": "Řehořova, Brno - Černovice",
-    "Price": "30 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-cernovice-rehorova/1789862732",
-    "id": "1789862732"
-  },
-  {
     "header": "Pronájem bytu 3+kk 82 m²",
     "Address": "Fuchsova, Brno - Trnitá",
     "Price": "29 990 Kč/měsíc",
@@ -110,13 +110,6 @@
     "Price": "27 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-stare-brno-krizkovskeho/273683276",
     "id": "273683276"
-  },
-  {
-    "header": "Nové byty blízko centra",
-    "Address": "Moderní byty 2+kk s terasou, novostavba s výtahem, garážové stání, skvělá lokalita.",
-    "Price": "BRAVIS REALITY s.r.o.",
-    "link": "https://a.seznam.cz/v2/click?spotId=4086800&d=QXG656A85CY5ZAJ97IKNYR4QFRJT432F67E6XE3GXIGM4683YKY97F65KZGH39S7EWAVPPRCVN48W74EYJVVP5ACSSFKSV5QGPWQBNNM847EZHV6XX5QVASU6C4MCS84I7PXMYX2IWJCQGRPJ53MRHNFDN9IXBYCR6GEKU8ICDJ3H9VWF4CV4AG4E8PZR8JTE49PK5WHRTYI8Y646GQFQ8K5WYHIIHJV7QEN7TFUJJP37FCRQGX8FJNXACGKWHH26GWVAP2UIPTG24QRAUZZ9D3EXNRFMG3NTJRKRK4ZDPX2CVTJ7KI6WNA74HXGKXZM689BZCQ6Y3B2JGTY6QAUVU77ZXSXNH7IEACGH7MXI864INA&destination=https%3A//www.bravis.cz/pronajem-bytu-auerswaldova",
-    "id": "pronajem-bytu-auerswaldova"
   },
   {
     "header": "Pronájem bytu 3+kk 75 m²",
