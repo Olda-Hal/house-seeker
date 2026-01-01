@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 77 m²",
+    "Address": "Komárovská, Brno - Komárov",
+    "Price": "35 490 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-komarov-komarovska/2938835788",
+    "id": "2938835788"
+  },
+  {
     "header": "Pronájem bytu 3+kk 85 m²",
     "Address": "Cacovická, Brno - Husovice",
     "Price": "24 990 Kč/měsíc",
@@ -54,13 +61,6 @@
     "Price": "29 990 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-trnita-fuchsova/2815632204",
     "id": "2815632204"
-  },
-  {
-    "header": "Moderní byty 2+kk Brno",
-    "Address": "Novostavba v blízkosti centra Brna, terasy, garážové stání.",
-    "Price": "BRAVIS REALITY s.r.o.",
-    "link": "https://a.seznam.cz/v2/click?spotId=4086801&d=98223SQQ8FSAQMJPGCM2FQJH3FIMIJPRSQGCZ3SGT64V6HN5K3TZMK5Q2J7CD85VTTF6YSGIVBXE9ZMSAC3SFW5CWES8RJYCDHBNGPWCWKKFA5FPX65CNVKR2PEMYRIQVUH4UB2TS78ZY9DHRNIVNUHMTZRD3837YWR7YMERCX4UKJ32PP682YKN2PR8ZMD27W2GJ634G4C79P78I66NRM2EA59AVIRM7YIC5SXUUR7GKJD4MWKWIYTW3C46UY4ZKYFB48TGYX48EX7SZNQ4Z7H9AK5XHHKS3HC67VMYNSE257792JR8VQB3KCM9FII988KPK3HNFX4QAUHRZZSZDKMSEWKVB5PVSYKNU3973GF2W&destination=https%3A//www.bravis.cz/pronajem-bytu-auerswaldova",
-    "id": "pronajem-bytu-auerswaldova"
   },
   {
     "header": "Pronájem bytu 3+kk 95 m²",
@@ -119,13 +119,6 @@
     "id": "1231295308"
   },
   {
-    "header": "Nové nájemní bydlení.",
-    "Address": "Bezpečný a komfortní domov v srdci města Slavkov u Brna.",
-    "Price": "Anvete Senior",
-    "link": "https://a.seznam.cz/v2/click?spotId=4087850&d=99M29YQRCN8MF5KQTEAZVH9PPEQ2G8KGAJ2CHSIIHZWYD8YYXIEYCMFBKYAVPPCXX8K739878RTAJJJVX93N6YYMKGPM9XQQNTYAI299JRBWF2XSZWN65BV2BEAAAFBRUSS2K498I5EXGCB4ERE8UM7KQUZT7VKUSJD5DT2B4Q3BVY6ZKUQHZMBPYSIDVNIKVHCQIXP29KEWNEJ5TWGGBBB4WVIKBD689IP9WTEHCZU4G4WHJZ3XAXIR5VCYMK767V6PRMNRVK8MI66Y5PSXINQB4J5W3CKP7V6XG7PDK85YKAAZ89EDPJS8B8SSJXA749B823C8R6HV79V9GACKYJPU3GP8QX5BZ44K6HKG4AMZE&destination=https%3A//slavkov.anvete-senior.cz",
-    "id": "slavkov.anvete-senior.cz"
-  },
-  {
     "header": "Pronájem bytu 2+1 45 m²",
     "Address": "Klímova, Brno - Žabovřesky",
     "Price": "20 000 Kč/měsíc",
@@ -152,12 +145,5 @@
     "Price": "23 500 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-cerna-pole-mathonova/2617586508",
     "id": "2617586508"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 93 m²",
-    "Address": "Neumannova, Brno - Brno-střed",
-    "Price": "48 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-brno-stred-neumannova/2325291852",
-    "id": "2325291852"
   }
 ]
