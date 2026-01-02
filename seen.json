@@ -56,6 +56,13 @@
     "id": "600949580"
   },
   {
+    "header": "Nové nájemní bydlení.",
+    "Address": "Bezpečný a komfortní domov v srdci města Slavkov u Brna.",
+    "Price": "Anvete Senior",
+    "link": "https://a.seznam.cz/v2/click?spotId=4087850&d=CWRNQ849KYXHBF22K2RNC7H9MA9A3VPUVMA4YPIAVI4XR2KZNE8XQAD295V3USB8MK8YMDM9E4DFI6TXVMFK4TD2QP888DTPN26V9C7E325XCK7GWBWZYADEAJVHY47SASBQMGRCVFDF8GHJQAAWTZH9J8K4N7ZW7IKHWH6RUPUTQC9JJSW4XUHP2KD9TWIK3WFRKV8DFJ37H77JCKNZI6CGBXK79JNIM5XXE4GPNHMENB6PSCEYUDA9ZK2V7BB8ST7EMRWVVG94EA36SGJ9GCBQNAUENX5NDW654HQRDKYPQXDTS86ZBBDCTYE6ZYPSIU3UUURVEECC36N5VCCK7JVPU8HWQIP2EVQPYF5JP9N2BPVP&destination=https%3A//slavkov.anvete-senior.cz",
+    "id": "slavkov.anvete-senior.cz"
+  },
+  {
     "header": "Pronájem bytu 3+kk 89 m²",
     "Address": "Nové sady, Brno - Staré Brno",
     "Price": "39 800 Kč/měsíc",
@@ -110,6 +117,13 @@
     "Price": "20 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zabovresky-prikra/3328381772",
     "id": "3328381772"
+  },
+  {
+    "header": "Výhoda prvního nájemníka",
+    "Address": "Nové, stylové moderní byty 2+kk, terasy, garážové stání v domě.",
+    "Price": "BRAVIS REALITY s.r.o.",
+    "link": "https://a.seznam.cz/v2/click?spotId=4086799&d=NJ6BBZJJSFT2AVV9XBZ4EKJQGV3KIMN2BV44A2KE9CPW2PCMIKVYHIC9J2WHWWPBT6M6ZCEF58E8WXB7HMXGD5QZMUAIH7RGN9Q5IJMMQJUK2YC3UDQ3ZGIRZHRTUUUHRWMNDP6ZHF5P7533A7GE6H7ZVW256N4V4MJGQTUTMT3RVNJM44KTEF6J47YPBMYG4FWTNWAC6XTQ4X5UYQEPRG3Q7M9GIR7JW47ZCIN2597EIVN5FVHVEBVQIYIPP6DK8YSI57PT455U9UMKWYTJBCV62ZZTC54Y378ZFSTKVGPNUD7WJXR6S6BGFHEX3694MJ7YSZTJ5I9B5HDT6X673GY9ZKIXEV7FHX4GS5K9T24BDPVG&destination=https%3A//www.bravis.cz/pronajem-bytu-auerswaldova",
+    "id": "pronajem-bytu-auerswaldova"
   },
   {
     "header": "Pronájem bytu 3+kk 72 m²",
