@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 71 m²",
+    "Address": "Placzkova, Brno - Trnitá",
+    "Price": "25 990 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-trnita-placzkova/2008290124",
+    "id": "2008290124"
+  },
+  {
     "header": "Pronájem bytu 3+1 78 m²",
     "Address": "Kamanova, Brno - Královo Pole",
     "Price": "24 500 Kč/měsíc",
@@ -105,18 +112,18 @@
     "id": "1104147276"
   },
   {
+    "header": "Nové byty blízko centra",
+    "Address": "Moderní byty 2+kk s terasou, novostavba s výtahem, garážové stání, skvělá lokalita.",
+    "Price": "BRAVIS REALITY s.r.o.",
+    "link": "https://a.seznam.cz/v2/click?spotId=4086800&d=PXIG4VHT6ZQVRNY9ERQ35QY4T4GIPMC5WGIYV77RD5E3YWRKW335ZXEQWCWXVDCY6DKXG97T8I4C8BYEWDS9HPDWPPB67A5MU2WQKJQW9AWV4IK9MKYVIA2D7SCDI4JNDXZAMH6JIJTY6MHNYKZ747WR2WDETNDPAN9MN4RAVRWAH82WZXWQ959KT5W3MSGMZTKS9D9IMIXXQBRN3I6988TX3H69W9RRK5SXA3X7MWB33AX5EFWYQFID4PIPKNCHKHWM6D73ZHRSAB2NCXHWHN7FU8K8E8QTYRWIMGN8AP95Z6BYD4EZ66PB8BD3CDNPAYDYD65XYCBED4DXYSY3PCNGR99F39FMZ5MDTMQAFGT8S&destination=https%3A//www.bravis.cz/pronajem-bytu-auerswaldova",
+    "id": "pronajem-bytu-auerswaldova"
+  },
+  {
     "header": "Pronájem bytu 3+kk 95 m²",
     "Address": "Opuštěná, Brno - Trnitá",
     "Price": "27 990 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-trnita-opustena/3691524940",
     "id": "3691524940"
-  },
-  {
-    "header": "Nové nájemní bydlení.",
-    "Address": "Bezpečný a komfortní domov v srdci města Slavkov u Brna.",
-    "Price": "Anvete Senior",
-    "link": "https://a.seznam.cz/v2/click?spotId=4087850&d=43UX4B8JGQ9QVKUBME4QKZD8VHR8AP2MXF4E5ZEJQ4H8SXEEG8YXHUMST3ZKQWGIF63AUEW6AFHVPVCSC5BVFZ585D2E8SHPQNENKCCRBGDBDRTR2N8PQNKE5KCTFHDBC5E394GYHHAQZZ3SGMIIEC2PHXADP9P7I7U9KX54Z5H5SH6CCEDPK9IGRFZYEIDNYQSVR2X2E6ZFGJCEC3U2AJSTZWE6CW9NJAF2NFRR2TTU2MA64YFKKAHFQNKAGEAHGZBDB7CCHWJ55Y72SZ5A823VYAYYVKNGGGC7D2X93Z6GNJ8FB8TCWQFNB6SANS3ZC84SBM62CEQ3AMP4U5RKW886CUPA528BH2TI69EQE7Q5Y&destination=https%3A//slavkov.anvete-senior.cz",
-    "id": "slavkov.anvete-senior.cz"
   },
   {
     "header": "Pronájem bytu 2+1 53 m²",
@@ -145,12 +152,5 @@
     "Price": "27 900 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-cernovice-kotkova/3841794892",
     "id": "3841794892"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 70 m²",
-    "Address": "Kotkova, Brno - Černovice",
-    "Price": "27 900 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-cernovice-kotkova/2499617612",
-    "id": "2499617612"
   }
 ]
