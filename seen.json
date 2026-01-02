@@ -1,5 +1,19 @@
 [
   {
+    "header": "Pronájem bytu 2+1 53 m²",
+    "Address": "náměstí SNP, Brno - Černá Pole",
+    "Price": "18 900 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-cerna-pole-namesti-snp/1381811020",
+    "id": "1381811020"
+  },
+  {
+    "header": "Pronájem bytu 2+1 52 m²",
+    "Address": "Gebauerova, Brno - Židenice",
+    "Price": "15 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-zidenice-gebauerova/1041507148",
+    "id": "1041507148"
+  },
+  {
     "header": "Pronájem bytu 2+1 60 m²",
     "Address": "Kotkova, Brno - Černovice",
     "Price": "27 900 Kč/měsíc",
@@ -98,6 +112,13 @@
     "id": "829035340"
   },
   {
+    "header": "Moderní byty 2+kk Brno",
+    "Address": "Novostavba v blízkosti centra Brna, terasy, garážové stání.",
+    "Price": "BRAVIS REALITY s.r.o.",
+    "link": "https://a.seznam.cz/v2/click?spotId=4087986&d=9ACAW9WP9YQQ6G3XZSYYKBRWUSQFK6QFU4A8KE55I73HRU33T3RA22NUTQH9TRQQMIFEXKIA2QH84WMFTHMYN2I8U8Q2JU846VBUKX7EKMWTAGKR36TPAYYGQ548R778CFSM4BYZHIEHKX55RIMW2QFSPVQYH9TQ2M4TYZ8FZZ5DA37ZG4GNZCUSVZ6Z4EE5884CY3AB7S7UGWMQS9GM65IMA6Y6U5R97YTVI8IA43NP92V3PEI4DBJPHUE4FP7F5CSEBU8R2BZIE9RAPHPA9XN9P29W3HKSACBS9H68MREQKUN3TRG4H2MSFR7HF9FNUVRMR9PPBICEVMJ6PFPX39A9VJ4D2ST4MZ3MF9XBBNSTGD6V&destination=https%3A//www.bravis.cz/pronajem-bytu-auerswaldova",
+    "id": "pronajem-bytu-auerswaldova"
+  },
+  {
     "header": "Pronájem bytu 2+1 58 m²",
     "Address": "Renneská třída, Brno - Štýřice",
     "Price": "18 500 Kč/měsíc",
@@ -110,13 +131,6 @@
     "Price": "20 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zabovresky-prikra/3328381772",
     "id": "3328381772"
-  },
-  {
-    "header": "Nové byty blízko centra",
-    "Address": "Moderní byty 2+kk s terasou, novostavba s výtahem, garážové stání, skvělá lokalita.",
-    "Price": "BRAVIS REALITY s.r.o.",
-    "link": "https://a.seznam.cz/v2/click?spotId=4087985&d=6FEAKU5MMV9YX2SGIFV76S4NC8G7B4KP5YSY7TS5W8M39IH34VG8SENMTIRV5RVX2WJTH5B2W9A94528PQ3MHJ9DKR7M2ETR4QYPK29VMFNHMJ722DZ28T2APAGW4ZE5HE2DIIHESBTMEBA7BQ9AUZNT9T8NB2KTYGQNHG3XS7ZDR4FBKGHT3A2CIHF5UD7A8HZFYA4U2R8FRAYKAQ5K5NVI96H3FVPSDYNMDHBYM6A9K3QX7U7XBFFEGBT336U5XNK92ZQ3ERKUJUW9D6AQSTHDF3SE5IMGVB9TASM3HY3VTQYC2ZD5NTF4C6VQBPGBQTD2GPT5YB2R5QVFKS6CRZPSIFHACZF3KSHJZTHQDVVV6GA&destination=https%3A//www.bravis.cz/pronajem-bytu-auerswaldova",
-    "id": "pronajem-bytu-auerswaldova"
   },
   {
     "header": "Pronájem bytu 3+kk 72 m²",
@@ -138,19 +152,5 @@
     "Price": "29 990 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-trnita-fuchsova/2815632204",
     "id": "2815632204"
-  },
-  {
-    "header": "Pronájem bytu 2+1 70 m²",
-    "Address": "Filipínského, Brno - Židenice",
-    "Price": "24 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-zidenice-filipinskeho/4232319820",
-    "id": "4232319820"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 79 m²",
-    "Address": "Křížkovského, Brno - Staré Brno",
-    "Price": "27 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-stare-brno-krizkovskeho/273683276",
-    "id": "273683276"
   }
 ]
