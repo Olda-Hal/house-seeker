@@ -1,5 +1,19 @@
 [
   {
+    "header": "Pronájem bytu 3+1 72 m²",
+    "Address": "Jaselská, Brno - Veveří",
+    "Price": "25 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-veveri-jaselska/1104147276",
+    "id": "1104147276"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 95 m²",
+    "Address": "Opuštěná, Brno - Trnitá",
+    "Price": "27 990 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-trnita-opustena/3691524940",
+    "id": "3691524940"
+  },
+  {
     "header": "Pronájem bytu 2+1 53 m²",
     "Address": "náměstí SNP, Brno - Černá Pole",
     "Price": "18 900 Kč/měsíc",
@@ -98,11 +112,11 @@
     "id": "476980044"
   },
   {
-    "header": "Pronájem bytu 3+kk 95 m²",
-    "Address": "Opuštěná, Brno - Trnitá",
-    "Price": "27 990 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-trnita-opustena/3691524940",
-    "id": "3691524940"
+    "header": "Výhoda prvního nájemníka",
+    "Address": "Nové, stylové moderní byty 2+kk, terasy, garážové stání v domě.",
+    "Price": "BRAVIS REALITY s.r.o.",
+    "link": "https://a.seznam.cz/v2/click?spotId=4087984&d=WGD22KQDUSGX6NDVEAKFWYC6MY48YR7K9V8UUXMKM9MA8KXXFW4ZMYBPFC9UFGCQYVMA9Y9KCS3VJEAQ2ZJ82SEHYFCVV2QZGUTFNSFR3ABBF3YTKT7TF87KMQBB39RGK88BAANTS7Y6NKNB2GN4SD2RDS4P4QX6NSKX8DHV739YGTW8EUCBRIN8K694APKG25Z69GG4RURVZVSQR7KZXJGMCBSCYBP5PB7TQZV5PTW2ASG5FTPX4E8P87SV2W3CTIK2D9R5Y6GW36ZH9AZFFA79H2QRTM69CECQA8SE7ZZIEWZQCPJRTYFKRPDR7HENTK2HMXXV3UMVKUZVCCUGNT9M9DDBA4PNGQ8WTVNZN2&destination=https%3A//www.bravis.cz/pronajem-bytu-auerswaldova",
+    "id": "pronajem-bytu-auerswaldova"
   },
   {
     "header": "Pronájem bytu 3+1 71 m²",
@@ -110,13 +124,6 @@
     "Price": "22 900 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-bystrc-cerneho/829035340",
     "id": "829035340"
-  },
-  {
-    "header": "Moderní byty 2+kk Brno",
-    "Address": "Novostavba v blízkosti centra Brna, terasy, garážové stání.",
-    "Price": "BRAVIS REALITY s.r.o.",
-    "link": "https://a.seznam.cz/v2/click?spotId=4087986&d=9ACAW9WP9YQQ6G3XZSYYKBRWUSQFK6QFU4A8KE55I73HRU33T3RA22NUTQH9TRQQMIFEXKIA2QH84WMFTHMYN2I8U8Q2JU846VBUKX7EKMWTAGKR36TPAYYGQ548R778CFSM4BYZHIEHKX55RIMW2QFSPVQYH9TQ2M4TYZ8FZZ5DA37ZG4GNZCUSVZ6Z4EE5884CY3AB7S7UGWMQS9GM65IMA6Y6U5R97YTVI8IA43NP92V3PEI4DBJPHUE4FP7F5CSEBU8R2BZIE9RAPHPA9XN9P29W3HKSACBS9H68MREQKUN3TRG4H2MSFR7HF9FNUVRMR9PPBICEVMJ6PFPX39A9VJ4D2ST4MZ3MF9XBBNSTGD6V&destination=https%3A//www.bravis.cz/pronajem-bytu-auerswaldova",
-    "id": "pronajem-bytu-auerswaldova"
   },
   {
     "header": "Pronájem bytu 2+1 58 m²",
@@ -145,12 +152,5 @@
     "Price": "35 490 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-komarov-komarovska/2938835788",
     "id": "2938835788"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 82 m²",
-    "Address": "Fuchsova, Brno - Trnitá",
-    "Price": "29 990 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-trnita-fuchsova/2815632204",
-    "id": "2815632204"
   }
 ]
