@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+1 71 m²",
+    "Address": "Černého, Brno - Bystrc",
+    "Price": "17 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-bystrc-cerneho/4066050892",
+    "id": "4066050892"
+  },
+  {
     "header": "Pronájem bytu 2+1 67 m²",
     "Address": "Merhautova, Brno - Zábrdovice",
     "Price": "27 990 Kč/měsíc",
@@ -105,6 +112,13 @@
     "id": "2666734412"
   },
   {
+    "header": "Výhoda prvního nájemníka",
+    "Address": "Nové, stylové moderní byty 2+kk, terasy, garážové stání v domě.",
+    "Price": "BRAVIS REALITY s.r.o.",
+    "link": "https://a.seznam.cz/v2/click?spotId=4086799&d=VFU2IAW6F9IW4ARSEQZCMH3Q3GVN63NAHN9UT2K88XFSAKVKWC8CG2QUYU4WE55I892IHQMJJ4BSPQ6CR45US2ZRRS8RIHTNI6DCSYBX4YJEWJAKXIA9I23YIWTMDSEQNAD9ED9ZD2Y3A96TANJCC6PDQG5GND2WKZNSJUA6MCKK553F5YVWI6DF9YCWKWZC7K6FJP6H9YB7TMG2UGE69X8WPAMIIHB2J9NDEKFI8B7K3H2ZQIFIS3TI88FWK5U2S84HZGETCNV2XQRQ3PACDTU5MP6XRQ7KDFXRPYNM8TB54JHZPPIE7INJ9YUFJJTZNFIPN28NW9U5YJTQ7G5A92W4SGDYBD32DVTQVG6UXMCGI&destination=https%3A//www.bravis.cz/pronajem-bytu-auerswaldova",
+    "id": "pronajem-bytu-auerswaldova"
+  },
+  {
     "header": "Pronájem bytu 3+kk 85 m²",
     "Address": "Cacovická, Brno - Husovice",
     "Price": "24 990 Kč/měsíc",
@@ -138,12 +152,5 @@
     "Price": "29 990 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-trnita-fuchsova/2815632204",
     "id": "2815632204"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 94 m²",
-    "Address": "Hrozňatova, Brno - Židenice",
-    "Price": "32 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zidenice-hroznatova/1576276812",
-    "id": "1576276812"
   }
 ]
