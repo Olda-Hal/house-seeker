@@ -1,5 +1,47 @@
 [
   {
+    "header": "Pronájem bytu 2+1 63 m²",
+    "Address": "Palackého třída, Brno - Královo Pole",
+    "Price": "18 900 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-kralovo-pole-palackeho-trida/258937676",
+    "id": "258937676"
+  },
+  {
+    "header": "Pronájem bytu 2+1 50 m²",
+    "Address": "Skorkovského, Brno - Židenice",
+    "Price": "16 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-zidenice-skorkovskeho/93000524",
+    "id": "93000524"
+  },
+  {
+    "header": "Pronájem bytu 3+1 51 m²",
+    "Address": "Skorkovského, Brno - Židenice",
+    "Price": "16 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-zidenice-skorkovskeho/1654330188",
+    "id": "1654330188"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 70 m²",
+    "Address": "Pechova, Brno - Židenice",
+    "Price": "18 500 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zidenice-pechova/1083052876",
+    "id": "1083052876"
+  },
+  {
+    "header": "Pronájem bytu 2+1 52 m²",
+    "Address": "Gebauerova, Brno - Židenice",
+    "Price": "15 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-zidenice-gebauerova/1041507148",
+    "id": "1041507148"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 67 m²",
+    "Address": "Zemědělská, Brno - Černá Pole",
+    "Price": "25 460 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-cerna-pole-zemedelska/3324707660",
+    "id": "3324707660"
+  },
+  {
     "header": "Pronájem bytu 3+kk 66 m²",
     "Address": "Trnitá, Brno - Trnitá",
     "Price": "26 990 Kč/měsíc",
@@ -103,54 +145,5 @@
     "Price": "50 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-brno-mesto-kvetinarska/3921220428",
     "id": "3921220428"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 89 m²",
-    "Address": "Jírovcova, Brno - Kohoutovice",
-    "Price": "23 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-kohoutovice-jirovcova/942748492",
-    "id": "942748492"
-  },
-  {
-    "header": "Moderní byty 2+kk Brno",
-    "Address": "Novostavba v blízkosti centra Brna, terasy, garážové stání.",
-    "Price": "BRAVIS REALITY s.r.o.",
-    "link": "https://a.seznam.cz/v2/click?spotId=4086801&d=GDTBX2UMVW4DPSFJ54UCP7FPHUAFDMIPMKVY6CBQC5IDVC5NMXN8DTAFMBARXNQ3UY2M9SDNZ7U4I2Q58HPN63D2N7Q6SSATCYZDYJH6EUU3J8YQXKUY9ITZ8TPG2H9F2AK62UT6KI2MQ99XMRKWSD6AIW58T6SSAWVG97JCEMBYP43ZWDWYXFIEQPJUJ7BDCY8CAKE28T2KSBTDG4SJV35MEUR4Z38ZVFUMRC4PM4T84FF4DRPXJEQWVACP2H2TYSTJI7H9T32SDEJRW89HQ89PT3SII76RC2NI3PQHIRAEMDMKA7R6TBXJ2BSWQ54CXUMXYBN4GCHM3IDIFA9UNVI4KMN6DZZHSM3J3MK37BZA&destination=https%3A//www.bravis.cz/pronajem-bytu-auerswaldova",
-    "id": "pronajem-bytu-auerswaldova"
-  },
-  {
-    "header": "Pronájem bytu 3+1 121 m²",
-    "Address": "Těsnohlídkova, Brno - Černá Pole",
-    "Price": "25 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-cerna-pole-tesnohlidkova/1324495692",
-    "id": "1324495692"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 95 m²",
-    "Address": "Opuštěná, Brno - Trnitá",
-    "Price": "27 990 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-trnita-opustena/3691524940",
-    "id": "3691524940"
-  },
-  {
-    "header": "Pronájem bytu 2+1 58 m²",
-    "Address": "Venhudova, Brno - Černá Pole",
-    "Price": "24 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-cerna-pole-venhudova/2666734412",
-    "id": "2666734412"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 85 m²",
-    "Address": "Cacovická, Brno - Husovice",
-    "Price": "24 990 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-husovice-cacovicka/3976598348",
-    "id": "3976598348"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 71 m²",
-    "Address": "Placzkova, Brno - Trnitá",
-    "Price": "25 990 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-trnita-placzkova/2008290124",
-    "id": "2008290124"
   }
 ]
