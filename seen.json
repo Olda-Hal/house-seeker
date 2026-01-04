@@ -1,5 +1,19 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 66 m²",
+    "Address": "Trnitá, Brno - Trnitá",
+    "Price": "26 990 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-trnita-trnita/2662273868",
+    "id": "2662273868"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 93 m²",
+    "Address": "Poříčí, Brno",
+    "Price": "38 900 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-brno-porici/3948610380",
+    "id": "3948610380"
+  },
+  {
     "header": "Pronájem bytu 3+kk 111 m²",
     "Address": "Plachty, Brno - Nový Lískovec",
     "Price": "28 000 Kč/měsíc",
@@ -98,6 +112,13 @@
     "id": "942748492"
   },
   {
+    "header": "Moderní byty 2+kk Brno",
+    "Address": "Novostavba v blízkosti centra Brna, terasy, garážové stání.",
+    "Price": "BRAVIS REALITY s.r.o.",
+    "link": "https://a.seznam.cz/v2/click?spotId=4086801&d=GDTBX2UMVW4DPSFJ54UCP7FPHUAFDMIPMKVY6CBQC5IDVC5NMXN8DTAFMBARXNQ3UY2M9SDNZ7U4I2Q58HPN63D2N7Q6SSATCYZDYJH6EUU3J8YQXKUY9ITZ8TPG2H9F2AK62UT6KI2MQ99XMRKWSD6AIW58T6SSAWVG97JCEMBYP43ZWDWYXFIEQPJUJ7BDCY8CAKE28T2KSBTDG4SJV35MEUR4Z38ZVFUMRC4PM4T84FF4DRPXJEQWVACP2H2TYSTJI7H9T32SDEJRW89HQ89PT3SII76RC2NI3PQHIRAEMDMKA7R6TBXJ2BSWQ54CXUMXYBN4GCHM3IDIFA9UNVI4KMN6DZZHSM3J3MK37BZA&destination=https%3A//www.bravis.cz/pronajem-bytu-auerswaldova",
+    "id": "pronajem-bytu-auerswaldova"
+  },
+  {
     "header": "Pronájem bytu 3+1 121 m²",
     "Address": "Těsnohlídkova, Brno - Černá Pole",
     "Price": "25 000 Kč/měsíc",
@@ -131,19 +152,5 @@
     "Price": "25 990 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-trnita-placzkova/2008290124",
     "id": "2008290124"
-  },
-  {
-    "header": "Pronájem bytu 2+1 62 m²",
-    "Address": "Záhřebská, Brno - Žabovřesky",
-    "Price": "18 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-zabovresky-zahrebska/114561868",
-    "id": "114561868"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 106 m²",
-    "Address": "Rotalova, Brno - Husovice",
-    "Price": "44 500 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-husovice-rotalova/2126779212",
-    "id": "2126779212"
   }
 ]
