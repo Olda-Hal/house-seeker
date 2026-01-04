@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 2+1 54 m²",
+    "Address": "Brno - Černá Pole",
+    "Price": "21 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-cerna-pole-/3974824780",
+    "id": "3974824780"
+  },
+  {
     "header": "Pronájem bytu 3+kk 83 m²",
     "Address": "Řehořova, Brno - Černovice",
     "Price": "30 000 Kč/měsíc",
@@ -138,12 +145,5 @@
     "Price": "17 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-bystrc-cerneho/4066050892",
     "id": "4066050892"
-  },
-  {
-    "header": "Pronájem bytu 2+1 67 m²",
-    "Address": "Merhautova, Brno - Zábrdovice",
-    "Price": "27 990 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-zabrdovice-merhautova/3088061260",
-    "id": "3088061260"
   }
 ]
