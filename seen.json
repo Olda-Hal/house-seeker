@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 2+1 58 m²",
+    "Address": "Venhudova, Brno - Černá Pole",
+    "Price": "24 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-cerna-pole-venhudova/2666734412",
+    "id": "2666734412"
+  },
+  {
     "header": "Pronájem bytu 3+kk 85 m²",
     "Address": "Cacovická, Brno - Husovice",
     "Price": "24 990 Kč/měsíc",
@@ -54,13 +61,6 @@
     "Price": "39 800 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-stare-brno-nove-sady/4238984012",
     "id": "4238984012"
-  },
-  {
-    "header": "Výhoda prvního nájemníka",
-    "Address": "Nové, stylové moderní byty 2+kk, terasy, garážové stání v domě.",
-    "Price": "BRAVIS REALITY s.r.o.",
-    "link": "https://a.seznam.cz/v2/click?spotId=4087984&d=8EH5TS87SJBMQA26CUGJNV7Y9ZZ9WCSW6M7BM845R5G5MIG63JP4CMK37MGZWKXKYTNKQFIXZ9KF9EHVEZMVBTETIRWIP8ZQCSC8MD9GRU8ANZF2Z4TPC79UT3I9GJFZB37JV32J3U5XCAVMZKEZJSM3E7IN36JDFJK8IFY5TBXYRNB92FDZEQX7SCF9ZJHTX2U7MKIGZFF9VB5MJ74IN9PIFF9ADUIZRHBQD4CY9HBIWURV4RZM5A9MCXQ4WCIREP9WWXKYI43HDX83879YIQD9ZFJZITJGDUS3SSVG6IPCKBHHQMPWIATVKUFIH57S6GWMEYCXX6MICWVCVPVUYKI7XGPQ7XGXX7ZADF92S6TNH558&destination=https%3A//www.bravis.cz/pronajem-bytu-auerswaldova",
-    "id": "pronajem-bytu-auerswaldova"
   },
   {
     "header": "Pronájem bytu 3+1 63 m²",
@@ -145,12 +145,5 @@
     "Price": "26 990 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-trnita-trnita/2662273868",
     "id": "2662273868"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 93 m²",
-    "Address": "Poříčí, Brno",
-    "Price": "38 900 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-brno-porici/3948610380",
-    "id": "3948610380"
   }
 ]
