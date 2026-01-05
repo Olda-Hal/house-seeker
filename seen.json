@@ -1,5 +1,19 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 85 m²",
+    "Address": "Cacovická, Brno - Husovice",
+    "Price": "24 990 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-husovice-cacovicka/3976598348",
+    "id": "3976598348"
+  },
+  {
+    "header": "Pronájem bytu 2+1 53 m²",
+    "Address": "náměstí SNP, Brno - Černá Pole",
+    "Price": "18 900 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-cerna-pole-namesti-snp/1381811020",
+    "id": "1381811020"
+  },
+  {
     "header": "Pronájem bytu 3+kk 75 m²",
     "Address": "Ramešova, Brno - Královo Pole",
     "Price": "27 000 Kč/měsíc",
@@ -19,13 +33,6 @@
     "Price": "24 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-cerna-pole-venhudova/2666734412",
     "id": "2666734412"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 85 m²",
-    "Address": "Cacovická, Brno - Husovice",
-    "Price": "24 990 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-husovice-cacovicka/3976598348",
-    "id": "3976598348"
   },
   {
     "header": "Pronájem bytu 3+kk 55 m²",
@@ -131,12 +138,5 @@
     "Price": "16 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-zidenice-skorkovskeho/1654330188",
     "id": "1654330188"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 70 m²",
-    "Address": "Pechova, Brno - Židenice",
-    "Price": "18 500 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zidenice-pechova/1083052876",
-    "id": "1083052876"
   }
 ]
