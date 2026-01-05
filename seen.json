@@ -1,5 +1,19 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 75 m²",
+    "Address": "Havlíčkova, Brno - Stránice",
+    "Price": "25 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-stranice-havlickova/319693644",
+    "id": "319693644"
+  },
+  {
+    "header": "Pronájem bytu 2+1 56 m²",
+    "Address": "Ondrouškova, Brno - Bystrc",
+    "Price": "17 600 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-bystrc-ondrouskova/2109870924",
+    "id": "2109870924"
+  },
+  {
     "header": "Pronájem bytu 3+kk 87 m²",
     "Address": "Nad Dědinou, Brno - Bystrc",
     "Price": "22 000 Kč/měsíc",
@@ -124,19 +138,5 @@
     "Price": "36 050 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zabrdovice-bratislavska/3302663500",
     "id": "3302663500"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 162 m²",
-    "Address": "Bratislavská, Brno - Zábrdovice",
-    "Price": "43 900 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zabrdovice-bratislavska/2630526284",
-    "id": "2630526284"
-  },
-  {
-    "header": "Pronájem bytu 3+1 80 m²",
-    "Address": "Bohunická, Brno - Horní Heršpice",
-    "Price": "31 200 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-horni-herspice-bohunicka/3557172044",
-    "id": "3557172044"
   }
 ]
