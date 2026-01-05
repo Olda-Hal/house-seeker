@@ -1,5 +1,26 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 87 m²",
+    "Address": "Nad Dědinou, Brno - Bystrc",
+    "Price": "22 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-bystrc-nad-dedinou/3039568716",
+    "id": "3039568716"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 72 m²",
+    "Address": "Třískalova, Brno",
+    "Price": "27 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-brno-triskalova/3352695628",
+    "id": "3352695628"
+  },
+  {
+    "header": "Pronájem bytu 3+1 70 m²",
+    "Address": "Svážná, Brno - Nový Lískovec",
+    "Price": "20 500 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-novy-liskovec-svazna/2921988940",
+    "id": "2921988940"
+  },
+  {
     "header": "Pronájem bytu 3+kk 56 m²",
     "Address": "Táborská, Brno - Židenice",
     "Price": "20 590 Kč/měsíc",
@@ -16,7 +37,7 @@
   {
     "header": "Pronájem bytu 2+1 62 m²",
     "Address": "Foerstrova, Brno - Žabovřesky",
-    "Price": "20 590 Kč/měsíc",
+    "Price": "19 990 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-zabovresky-foerstrova/403903308",
     "id": "403903308"
   },
@@ -117,26 +138,5 @@
     "Price": "31 200 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-horni-herspice-bohunicka/3557172044",
     "id": "3557172044"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 110 m²",
-    "Address": "Kollárova, Brno - Královo Pole",
-    "Price": "29 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-kralovo-pole-kollarova/2309686092",
-    "id": "2309686092"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 72 m²",
-    "Address": "Jaselská, Brno - Veveří",
-    "Price": "25 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-veveri-jaselska/2202932044",
-    "id": "2202932044"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 95 m²",
-    "Address": "Opuštěná, Brno - Trnitá",
-    "Price": "27 990 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-trnita-opustena/3691524940",
-    "id": "3691524940"
   }
 ]
