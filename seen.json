@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 74 m²",
+    "Address": "Fryčajova, Brno - Obřany",
+    "Price": "23 800 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-obrany-frycajova/1153291084",
+    "id": "1153291084"
+  },
+  {
     "header": "Pronájem bytu 3+kk 97 m²",
     "Address": "Charvatská, Brno - Královo Pole",
     "Price": "39 900 Kč/měsíc",
@@ -131,12 +138,5 @@
     "Price": "20 500 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-novy-liskovec-svazna/2921988940",
     "id": "2921988940"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 56 m²",
-    "Address": "Táborská, Brno - Židenice",
-    "Price": "20 590 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zidenice-taborska/2203202380",
-    "id": "2203202380"
   }
 ]
