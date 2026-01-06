@@ -1,5 +1,26 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 111 m²",
+    "Address": "Plachty, Brno - Nový Lískovec",
+    "Price": "28 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-novy-liskovec-plachty/1593054028",
+    "id": "1593054028"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 94 m²",
+    "Address": "Hrozňatova, Brno - Židenice",
+    "Price": "32 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zidenice-hroznatova/1576276812",
+    "id": "1576276812"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 88 m²",
+    "Address": "Křídlovická, Brno - Staré Brno",
+    "Price": "23 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-stare-brno-kridlovicka/2520847180",
+    "id": "2520847180"
+  },
+  {
     "header": "Pronájem bytu 3+kk 95 m²",
     "Address": "Opuštěná, Brno - Trnitá",
     "Price": "27 990 Kč/měsíc",
@@ -37,7 +58,7 @@
   {
     "header": "Pronájem bytu 2+1 57 m²",
     "Address": "Mathonova, Brno - Černá Pole",
-    "Price": "23 500 Kč/měsíc",
+    "Price": "22 500 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-cerna-pole-mathonova/2617586508",
     "id": "2617586508"
   },
@@ -117,26 +138,5 @@
     "Price": "29 990 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-trnita-fuchsova/2815632204",
     "id": "2815632204"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 75 m²",
-    "Address": "Havlíčkova, Brno - Stránice",
-    "Price": "25 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-stranice-havlickova/319693644",
-    "id": "319693644"
-  },
-  {
-    "header": "Pronájem bytu 2+1 56 m²",
-    "Address": "Ondrouškova, Brno - Bystrc",
-    "Price": "17 600 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-bystrc-ondrouskova/2109870924",
-    "id": "2109870924"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 87 m²",
-    "Address": "Nad Dědinou, Brno - Bystrc",
-    "Price": "22 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-bystrc-nad-dedinou/3039568716",
-    "id": "3039568716"
   }
 ]
