@@ -1,5 +1,19 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 82 m²",
+    "Address": "Pálavské náměstí, Brno - Židenice",
+    "Price": "22 500 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zidenice-palavske-namesti/3295150924",
+    "id": "3295150924"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 55 m²",
+    "Address": "Příkrá, Brno - Žabovřesky",
+    "Price": "20 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zabovresky-prikra/3328381772",
+    "id": "3328381772"
+  },
+  {
     "header": "Pronájem bytu 2+1 80 m²",
     "Address": "Brno - Veveří",
     "Price": "19 900 Kč/měsíc",
@@ -124,19 +138,5 @@
     "Price": "21 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-zidenice-bzenecka/4099220300",
     "id": "4099220300"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 71 m²",
-    "Address": "Placzkova, Brno - Trnitá",
-    "Price": "25 990 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-trnita-placzkova/2008290124",
-    "id": "2008290124"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 66 m²",
-    "Address": "Trnitá, Brno - Trnitá",
-    "Price": "26 990 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-trnita-trnita/2662273868",
-    "id": "2662273868"
   }
 ]
