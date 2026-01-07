@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 82 m²",
+    "Address": "Fuchsova, Brno - Trnitá",
+    "Price": "29 990 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-trnita-fuchsova/2815632204",
+    "id": "2815632204"
+  },
+  {
     "header": "Pronájem bytu 3+kk 85 m²",
     "Address": "Hlinky, Brno - Brno-střed",
     "Price": "22 000 Kč/měsíc",
@@ -131,12 +138,5 @@
     "Price": "49 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-komarov-komarovska/3643315020",
     "id": "3643315020"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 75 m²",
-    "Address": "Komárovská, Brno - Komárov",
-    "Price": "35 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-komarov-komarovska/3670397772",
-    "id": "3670397772"
   }
 ]
