@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 2+1 60 m²",
+    "Address": "Dolnopolní, Brno - Maloměřice",
+    "Price": "17 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-malomerice-dolnopolni/2945385292",
+    "id": "2945385292"
+  },
+  {
     "header": "Pronájem bytu 3+kk 85 m²",
     "Address": "Cacovická, Brno - Husovice",
     "Price": "23 990 Kč/měsíc",
@@ -131,12 +138,5 @@
     "Price": "29 500 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-stare-brno-hlinky/4127601484",
     "id": "4127601484"
-  },
-  {
-    "header": "Pronájem bytu 2+1 60 m²",
-    "Address": "Borodinova, Brno - Kohoutovice",
-    "Price": "19 900 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-kohoutovice-borodinova/3703911244",
-    "id": "3703911244"
   }
 ]
