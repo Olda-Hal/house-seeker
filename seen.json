@@ -1,5 +1,19 @@
 [
   {
+    "header": "Pronájem bytu 2+1 58 m²",
+    "Address": "Venhudova, Brno - Černá Pole",
+    "Price": "24 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-cerna-pole-venhudova/2666734412",
+    "id": "2666734412"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 66 m²",
+    "Address": "Slámova, Brno - Černovice",
+    "Price": "28 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-cernovice-slamova/2488320844",
+    "id": "2488320844"
+  },
+  {
     "header": "Pronájem bytu 2+1 70 m²",
     "Address": "Pechova, Brno - Židenice",
     "Price": "23 500 Kč/měsíc",
@@ -105,13 +119,6 @@
     "id": "476980044"
   },
   {
-    "header": "Získejte silnou Wi-Fi",
-    "Address": "Celou domácnost připojíte za 399 Kč měsíčně, v balíčku O2 Spolu dokonce za 299 Kč měsíčně",
-    "Price": "O2",
-    "link": "https://a.seznam.cz/v2/click?spotId=4090413&d=RHQ5NZ46K7NZZGBYPDU85Y6IWVM65FB3UGS9WUYHQCCTR3GHYYZQ76C3U8B4D4SDSDXJAUFQPKV8SRUEIF6F5IGNHAVIFJ7BGIWA4RGENVB993HSKESZ8PWVNKJ2JMPUXP9XFIQB9RZCEACYH89FE2R2PVZ7HX4MUNR8PV7V6Q6RBFT5YKDPAZZITNBDY6HTZEXEMWQTNKICU9MQXRETHCR8IVMVQAMQWCJDSPXWIUKIEPUJBGFXGTVDJZPS9G97ENK3GZM2IRVYD5JCQIPP589XTJEAB36AJ9YBQ27G4BDES4ZRPJIEAMMM6XFFUE8X35D6UM7AGGW24DPBKH4S4SD7BRZISFCSYREI7KPR2PKRBVUF&destination=https%3A//ad.doubleclick.net/ddm/trackclk/N1215814.1921114SREALITY/B34830862.437422730%3Bdc_trk_aid%3D630523367%3Bdc_trk_cid%3D248274084%3Bdc_lat%3D%3Bdc_rdid%3D%3Btag_for_child_directed_treatment%3D%3Btfua%3D%3Bgdpr%3D$%7BGDPR%7D%3Bgdpr_consent%3D$%7BGDPR_CONSENT_755%7D%3Bltd%3D%3Bdc_tdv%3D1",
-    "id": "B34830862.437422730%3Bdc_trk_aid%3D630523367%3Bdc_trk_cid%3D248274084%3Bdc_lat%3D%3Bdc_rdid%3D%3Btag_for_child_directed_treatment%3D%3Btfua%3D%3Bgdpr%3D$%7BGDPR%7D%3Bgdpr_consent%3D$%7BGDPR_CONSENT_755%7D%3Bltd%3D%3Bdc_tdv%3D1"
-  },
-  {
     "header": "Pronájem bytu 3+kk 83 m²",
     "Address": "Řehořova, Brno - Černovice",
     "Price": "30 000 Kč/měsíc",
@@ -131,19 +138,5 @@
     "Price": "39 800 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-stare-brno-nove-sady/4238984012",
     "id": "4238984012"
-  },
-  {
-    "header": "Pronájem bytu 3+1 63 m²",
-    "Address": "Havelkova, Brno - Bohunice",
-    "Price": "22 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-bohunice-havelkova/600949580",
-    "id": "600949580"
-  },
-  {
-    "header": "Pronájem bytu 2+1 53 m²",
-    "Address": "Křídlovická, Brno - Staré Brno",
-    "Price": "18 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-stare-brno-kridlovicka/1757287244",
-    "id": "1757287244"
   }
 ]
