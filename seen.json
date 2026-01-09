@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 2+1 50 m²",
+    "Address": "Slepá, Brno - Černá Pole",
+    "Price": "16 500 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-cerna-pole-slepa/741217100",
+    "id": "741217100"
+  },
+  {
     "header": "Pronájem bytu 3+kk 70 m²",
     "Address": "Reissigova, Brno - Ponava",
     "Price": "20 500 Kč/měsíc",
@@ -105,13 +112,6 @@
     "id": "61801292"
   },
   {
-    "header": "Získejte silný Internet",
-    "Address": "Přejděte na O2 Internet s funkcí Wi-Fi Mesh a získejte silné připojení pro celou domácnost",
-    "Price": "O2",
-    "link": "https://a.seznam.cz/v2/click?spotId=4090414&d=92UQJZN46WDCP8PGF95PSSTGSIJP83KBDNNBHF4MVXA9QBBENJGPATASUEKB9I4RAI45VPR74MQ4X2BAHKCY2RTDIH7BU52QIMY7TQ8ZPNK6RPHQXSQZTRQBMK59VJFQQWITUXVU8X4XN2YURID846V4IFEW7V9SCGIFIK2GAMR2W6H3ZJXYQJPJIM39N4R6K372H8IFFUGIWCKFIMVQ3PP4CTNF4HR9S2TPUNB9ZNNCDA7TGTF5WDSDGUAZHID9S8J9XY8EY696RUGYKFANAUR48K2R9XNCMSJPXQMY8BUPD5I3YAEE5K8ZKCZ898DS3T6K32GXSECWIW45ZVZBFAH48W639763NCRHUT6JDMJIYJS&destination=https%3A//ad.doubleclick.net/ddm/trackclk/N1215814.1921114SREALITY/B34830862.437422730%3Bdc_trk_aid%3D630523367%3Bdc_trk_cid%3D247628123%3Bdc_lat%3D%3Bdc_rdid%3D%3Btag_for_child_directed_treatment%3D%3Btfua%3D%3Bgdpr%3D$%7BGDPR%7D%3Bgdpr_consent%3D$%7BGDPR_CONSENT_755%7D%3Bltd%3D%3Bdc_tdv%3D1",
-    "id": "B34830862.437422730%3Bdc_trk_aid%3D630523367%3Bdc_trk_cid%3D247628123%3Bdc_lat%3D%3Bdc_rdid%3D%3Btag_for_child_directed_treatment%3D%3Btfua%3D%3Bgdpr%3D$%7BGDPR%7D%3Bgdpr_consent%3D$%7BGDPR_CONSENT_755%7D%3Bltd%3D%3Bdc_tdv%3D1"
-  },
-  {
     "header": "Pronájem bytu 3+kk 81 m²",
     "Address": "třída Generála Píky, Brno - Černá Pole",
     "Price": "34 800 Kč/měsíc",
@@ -138,12 +138,5 @@
     "Price": "27 990 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-trnita-opustena/3691524940",
     "id": "3691524940"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 75 m²",
-    "Address": "Ramešova, Brno - Královo Pole",
-    "Price": "27 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-kralovo-pole-ramesova/3830780748",
-    "id": "3830780748"
   }
 ]
