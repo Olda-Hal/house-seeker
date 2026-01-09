@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 2+1 58 m²",
+    "Address": "Venhudova, Brno - Černá Pole",
+    "Price": "24 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-cerna-pole-venhudova/2666734412",
+    "id": "2666734412"
+  },
+  {
     "header": "Pronájem bytu 2+1 50 m²",
     "Address": "Slepá, Brno - Černá Pole",
     "Price": "16 500 Kč/měsíc",
@@ -131,12 +138,5 @@
     "Price": "48 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-brno-stred-neumannova/2325291852",
     "id": "2325291852"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 95 m²",
-    "Address": "Opuštěná, Brno - Trnitá",
-    "Price": "27 990 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-trnita-opustena/3691524940",
-    "id": "3691524940"
   }
 ]
