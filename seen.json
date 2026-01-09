@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 65 m²",
+    "Address": "Bernáčkova, Brno - Dolní Heršpice",
+    "Price": "19 900 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-dolni-herspice-bernackova/3955098444",
+    "id": "3955098444"
+  },
+  {
     "header": "Pronájem bytu 2+1 50 m²",
     "Address": "Skorkovského, Brno - Židenice",
     "Price": "16 000 Kč/měsíc",
@@ -131,12 +138,5 @@
     "Price": "22 500 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-cerna-pole-mathonova/2617586508",
     "id": "2617586508"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 93 m²",
-    "Address": "Neumannova, Brno - Brno-střed",
-    "Price": "48 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-brno-stred-neumannova/2325291852",
-    "id": "2325291852"
   }
 ]
