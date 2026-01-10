@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 2+1 67 m²",
+    "Address": "Merhautova, Brno - Zábrdovice",
+    "Price": "27 990 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-zabrdovice-merhautova/3088061260",
+    "id": "3088061260"
+  },
+  {
     "header": "Pronájem bytu 2+1 52 m²",
     "Address": "Zubatého, Brno - Zábrdovice",
     "Price": "16 000 Kč/měsíc",
@@ -131,12 +138,5 @@
     "Price": "22 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-stare-brno-lipova/1167983436",
     "id": "1167983436"
-  },
-  {
-    "header": "Pronájem bytu 2+1 50 m²",
-    "Address": "Slepá, Brno - Černá Pole",
-    "Price": "16 500 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-cerna-pole-slepa/741217100",
-    "id": "741217100"
   }
 ]
