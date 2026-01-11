@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 2+1 72 m²",
+    "Address": "Hoblíkova, Brno - Černá Pole",
+    "Price": "22 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-cerna-pole-hoblikova/1482490700",
+    "id": "1482490700"
+  },
+  {
     "header": "Pronájem bytu 3+1 72 m²",
     "Address": "Jaselská, Brno - Veveří",
     "Price": "25 000 Kč/měsíc",
@@ -131,12 +138,5 @@
     "Price": "30 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-cernovice-rehorova/1789862732",
     "id": "1789862732"
-  },
-  {
-    "header": "Pronájem bytu 2+1 58 m²",
-    "Address": "Jasanová, Brno - Jundrov",
-    "Price": "22 500 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-jundrov-jasanova/2514035532",
-    "id": "2514035532"
   }
 ]
