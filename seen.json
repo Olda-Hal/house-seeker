@@ -1,5 +1,19 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 75 m²",
+    "Address": "Komárovská, Brno - Komárov",
+    "Price": "49 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-komarov-komarovska/3643315020",
+    "id": "3643315020"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 91 m²",
+    "Address": "Mojmírovo náměstí, Brno - Královo Pole",
+    "Price": "24 400 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-kralovo-pole-mojmirovo-namesti/1253319500",
+    "id": "1253319500"
+  },
+  {
     "header": "Pronájem bytu 3+kk 119 m²",
     "Address": "Petra Křivky, Brno - Nový Lískovec",
     "Price": "34 000 Kč/měsíc",
@@ -124,19 +138,5 @@
     "Price": "32 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zidenice-hroznatova/1576276812",
     "id": "1576276812"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 62 m²",
-    "Address": "Spolková, Brno - Zábrdovice",
-    "Price": "24 500 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zabrdovice-spolkova/3425751884",
-    "id": "3425751884"
-  },
-  {
-    "header": "Pronájem bytu 3+1 102 m²",
-    "Address": "Palackého třída, Brno - Královo Pole",
-    "Price": "28 500 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-kralovo-pole-palackeho-trida/2185036620",
-    "id": "2185036620"
   }
 ]
