@@ -105,13 +105,6 @@
     "id": "447030092"
   },
   {
-    "header": "Silná optika pro celý dům",
-    "Address": "Přejděte na optiku od O2 s funkcí Wi-Fi Mesh a získejte silné připojení pro celý dům",
-    "Price": "O2",
-    "link": "https://a.seznam.cz/v2/click?spotId=4090478&d=SZEGZRIT4CPNKHGXYRSG28QCHUD355QK3BMDUS8BKI72JQBRMRMHBJ583GR9593PQC8C2K923TEFEJFPFTZD9AFXAKIEUBABIUEGYSE9DH8VDTACGG8M3Z9RVU52M86QSQ8GEB33YE2FEDBIRE5RB9BE5SMYYMDEAIXY7HHVMQ6XCBVIIFIEMAP4HMSQK3E9JGDM4K8U77NXKMMKY9QIHB99MC87GA4R56S63AJESF982A7D4PQVYKJ3MW7CSNZGJ4KPQXQDQGB5XA4FTDTDND6UGZ6T2MP7QXQ8T27NBWHRP5WDPD8BF9D7RQR2IVX5WUHUVSZ5JRDAXDYK3PXSHPNC6NXJRQSQDQMR2EHMF563S&destination=https%3A//ad.doubleclick.net/ddm/trackclk/N1215814.1921114SREALITY/B34830862.437422730%3Bdc_trk_aid%3D630523367%3Bdc_trk_cid%3D247630499%3Bdc_lat%3D%3Bdc_rdid%3D%3Btag_for_child_directed_treatment%3D%3Btfua%3D%3Bgdpr%3D$%7BGDPR%7D%3Bgdpr_consent%3D$%7BGDPR_CONSENT_755%7D%3Bltd%3D%3Bdc_tdv%3D1",
-    "id": "B34830862.437422730%3Bdc_trk_aid%3D630523367%3Bdc_trk_cid%3D247630499%3Bdc_lat%3D%3Bdc_rdid%3D%3Btag_for_child_directed_treatment%3D%3Btfua%3D%3Bgdpr%3D$%7BGDPR%7D%3Bgdpr_consent%3D$%7BGDPR_CONSENT_755%7D%3Bltd%3D%3Bdc_tdv%3D1"
-  },
-  {
     "header": "Pronájem bytu 3+kk 97 m²",
     "Address": "Charvatská, Brno - Královo Pole",
     "Price": "39 900 Kč/měsíc",
@@ -145,5 +138,12 @@
     "Price": "27 490 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-zabrdovice-merhautova/3088061260",
     "id": "3088061260"
+  },
+  {
+    "header": "Pronájem bytu 2+1 74 m²",
+    "Address": "Purkyňova, Brno - Královo Pole",
+    "Price": "19 500 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-kralovo-pole-purkynova/741081932",
+    "id": "741081932"
   }
 ]
