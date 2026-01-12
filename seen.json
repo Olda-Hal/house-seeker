@@ -1,5 +1,19 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 72 m²",
+    "Address": "Rosická, Brno - Trnitá",
+    "Price": "24 500 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-trnita-rosicka/1489896268",
+    "id": "1489896268"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 65 m²",
+    "Address": "Auerswaldova, Brno - Zábrdovice",
+    "Price": "38 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zabrdovice-auerswaldova/3833070412",
+    "id": "3833070412"
+  },
+  {
     "header": "Pronájem bytu 2+1 55 m²",
     "Address": "Skopalíkova, Brno - Židenice",
     "Price": "16 000 Kč/měsíc",
@@ -124,19 +138,5 @@
     "Price": "27 490 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-zabrdovice-merhautova/3088061260",
     "id": "3088061260"
-  },
-  {
-    "header": "Pronájem bytu 2+1 74 m²",
-    "Address": "Purkyňova, Brno - Královo Pole",
-    "Price": "19 500 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-kralovo-pole-purkynova/741081932",
-    "id": "741081932"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 88 m²",
-    "Address": "Křídlovická, Brno - Staré Brno",
-    "Price": "23 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-stare-brno-kridlovicka/2520847180",
-    "id": "2520847180"
   }
 ]
