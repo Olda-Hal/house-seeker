@@ -1,5 +1,26 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 55 m²",
+    "Address": "Příkrá, Brno - Žabovřesky",
+    "Price": "20 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zabovresky-prikra/3328381772",
+    "id": "3328381772"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 67 m²",
+    "Address": "Bieblova, Brno - Černá Pole",
+    "Price": "23 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-cerna-pole-bieblova/2035749708",
+    "id": "2035749708"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 75 m²",
+    "Address": "Ramešova, Brno - Královo Pole",
+    "Price": "27 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-kralovo-pole-ramesova/3830780748",
+    "id": "3830780748"
+  },
+  {
     "header": "Pronájem bytu 2+1 72 m²",
     "Address": "Hoblíkova, Brno - Černá Pole",
     "Price": "22 000 Kč/měsíc",
@@ -33,6 +54,13 @@
     "Price": "18 500 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-bystrc-heyrovskeho/1169949516",
     "id": "1169949516"
+  },
+  {
+    "header": "Nový O₂ Smart Box",
+    "Address": "S O2 Boostery vytvoříte silnou Wi-Fi, která rozšíří signál do těch nejvzdálenějších koutů",
+    "Price": "O2",
+    "link": "https://a.seznam.cz/v2/click?spotId=4090480&d=37Z9EPNZVE3VK74IN8DUDDX9BGPVYT9ZVZYBPWGYPR8WV6DAVD8IUY2GBZHYZF7RWIC56FMJDR6WQBUU9YI8Z2KTJG5QVEKPWH34T4KUSXABS9N88XIQHH2AU3QH3PFYI8FTFJTY6FAUKIDEFAQMYT72A3U7CX6C5PWN294HVJX2YCFRB8RYIY7RRFGBVU4NKYNE3PTQSZYYMASFJWEHSQ3XFQNQA9S3Y6YF8J2DE4NES742ECFP2SQIFWVW9C87NVUAM7TXGJ886UTK2GCQFABK4DFBEYAX3NQYVKNNH59PA4EDRWI9ZIC8T47RQP4H7APIJXC89V3DUA3WAURE7B6ZZUUS8JIQA3MK3TMHQJ2F8XS&destination=https%3A//ad.doubleclick.net/ddm/trackclk/N1215814.1921114SREALITY/B34830862.437422730%3Bdc_trk_aid%3D630523367%3Bdc_trk_cid%3D247627733%3Bdc_lat%3D%3Bdc_rdid%3D%3Btag_for_child_directed_treatment%3D%3Btfua%3D%3Bgdpr%3D$%7BGDPR%7D%3Bgdpr_consent%3D$%7BGDPR_CONSENT_755%7D%3Bltd%3D%3Bdc_tdv%3D1",
+    "id": "B34830862.437422730%3Bdc_trk_aid%3D630523367%3Bdc_trk_cid%3D247627733%3Bdc_lat%3D%3Bdc_rdid%3D%3Btag_for_child_directed_treatment%3D%3Btfua%3D%3Bgdpr%3D$%7BGDPR%7D%3Bgdpr_consent%3D$%7BGDPR_CONSENT_755%7D%3Bltd%3D%3Bdc_tdv%3D1"
   },
   {
     "header": "Pronájem bytu 3+kk 75 m²",
@@ -124,26 +152,5 @@
     "Price": "21 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-zidenice-bzenecka/4099220300",
     "id": "4099220300"
-  },
-  {
-    "header": "Pronájem bytu 2+1 54 m²",
-    "Address": "Vysoká, Brno - Štýřice",
-    "Price": "20 500 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-styrice-vysoka/476980044",
-    "id": "476980044"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 83 m²",
-    "Address": "Řehořova, Brno - Černovice",
-    "Price": "30 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-cernovice-rehorova/1789862732",
-    "id": "1789862732"
-  },
-  {
-    "header": "Pronájem bytu 2+1 58 m²",
-    "Address": "Jasanová, Brno - Jundrov",
-    "Price": "22 500 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-jundrov-jasanova/2514035532",
-    "id": "2514035532"
   }
 ]
