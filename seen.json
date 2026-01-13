@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 74 m²",
+    "Address": "Kollárova, Brno - Královo Pole",
+    "Price": "33 990 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-kralovo-pole-kollarova/353567564",
+    "id": "353567564"
+  },
+  {
     "header": "Pronájem bytu 3+kk 73 m²",
     "Address": "Bělohorská, Brno - Židenice",
     "Price": "28 000 Kč/měsíc",
@@ -138,12 +145,5 @@
     "Price": "21 900 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-zabovresky-sirotkova/3648193356",
     "id": "3648193356"
-  },
-  {
-    "header": "Pronájem bytu 3+1 67 m²",
-    "Address": "Brožíkova, Brno - Lesná",
-    "Price": "25 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-lesna-brozikova/1436287820",
-    "id": "1436287820"
   }
 ]
