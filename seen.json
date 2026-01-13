@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 95 m²",
+    "Address": "Opuštěná, Brno - Trnitá",
+    "Price": "27 990 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-trnita-opustena/3691524940",
+    "id": "3691524940"
+  },
+  {
     "header": "Pronájem bytu 3+kk 72 m²",
     "Address": "Rosická, Brno - Trnitá",
     "Price": "24 500 Kč/měsíc",
@@ -138,12 +145,5 @@
     "Price": "27 490 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-zabrdovice-merhautova/3088061260",
     "id": "3088061260"
-  },
-  {
-    "header": "Pronájem bytu 2+1 74 m²",
-    "Address": "Purkyňova, Brno - Královo Pole",
-    "Price": "19 500 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-kralovo-pole-purkynova/741081932",
-    "id": "741081932"
   }
 ]
