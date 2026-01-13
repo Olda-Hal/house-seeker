@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 73 m²",
+    "Address": "Hvězdová, Brno - Zábrdovice",
+    "Price": "25 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zabrdovice-hvezdova/1558381388",
+    "id": "1558381388"
+  },
+  {
     "header": "Pronájem bytu 2+1 58 m²",
     "Address": "Venhudova, Brno - Černá Pole",
     "Price": "24 000 Kč/měsíc",
@@ -65,7 +72,7 @@
   {
     "header": "Pronájem bytu 3+1 71 m²",
     "Address": "Fryčajova, Brno - Obřany",
-    "Price": "22 000 Kč/měsíc",
+    "Price": "21 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-obrany-frycajova/2945323852",
     "id": "2945323852"
   },
@@ -138,12 +145,5 @@
     "Price": "22 500 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-lisen-zikova/810746700",
     "id": "810746700"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 119 m²",
-    "Address": "Petra Křivky, Brno - Nový Lískovec",
-    "Price": "34 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-novy-liskovec-petra-krivky/2431583052",
-    "id": "2431583052"
   }
 ]
