@@ -1,5 +1,19 @@
 [
   {
+    "header": "Pronájem bytu 3+1 77 m²",
+    "Address": "Galandauerova, Brno - Královo Pole",
+    "Price": "23 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-kralovo-pole-galandauerova/3708945228",
+    "id": "3708945228"
+  },
+  {
+    "header": "Pronájem bytu 2+1 50 m²",
+    "Address": "Dornych, Brno - Trnitá",
+    "Price": "28 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-trnita-dornych/1593967436",
+    "id": "1593967436"
+  },
+  {
     "header": "Pronájem bytu 3+kk 82 m²",
     "Address": "Fuchsova, Brno - Trnitá",
     "Price": "29 990 Kč/měsíc",
@@ -70,6 +84,13 @@
     "id": "2893153100"
   },
   {
+    "header": "Pronájem bytu 2+1 56 m²",
+    "Address": "Ostružinová, Brno - Medlánky",
+    "Price": "16 900 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-medlanky-ostruzinova/2775712588",
+    "id": "2775712588"
+  },
+  {
     "header": "Pronájem bytu 2+1 60 m²",
     "Address": "Borodinova, Brno - Kohoutovice",
     "Price": "19 900 Kč/měsíc",
@@ -131,26 +152,5 @@
     "Price": "25 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-lesna-nezvalova/2577597260",
     "id": "2577597260"
-  },
-  {
-    "header": "Pronájem bytu 3+1 120 m²",
-    "Address": "Skácelova, Brno - Královo Pole",
-    "Price": "35 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-kralovo-pole-skacelova/2925335372",
-    "id": "2925335372"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 75 m²",
-    "Address": "Komárovská, Brno - Komárov",
-    "Price": "49 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-komarov-komarovska/3643315020",
-    "id": "3643315020"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 75 m²",
-    "Address": "Komárovská, Brno - Komárov",
-    "Price": "35 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-komarov-komarovska/3670397772",
-    "id": "3670397772"
   }
 ]
