@@ -1,5 +1,19 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 66 m²",
+    "Address": "Kotěrova, Brno - Černá Pole",
+    "Price": "25 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-cerna-pole-koterova/183968588",
+    "id": "183968588"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 62 m²",
+    "Address": "Spolková, Brno - Zábrdovice",
+    "Price": "24 500 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zabrdovice-spolkova/3425751884",
+    "id": "3425751884"
+  },
+  {
     "header": "Pronájem bytu 3+kk 67 m²",
     "Address": "Zemědělská, Brno - Černá Pole",
     "Price": "25 460 Kč/měsíc",
@@ -124,19 +138,5 @@
     "Price": "Cena na vyžádání",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-kohoutovice-zebetinska/2674525004",
     "id": "2674525004"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 71 m²",
-    "Address": "Placzkova, Brno - Trnitá",
-    "Price": "25 990 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-trnita-placzkova/2008290124",
-    "id": "2008290124"
-  },
-  {
-    "header": "Pronájem bytu 2+1 55 m²",
-    "Address": "Vodova, Brno - Královo Pole",
-    "Price": "19 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-kralovo-pole-vodova/2317550412",
-    "id": "2317550412"
   }
 ]
