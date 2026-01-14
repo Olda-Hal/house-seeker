@@ -1,5 +1,19 @@
 [
   {
+    "header": "Pronájem bytu 3+1 69 m²",
+    "Address": "Bezručova, Brno - Staré Brno",
+    "Price": "20 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-stare-brno-bezrucova/3913417548",
+    "id": "3913417548"
+  },
+  {
+    "header": "Pronájem bytu 2+1 65 m²",
+    "Address": "Štolcova, Brno - Černovice",
+    "Price": "Cena na vyžádání",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-cernovice-stolcova/4017226572",
+    "id": "4017226572"
+  },
+  {
     "header": "Pronájem bytu 2+1 55 m²",
     "Address": "Neumannova, Brno - Pisárky",
     "Price": "14 500 Kč/měsíc",
@@ -138,19 +152,5 @@
     "Price": "33 990 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-kralovo-pole-kollarova/353567564",
     "id": "353567564"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 73 m²",
-    "Address": "Bělohorská, Brno - Židenice",
-    "Price": "28 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zidenice-belohorska/2025325388",
-    "id": "2025325388"
-  },
-  {
-    "header": "Pronájem bytu 2+1 58 m²",
-    "Address": "Jasanová, Brno - Jundrov",
-    "Price": "22 500 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-jundrov-jasanova/2514035532",
-    "id": "2514035532"
   }
 ]
