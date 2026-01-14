@@ -1,6 +1,20 @@
 [
   {
     "header": "Pronájem bytu 2+1 55 m²",
+    "Address": "Neumannova, Brno - Pisárky",
+    "Price": "14 500 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-pisarky-neumannova/2893153100",
+    "id": "2893153100"
+  },
+  {
+    "header": "Pronájem bytu 2+1 60 m²",
+    "Address": "Borodinova, Brno - Kohoutovice",
+    "Price": "19 900 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-kohoutovice-borodinova/3703911244",
+    "id": "3703911244"
+  },
+  {
+    "header": "Pronájem bytu 2+1 55 m²",
     "Address": "Třískalova, Brno - Lesná",
     "Price": "19 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-lesna-triskalova/2693989196",
