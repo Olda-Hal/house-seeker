@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+1 76 m²",
+    "Address": "Božetěchova, Brno - Královo Pole",
+    "Price": "22 900 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-kralovo-pole-bozetechova/3088122700",
+    "id": "3088122700"
+  },
+  {
     "header": "Pronájem bytu 2+1 41 m²",
     "Address": "Francouzská, Brno - Zábrdovice",
     "Price": "18 500 Kč/měsíc",
@@ -131,12 +138,5 @@
     "Price": "27 990 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-trnita-opustena/3691524940",
     "id": "3691524940"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 55 m²",
-    "Address": "Příkrá, Brno - Žabovřesky",
-    "Price": "20 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zabovresky-prikra/3328381772",
-    "id": "3328381772"
   }
 ]
