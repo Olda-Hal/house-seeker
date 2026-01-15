@@ -105,13 +105,6 @@
     "id": "2514035532"
   },
   {
-    "header": "Pronájem bytu 3+1 63 m²",
-    "Address": "Havelkova, Brno - Bohunice",
-    "Price": "22 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-bohunice-havelkova/600949580",
-    "id": "600949580"
-  },
-  {
     "header": "Pronájem bytu 3+kk 73 m²",
     "Address": "Chudčická, Brno - Bystrc",
     "Price": "19 000 Kč/měsíc",
@@ -152,5 +145,12 @@
     "Price": "34 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-lesna-majdalenky/4214358860",
     "id": "4214358860"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 95 m²",
+    "Address": "Opuštěná, Brno - Trnitá",
+    "Price": "27 990 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-trnita-opustena/3691524940",
+    "id": "3691524940"
   }
 ]
