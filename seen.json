@@ -1,5 +1,40 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 90 m²",
+    "Address": "Havlíčkova, Brno - Stránice",
+    "Price": "30 700 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-stranice-havlickova/2699559756",
+    "id": "2699559756"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 86 m²",
+    "Address": "třída Generála Píky, Brno - Černá Pole",
+    "Price": "Cena na vyžádání",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-cerna-pole-trida-generala-piky/2102526796",
+    "id": "2102526796"
+  },
+  {
+    "header": "Pronájem bytu 3+1 103 m²",
+    "Address": "Brno - Brno-město",
+    "Price": "22 900 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-brno-mesto-/3782873932",
+    "id": "3782873932"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 55 m²",
+    "Address": "Příkrá, Brno - Žabovřesky",
+    "Price": "20 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zabovresky-prikra/3328381772",
+    "id": "3328381772"
+  },
+  {
+    "header": "Pronájem bytu 3+1 85 m²",
+    "Address": "Merhautova, Brno - Zábrdovice",
+    "Price": "19 500 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-zabrdovice-merhautova/2375091020",
+    "id": "2375091020"
+  },
+  {
     "header": "Pronájem bytu 2+1 60 m²",
     "Address": "Borodinova, Brno - Kohoutovice",
     "Price": "19 900 Kč/měsíc",
@@ -70,6 +105,13 @@
     "id": "2431583052"
   },
   {
+    "header": "Získejte silnou Wi-Fi",
+    "Address": "Celou domácnost připojíte za 399 Kč měsíčně, v balíčku O2 Spolu dokonce za 299 Kč měsíčně",
+    "Price": "O2",
+    "link": "https://a.seznam.cz/v2/click?spotId=4090481&d=2ZNEJNNSUPQGK42WF3BDUQIJRVGIU9EA6RVKB5IG2FXG3N4YFN8PBU4ZZFD6572XI44H3ZY6IR5JDXFFKAHY6BSMH9DG5AICQFBFHC7UKKFBXEHBHUK7EHJGKY3KRXCAQ6W59WEP35RC4H3I7HMNRTCK47SMGT28IES2V7MK8QTKDTIETGXS3F5WUU92B9TM6PF5UPKN6XRC5VIFPM2HW55GKYZ5PCG5HI93SIHUZ454JFF5VMD92X7EQYVFZC9VHZN9VPSW3IPE9MTU6ZBTQNGNTYXM4IS86QP7V9F3D7MF8AQE5N7EBTR8EZ4EEZEIM9BZTRFQN2ENKQF5Q7KDGKSYJY3CUBIUZIAT2VBAVBGHYJ2&destination=https%3A//ad.doubleclick.net/ddm/trackclk/N1215814.1921114SREALITY/B34830862.437422730%3Bdc_trk_aid%3D630523367%3Bdc_trk_cid%3D248274084%3Bdc_lat%3D%3Bdc_rdid%3D%3Btag_for_child_directed_treatment%3D%3Btfua%3D%3Bgdpr%3D$%7BGDPR%7D%3Bgdpr_consent%3D$%7BGDPR_CONSENT_755%7D%3Bltd%3D%3Bdc_tdv%3D1",
+    "id": "B34830862.437422730%3Bdc_trk_aid%3D630523367%3Bdc_trk_cid%3D248274084%3Bdc_lat%3D%3Bdc_rdid%3D%3Btag_for_child_directed_treatment%3D%3Btfua%3D%3Bgdpr%3D$%7BGDPR%7D%3Bgdpr_consent%3D$%7BGDPR_CONSENT_755%7D%3Bltd%3D%3Bdc_tdv%3D1"
+  },
+  {
     "header": "Pronájem bytu 2+1 60 m²",
     "Address": "Rotalova, Brno - Husovice",
     "Price": "17 000 Kč/měsíc",
@@ -103,40 +145,5 @@
     "Price": "23 500 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-zabrdovice-koliste/872485708",
     "id": "872485708"
-  },
-  {
-    "header": "Pronájem bytu 2+1 67 m²",
-    "Address": "Koliště, Brno - Zábrdovice",
-    "Price": "22 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-zabrdovice-koliste/1610355532",
-    "id": "1610355532"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 75 m²",
-    "Address": "Komárovská, Brno - Komárov",
-    "Price": "49 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-komarov-komarovska/3643315020",
-    "id": "3643315020"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 66 m²",
-    "Address": "Hlinky, Brno - Pisárky",
-    "Price": "31 900 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-pisarky-hlinky/2642088780",
-    "id": "2642088780"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 66 m²",
-    "Address": "Hlinky, Brno - Pisárky",
-    "Price": "31 900 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-pisarky-hlinky/846926668",
-    "id": "846926668"
-  },
-  {
-    "header": "Pronájem bytu 3+1 96 m²",
-    "Address": "Havláskova, Brno - Jehnice",
-    "Price": "22 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-jehnice-havlaskova/711275340",
-    "id": "711275340"
   }
 ]
