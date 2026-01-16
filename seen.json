@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 62 m²",
+    "Address": "Spolková, Brno - Zábrdovice",
+    "Price": "24 500 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zabrdovice-spolkova/3425751884",
+    "id": "3425751884"
+  },
+  {
     "header": "Pronájem bytu 3+kk 71 m²",
     "Address": "Placzkova, Brno - Trnitá",
     "Price": "25 990 Kč/měsíc",
@@ -131,12 +138,5 @@
     "Price": "23 800 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-obrany-frycajova/1153291084",
     "id": "1153291084"
-  },
-  {
-    "header": "Pronájem bytu 3+1 100 m²",
-    "Address": "Jasná, Brno - Ořešín",
-    "Price": "24 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-oresin-jasna/4037608268",
-    "id": "4037608268"
   }
 ]
