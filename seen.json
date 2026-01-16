@@ -1,5 +1,19 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 71 m²",
+    "Address": "Placzkova, Brno - Trnitá",
+    "Price": "25 990 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-trnita-placzkova/2008290124",
+    "id": "2008290124"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 82 m²",
+    "Address": "Fuchsova, Brno - Trnitá",
+    "Price": "29 990 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-trnita-fuchsova/2815632204",
+    "id": "2815632204"
+  },
+  {
     "header": "Pronájem bytu 3+kk 90 m²",
     "Address": "Havlíčkova, Brno - Stránice",
     "Price": "30 700 Kč/měsíc",
@@ -105,13 +119,6 @@
     "id": "2431583052"
   },
   {
-    "header": "Získejte silnou Wi-Fi",
-    "Address": "Celou domácnost připojíte za 399 Kč měsíčně, v balíčku O2 Spolu dokonce za 299 Kč měsíčně",
-    "Price": "O2",
-    "link": "https://a.seznam.cz/v2/click?spotId=4090481&d=2ZNEJNNSUPQGK42WF3BDUQIJRVGIU9EA6RVKB5IG2FXG3N4YFN8PBU4ZZFD6572XI44H3ZY6IR5JDXFFKAHY6BSMH9DG5AICQFBFHC7UKKFBXEHBHUK7EHJGKY3KRXCAQ6W59WEP35RC4H3I7HMNRTCK47SMGT28IES2V7MK8QTKDTIETGXS3F5WUU92B9TM6PF5UPKN6XRC5VIFPM2HW55GKYZ5PCG5HI93SIHUZ454JFF5VMD92X7EQYVFZC9VHZN9VPSW3IPE9MTU6ZBTQNGNTYXM4IS86QP7V9F3D7MF8AQE5N7EBTR8EZ4EEZEIM9BZTRFQN2ENKQF5Q7KDGKSYJY3CUBIUZIAT2VBAVBGHYJ2&destination=https%3A//ad.doubleclick.net/ddm/trackclk/N1215814.1921114SREALITY/B34830862.437422730%3Bdc_trk_aid%3D630523367%3Bdc_trk_cid%3D248274084%3Bdc_lat%3D%3Bdc_rdid%3D%3Btag_for_child_directed_treatment%3D%3Btfua%3D%3Bgdpr%3D$%7BGDPR%7D%3Bgdpr_consent%3D$%7BGDPR_CONSENT_755%7D%3Bltd%3D%3Bdc_tdv%3D1",
-    "id": "B34830862.437422730%3Bdc_trk_aid%3D630523367%3Bdc_trk_cid%3D248274084%3Bdc_lat%3D%3Bdc_rdid%3D%3Btag_for_child_directed_treatment%3D%3Btfua%3D%3Bgdpr%3D$%7BGDPR%7D%3Bgdpr_consent%3D$%7BGDPR_CONSENT_755%7D%3Bltd%3D%3Bdc_tdv%3D1"
-  },
-  {
     "header": "Pronájem bytu 2+1 60 m²",
     "Address": "Rotalova, Brno - Husovice",
     "Price": "17 000 Kč/měsíc",
@@ -131,19 +138,5 @@
     "Price": "24 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-oresin-jasna/4037608268",
     "id": "4037608268"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 161 m²",
-    "Address": "Majdalenky, Brno - Lesná",
-    "Price": "34 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-lesna-majdalenky/4214358860",
-    "id": "4214358860"
-  },
-  {
-    "header": "Pronájem bytu 2+1 74 m²",
-    "Address": "Koliště, Brno - Zábrdovice",
-    "Price": "23 500 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-zabrdovice-koliste/872485708",
-    "id": "872485708"
   }
 ]
