@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+1 75 m²",
+    "Address": "Banskobystrická, Brno - Řečkovice",
+    "Price": "21 800 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-reckovice-banskobystricka/3084911436",
+    "id": "3084911436"
+  },
+  {
     "header": "Pronájem bytu 3+kk 95 m²",
     "Address": "Opuštěná, Brno - Trnitá",
     "Price": "27 990 Kč/měsíc",
@@ -112,13 +119,6 @@
     "id": "3586925388"
   },
   {
-    "header": "Získejte silný Internet",
-    "Address": "Přejděte na O2 Internet s funkcí Wi-Fi Mesh a získejte silné připojení pro celou domácnost",
-    "Price": "O2",
-    "link": "https://a.seznam.cz/v2/click?spotId=4090482&d=EK3C6IVBU8RWYBXVVZWTNJCI93A67Z9QQ95Z2RF5VDRPMD8NB3GW534FFSRU4RHBYI33IX9TMA46VZ2ADFMB87ZP24HNZUP7JZJF6I4VU7Y3BAGMHZCG25GZ7CMQGZVDR6J7C8A5BSBGAXZUWMD2MBNWYJ2S32FHFMJPHN824MPXWYMR8VBG6UH9T26ZB596WVBGCRW5THTD2DVYC9WI6BI5TSM7C26IZTPAGEJ4G692T99UC77A6HYD4CIM9Z3HQFVU7V36SWQ8IRTSUKJRSWGNKVU3R3PUQ9UKQS46M73C6DFMMA6YISEJ2F32ECVBIWVUDFCK26UEBI947HQSM7FWIQ8T73AEJF9SAC37ABHI9II&destination=https%3A//ad.doubleclick.net/ddm/trackclk/N1215814.1921114SREALITY/B34830862.437422730%3Bdc_trk_aid%3D630523367%3Bdc_trk_cid%3D247628123%3Bdc_lat%3D%3Bdc_rdid%3D%3Btag_for_child_directed_treatment%3D%3Btfua%3D%3Bgdpr%3D$%7BGDPR%7D%3Bgdpr_consent%3D$%7BGDPR_CONSENT_755%7D%3Bltd%3D%3Bdc_tdv%3D1",
-    "id": "B34830862.437422730%3Bdc_trk_aid%3D630523367%3Bdc_trk_cid%3D247628123%3Bdc_lat%3D%3Bdc_rdid%3D%3Btag_for_child_directed_treatment%3D%3Btfua%3D%3Bgdpr%3D$%7BGDPR%7D%3Bgdpr_consent%3D$%7BGDPR_CONSENT_755%7D%3Bltd%3D%3Bdc_tdv%3D1"
-  },
-  {
     "header": "Pronájem bytu 3+kk 70 m²",
     "Address": "Kotkova, Brno - Černovice",
     "Price": "25 000 Kč/měsíc",
@@ -145,12 +145,5 @@
     "Price": "47 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-veveri-botanicka/1052509004",
     "id": "1052509004"
-  },
-  {
-    "header": "Pronájem bytu 2+1 53 m²",
-    "Address": "Mášova, Brno - Veveří",
-    "Price": "15 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-veveri-masova/1229980492",
-    "id": "1229980492"
   }
 ]
