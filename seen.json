@@ -1,5 +1,19 @@
 [
   {
+    "header": "Pronájem bytu 3+1 55 m²",
+    "Address": "Příkrá, Brno - Žabovřesky",
+    "Price": "19 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-zabovresky-prikra/2986345292",
+    "id": "2986345292"
+  },
+  {
+    "header": "Pronájem bytu 2+1 57 m²",
+    "Address": "Sokolova, Brno - Horní Heršpice",
+    "Price": "16 500 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-horni-herspice-sokolova/3523216204",
+    "id": "3523216204"
+  },
+  {
     "header": "Pronájem bytu 3+kk 173 m²",
     "Address": "Květinářská, Brno - Brno-město",
     "Price": "50 000 Kč/měsíc",
@@ -131,19 +145,5 @@
     "Price": "30 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-cernovice-rehorova/1789862732",
     "id": "1789862732"
-  },
-  {
-    "header": "Pronájem bytu 2+1 58 m²",
-    "Address": "Jasanová, Brno - Jundrov",
-    "Price": "22 500 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-jundrov-jasanova/2514035532",
-    "id": "2514035532"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 73 m²",
-    "Address": "Chudčická, Brno - Bystrc",
-    "Price": "19 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-bystrc-chudcicka/1460192076",
-    "id": "1460192076"
   }
 ]
