@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 65 m²",
+    "Address": "Auerswaldova, Brno - Zábrdovice",
+    "Price": "Cena na vyžádání",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zabrdovice-auerswaldova/3833070412",
+    "id": "3833070412"
+  },
+  {
     "header": "Pronájem bytu 3+1 75 m²",
     "Address": "Banskobystrická, Brno - Řečkovice",
     "Price": "21 800 Kč/měsíc",
@@ -138,12 +145,5 @@
     "Price": "28 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-stare-brno-kridlovicka/3167617868",
     "id": "3167617868"
-  },
-  {
-    "header": "Pronájem bytu 3+1 114 m²",
-    "Address": "Botanická, Brno - Veveří",
-    "Price": "47 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-veveri-botanicka/1052509004",
-    "id": "1052509004"
   }
 ]
