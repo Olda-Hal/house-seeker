@@ -1,5 +1,19 @@
 [
   {
+    "header": "Pronájem bytu 2+1 67 m²",
+    "Address": "Merhautova, Brno - Zábrdovice",
+    "Price": "27 490 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-zabrdovice-merhautova/3088061260",
+    "id": "3088061260"
+  },
+  {
+    "header": "Pronájem bytu 3+1 96 m²",
+    "Address": "Havláskova, Brno - Jehnice",
+    "Price": "22 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-jehnice-havlaskova/711275340",
+    "id": "711275340"
+  },
+  {
     "header": "Pronájem bytu 2+1 52 m²",
     "Address": "Zubatého, Brno - Zábrdovice",
     "Price": "16 000 Kč/měsíc",
@@ -112,13 +126,6 @@
     "id": "3084911436"
   },
   {
-    "header": "Získejte silnou Wi-Fi",
-    "Address": "Celou domácnost připojíte za 399 Kč měsíčně, v balíčku O2 Spolu dokonce za 299 Kč měsíčně",
-    "Price": "O2",
-    "link": "https://a.seznam.cz/v2/click?spotId=4090481&d=BUEIFV2BEM5RQM97GE8RAP7DJVW34Z78QSQ5DAUGGTYVAHBBJJKJ5B62IG79FI67EN9B47QQRIXMSX3RBYXG9CYPF2H8YGVES6IRWJRWCIVNNGG9W64CKJG3RHVF7YSJF7R2M5VK64XUTPE629NWNKVV3WN5X3WIZ94DRKSK4HEMIP7FRNSXXID4EZYVEBMMRQZVHFK32TGWHUUFJPDU9VFGWP9P6V6WDDTITRSWGQA35KI3ETP2VFUBY3BYBHJN5EQ9BQYQKQUUTAME8HAFM5M33GV5YJZAI42H9ANGZJMTRIGM5EGFAYG6T6JGB5SQFZHMR7Q774YH5AT6HAP4J9D9K96QR3UJ3BYWJTVZMWZ9DIQH&destination=https%3A//ad.doubleclick.net/ddm/trackclk/N1215814.1921114SREALITY/B34830862.437422730%3Bdc_trk_aid%3D630523367%3Bdc_trk_cid%3D248274084%3Bdc_lat%3D%3Bdc_rdid%3D%3Btag_for_child_directed_treatment%3D%3Btfua%3D%3Bgdpr%3D$%7BGDPR%7D%3Bgdpr_consent%3D$%7BGDPR_CONSENT_755%7D%3Bltd%3D%3Bdc_tdv%3D1",
-    "id": "B34830862.437422730%3Bdc_trk_aid%3D630523367%3Bdc_trk_cid%3D248274084%3Bdc_lat%3D%3Bdc_rdid%3D%3Btag_for_child_directed_treatment%3D%3Btfua%3D%3Bgdpr%3D$%7BGDPR%7D%3Bgdpr_consent%3D$%7BGDPR_CONSENT_755%7D%3Bltd%3D%3Bdc_tdv%3D1"
-  },
-  {
     "header": "Pronájem bytu 3+kk 95 m²",
     "Address": "Opuštěná, Brno - Trnitá",
     "Price": "27 990 Kč/měsíc",
@@ -138,19 +145,5 @@
     "Price": "16 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-zidenice-skorkovskeho/1654330188",
     "id": "1654330188"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 70 m²",
-    "Address": "Pechova, Brno - Židenice",
-    "Price": "18 500 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zidenice-pechova/1083052876",
-    "id": "1083052876"
-  },
-  {
-    "header": "Pronájem bytu 2+1 53 m²",
-    "Address": "Bratří Žůrků, Brno - Komárov",
-    "Price": "18 500 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-komarov-bratri-zurku/1433142092",
-    "id": "1433142092"
   }
 ]
