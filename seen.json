@@ -1,5 +1,26 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 75 m²",
+    "Address": "Podveská, Brno - Komín",
+    "Price": "26 900 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-komin-podveska/3318743884",
+    "id": "3318743884"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 80 m²",
+    "Address": "Brno - Brno-město",
+    "Price": "22 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-brno-mesto-/448791372",
+    "id": "448791372"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 66 m²",
+    "Address": "Trnitá, Brno - Trnitá",
+    "Price": "26 990 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-trnita-trnita/2662273868",
+    "id": "2662273868"
+  },
+  {
     "header": "Pronájem bytu 2+1 67 m²",
     "Address": "Merhautova, Brno - Zábrdovice",
     "Price": "27 490 Kč/měsíc",
@@ -23,7 +44,7 @@
   {
     "header": "Pronájem bytu 2+1 49 m²",
     "Address": "Podbělová, Brno - Líšeň",
-    "Price": "18 000 Kč/měsíc",
+    "Price": "17 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-lisen-podbelova/592446284",
     "id": "592446284"
   },
@@ -117,26 +138,5 @@
     "Price": "Cena na vyžádání",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zabrdovice-auerswaldova/3833070412",
     "id": "3833070412"
-  },
-  {
-    "header": "Pronájem bytu 3+1 75 m²",
-    "Address": "Banskobystrická, Brno - Řečkovice",
-    "Price": "21 800 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-reckovice-banskobystricka/3084911436",
-    "id": "3084911436"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 95 m²",
-    "Address": "Opuštěná, Brno - Trnitá",
-    "Price": "27 990 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-trnita-opustena/3691524940",
-    "id": "3691524940"
-  },
-  {
-    "header": "Pronájem bytu 2+1 50 m²",
-    "Address": "Skorkovského, Brno - Židenice",
-    "Price": "16 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-zidenice-skorkovskeho/93000524",
-    "id": "93000524"
   }
 ]
