@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 64 m²",
+    "Address": "Škrochova, Brno - Židenice",
+    "Price": "24 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zidenice-skrochova/3683062604",
+    "id": "3683062604"
+  },
+  {
     "header": "Pronájem bytu 3+kk 60 m²",
     "Address": "Svitavské nábřeží, Brno - Husovice",
     "Price": "21 000 Kč/měsíc",
@@ -131,12 +138,5 @@
     "Price": "29 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-pisarky-zabovreska/2164527948",
     "id": "2164527948"
-  },
-  {
-    "header": "Pronájem bytu 2+1 70 m²",
-    "Address": "Filipínského, Brno - Židenice",
-    "Price": "23 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-zidenice-filipinskeho/4232319820",
-    "id": "4232319820"
   }
 ]
