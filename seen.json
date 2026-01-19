@@ -1,5 +1,19 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 84 m²",
+    "Address": "Kneslova, Brno - Černovice",
+    "Price": "26 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-cernovice-kneslova/2290549580",
+    "id": "2290549580"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 120 m²",
+    "Address": "Skorkovského, Brno - Židenice",
+    "Price": "27 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zidenice-skorkovskeho/4080010060",
+    "id": "4080010060"
+  },
+  {
     "header": "Pronájem bytu 3+kk 65 m²",
     "Address": "Auerswaldova, Brno - Zábrdovice",
     "Price": "Cena na vyžádání",
@@ -124,19 +138,5 @@
     "Price": "19 900 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-kohoutovice-borodinova/3703911244",
     "id": "3703911244"
-  },
-  {
-    "header": "Pronájem bytu 3+1 76 m²",
-    "Address": "Oblá, Brno - Nový Lískovec",
-    "Price": "21 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-novy-liskovec-obla/3711959884",
-    "id": "3711959884"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 81 m²",
-    "Address": "třída Generála Píky, Brno - Černá Pole",
-    "Price": "34 800 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-cerna-pole-trida-generala-piky/1451086668",
-    "id": "1451086668"
   }
 ]
