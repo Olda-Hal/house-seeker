@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 60 m²",
+    "Address": "Svitavské nábřeží, Brno - Husovice",
+    "Price": "21 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-husovice-svitavske-nabrezi/3831890764",
+    "id": "3831890764"
+  },
+  {
     "header": "Pronájem bytu 3+kk 84 m²",
     "Address": "Kneslova, Brno - Černovice",
     "Price": "26 000 Kč/měsíc",
@@ -131,12 +138,5 @@
     "Price": "23 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-zidenice-filipinskeho/4232319820",
     "id": "4232319820"
-  },
-  {
-    "header": "Pronájem bytu 2+1 60 m²",
-    "Address": "Borodinova, Brno - Kohoutovice",
-    "Price": "19 900 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-kohoutovice-borodinova/3703911244",
-    "id": "3703911244"
   }
 ]
