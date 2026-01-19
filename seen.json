@@ -1,5 +1,33 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 75 m²",
+    "Address": "Komárovská, Brno - Komárov",
+    "Price": "49 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-komarov-komarovska/3643315020",
+    "id": "3643315020"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 70 m²",
+    "Address": "Hudcova, Brno - Medlánky",
+    "Price": "23 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-medlanky-hudcova/4079420236",
+    "id": "4079420236"
+  },
+  {
+    "header": "Pronájem bytu 3+1 73 m²",
+    "Address": "Štefánikova, Brno - Ponava",
+    "Price": "27 500 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-ponava-stefanikova/213521228",
+    "id": "213521228"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 68 m²",
+    "Address": "Vrázova, Brno - Žabovřesky",
+    "Price": "19 900 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zabovresky-vrazova/3324445516",
+    "id": "3324445516"
+  },
+  {
     "header": "Pronájem bytu 3+1 120 m²",
     "Address": "Skácelova, Brno - Královo Pole",
     "Price": "35 000 Kč/měsíc",
@@ -110,33 +138,5 @@
     "Price": "25 990 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-kralovo-pole-hercikova/2368406348",
     "id": "2368406348"
-  },
-  {
-    "header": "Pronájem bytu 2+1 45 m²",
-    "Address": "Gorkého, Brno - Veveří",
-    "Price": "16 460 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-veveri-gorkeho/2961179468",
-    "id": "2961179468"
-  },
-  {
-    "header": "Pronájem bytu 3+1 73 m²",
-    "Address": "Žebětínská, Brno - Kohoutovice",
-    "Price": "Cena na vyžádání",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-kohoutovice-zebetinska/2674525004",
-    "id": "2674525004"
-  },
-  {
-    "header": "Pronájem bytu 2+1 49 m²",
-    "Address": "Podbělová, Brno - Líšeň",
-    "Price": "18 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-lisen-podbelova/592446284",
-    "id": "592446284"
-  },
-  {
-    "header": "Pronájem bytu 2+1 54 m²",
-    "Address": "Vysoká, Brno - Štýřice",
-    "Price": "20 500 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-styrice-vysoka/476980044",
-    "id": "476980044"
   }
 ]
