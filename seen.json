@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 70 m²",
+    "Address": "Brno - Zábrdovice",
+    "Price": "28 500 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zabrdovice-/217449292",
+    "id": "217449292"
+  },
+  {
     "header": "Pronájem bytu 2+1 49 m²",
     "Address": "Helfertova, Brno - Černá Pole",
     "Price": "27 000 Kč/měsíc",
@@ -131,12 +138,5 @@
     "Price": "27 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zidenice-skorkovskeho/4080010060",
     "id": "4080010060"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 65 m²",
-    "Address": "Auerswaldova, Brno - Zábrdovice",
-    "Price": "Cena na vyžádání",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zabrdovice-auerswaldova/3833070412",
-    "id": "3833070412"
   }
 ]
