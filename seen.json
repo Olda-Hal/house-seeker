@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 145 m²",
+    "Address": "Vrchlického sad, Brno - Černá Pole",
+    "Price": "39 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-cerna-pole-vrchlickeho-sad/3508470604",
+    "id": "3508470604"
+  },
+  {
     "header": "Pronájem bytu 3+kk 71 m²",
     "Address": "Placzkova, Brno - Trnitá",
     "Price": "25 990 Kč/měsíc",
@@ -131,12 +138,5 @@
     "Price": "24 500 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-brno-jaselska/2994078540",
     "id": "2994078540"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 64 m²",
-    "Address": "Škrochova, Brno - Židenice",
-    "Price": "24 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zidenice-skrochova/3683062604",
-    "id": "3683062604"
   }
 ]
