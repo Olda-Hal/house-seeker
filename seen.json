@@ -1,5 +1,19 @@
 [
   {
+    "header": "Pronájem bytu 2+1 53 m²",
+    "Address": "Stará osada, Brno - Židenice",
+    "Price": "20 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-zidenice-stara-osada/141886284",
+    "id": "141886284"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 70 m²",
+    "Address": "Reissigova, Brno - Ponava",
+    "Price": "20 500 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-ponava-reissigova/3660325708",
+    "id": "3660325708"
+  },
+  {
     "header": "Pronájem bytu 3+kk 173 m²",
     "Address": "Květinářská, Brno - Brno-město",
     "Price": "50 000 Kč/měsíc",
@@ -124,19 +138,5 @@
     "Price": "28 500 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zabrdovice-/217449292",
     "id": "217449292"
-  },
-  {
-    "header": "Pronájem bytu 2+1 49 m²",
-    "Address": "Helfertova, Brno - Černá Pole",
-    "Price": "27 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-cerna-pole-helfertova/2265592652",
-    "id": "2265592652"
-  },
-  {
-    "header": "Pronájem bytu 2+1 70 m²",
-    "Address": "Banskobystrická, Brno - Řečkovice",
-    "Price": "25 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-reckovice-banskobystricka/2212889420",
-    "id": "2212889420"
   }
 ]
