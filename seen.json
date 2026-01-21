@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 2+1 66 m²",
+    "Address": "Štolcova, Brno - Černovice",
+    "Price": "26 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-cernovice-stolcova/4017226572",
+    "id": "4017226572"
+  },
+  {
     "header": "Pronájem bytu 2+1 45 m²",
     "Address": "Gorkého, Brno - Veveří",
     "Price": "16 460 Kč/měsíc",
@@ -131,12 +138,5 @@
     "Price": "15 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-reckovice-novomestska/3634234188",
     "id": "3634234188"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 74 m²",
-    "Address": "Za Mostem, Brno - Komárov",
-    "Price": "21 600 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-komarov-za-mostem/1878328140",
-    "id": "1878328140"
   }
 ]
