@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 2+1 58 m²",
+    "Address": "Venhudova, Brno - Černá Pole",
+    "Price": "24 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-cerna-pole-venhudova/2666734412",
+    "id": "2666734412"
+  },
+  {
     "header": "Pronájem bytu 2+1 53 m²",
     "Address": "Stará osada, Brno - Židenice",
     "Price": "20 000 Kč/měsíc",
@@ -131,12 +138,5 @@
     "Price": "26 990 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-trnita-trnita/2662273868",
     "id": "2662273868"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 70 m²",
-    "Address": "Brno - Zábrdovice",
-    "Price": "28 500 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zabrdovice-/217449292",
-    "id": "217449292"
   }
 ]
