@@ -1,5 +1,19 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 82 m²",
+    "Address": "Fuchsova, Brno - Trnitá",
+    "Price": "29 990 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-trnita-fuchsova/2815632204",
+    "id": "2815632204"
+  },
+  {
+    "header": "Pronájem bytu 2+1 69 m²",
+    "Address": "Štefánikova, Brno - Veveří",
+    "Price": "20 900 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-veveri-stefanikova/335020876",
+    "id": "335020876"
+  },
+  {
     "header": "Pronájem bytu 3+kk 95 m²",
     "Address": "Opuštěná, Brno - Trnitá",
     "Price": "27 990 Kč/měsíc",
@@ -124,19 +138,5 @@
     "Price": "35 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-komarov-komarovska/3670397772",
     "id": "3670397772"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 119 m²",
-    "Address": "Petra Křivky, Brno - Nový Lískovec",
-    "Price": "34 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-novy-liskovec-petra-krivky/2431583052",
-    "id": "2431583052"
-  },
-  {
-    "header": "Pronájem bytu 2+1 56 m²",
-    "Address": "Záhřebská, Brno - Žabovřesky",
-    "Price": "18 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-zabovresky-zahrebska/114561868",
-    "id": "114561868"
   }
 ]
