@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+1 73 m²",
+    "Address": "Štefánikova, Brno - Ponava",
+    "Price": "26 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-ponava-stefanikova/213521228",
+    "id": "213521228"
+  },
+  {
     "header": "Pronájem bytu 2+1 49 m²",
     "Address": "Podbělová, Brno - Líšeň",
     "Price": "18 000 Kč/měsíc",
@@ -131,12 +138,5 @@
     "Price": "23 500 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-kralovo-pole-kamanova/976950092",
     "id": "976950092"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 65 m²",
-    "Address": "Křídlovická, Brno - Staré Brno",
-    "Price": "28 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-stare-brno-kridlovicka/3167617868",
-    "id": "3167617868"
   }
 ]
