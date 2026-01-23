@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 84 m²",
+    "Address": "Kneslova, Brno - Černovice",
+    "Price": "26 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-cernovice-kneslova/2290549580",
+    "id": "2290549580"
+  },
+  {
     "header": "Pronájem bytu 3+kk 71 m²",
     "Address": "Placzkova, Brno - Trnitá",
     "Price": "25 990 Kč/měsíc",
@@ -37,7 +44,7 @@
   {
     "header": "Pronájem bytu 2+1 60 m²",
     "Address": "Soudní, Brno - Zábrdovice",
-    "Price": "20 000 Kč",
+    "Price": "19 500 Kč",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-zabrdovice-soudni/1490776908",
     "id": "1490776908"
   },
@@ -131,12 +138,5 @@
     "Price": "25 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-cernovice-kotkova/3586925388",
     "id": "3586925388"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 70 m²",
-    "Address": "Kotkova, Brno - Černovice",
-    "Price": "25 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-cernovice-kotkova/3841794892",
-    "id": "3841794892"
   }
 ]
