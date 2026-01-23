@@ -1,5 +1,19 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 71 m²",
+    "Address": "Placzkova, Brno - Trnitá",
+    "Price": "25 990 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-trnita-placzkova/2008290124",
+    "id": "2008290124"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 82 m²",
+    "Address": "Fuchsova, Brno - Trnitá",
+    "Price": "29 990 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-trnita-fuchsova/2815632204",
+    "id": "2815632204"
+  },
+  {
     "header": "Pronájem bytu 2+1 50 m²",
     "Address": "Palackého třída, Brno - Královo Pole",
     "Price": "18 500 Kč/měsíc",
@@ -105,13 +119,6 @@
     "id": "1482490700"
   },
   {
-    "header": "Luxusní dům Blanka 33",
-    "Address": "Pořiďte si svůj vysněný dům s dispozicí 5+kk za cenu v luxusním provedení 4.650.000 Kč.",
-    "Price": "Ekonomické stavby",
-    "link": "https://a.seznam.cz/v2/click?spotId=4096459&d=RVPT6VWN7URXGBKE9MW4NYM8GV3NXUGS8I3ACCYWNTU4WH64YDH3CBI9ZDN5Z7DEEMIFSAVC52WTJTJ7GWD2TPYDMKQDD2Q5YSJDBXNCZ4KCEF3QK34ZP5Y7RGDS9JSC9GAHNP2EKGX9ZIHN6TA5R95P489RRI74XY4EZXQ7XZKNCG9DU2DCRV6UX7SVBY5GKMWNRDGKDSEMDY6MGXJH3V7TYDCY4FNWB7DWQEA5UG8T4CAPBDBBTMVQE6EYT6X84RIH23TZP54J3XHIQD2QXD5VGPVETFJ4Y4CYWSPIYU7W6QF7YCEK5P9NKTEG7P966WSDNV7SG5GGUVUTDDMDQZF6XAGYYZVNH74GFCDFSUZIN&destination=https%3A//pozemky.ekonomicke-stavby.cz/blanka_33.php%3Futm_source%3DSreality%26utm_campaign%3DBlanka33%281-2026%29%26utm_term%3Dpromoballoon%26utm_content%3Dpaymentnotshown%26utm_medium%3DNativniInzerat",
-    "id": "blanka_33.php%3Futm_source%3DSreality%26utm_campaign%3DBlanka33%281-2026%29%26utm_term%3Dpromoballoon%26utm_content%3Dpaymentnotshown%26utm_medium%3DNativniInzerat"
-  },
-  {
     "header": "Pronájem bytu 2+1 62 m²",
     "Address": "Foerstrova, Brno - Žabovřesky",
     "Price": "17 990 Kč/měsíc",
@@ -131,19 +138,5 @@
     "Price": "25 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-cernovice-kotkova/3841794892",
     "id": "3841794892"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 70 m²",
-    "Address": "Kotkova, Brno - Černovice",
-    "Price": "25 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-cernovice-kotkova/2499617612",
-    "id": "2499617612"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 70 m²",
-    "Address": "Reissigova, Brno - Ponava",
-    "Price": "20 500 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-ponava-reissigova/3660325708",
-    "id": "3660325708"
   }
 ]
