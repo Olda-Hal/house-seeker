@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 2+1 72 m²",
+    "Address": "Hoblíkova, Brno - Černá Pole",
+    "Price": "21 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-cerna-pole-hoblikova/1482490700",
+    "id": "1482490700"
+  },
+  {
     "header": "Pronájem bytu 2+1 62 m²",
     "Address": "Foerstrova, Brno - Žabovřesky",
     "Price": "17 990 Kč/měsíc",
@@ -131,12 +138,5 @@
     "Price": "19 500 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-kralovo-pole-purkynova/741081932",
     "id": "741081932"
-  },
-  {
-    "header": "Pronájem bytu 3+1 73 m²",
-    "Address": "Štefánikova, Brno - Ponava",
-    "Price": "26 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-ponava-stefanikova/213521228",
-    "id": "213521228"
   }
 ]
