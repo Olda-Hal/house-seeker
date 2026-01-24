@@ -1,5 +1,19 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 95 m²",
+    "Address": "Opuštěná, Brno - Trnitá",
+    "Price": "27 990 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-trnita-opustena/3691524940",
+    "id": "3691524940"
+  },
+  {
+    "header": "Pronájem bytu 3+1 60 m²",
+    "Address": "Strnadova, Brno - Líšeň",
+    "Price": "19 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-lisen-strnadova/1095398220",
+    "id": "1095398220"
+  },
+  {
     "header": "Pronájem bytu 3+1 108 m²",
     "Address": "Botanická, Brno - Veveří",
     "Price": "22 000 Kč/měsíc",
@@ -124,19 +138,5 @@
     "Price": "21 500 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-kohoutovice-voriskova/3532002124",
     "id": "3532002124"
-  },
-  {
-    "header": "Pronájem bytu 3+1 71 m²",
-    "Address": "Fryčajova, Brno - Obřany",
-    "Price": "20 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-obrany-frycajova/2945323852",
-    "id": "2945323852"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 69 m²",
-    "Address": "Podnásepní, Brno - Trnitá",
-    "Price": "22 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-trnita-podnasepni/655700812",
-    "id": "655700812"
   }
 ]
