@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 2+1 63 m²",
+    "Address": "Petrůvky, Brno - Židenice",
+    "Price": "18 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-zidenice-petruvky/2957312844",
+    "id": "2957312844"
+  },
+  {
     "header": "Pronájem bytu 3+kk 87 m²",
     "Address": "Zoubkova, Brno - Nový Lískovec",
     "Price": "22 000 Kč/měsíc",
@@ -105,13 +112,6 @@
     "id": "2945323852"
   },
   {
-    "header": "Získejte silnou Wi-Fi",
-    "Address": "Celou domácnost připojíte za 399 Kč měsíčně, v balíčku O2 Spolu dokonce za 299 Kč měsíčně",
-    "Price": "O2",
-    "link": "https://a.seznam.cz/v2/click?spotId=4093982&d=CXD6EF2GU6IPME4CFW4DHZHK9E78R46DREWK3YYK8BE9R5X39BNHDR82IU8WVQ8TUN3UCR4DB5UYQKDP9Y6285X7W697JI7HNWRNU6FISDHJQJE4YUX9HIP2YRJT5H4EDI9WQ9JS9KTD3DG68JIKCC5SXA55ETQDGBJPXPHQP9HF3ZE2YA7KMPGJV8Y6A9VTTY78RGNAICU5DN6KP5439JAPUJYI6B4KV7HHZV4XAA93IA66DI5Y6TM85PCCSBKJH7KBE8BWTSZ6I6DVPG8J33EECKHKSQBTEFTY2JB6UA4X2P47ICN738VC9QNJB85XX952XKNVA6M2A5CZWMNXVWTS9AC77CG9A7JQD6R5SXMG5SZ8RE&destination=https%3A//ad.doubleclick.net/ddm/trackclk/N1215814.1921114SREALITY/B34830862.437422730%3Bdc_trk_aid%3D630523367%3Bdc_trk_cid%3D248274084%3Bdc_lat%3D%3Bdc_rdid%3D%3Btag_for_child_directed_treatment%3D%3Btfua%3D%3Bgdpr%3D$%7BGDPR%7D%3Bgdpr_consent%3D$%7BGDPR_CONSENT_755%7D%3Bltd%3D%3Bdc_tdv%3D1",
-    "id": "B34830862.437422730%3Bdc_trk_aid%3D630523367%3Bdc_trk_cid%3D248274084%3Bdc_lat%3D%3Bdc_rdid%3D%3Btag_for_child_directed_treatment%3D%3Btfua%3D%3Bgdpr%3D$%7BGDPR%7D%3Bgdpr_consent%3D$%7BGDPR_CONSENT_755%7D%3Bltd%3D%3Bdc_tdv%3D1"
-  },
-  {
     "header": "Pronájem bytu 3+kk 69 m²",
     "Address": "Podnásepní, Brno - Trnitá",
     "Price": "22 000 Kč/měsíc",
@@ -138,12 +138,5 @@
     "Price": "20 500 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-styrice-vysoka/476980044",
     "id": "476980044"
-  },
-  {
-    "header": "Pronájem bytu 2+1 58 m²",
-    "Address": "Jasanová, Brno - Jundrov",
-    "Price": "22 500 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-jundrov-jasanova/2514035532",
-    "id": "2514035532"
   }
 ]
