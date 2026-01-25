@@ -1,5 +1,19 @@
 [
   {
+    "header": "Pronájem bytu 2+1 56 m²",
+    "Address": "Kotěrova, Brno - Černá Pole",
+    "Price": "22 500 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-cerna-pole-koterova/1174041420",
+    "id": "1174041420"
+  },
+  {
+    "header": "Pronájem bytu 2+1 61 m²",
+    "Address": "Březová, Brno - Jundrov",
+    "Price": "22 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-jundrov-brezova/183137100",
+    "id": "183137100"
+  },
+  {
     "header": "Pronájem bytu 2+1 51 m²",
     "Address": "Zedníkova, Brno - Staré Brno",
     "Price": "19 000 Kč/měsíc",
@@ -105,13 +119,6 @@
     "id": "3167617868"
   },
   {
-    "header": "Získejte silný Internet",
-    "Address": "Přejděte na O2 Internet s funkcí Wi-Fi Mesh a získejte silné připojení pro celou domácnost",
-    "Price": "O2",
-    "link": "https://a.seznam.cz/v2/click?spotId=4093983&d=J4E2QUR2FDMVTJDCXZADECDCXQG7P3G7UTDTTF3Q3AVUQK4693QTT2QCEMVT4AWV3W7SMBUVZKQ3FDM46ID7XTJCB22BYNSHH4RFBTXYMEV6SWTBP9K6SGRTACVSJ7JN63INNIYUBIR855W28JN8ZKX922PI235WQGNQJSE25TS47YX4FEQ3YZQGQAIJXS5FRJGMZTVQH4DJZQMA9HMKYMVHWPG5NJD25W3EBEGTPDRVMG3HGZU6S56NRKGKE8Y2MJVWUF6QXDHGH49WUPTYNZYSA86T6JP4MFHD9GKCIAFHW6FJSTS5PJAFPHTAFCAD5VRJ6RM5WVSSAR2JHCK2MQJP79FX2KA7ZIJ5VHYGB7RETN2&destination=https%3A//ad.doubleclick.net/ddm/trackclk/N1215814.1921114SREALITY/B34830862.437422730%3Bdc_trk_aid%3D630523367%3Bdc_trk_cid%3D247628123%3Bdc_lat%3D%3Bdc_rdid%3D%3Btag_for_child_directed_treatment%3D%3Btfua%3D%3Bgdpr%3D$%7BGDPR%7D%3Bgdpr_consent%3D$%7BGDPR_CONSENT_755%7D%3Bltd%3D%3Bdc_tdv%3D1",
-    "id": "B34830862.437422730%3Bdc_trk_aid%3D630523367%3Bdc_trk_cid%3D247628123%3Bdc_lat%3D%3Bdc_rdid%3D%3Btag_for_child_directed_treatment%3D%3Btfua%3D%3Bgdpr%3D$%7BGDPR%7D%3Bgdpr_consent%3D$%7BGDPR_CONSENT_755%7D%3Bltd%3D%3Bdc_tdv%3D1"
-  },
-  {
     "header": "Pronájem bytu 2+1 52 m²",
     "Address": "Voříškova, Brno - Kohoutovice",
     "Price": "21 500 Kč/měsíc",
@@ -131,19 +138,5 @@
     "Price": "22 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-trnita-podnasepni/655700812",
     "id": "655700812"
-  },
-  {
-    "header": "Pronájem bytu 2+1 53 m²",
-    "Address": "Křídlovická, Brno - Staré Brno",
-    "Price": "18 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-stare-brno-kridlovicka/1757287244",
-    "id": "1757287244"
-  },
-  {
-    "header": "Pronájem bytu 3+1 78 m²",
-    "Address": "Kamanova, Brno - Královo Pole",
-    "Price": "23 500 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-kralovo-pole-kamanova/976950092",
-    "id": "976950092"
   }
 ]
