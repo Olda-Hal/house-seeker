@@ -1,5 +1,19 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 65 m²",
+    "Address": "Řeznická, Brno - Trnitá",
+    "Price": "21 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-trnita-reznicka/2688488268",
+    "id": "2688488268"
+  },
+  {
+    "header": "Pronájem bytu 2+1 50 m²",
+    "Address": "Palackého třída, Brno - Královo Pole",
+    "Price": "18 500 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-kralovo-pole-palackeho-trida/2223715148",
+    "id": "2223715148"
+  },
+  {
     "header": "Pronájem bytu 3+kk 95 m²",
     "Address": "Opuštěná, Brno - Trnitá",
     "Price": "27 990 Kč/měsíc",
@@ -47,13 +61,6 @@
     "Price": "32 900 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-cerna-pole-hilleho/3426382668",
     "id": "3426382668"
-  },
-  {
-    "header": "Pronájem bytu 2+1 50 m²",
-    "Address": "Palackého třída, Brno - Královo Pole",
-    "Price": "18 500 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-kralovo-pole-palackeho-trida/2223715148",
-    "id": "2223715148"
   },
   {
     "header": "Pronájem bytu 2+1 67 m²",
@@ -131,12 +138,5 @@
     "Price": "19 500 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-kralovo-pole-tyrsova/4046091084",
     "id": "4046091084"
-  },
-  {
-    "header": "Pronájem bytu 2+1 50 m²",
-    "Address": "Skorkovského, Brno - Židenice",
-    "Price": "16 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-zidenice-skorkovskeho/93000524",
-    "id": "93000524"
   }
 ]
