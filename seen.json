@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 50 m²",
+    "Address": "Košinova, Brno - Královo Pole",
+    "Price": "20 200 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-kralovo-pole-kosinova/902394700",
+    "id": "902394700"
+  },
+  {
     "header": "Pronájem bytu 3+kk 65 m²",
     "Address": "Řeznická, Brno - Trnitá",
     "Price": "21 000 Kč/měsíc",
@@ -131,12 +138,5 @@
     "Price": "16 500 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-slatina-bucovicka/3765068",
     "id": "3765068"
-  },
-  {
-    "header": "Pronájem bytu 2+1 51 m²",
-    "Address": "Zedníkova, Brno - Staré Brno",
-    "Price": "19 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-stare-brno-zednikova/1859945292",
-    "id": "1859945292"
   }
 ]
