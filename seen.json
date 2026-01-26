@@ -1,5 +1,19 @@
 [
   {
+    "header": "Pronájem bytu 2+1 49 m²",
+    "Address": "Podbělová, Brno - Líšeň",
+    "Price": "18 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-lisen-podbelova/592446284",
+    "id": "592446284"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 75 m²",
+    "Address": "Komárovská, Brno - Komárov",
+    "Price": "49 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-komarov-komarovska/3643315020",
+    "id": "3643315020"
+  },
+  {
     "header": "Pronájem bytu 2+1 55 m²",
     "Address": "Skopalíkova, Brno - Židenice",
     "Price": "16 000 Kč/měsíc",
@@ -47,13 +61,6 @@
     "Price": "21 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-novy-liskovec-obla/3711959884",
     "id": "3711959884"
-  },
-  {
-    "header": "Luxusní dům Blanka 33",
-    "Address": "Pořiďte si svůj vysněný dům s dispozicí 5+kk za cenu v luxusním provedení 4.650.000 Kč.",
-    "Price": "Ekonomické stavby",
-    "link": "https://a.seznam.cz/v2/click?spotId=4096459&d=47TP3VV4KW4BE8WDD5SB7ZBQAW2FXWQWGAVD8662EVANQUWX8JRHYEQTUJZFIBWAQZHMC3EQVBRICYTM4I7A9KJN2J7KBT5XE6JCEYUKRGRRNHS2MY2ZS92EG6HE2WSGH4NFU27S46PFG2R6D6WW3RVHM9ABJBIC56GHVMVD4V99JPGUER3C3BURZB98SJ6B76XHXSA2WR4IJID9ZD6EA28FEMSGVEWPP2CSF8MSSBYBR2VZI3HNTEABMUCA7M9FSK9JNGWS6ZAYBGAI7MICGNS2I3CHTAYCGN3BJKVD8UKK4A6NVIMMSDIVN95Z2JAUVUGMU8XJ3EY8P4KHT5H8Q2RYWFZ6GREN9FEY65IVC9ZZUM2&destination=https%3A//pozemky.ekonomicke-stavby.cz/blanka_33.php%3Futm_source%3DSreality%26utm_campaign%3DBlanka33%281-2026%29%26utm_term%3Dpromoballoon%26utm_content%3Dpaymentnotshown%26utm_medium%3DNativniInzerat",
-    "id": "blanka_33.php%3Futm_source%3DSreality%26utm_campaign%3DBlanka33%281-2026%29%26utm_term%3Dpromoballoon%26utm_content%3Dpaymentnotshown%26utm_medium%3DNativniInzerat"
   },
   {
     "header": "Pronájem bytu 2+1 58 m²",
@@ -131,19 +138,5 @@
     "Price": "14 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-novy-liskovec-koniklecova/61801292",
     "id": "61801292"
-  },
-  {
-    "header": "Pronájem bytu 3+1 130 m²",
-    "Address": "Nové sady, Brno - Staré Brno",
-    "Price": "38 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-stare-brno-nove-sady/218301260",
-    "id": "218301260"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 72 m²",
-    "Address": "Bačovského, Brno - Líšeň",
-    "Price": "26 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-lisen-bacovskeho/1252684620",
-    "id": "1252684620"
   }
 ]
