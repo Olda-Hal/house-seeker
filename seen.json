@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 2+1 62 m²",
+    "Address": "Boskovická, Brno - Řečkovice",
+    "Price": "19 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-reckovice-boskovicka/2125034316",
+    "id": "2125034316"
+  },
+  {
     "header": "Pronájem bytu 2+1 60 m²",
     "Address": "Údolní, Brno - Brno-město",
     "Price": "19 000 Kč/měsíc",
@@ -131,12 +138,5 @@
     "Price": "18 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-zabrdovice-francouzska/2362311500",
     "id": "2362311500"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 66 m²",
-    "Address": "Komárovská, Brno - Komárov",
-    "Price": "29 900 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-komarov-komarovska/3642561356",
-    "id": "3642561356"
   }
 ]
