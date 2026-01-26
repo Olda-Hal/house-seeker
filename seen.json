@@ -1,5 +1,19 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 97 m²",
+    "Address": "Charvatská, Brno - Královo Pole",
+    "Price": "39 900 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-kralovo-pole-charvatska/3028685644",
+    "id": "3028685644"
+  },
+  {
+    "header": "Pronájem bytu 2+1 54 m²",
+    "Address": "Vídeňská, Brno - Štýřice",
+    "Price": "20 900 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-styrice-videnska/1059980108",
+    "id": "1059980108"
+  },
+  {
     "header": "Pronájem bytu 3+kk 50 m²",
     "Address": "Košinova, Brno - Královo Pole",
     "Price": "20 200 Kč/měsíc",
@@ -124,19 +138,5 @@
     "Price": "29 900 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-komarov-komarovska/3642561356",
     "id": "3642561356"
-  },
-  {
-    "header": "Pronájem bytu 2+1 61 m²",
-    "Address": "Merhautova, Brno - Brno-sever",
-    "Price": "21 500 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-brno-sever-merhautova/1127838540",
-    "id": "1127838540"
-  },
-  {
-    "header": "Pronájem bytu 2+1 55 m²",
-    "Address": "Bučovická, Brno - Slatina",
-    "Price": "16 500 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-slatina-bucovicka/3765068",
-    "id": "3765068"
   }
 ]
