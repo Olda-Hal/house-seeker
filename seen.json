@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 2+1 75 m²",
+    "Address": "Veveří, Brno",
+    "Price": "21 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-brno-veveri/3403158348",
+    "id": "3403158348"
+  },
+  {
     "header": "Pronájem bytu 3+kk 80 m²",
     "Address": "Brno - Ponava",
     "Price": "22 000 Kč/měsíc",
@@ -131,12 +138,5 @@
     "Price": "19 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-brno-mesto-udolni/1183318860",
     "id": "1183318860"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 97 m²",
-    "Address": "Charvatská, Brno - Královo Pole",
-    "Price": "39 900 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-kralovo-pole-charvatska/3028685644",
-    "id": "3028685644"
   }
 ]
