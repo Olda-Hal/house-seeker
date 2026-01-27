@@ -70,6 +70,13 @@
     "id": "4037608268"
   },
   {
+    "header": "Pronájem bytu 3+1 71 m²",
+    "Address": "Josefy Faimonové, Brno - Líšeň",
+    "Price": "24 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-lisen-josefy-faimonove/1628992332",
+    "id": "1628992332"
+  },
+  {
     "header": "Pronájem bytu 2+1 75 m²",
     "Address": "Veveří, Brno",
     "Price": "21 000 Kč/měsíc",
@@ -131,12 +138,5 @@
     "Price": "16 900 Kč",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-bohunice-uzbecka/1584952140",
     "id": "1584952140"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 119 m²",
-    "Address": "Petra Křivky, Brno - Nový Lískovec",
-    "Price": "32 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-novy-liskovec-petra-krivky/2431583052",
-    "id": "2431583052"
   }
 ]
