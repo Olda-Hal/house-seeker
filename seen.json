@@ -1,5 +1,19 @@
 [
   {
+    "header": "Pronájem bytu 2+1 62 m²",
+    "Address": "Novoměstská, Brno - Řečkovice",
+    "Price": "15 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-reckovice-novomestska/3634234188",
+    "id": "3634234188"
+  },
+  {
+    "header": "Pronájem bytu 2+1 58 m²",
+    "Address": "Náplavka, Brno - Staré Brno",
+    "Price": "19 900 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-stare-brno-naplavka/3616174924",
+    "id": "3616174924"
+  },
+  {
     "header": "Pronájem bytu 3+kk 87 m²",
     "Address": "Nad Dědinou, Brno - Bystrc",
     "Price": "20 000 Kč/měsíc",
@@ -124,19 +138,5 @@
     "Price": "26 990 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-trnita-trnita/2662273868",
     "id": "2662273868"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 66 m²",
-    "Address": "Kotěrova, Brno - Černá Pole",
-    "Price": "25 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-cerna-pole-koterova/183968588",
-    "id": "183968588"
-  },
-  {
-    "header": "Pronájem bytu 2+1 58 m²",
-    "Address": "Kubíčkova, Brno - Bystrc",
-    "Price": "21 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-bystrc-kubickova/265843532",
-    "id": "265843532"
   }
 ]
