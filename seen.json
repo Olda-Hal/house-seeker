@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 2+1 78 m²",
+    "Address": "Antonínská, Brno - Veveří",
+    "Price": "25 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-veveri-antoninska/2977657676",
+    "id": "2977657676"
+  },
+  {
     "header": "Pronájem bytu 3+1 120 m²",
     "Address": "Skácelova, Brno - Královo Pole",
     "Price": "35 000 Kč/měsíc",
@@ -131,12 +138,5 @@
     "Price": "23 500 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-kralovo-pole-kamanova/976950092",
     "id": "976950092"
-  },
-  {
-    "header": "Pronájem bytu 2+1 53 m²",
-    "Address": "Křídlovická, Brno - Staré Brno",
-    "Price": "18 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-stare-brno-kridlovicka/1757287244",
-    "id": "1757287244"
   }
 ]
