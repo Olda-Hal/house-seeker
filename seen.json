@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 70 m²",
+    "Address": "Ramešova, Brno - Královo Pole",
+    "Price": "25 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-kralovo-pole-ramesova/3328574284",
+    "id": "3328574284"
+  },
+  {
     "header": "Pronájem bytu 3+kk 100 m²",
     "Address": "Osiková, Brno - Jundrov",
     "Price": "40 000 Kč/měsíc",
@@ -131,12 +138,5 @@
     "Price": "16 500 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-stare-brno-hlinky/3250959180",
     "id": "3250959180"
-  },
-  {
-    "header": "Pronájem bytu 3+1 95 m²",
-    "Address": "Táborská, Brno - Židenice",
-    "Price": "23 500 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-zidenice-taborska/1613939532",
-    "id": "1613939532"
   }
 ]
