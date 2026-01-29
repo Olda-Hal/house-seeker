@@ -1,5 +1,26 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 100 m²",
+    "Address": "Osiková, Brno - Jundrov",
+    "Price": "40 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-jundrov-osikova/2311025484",
+    "id": "2311025484"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 85 m²",
+    "Address": "Cacovická, Brno - Husovice",
+    "Price": "21 990 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-husovice-cacovicka/3976598348",
+    "id": "3976598348"
+  },
+  {
+    "header": "Pronájem bytu 2+1 64 m²",
+    "Address": "Stará osada, Brno - Židenice",
+    "Price": "19 990 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-zidenice-stara-osada/2874831692",
+    "id": "2874831692"
+  },
+  {
     "header": "Pronájem bytu 3+1 94 m²",
     "Address": "Čápkova, Brno - Veveří",
     "Price": "27 900 Kč/měsíc",
@@ -105,13 +126,6 @@
     "id": "2499617612"
   },
   {
-    "header": "Plánování kuchyně ZDARMA",
-    "Address": "Rezervujte termín a naplánujte si s námi kuchyni německé kvality se zárukou až 25 let.",
-    "Price": "XXXLutz Česká republika",
-    "link": "https://i.imedia.cz/v2/click?spotId=4096959&d=3XN4YKNXPGQTNZYFVZ9IBS4YY823T3TGEG3C3FV2T2EP2VE2CT8WZWD4U6K2VSPPTEIESY3TA89QSGVIMCUNV74YCABEBD96B9CET59D4G4C7M5STK9TZWN5BHXRJYPWAS5YJENYZQKHGWMTEB4RSNSKH5FDZMMY7FJ5EAPPFUMPIFV44U4TWZUAP8SXFT4M29TF34DEY2PDYF2DV56TF7EB64IMU4GVUIY8UTC8RXHUW4QB4KTVS2ECUX9KNJPV4FQZPD8H2SARFZ5C2B6HSA54FHMW64ME6AI7JR6ECBD7JYNWIEE63ZPPVZWS74SID3AQKHVRT3SQGZIN2XH2P6SBN93ZGCBT49VDF2Z95Q4A&destination=https%3A//ad.doubleclick.net/ddm/trackclk/N510405.5083943MUP-SEZNAM-NATIVE/B34999881.438741785%3Bdc_trk_aid%3D632129215%3Bdc_trk_cid%3D247725133%3Bdc_lat%3D%3Bdc_rdid%3D%3Btag_for_child_directed_treatment%3D%3Btfua%3D%3Bgdpr%3D$%7BGDPR%7D%3Bgdpr_consent%3D$%7BGDPR_CONSENT_755%7D%3Bltd%3D%3Bdc_tdv%3D1",
-    "id": "B34999881.438741785%3Bdc_trk_aid%3D632129215%3Bdc_trk_cid%3D247725133%3Bdc_lat%3D%3Bdc_rdid%3D%3Btag_for_child_directed_treatment%3D%3Btfua%3D%3Bgdpr%3D$%7BGDPR%7D%3Bgdpr_consent%3D$%7BGDPR_CONSENT_755%7D%3Bltd%3D%3Bdc_tdv%3D1"
-  },
-  {
     "header": "Pronájem bytu 2+1 44 m²",
     "Address": "Hlinky, Brno - Staré Brno",
     "Price": "16 500 Kč/měsíc",
@@ -124,26 +138,5 @@
     "Price": "23 500 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-zidenice-taborska/1613939532",
     "id": "1613939532"
-  },
-  {
-    "header": "Pronájem bytu 2+1 53 m²",
-    "Address": "Tilhonova, Brno - Slatina",
-    "Price": "22 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-slatina-tilhonova/1524958028",
-    "id": "1524958028"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 70 m²",
-    "Address": "Brno - Zábrdovice",
-    "Price": "28 500 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zabrdovice-/217449292",
-    "id": "217449292"
-  },
-  {
-    "header": "Pronájem bytu 2+1 78 m²",
-    "Address": "Antonínská, Brno - Veveří",
-    "Price": "25 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-veveri-antoninska/2977657676",
-    "id": "2977657676"
   }
 ]
