@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 75 m²",
+    "Address": "Turgeněvova, Brno - Černovice",
+    "Price": "22 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-cernovice-turgenevova/1173623628",
+    "id": "1173623628"
+  },
+  {
     "header": "Pronájem bytu 3+kk 95 m²",
     "Address": "Opuštěná, Brno - Trnitá",
     "Price": "27 990 Kč/měsíc",
@@ -131,12 +138,5 @@
     "Price": "19 900 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-stare-brno-naplavka/3616174924",
     "id": "3616174924"
-  },
-  {
-    "header": "Pronájem bytu 2+1 60 m²",
-    "Address": "Borodinova, Brno - Kohoutovice",
-    "Price": "19 900 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-kohoutovice-borodinova/3703911244",
-    "id": "3703911244"
   }
 ]
