@@ -1,5 +1,19 @@
 [
   {
+    "header": "Pronájem bytu 2+1 56 m²",
+    "Address": "Havlenova, Brno - Štýřice",
+    "Price": "18 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-styrice-havlenova/4082660172",
+    "id": "4082660172"
+  },
+  {
+    "header": "Pronájem bytu 3+1 100 m²",
+    "Address": "Jasná, Brno - Ořešín",
+    "Price": "24 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-oresin-jasna/4037608268",
+    "id": "4037608268"
+  },
+  {
     "header": "Pronájem bytu 2+1 52 m²",
     "Address": "Lomená, Brno - Komárov",
     "Price": "22 000 Kč/měsíc",
@@ -23,7 +37,7 @@
   {
     "header": "Pronájem bytu 3+kk 75 m²",
     "Address": "Turgeněvova, Brno - Černovice",
-    "Price": "22 000 Kč/měsíc",
+    "Price": "21 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-cernovice-turgenevova/1173623628",
     "id": "1173623628"
   },
@@ -124,19 +138,5 @@
     "Price": "22 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-trnita-podnasepni/655700812",
     "id": "655700812"
-  },
-  {
-    "header": "Pronájem bytu 2+1 53 m²",
-    "Address": "Křídlovická, Brno - Staré Brno",
-    "Price": "18 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-stare-brno-kridlovicka/1757287244",
-    "id": "1757287244"
-  },
-  {
-    "header": "Pronájem bytu 3+1 78 m²",
-    "Address": "Kamanova, Brno - Královo Pole",
-    "Price": "23 500 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-kralovo-pole-kamanova/976950092",
-    "id": "976950092"
   }
 ]
