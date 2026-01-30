@@ -1,5 +1,26 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 70 m²",
+    "Address": "Ramešova, Brno - Královo Pole",
+    "Price": "25 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-kralovo-pole-ramesova/3944022860",
+    "id": "3944022860"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 72 m²",
+    "Address": "Komárovská, Brno - Komárov",
+    "Price": "32 900 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-komarov-komarovska/2212328268",
+    "id": "2212328268"
+  },
+  {
+    "header": "Pronájem bytu 3+1 114 m²",
+    "Address": "Botanická, Brno - Veveří",
+    "Price": "47 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-veveri-botanicka/1052509004",
+    "id": "1052509004"
+  },
+  {
     "header": "Pronájem bytu 3+kk 65 m²",
     "Address": "Křídlovická, Brno - Staré Brno",
     "Price": "28 000 Kč/měsíc",
@@ -70,6 +91,13 @@
     "id": "4236444492"
   },
   {
+    "header": "Pronájem bytu 3+kk 95 m²",
+    "Address": "Klíny, Brno - Židenice",
+    "Price": "22 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zidenice-kliny/315454284",
+    "id": "315454284"
+  },
+  {
     "header": "Pronájem bytu 3+1 72 m²",
     "Address": "Uzbecká, Brno - Bohunice",
     "Price": "16 900 Kč",
@@ -110,33 +138,5 @@
     "Price": "31 200 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-horni-herspice-bohunicka/3557172044",
     "id": "3557172044"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 86 m²",
-    "Address": "třída Generála Píky, Brno - Černá Pole",
-    "Price": "Cena na vyžádání",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-cerna-pole-trida-generala-piky/2102526796",
-    "id": "2102526796"
-  },
-  {
-    "header": "Pronájem bytu 2+1 60 m²",
-    "Address": "Štefánikova, Brno - Veveří",
-    "Price": "19 900 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-veveri-stefanikova/3258807116",
-    "id": "3258807116"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 132 m²",
-    "Address": "Vinohrady, Brno - Štýřice",
-    "Price": "43 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-styrice-vinohrady/3770159948",
-    "id": "3770159948"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 162 m²",
-    "Address": "Bratislavská, Brno - Zábrdovice",
-    "Price": "43 900 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zabrdovice-bratislavska/2630526284",
-    "id": "2630526284"
   }
 ]
