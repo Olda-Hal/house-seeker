@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 2+1 52 m²",
+    "Address": "Zubatého, Brno - Zábrdovice",
+    "Price": "16 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-zabrdovice-zubateho/155059020",
+    "id": "155059020"
+  },
+  {
     "header": "Pronájem bytu 3+kk 65 m²",
     "Address": "Křídlovická, Brno - Staré Brno",
     "Price": "28 000 Kč/měsíc",
@@ -131,12 +138,5 @@
     "Price": "19 990 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-zidenice-stara-osada/2874831692",
     "id": "2874831692"
-  },
-  {
-    "header": "Pronájem bytu 3+1 81 m²",
-    "Address": "Rysova, Brno - Medlánky",
-    "Price": "20 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-medlanky-rysova/1287484236",
-    "id": "1287484236"
   }
 ]
