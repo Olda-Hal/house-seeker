@@ -1,5 +1,68 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 65 m²",
+    "Address": "Křídlovická, Brno - Staré Brno",
+    "Price": "28 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-stare-brno-kridlovicka/3167617868",
+    "id": "3167617868"
+  },
+  {
+    "header": "Pronájem bytu 2+1 52 m²",
+    "Address": "Voříškova, Brno - Kohoutovice",
+    "Price": "21 500 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-kohoutovice-voriskova/3532002124",
+    "id": "3532002124"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 69 m²",
+    "Address": "Podnásepní, Brno - Trnitá",
+    "Price": "22 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-trnita-podnasepni/655700812",
+    "id": "655700812"
+  },
+  {
+    "header": "Pronájem bytu 2+1 53 m²",
+    "Address": "Křídlovická, Brno - Staré Brno",
+    "Price": "18 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-stare-brno-kridlovicka/1757287244",
+    "id": "1757287244"
+  },
+  {
+    "header": "Pronájem bytu 3+1 78 m²",
+    "Address": "Kamanova, Brno - Královo Pole",
+    "Price": "23 500 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-kralovo-pole-kamanova/976950092",
+    "id": "976950092"
+  },
+  {
+    "header": "Pronájem bytu 2+1 54 m²",
+    "Address": "Vysoká, Brno - Štýřice",
+    "Price": "19 500 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-styrice-vysoka/476980044",
+    "id": "476980044"
+  },
+  {
+    "header": "Pronájem bytu 2+1 58 m²",
+    "Address": "Jasanová, Brno - Jundrov",
+    "Price": "21 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-jundrov-jasanova/2514035532",
+    "id": "2514035532"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 71 m²",
+    "Address": "Placzkova, Brno - Trnitá",
+    "Price": "25 990 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-trnita-placzkova/2008290124",
+    "id": "2008290124"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 51 m²",
+    "Address": "Ptašínského, Brno - Ponava",
+    "Price": "20 990 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-ponava-ptasinskeho/670266188",
+    "id": "670266188"
+  },
+  {
     "header": "Pronájem bytu 2+1 74 m²",
     "Address": "Koliště, Brno - Zábrdovice",
     "Price": "23 500 Kč/měsíc",
@@ -42,6 +105,13 @@
     "id": "1511224140"
   },
   {
+    "header": "Kuchyně snů od profíků",
+    "Address": "Rezervujte termín a naplánujte si s námi kuchyni německé kvality se zárukou až 25 let.",
+    "Price": "XXXLutz Česká republika",
+    "link": "https://i.imedia.cz/v2/click?spotId=4096969&d=8SKUV2S2RUWAQXQAAQQRUBABK4GAIASRTVIBKQV2IMCCQX7KBMUPJASH4UG6JXZ64S99KYA2XV6DYKZ8QXNCSX6CZ3D4RWF68VQE8FM9TF2AKWXT5FSER82JJQ47X4HGTA9AHJQC86JJQREMB2PGBNCJ7ES62UXNSRW4D9XJ47CVRIUTDP7NU6FZEWP6A2HNF4HT6XM4C8FEX84A625KT8D2ZE8R78ZGMIZM4ZT4SBPC2BFSJXZID9WBDJE8B4SZFD5HT6WYHEID68AUYVHB9Q4CYU652JPKUJF2RUAEY5UYCFY2II268XZWU39IK9T64FDCCKXEV2D335V779GFX9IWCCJVWPVUGVZW2AC32X8TY&destination=https%3A//ad.doubleclick.net/ddm/trackclk/N510405.5083943MUP-SEZNAM-NATIVE/B34999881.439057698%3Bdc_trk_aid%3D631994391%3Bdc_trk_cid%3D247725133%3Bdc_lat%3D%3Bdc_rdid%3D%3Btag_for_child_directed_treatment%3D%3Btfua%3D%3Bgdpr%3D$%7BGDPR%7D%3Bgdpr_consent%3D$%7BGDPR_CONSENT_755%7D%3Bltd%3D%3Bdc_tdv%3D1",
+    "id": "B34999881.439057698%3Bdc_trk_aid%3D631994391%3Bdc_trk_cid%3D247725133%3Bdc_lat%3D%3Bdc_rdid%3D%3Btag_for_child_directed_treatment%3D%3Btfua%3D%3Bgdpr%3D$%7BGDPR%7D%3Bgdpr_consent%3D$%7BGDPR_CONSENT_755%7D%3Bltd%3D%3Bdc_tdv%3D1"
+  },
+  {
     "header": "Pronájem bytu 3+kk 93 m²",
     "Address": "Hlinky, Brno - Staré Brno",
     "Price": "27 500 Kč/měsíc",
@@ -75,68 +145,5 @@
     "Price": "31 900 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-pisarky-hlinky/846926668",
     "id": "846926668"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 66 m²",
-    "Address": "Komárovská, Brno - Komárov",
-    "Price": "29 900 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-komarov-komarovska/3642561356",
-    "id": "3642561356"
-  },
-  {
-    "header": "Pronájem bytu 2+1 75 m²",
-    "Address": "Panská, Brno - Brno-město",
-    "Price": "30 550 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-brno-mesto-panska/709063500",
-    "id": "709063500"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 82 m²",
-    "Address": "Fuchsova, Brno - Trnitá",
-    "Price": "29 990 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-trnita-fuchsova/2815632204",
-    "id": "2815632204"
-  },
-  {
-    "header": "Pronájem bytu 2+1 55 m²",
-    "Address": "Vlárská, Brno - Slatina",
-    "Price": "17 500 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-slatina-vlarska/3497227084",
-    "id": "3497227084"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 75 m²",
-    "Address": "Komárovská, Brno - Komárov",
-    "Price": "49 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-komarov-komarovska/3643315020",
-    "id": "3643315020"
-  },
-  {
-    "header": "Pronájem bytu 2+1 60 m²",
-    "Address": "Štolcova, Brno - Černovice",
-    "Price": "17 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-cernovice-stolcova/3804758860",
-    "id": "3804758860"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 91 m²",
-    "Address": "Mojmírovo náměstí, Brno - Královo Pole",
-    "Price": "23 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-kralovo-pole-mojmirovo-namesti/1253319500",
-    "id": "1253319500"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 141 m²",
-    "Address": "Bratislavská, Brno - Zábrdovice",
-    "Price": "36 050 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zabrdovice-bratislavska/3302663500",
-    "id": "3302663500"
-  },
-  {
-    "header": "Pronájem bytu 3+1 94 m²",
-    "Address": "Sýpka, Brno - Černá Pole",
-    "Price": "23 490 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-cerna-pole-sypka/3449582412",
-    "id": "3449582412"
   }
 ]
