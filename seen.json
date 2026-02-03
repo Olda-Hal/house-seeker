@@ -1,5 +1,19 @@
 [
   {
+    "header": "Pronájem bytu 3+1 58 m²",
+    "Address": "Obřanská, Brno - Maloměřice",
+    "Price": "17 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-malomerice-obranska/4274746188",
+    "id": "4274746188"
+  },
+  {
+    "header": "Pronájem bytu 2+1 44 m²",
+    "Address": "Obřanská, Brno - Maloměřice",
+    "Price": "15 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-malomerice-obranska/2077979468",
+    "id": "2077979468"
+  },
+  {
     "header": "Pronájem bytu 2+1 58 m²",
     "Address": "Ptašínského, Brno - Ponava",
     "Price": "21 590 Kč/měsíc",
@@ -124,19 +138,5 @@
     "Price": "21 500 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-kohoutovice-voriskova/3532002124",
     "id": "3532002124"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 69 m²",
-    "Address": "Podnásepní, Brno - Trnitá",
-    "Price": "22 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-trnita-podnasepni/655700812",
-    "id": "655700812"
-  },
-  {
-    "header": "Pronájem bytu 2+1 53 m²",
-    "Address": "Křídlovická, Brno - Staré Brno",
-    "Price": "18 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-stare-brno-kridlovicka/1757287244",
-    "id": "1757287244"
   }
 ]
