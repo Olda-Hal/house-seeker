@@ -1,5 +1,19 @@
 [
   {
+    "header": "Pronájem bytu 3+1 100 m²",
+    "Address": "Jasná, Brno - Ořešín",
+    "Price": "24 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-oresin-jasna/4037608268",
+    "id": "4037608268"
+  },
+  {
+    "header": "Pronájem bytu 2+1 56 m²",
+    "Address": "Havlenova, Brno - Štýřice",
+    "Price": "18 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-styrice-havlenova/4082660172",
+    "id": "4082660172"
+  },
+  {
     "header": "Pronájem bytu 2+1 56 m²",
     "Address": "náměstí SNP, Brno - Černá Pole",
     "Price": "17 500 Kč/měsíc",
@@ -124,19 +138,5 @@
     "Price": "25 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-veveri-bayerova/2112385868",
     "id": "2112385868"
-  },
-  {
-    "header": "Pronájem bytu 3+1 86 m²",
-    "Address": "Jasná, Brno - Ořešín",
-    "Price": "20 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-oresin-jasna/266171212",
-    "id": "266171212"
-  },
-  {
-    "header": "Pronájem bytu 3+1 85 m²",
-    "Address": "Merhautova, Brno - Zábrdovice",
-    "Price": "19 500 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-zabrdovice-merhautova/2375091020",
-    "id": "2375091020"
   }
 ]
