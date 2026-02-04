@@ -1,5 +1,26 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 70 m²",
+    "Address": "Rostislavovo náměstí, Brno - Královo Pole",
+    "Price": "42 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-kralovo-pole-rostislavovo-namesti/109417292",
+    "id": "109417292"
+  },
+  {
+    "header": "Pronájem bytu 2+1 57 m²",
+    "Address": "Sokolova, Brno - Horní Heršpice",
+    "Price": "16 500 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-horni-herspice-sokolova/3523216204",
+    "id": "3523216204"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 75 m²",
+    "Address": "Komárovská, Brno - Komárov",
+    "Price": "30 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-komarov-komarovska/720466764",
+    "id": "720466764"
+  },
+  {
     "header": "Pronájem bytu 3+kk 77 m²",
     "Address": "Táborská, Brno - Židenice",
     "Price": "23 990 Kč/měsíc",
@@ -124,26 +145,5 @@
     "Price": "25 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-cerna-pole-koterova/183968588",
     "id": "183968588"
-  },
-  {
-    "header": "Pronájem bytu 2+1 58 m²",
-    "Address": "Kubíčkova, Brno - Bystrc",
-    "Price": "21 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-bystrc-kubickova/265843532",
-    "id": "265843532"
-  },
-  {
-    "header": "Pronájem bytu 2+1 60 m²",
-    "Address": "Borodinova, Brno - Kohoutovice",
-    "Price": "19 900 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-kohoutovice-borodinova/3703911244",
-    "id": "3703911244"
-  },
-  {
-    "header": "Pronájem bytu 2+1 55 m²",
-    "Address": "Vlárská, Brno - Slatina",
-    "Price": "17 500 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-slatina-vlarska/3497227084",
-    "id": "3497227084"
   }
 ]
