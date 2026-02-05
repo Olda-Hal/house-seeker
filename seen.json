@@ -1,5 +1,26 @@
 [
   {
+    "header": "Pronájem bytu 2+1 62 m²",
+    "Address": "Novoměstská, Brno - Řečkovice",
+    "Price": "15 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-reckovice-novomestska/3634234188",
+    "id": "3634234188"
+  },
+  {
+    "header": "Pronájem bytu 2+1 72 m²",
+    "Address": "Hoblíkova, Brno - Černá Pole",
+    "Price": "19 800 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-cerna-pole-hoblikova/1482490700",
+    "id": "1482490700"
+  },
+  {
+    "header": "Pronájem bytu 2+1 49 m²",
+    "Address": "Dolnopolní, Brno - Maloměřice",
+    "Price": "18 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-malomerice-dolnopolni/369128268",
+    "id": "369128268"
+  },
+  {
     "header": "Pronájem bytu 2+1 78 m²",
     "Address": "Tábor, Brno - Ponava",
     "Price": "29 900 Kč/měsíc",
@@ -44,7 +65,7 @@
   {
     "header": "Pronájem bytu 2+1 77 m²",
     "Address": "Antonínská, Brno - Veveří",
-    "Price": "25 000 Kč/měsíc",
+    "Price": "23 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-veveri-antoninska/1233388364",
     "id": "1233388364"
   },
@@ -117,26 +138,5 @@
     "Price": "22 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-trnita-podnasepni/655700812",
     "id": "655700812"
-  },
-  {
-    "header": "Pronájem bytu 2+1 53 m²",
-    "Address": "Křídlovická, Brno - Staré Brno",
-    "Price": "18 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-stare-brno-kridlovicka/1757287244",
-    "id": "1757287244"
-  },
-  {
-    "header": "Pronájem bytu 3+1 78 m²",
-    "Address": "Kamanova, Brno - Královo Pole",
-    "Price": "23 500 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-kralovo-pole-kamanova/976950092",
-    "id": "976950092"
-  },
-  {
-    "header": "Pronájem bytu 2+1 54 m²",
-    "Address": "Vysoká, Brno - Štýřice",
-    "Price": "19 500 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-styrice-vysoka/476980044",
-    "id": "476980044"
   }
 ]
