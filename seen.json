@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 70 m²",
+    "Address": "Hudcova, Brno - Medlánky",
+    "Price": "22 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-medlanky-hudcova/4079420236",
+    "id": "4079420236"
+  },
+  {
     "header": "Pronájem bytu 3+kk 60 m²",
     "Address": "Černého, Brno - Bystrc",
     "Price": "22 000 Kč/měsíc",
@@ -131,12 +138,5 @@
     "Price": "18 500 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-medlanky-/3215029068",
     "id": "3215029068"
-  },
-  {
-    "header": "Pronájem bytu 3+1 114 m²",
-    "Address": "Botanická, Brno - Veveří",
-    "Price": "47 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-veveri-botanicka/1052509004",
-    "id": "1052509004"
   }
 ]
