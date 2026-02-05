@@ -1,5 +1,19 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 85 m²",
+    "Address": "Úpatní, Brno - Nový Lískovec",
+    "Price": "24 900 Kč",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-novy-liskovec-upatni/2667737932",
+    "id": "2667737932"
+  },
+  {
+    "header": "Pronájem bytu 2+1 68 m²",
+    "Address": "Božetěchova, Brno - Královo Pole",
+    "Price": "22 900 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-kralovo-pole-bozetechova/1841328972",
+    "id": "1841328972"
+  },
+  {
     "header": "Pronájem bytu 2+1 62 m²",
     "Address": "Novoměstská, Brno - Řečkovice",
     "Price": "15 000 Kč/měsíc",
@@ -77,13 +91,6 @@
     "id": "265843532"
   },
   {
-    "header": "Pronájem bytu 2+1 56 m²",
-    "Address": "Lipská, Brno - Žabovřesky",
-    "Price": "19 500 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-zabovresky-lipska/4134564684",
-    "id": "4134564684"
-  },
-  {
     "header": "Pronájem bytu 2+1 58 m²",
     "Address": "Ježkova, Brno - Lesná",
     "Price": "18 500 Kč/měsíc",
@@ -131,12 +138,5 @@
     "Price": "20 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-kohoutovice-voriskova/3532002124",
     "id": "3532002124"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 69 m²",
-    "Address": "Podnásepní, Brno - Trnitá",
-    "Price": "22 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-trnita-podnasepni/655700812",
-    "id": "655700812"
   }
 ]
