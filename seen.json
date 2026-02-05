@@ -1,5 +1,19 @@
 [
   {
+    "header": "Pronájem bytu 2+1 78 m²",
+    "Address": "Tábor, Brno - Ponava",
+    "Price": "29 900 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-ponava-tabor/654340940",
+    "id": "654340940"
+  },
+  {
+    "header": "Pronájem bytu 3+1 73 m²",
+    "Address": "Oblá, Brno - Nový Lískovec",
+    "Price": "23 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-novy-liskovec-obla/2570089292",
+    "id": "2570089292"
+  },
+  {
     "header": "Pronájem bytu 3+kk 70 m²",
     "Address": "Hudcova, Brno - Medlánky",
     "Price": "22 000 Kč/měsíc",
@@ -58,7 +72,7 @@
   {
     "header": "Pronájem bytu 2+1 68 m²",
     "Address": "Soukenická, Brno - Staré Brno",
-    "Price": "26 990 Kč/měsíc",
+    "Price": "28 990 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-stare-brno-soukenicka/1469150028",
     "id": "1469150028"
   },
@@ -124,19 +138,5 @@
     "Price": "19 500 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-styrice-vysoka/476980044",
     "id": "476980044"
-  },
-  {
-    "header": "Pronájem bytu 2+1 58 m²",
-    "Address": "Jasanová, Brno - Jundrov",
-    "Price": "21 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-jundrov-jasanova/2514035532",
-    "id": "2514035532"
-  },
-  {
-    "header": "Pronájem bytu 2+1 76 m²",
-    "Address": "Brno - Medlánky",
-    "Price": "18 500 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-medlanky-/3215029068",
-    "id": "3215029068"
   }
 ]
