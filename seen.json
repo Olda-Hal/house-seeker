@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 2+1 68 m²",
+    "Address": "Soukenická, Brno - Staré Brno",
+    "Price": "28 990 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-stare-brno-soukenicka/1469150028",
+    "id": "1469150028"
+  },
+  {
     "header": "Pronájem bytu 3+1 72 m²",
     "Address": "Kopečná, Brno - Staré Brno",
     "Price": "24 900 Kč/měsíc",
@@ -131,12 +138,5 @@
     "Price": "22 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-medlanky-hudcova/4079420236",
     "id": "4079420236"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 60 m²",
-    "Address": "Černého, Brno - Bystrc",
-    "Price": "22 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-bystrc-cerneho/239104844",
-    "id": "239104844"
   }
 ]
