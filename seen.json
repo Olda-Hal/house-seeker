@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 2+1 56 m²",
+    "Address": "Lipská, Brno - Žabovřesky",
+    "Price": "19 500 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-zabovresky-lipska/4134564684",
+    "id": "4134564684"
+  },
+  {
     "header": "Pronájem bytu 2+1 58 m²",
     "Address": "Ježkova, Brno - Lesná",
     "Price": "18 500 Kč/měsíc",
@@ -131,12 +138,5 @@
     "Price": "16 500 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-horni-herspice-sokolova/3523216204",
     "id": "3523216204"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 75 m²",
-    "Address": "Komárovská, Brno - Komárov",
-    "Price": "30 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-komarov-komarovska/720466764",
-    "id": "720466764"
   }
 ]
