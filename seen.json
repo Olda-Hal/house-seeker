@@ -1,5 +1,26 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 60 m²",
+    "Address": "Černého, Brno - Bystrc",
+    "Price": "22 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-bystrc-cerneho/239104844",
+    "id": "239104844"
+  },
+  {
+    "header": "Pronájem bytu 2+1 51 m²",
+    "Address": "Zedníkova, Brno - Staré Brno",
+    "Price": "19 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-stare-brno-zednikova/1859945292",
+    "id": "1859945292"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 75 m²",
+    "Address": "Blažovická, Brno - Slatina",
+    "Price": "21 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-slatina-blazovicka/3812651852",
+    "id": "3812651852"
+  },
+  {
     "header": "Pronájem bytu 2+1 77 m²",
     "Address": "Antonínská, Brno - Veveří",
     "Price": "25 000 Kč/měsíc",
@@ -117,26 +138,5 @@
     "Price": "47 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-veveri-botanicka/1052509004",
     "id": "1052509004"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 95 m²",
-    "Address": "Opuštěná, Brno - Trnitá",
-    "Price": "27 990 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-trnita-opustena/3691524940",
-    "id": "3691524940"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 71 m²",
-    "Address": "Placzkova, Brno - Trnitá",
-    "Price": "25 990 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-trnita-placzkova/2008290124",
-    "id": "2008290124"
-  },
-  {
-    "header": "Pronájem bytu 3+1 120 m²",
-    "Address": "Skácelova, Brno - Královo Pole",
-    "Price": "35 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-kralovo-pole-skacelova/2925335372",
-    "id": "2925335372"
   }
 ]
