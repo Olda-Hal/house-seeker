@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 2+1 76 m²",
+    "Address": "Panská, Brno - Brno-město",
+    "Price": "23 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-brno-mesto-panska/2609935180",
+    "id": "2609935180"
+  },
+  {
     "header": "Pronájem bytu 2+1 60 m²",
     "Address": "Klímova, Brno - Žabovřesky",
     "Price": "18 500 Kč/měsíc",
@@ -131,12 +138,5 @@
     "Price": "25 500 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-stare-brno-uvoz/2569761612",
     "id": "2569761612"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 85 m²",
-    "Address": "Úpatní, Brno - Nový Lískovec",
-    "Price": "24 900 Kč",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-novy-liskovec-upatni/2667737932",
-    "id": "2667737932"
   }
 ]
