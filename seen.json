@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 2+1 58 m²",
+    "Address": "Ježkova, Brno - Lesná",
+    "Price": "18 500 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-lesna-jezkova/3646976844",
+    "id": "3646976844"
+  },
+  {
     "header": "Pronájem bytu 2+1 68 m²",
     "Address": "Soukenická, Brno - Staré Brno",
     "Price": "26 990 Kč/měsíc",
@@ -131,12 +138,5 @@
     "Price": "30 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-komarov-komarovska/720466764",
     "id": "720466764"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 77 m²",
-    "Address": "Táborská, Brno - Židenice",
-    "Price": "23 990 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zidenice-taborska/2064741196",
-    "id": "2064741196"
   }
 ]
