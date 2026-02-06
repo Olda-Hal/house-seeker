@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 2+1 54 m²",
+    "Address": "Mojmírovo náměstí, Brno - Královo Pole",
+    "Price": "17 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-kralovo-pole-mojmirovo-namesti/459764556",
+    "id": "459764556"
+  },
+  {
     "header": "Pronájem bytu 3+kk 100 m²",
     "Address": "Květná, Brno - Pisárky",
     "Price": "18 900 Kč/měsíc",
@@ -138,12 +145,5 @@
     "Price": "26 990 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-trnita-trnita/2662273868",
     "id": "2662273868"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 66 m²",
-    "Address": "Úvoz, Brno - Staré Brno",
-    "Price": "25 500 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-stare-brno-uvoz/2569761612",
-    "id": "2569761612"
   }
 ]
