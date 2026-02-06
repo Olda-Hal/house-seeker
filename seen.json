@@ -1,5 +1,19 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 80 m²",
+    "Address": "Brno - Ponava",
+    "Price": "25 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-ponava-/448791372",
+    "id": "448791372"
+  },
+  {
+    "header": "Pronájem bytu 2+1 60 m²",
+    "Address": "Údolní, Brno - Brno-město",
+    "Price": "18 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-brno-mesto-udolni/1183318860",
+    "id": "1183318860"
+  },
+  {
     "header": "Pronájem bytu 3+kk 70 m²",
     "Address": "Soukopova, Brno - Stránice",
     "Price": "25 900 Kč/měsíc",
@@ -112,13 +126,6 @@
     "id": "3812651852"
   },
   {
-    "header": "Inspirace, XXXL výběr",
-    "Address": "Navštivte naše obchodní domy – rádi vám pomůžeme splnit váš sen o krásném bydlení.",
-    "Price": "XXXLutz Česká republika",
-    "link": "https://i.imedia.cz/v2/click?spotId=4096971&d=RV2RYGMYJREBSUFXMDGH58EMGMYZY8SAZ6FBKRCG79ESWDVA6NDG7AD5KUIHH83GQTSXCYQNBZ6X5UQA4HKWTU3EF9PXSI5SHRWDS7VIC2D5S72XDIMNMS59C74H8BQUJXNQZP3QJ7JBGEUYH5H8D2BW3MCS68R59IQWRPF5XPF6DPFHHHE2P93I39W6NYSUU3SSPN3SMFY9Z2HWCSTUWHYZT99QVTG8JN6NCADPT24HWXFXN6UXCMNSU7UKJUBZVXQMZDKK3GVPBZVC9QKUZSGVIWAUB8GRFASJJEMFVEJ4GUNFAHPVMNW9Y7WW3DWM8FMUSM4XTR7MCIX8D3KQMRHM8JG862SMDPZ64E6BHMH4G5A&destination=https%3A//ad.doubleclick.net/ddm/trackclk/N510405.5083943MUP-SEZNAM-NATIVE/B34999881.439049166%3Bdc_trk_aid%3D632127340%3Bdc_trk_cid%3D247725133%3Bdc_lat%3D%3Bdc_rdid%3D%3Btag_for_child_directed_treatment%3D%3Btfua%3D%3Bgdpr%3D$%7BGDPR%7D%3Bgdpr_consent%3D$%7BGDPR_CONSENT_755%7D%3Bltd%3D%3Bdc_tdv%3D1",
-    "id": "B34999881.439049166%3Bdc_trk_aid%3D632127340%3Bdc_trk_cid%3D247725133%3Bdc_lat%3D%3Bdc_rdid%3D%3Btag_for_child_directed_treatment%3D%3Btfua%3D%3Bgdpr%3D$%7BGDPR%7D%3Bgdpr_consent%3D$%7BGDPR_CONSENT_755%7D%3Bltd%3D%3Bdc_tdv%3D1"
-  },
-  {
     "header": "Pronájem bytu 3+1 67 m²",
     "Address": "Loosova, Brno - Lesná",
     "Price": "24 990 Kč/měsíc",
@@ -138,19 +145,5 @@
     "Price": "18 490 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-cerna-pole-merhautova/1215562572",
     "id": "1215562572"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 70 m²",
-    "Address": "Pechova, Brno - Židenice",
-    "Price": "22 500 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zidenice-pechova/519533388",
-    "id": "519533388"
-  },
-  {
-    "header": "Pronájem bytu 2+1 55 m²",
-    "Address": "Neumannova, Brno - Pisárky",
-    "Price": "14 500 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-pisarky-neumannova/2893153100",
-    "id": "2893153100"
   }
 ]
