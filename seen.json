@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 2+1 55 m²",
+    "Address": "Bezručova, Brno - Staré Brno",
+    "Price": "19 800 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-stare-brno-bezrucova/1029075788",
+    "id": "1029075788"
+  },
+  {
     "header": "Pronájem bytu 2+1 67 m²",
     "Address": "Merhautova, Brno - Zábrdovice",
     "Price": "27 490 Kč/měsíc",
@@ -131,12 +138,5 @@
     "Price": "25 990 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-trnita-placzkova/2008290124",
     "id": "2008290124"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 85 m²",
-    "Address": "Cacovická, Brno - Husovice",
-    "Price": "20 990 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-husovice-cacovicka/3976598348",
-    "id": "3976598348"
   }
 ]
