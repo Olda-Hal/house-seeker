@@ -1,5 +1,19 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 97 m²",
+    "Address": "Charvatská, Brno - Královo Pole",
+    "Price": "39 900 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-kralovo-pole-charvatska/3028685644",
+    "id": "3028685644"
+  },
+  {
+    "header": "Pronájem bytu 3+1 86 m²",
+    "Address": "Jasná, Brno - Ořešín",
+    "Price": "20 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-oresin-jasna/266171212",
+    "id": "266171212"
+  },
+  {
     "header": "Pronájem bytu 3+kk 65 m²",
     "Address": "Křídlovická, Brno - Staré Brno",
     "Price": "28 000 Kč/měsíc",
@@ -131,19 +145,5 @@
     "Price": "23 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-jundrov-jasanova/1246065484",
     "id": "1246065484"
-  },
-  {
-    "header": "Pronájem bytu 2+1 41 m²",
-    "Address": "Brno - Černá Pole",
-    "Price": "16 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-cerna-pole-/2983031628",
-    "id": "2983031628"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 75 m²",
-    "Address": "Komárovská, Brno - Komárov",
-    "Price": "49 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-komarov-komarovska/3643315020",
-    "id": "3643315020"
   }
 ]
