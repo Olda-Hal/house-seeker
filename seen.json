@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 2+1 57 m²",
+    "Address": "Sokolova, Brno - Horní Heršpice",
+    "Price": "16 500 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-horni-herspice-sokolova/3523216204",
+    "id": "3523216204"
+  },
+  {
     "header": "Pronájem bytu 3+1 77 m²",
     "Address": "Ibsenova, Brno - Lesná",
     "Price": "24 500 Kč/měsíc",
@@ -138,12 +145,5 @@
     "Price": "23 500 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-kralovo-pole-kamanova/976950092",
     "id": "976950092"
-  },
-  {
-    "header": "Pronájem bytu 2+1 54 m²",
-    "Address": "Vysoká, Brno - Štýřice",
-    "Price": "18 500 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-styrice-vysoka/476980044",
-    "id": "476980044"
   }
 ]
