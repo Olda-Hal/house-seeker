@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 83 m²",
+    "Address": "Dusíkova, Brno - Lesná",
+    "Price": "27 490 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-lesna-dusikova/3885331276",
+    "id": "3885331276"
+  },
+  {
     "header": "Pronájem bytu 3+kk 70 m²",
     "Address": "Reissigova, Brno - Ponava",
     "Price": "19 900 Kč/měsíc",
@@ -47,6 +54,13 @@
     "Price": "28 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-stare-brno-kridlovicka/3167617868",
     "id": "3167617868"
+  },
+  {
+    "header": "Plánování kuchyně ZDARMA",
+    "Address": "Rezervujte termín a naplánujte si s námi kuchyni německé kvality se zárukou až 25 let.",
+    "Price": "XXXLutz Česká republika",
+    "link": "https://i.imedia.cz/v2/click?spotId=4096970&d=NCSNEXKMBPAJAJEAIF746ZGUKPQCE5FIGS4VNUQ4AKAFJPRB4EIAJIXIZ6G8M5EPMYRAI3I9S855MZD4Z9CAYFF5UG4NM8H8G7ABPVA4ASGJQGDZXYEPRCDX6AJPIDDUNR5AD2AW57SRM4DTDP845RWP8SZCMKNQHR38Z5XU687KJE2RZFPEDHWQWYE3WD5EZ2YPQQZRRIV2AHJPJCN4GF4FQAUAK55KGSUI9EPDMZY65AQ86A374A3HGJ68DXZ59AHZQTRCHYVAP32KYPA6WWVMDTWTQENN2HPM3T6WFTJ6R7QIQYXHB7CG6E3I5HT6HS8GRHA9U779GYA6QYM649QP899AI8X4BG8JCGNJEIP7TD6RHI&destination=https%3A//ad.doubleclick.net/ddm/trackclk/N510405.5083943MUP-SEZNAM-NATIVE/B34999881.438741785%3Bdc_trk_aid%3D632129215%3Bdc_trk_cid%3D247725133%3Bdc_lat%3D%3Bdc_rdid%3D%3Btag_for_child_directed_treatment%3D%3Btfua%3D%3Bgdpr%3D$%7BGDPR%7D%3Bgdpr_consent%3D$%7BGDPR_CONSENT_755%7D%3Bltd%3D%3Bdc_tdv%3D1",
+    "id": "B34999881.438741785%3Bdc_trk_aid%3D632129215%3Bdc_trk_cid%3D247725133%3Bdc_lat%3D%3Bdc_rdid%3D%3Btag_for_child_directed_treatment%3D%3Btfua%3D%3Bgdpr%3D$%7BGDPR%7D%3Bgdpr_consent%3D$%7BGDPR_CONSENT_755%7D%3Bltd%3D%3Bdc_tdv%3D1"
   },
   {
     "header": "Pronájem bytu 2+1 52 m²",
@@ -138,12 +152,5 @@
     "Price": "22 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-veveri-smetanova/823227212",
     "id": "823227212"
-  },
-  {
-    "header": "Pronájem bytu 3+1 95 m²",
-    "Address": "Táborská, Brno - Židenice",
-    "Price": "23 500 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-zidenice-taborska/1613939532",
-    "id": "1613939532"
   }
 ]
