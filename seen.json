@@ -1,5 +1,19 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 78 m²",
+    "Address": "Slámova, Brno - Černovice",
+    "Price": "27 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-cernovice-slamova/2488320844",
+    "id": "2488320844"
+  },
+  {
+    "header": "Pronájem bytu 2+1 56 m²",
+    "Address": "Šámalova, Brno - Židenice",
+    "Price": "17 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-zidenice-samalova/1012167500",
+    "id": "1012167500"
+  },
+  {
     "header": "Pronájem bytu 2+1 44 m²",
     "Address": "Korejská, Brno - Žabovřesky",
     "Price": "18 000 Kč/měsíc",
@@ -131,19 +145,5 @@
     "Price": "25 990 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-trnita-placzkova/2008290124",
     "id": "2008290124"
-  },
-  {
-    "header": "Pronájem bytu 2+1 57 m²",
-    "Address": "Sokolova, Brno - Horní Heršpice",
-    "Price": "16 500 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-horni-herspice-sokolova/3523216204",
-    "id": "3523216204"
-  },
-  {
-    "header": "Pronájem bytu 2+1 67 m²",
-    "Address": "Merhautova, Brno - Zábrdovice",
-    "Price": "27 490 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-zabrdovice-merhautova/3088061260",
-    "id": "3088061260"
   }
 ]
