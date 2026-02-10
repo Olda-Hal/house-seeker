@@ -1,5 +1,26 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 100 m²",
+    "Address": "Osiková, Brno - Jundrov",
+    "Price": "40 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-jundrov-osikova/2311025484",
+    "id": "2311025484"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 55 m²",
+    "Address": "Bakalovo nábřeží, Brno - Štýřice",
+    "Price": "22 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-styrice-bakalovo-nabrezi/429224780",
+    "id": "429224780"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 95 m²",
+    "Address": "Opuštěná, Brno - Trnitá",
+    "Price": "27 990 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-trnita-opustena/3691524940",
+    "id": "3691524940"
+  },
+  {
     "header": "Pronájem bytu 3+kk 83 m²",
     "Address": "Dusíkova, Brno - Lesná",
     "Price": "27 490 Kč/měsíc",
@@ -35,13 +56,6 @@
     "id": "3164959564"
   },
   {
-    "header": "Pronájem bytu 3+kk 97 m²",
-    "Address": "Charvatská, Brno - Královo Pole",
-    "Price": "39 900 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-kralovo-pole-charvatska/3028685644",
-    "id": "3028685644"
-  },
-  {
     "header": "Pronájem bytu 3+1 86 m²",
     "Address": "Jasná, Brno - Ořešín",
     "Price": "20 000 Kč/měsíc",
@@ -54,13 +68,6 @@
     "Price": "28 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-stare-brno-kridlovicka/3167617868",
     "id": "3167617868"
-  },
-  {
-    "header": "Plánování kuchyně ZDARMA",
-    "Address": "Rezervujte termín a naplánujte si s námi kuchyni německé kvality se zárukou až 25 let.",
-    "Price": "XXXLutz Česká republika",
-    "link": "https://i.imedia.cz/v2/click?spotId=4096970&d=NCSNEXKMBPAJAJEAIF746ZGUKPQCE5FIGS4VNUQ4AKAFJPRB4EIAJIXIZ6G8M5EPMYRAI3I9S855MZD4Z9CAYFF5UG4NM8H8G7ABPVA4ASGJQGDZXYEPRCDX6AJPIDDUNR5AD2AW57SRM4DTDP845RWP8SZCMKNQHR38Z5XU687KJE2RZFPEDHWQWYE3WD5EZ2YPQQZRRIV2AHJPJCN4GF4FQAUAK55KGSUI9EPDMZY65AQ86A374A3HGJ68DXZ59AHZQTRCHYVAP32KYPA6WWVMDTWTQENN2HPM3T6WFTJ6R7QIQYXHB7CG6E3I5HT6HS8GRHA9U779GYA6QYM649QP899AI8X4BG8JCGNJEIP7TD6RHI&destination=https%3A//ad.doubleclick.net/ddm/trackclk/N510405.5083943MUP-SEZNAM-NATIVE/B34999881.438741785%3Bdc_trk_aid%3D632129215%3Bdc_trk_cid%3D247725133%3Bdc_lat%3D%3Bdc_rdid%3D%3Btag_for_child_directed_treatment%3D%3Btfua%3D%3Bgdpr%3D$%7BGDPR%7D%3Bgdpr_consent%3D$%7BGDPR_CONSENT_755%7D%3Bltd%3D%3Bdc_tdv%3D1",
-    "id": "B34999881.438741785%3Bdc_trk_aid%3D632129215%3Bdc_trk_cid%3D247725133%3Bdc_lat%3D%3Bdc_rdid%3D%3Btag_for_child_directed_treatment%3D%3Btfua%3D%3Bgdpr%3D$%7BGDPR%7D%3Bgdpr_consent%3D$%7BGDPR_CONSENT_755%7D%3Bltd%3D%3Bdc_tdv%3D1"
   },
   {
     "header": "Pronájem bytu 2+1 52 m²",
@@ -138,19 +145,5 @@
     "Price": "21 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-cernovice-turgenevova/1173623628",
     "id": "1173623628"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 87 m²",
-    "Address": "Nad Dědinou, Brno - Bystrc",
-    "Price": "20 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-bystrc-nad-dedinou/3039568716",
-    "id": "3039568716"
-  },
-  {
-    "header": "Pronájem bytu 3+1 74 m²",
-    "Address": "Smetanova, Brno - Veveří",
-    "Price": "22 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-veveri-smetanova/823227212",
-    "id": "823227212"
   }
 ]
