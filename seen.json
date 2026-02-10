@@ -105,6 +105,13 @@
     "id": "3523216204"
   },
   {
+    "header": "Luxusní dům Blanka 33",
+    "Address": "Pořiďte si svůj vysněný dům s dispozicí 5+kk za cenu v luxusním provedení 4.650.000 Kč.",
+    "Price": "Ekonomické stavby",
+    "link": "https://i.imedia.cz/v2/click?spotId=4096465&d=EHBSF4X9M2545TIYF253KH3FRUI9NEQU9EVAJDV8Z9A9XU6K52ERCA2AJPFM429TV39RZCDEPH72MFVMIHS9CNTZFJKYB672QDIPXWAE4UI2ZVXMQVUI74HYDZMTAEQ8F9FBZZD6TKD4CXNWA2GJJMI9NERGQSVAWAYW9UCZ6WEWA5PVHYMVKWVR7PEME6DA7UHU5Q3UWYR7BMNCRRWYZ9N728GSU8WJK8TGBAUUJ4YMHIRA4DB2QY3TZISVSITFY3FSFC2UGIY3TFBEEIYBWNGVJVMBWZQEGISBS7HMZ2RI3E9DKPHWR6PJ9NHSE5UM5THG7FS49JQ4IWJMCRE8JQ8AJCYXDR3PWJC5XIWQSDC4K&destination=https%3A//pozemky.ekonomicke-stavby.cz/blanka_33.php%3Futm_source%3DSreality%26utm_campaign%3DBlanka33%281-2026%29%26utm_term%3Dpromoballoon%26utm_content%3Dpaymentnotshown%26utm_medium%3DNativniInzerat",
+    "id": "blanka_33.php%3Futm_source%3DSreality%26utm_campaign%3DBlanka33%281-2026%29%26utm_term%3Dpromoballoon%26utm_content%3Dpaymentnotshown%26utm_medium%3DNativniInzerat"
+  },
+  {
     "header": "Pronájem bytu 3+1 77 m²",
     "Address": "Ibsenova, Brno - Lesná",
     "Price": "24 500 Kč/měsíc",
@@ -138,12 +145,5 @@
     "Price": "18 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-zabovresky-korejska/3125048140",
     "id": "3125048140"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 87 m²",
-    "Address": "U Leskavy, Brno - Starý Lískovec",
-    "Price": "29 900 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-stary-liskovec-u-leskavy/2742383436",
-    "id": "2742383436"
   }
 ]
