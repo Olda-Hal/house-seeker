@@ -1,5 +1,19 @@
 [
   {
+    "header": "Pronájem bytu 2+1 62 m²",
+    "Address": "Horní, Brno - Štýřice",
+    "Price": "25 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-styrice-horni/3576390476",
+    "id": "3576390476"
+  },
+  {
+    "header": "Pronájem bytu 3+1 64 m²",
+    "Address": "Herčíkova, Brno - Královo Pole",
+    "Price": "24 990 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-kralovo-pole-hercikova/2368406348",
+    "id": "2368406348"
+  },
+  {
     "header": "Pronájem bytu 3+kk 75 m²",
     "Address": "Komárovská, Brno - Komárov",
     "Price": "49 000 Kč/měsíc",
@@ -124,19 +138,5 @@
     "Price": "22 800 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-stare-brno-nove-sady/2376364876",
     "id": "2376364876"
-  },
-  {
-    "header": "Pronájem bytu 2+1 78 m²",
-    "Address": "Antonínská, Brno - Veveří",
-    "Price": "23 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-veveri-antoninska/2977657676",
-    "id": "2977657676"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 65 m²",
-    "Address": "Křídlovická, Brno - Staré Brno",
-    "Price": "28 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-stare-brno-kridlovicka/3167617868",
-    "id": "3167617868"
   }
 ]
