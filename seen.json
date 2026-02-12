@@ -1,5 +1,19 @@
 [
   {
+    "header": "SLEVA: Pronájem bytu 3+kk 87 m²",
+    "Address": "Nad Dědinou, Brno - Bystrc",
+    "Price": "15 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-bystrc-nad-dedinou/3039568716",
+    "id": "3039568716"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 82 m²",
+    "Address": "Fuchsova, Brno - Trnitá",
+    "Price": "29 990 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-trnita-fuchsova/2815632204",
+    "id": "2815632204"
+  },
+  {
     "header": "Pronájem bytu 2+1 50 m²",
     "Address": "Pekařská, Brno - Staré Brno",
     "Price": "18 900 Kč/měsíc",
@@ -131,19 +145,5 @@
     "Price": "19 990 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-husovice-cacovicka/3976598348",
     "id": "3976598348"
-  },
-  {
-    "header": "Pronájem bytu 3+1 114 m²",
-    "Address": "Botanická, Brno - Veveří",
-    "Price": "47 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-veveri-botanicka/1052509004",
-    "id": "1052509004"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 65 m²",
-    "Address": "Křídlovická, Brno - Staré Brno",
-    "Price": "26 400 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-stare-brno-kridlovicka/3167617868",
-    "id": "3167617868"
   }
 ]
