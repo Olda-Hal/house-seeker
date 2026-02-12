@@ -1,5 +1,19 @@
 [
   {
+    "header": "Pronájem bytu 3+1 55 m²",
+    "Address": "Příkrá, Brno - Žabovřesky",
+    "Price": "19 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-zabovresky-prikra/2986345292",
+    "id": "2986345292"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 77 m²",
+    "Address": "Spolková, Brno - Zábrdovice",
+    "Price": "25 500 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zabrdovice-spolkova/3647628108",
+    "id": "3647628108"
+  },
+  {
     "header": "Pronájem bytu 3+kk 100 m²",
     "Address": "Květná, Brno - Pisárky",
     "Price": "18 900 Kč/měsíc",
@@ -131,19 +145,5 @@
     "Price": "18 900 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-stare-brno-pekarska/4227556172",
     "id": "4227556172"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 52 m²",
-    "Address": "Merhautova, Brno - Brno-sever",
-    "Price": "24 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-brno-sever-merhautova/2482725708",
-    "id": "2482725708"
-  },
-  {
-    "header": "Pronájem bytu 2+1 57 m²",
-    "Address": "Sokolova, Brno - Horní Heršpice",
-    "Price": "16 500 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-horni-herspice-sokolova/3523216204",
-    "id": "3523216204"
   }
 ]
