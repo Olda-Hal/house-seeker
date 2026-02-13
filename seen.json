@@ -1,5 +1,26 @@
 [
   {
+    "header": "Pronájem bytu 3+1 67 m²",
+    "Address": "Loosova, Brno - Lesná",
+    "Price": "22 990 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-lesna-loosova/4104352588",
+    "id": "4104352588"
+  },
+  {
+    "header": "Pronájem bytu 2+1 59 m²",
+    "Address": "Merhautova, Brno - Černá Pole",
+    "Price": "18 490 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-cerna-pole-merhautova/1215562572",
+    "id": "1215562572"
+  },
+  {
+    "header": "Pronájem bytu 2+1 58 m²",
+    "Address": "Tábor, Brno - Žabovřesky",
+    "Price": "21 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-zabovresky-tabor/533291852",
+    "id": "533291852"
+  },
+  {
     "header": "Pronájem bytu 3+kk 86 m²",
     "Address": "Dusíkova, Brno - Lesná",
     "Price": "26 900 Kč/měsíc",
@@ -105,13 +126,6 @@
     "id": "1452045132"
   },
   {
-    "header": "Inspirace, XXXL výběr",
-    "Address": "Navštivte naše obchodní domy – rádi vám pomůžeme splnit váš sen o krásném bydlení.",
-    "Price": "XXXLutz Česká republika",
-    "link": "https://i.imedia.cz/v2/click?spotId=4096971&d=UXWK73JNS48XGBNWXIM3ZI338VDT92CJGG4KGYPXVDBIYM5AEKBEM3MECT5V3D2RBBH8K7E8NNSS5MEFRAPPDXBJRCS72IWGDEHSNQ486TWAHV7X4C97U3A6HEJ2AUES2DMMWT5VWTE9JFBVJK4F8Y3U8Q838KQ4FT2RHJ7CFFWH6SJV9T8UQ54EIUQF84IXACVNEEZ7Q2K9U3D27W45FJYBZVBXITHNFDK7E2U37KM5ITQVTQMEKE4QIFWC2Q5QGT7J2SBHI9P54EAZJA7BTRV4WWHSFKGDN7TZA22J95Z2TVUUFXIJ4VQ4MGT4MIMF678PZE4575JSGFWG5MNVDHSGIV7V29A6C3PDFD4U4PIRAX56TE&destination=https%3A//ad.doubleclick.net/ddm/trackclk/N510405.5083943MUP-SEZNAM-NATIVE/B34999881.439049166%3Bdc_trk_aid%3D632127340%3Bdc_trk_cid%3D247725133%3Bdc_lat%3D%3Bdc_rdid%3D%3Btag_for_child_directed_treatment%3D%3Btfua%3D%3Bgdpr%3D$%7BGDPR%7D%3Bgdpr_consent%3D$%7BGDPR_CONSENT_755%7D%3Bltd%3D%3Bdc_tdv%3D1",
-    "id": "B34999881.439049166%3Bdc_trk_aid%3D632127340%3Bdc_trk_cid%3D247725133%3Bdc_lat%3D%3Bdc_rdid%3D%3Btag_for_child_directed_treatment%3D%3Btfua%3D%3Bgdpr%3D$%7BGDPR%7D%3Bgdpr_consent%3D$%7BGDPR_CONSENT_755%7D%3Bltd%3D%3Bdc_tdv%3D1"
-  },
-  {
     "header": "Pronájem bytu 3+1 79 m²",
     "Address": "Kopečná, Brno - Staré Brno",
     "Price": "19 000 Kč/měsíc",
@@ -124,26 +138,5 @@
     "Price": "23 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-veveri-antoninska/2977657676",
     "id": "2977657676"
-  },
-  {
-    "header": "Pronájem bytu 2+1 68 m²",
-    "Address": "Údolní, Brno - Brno-město",
-    "Price": "20 500 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-brno-mesto-udolni/274293580",
-    "id": "274293580"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 75 m²",
-    "Address": "Komárovská, Brno - Komárov",
-    "Price": "49 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-komarov-komarovska/3643315020",
-    "id": "3643315020"
-  },
-  {
-    "header": "Pronájem bytu 2+1 48 m²",
-    "Address": "Leitnerova, Brno - Staré Brno",
-    "Price": "21 500 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-stare-brno-leitnerova/1363764044",
-    "id": "1363764044"
   }
 ]
