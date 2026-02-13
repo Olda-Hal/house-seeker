@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 2+1 48 m²",
+    "Address": "Leitnerova, Brno - Staré Brno",
+    "Price": "21 500 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-stare-brno-leitnerova/1363764044",
+    "id": "1363764044"
+  },
+  {
     "header": "Pronájem bytu 3+kk 66 m²",
     "Address": "Úvoz, Brno - Staré Brno",
     "Price": "25 500 Kč/měsíc",
@@ -47,13 +54,6 @@
     "Price": "18 900 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-pisarky-kvetna/208106316",
     "id": "208106316"
-  },
-  {
-    "header": "Nový O₂ Smart Box",
-    "Address": "S O2 Boostery vytvoříte silnou Wi-Fi, která rozšíří signál do těch nejvzdálenějších koutů",
-    "Price": "O2",
-    "link": "https://i.imedia.cz/v2/click?spotId=4103832&d=4EVUNYPZRCP59Y2HDEIW9DVSW4X7FQUWEK8ZT49ZJ4KHZXZX8YCZ2Q4UGTXF52JDS49WTH3KG926ATBGDSJI4GDJYP3XIG239GJ8FX6BA94FTEUYQWB4FMGNYRF7ZWPAIJ9SP5DM8A3T5RUTKJZI55IZPZ77ZAXYJQQKD8MJ4H8BQYVU38RPQXPWDJ3R2HS9JC3N9457WAZWQSET3IDQP28FHRTQKNNC4PR8BDQH9ZNY7KPPKAXDQ2G9GNNADQG25MYCZ5UMTDGBHIAXSBIVQA7DTYAPF95B4N7ZDUA2RW8VS3PMSFD27WJFGSE393SKESJUM4GTWVTJA6FW2J4QRZD6878ZRSZ5JBGSFQ95HEA4IJS&destination=https%3A//ad.doubleclick.net/ddm/trackclk/N1215814.1921114SREALITY/B34830862.437422730%3Bdc_trk_aid%3D630523367%3Bdc_trk_cid%3D247627733%3Bdc_lat%3D%3Bdc_rdid%3D%3Btag_for_child_directed_treatment%3D%3Btfua%3D%3Bgdpr%3D$%7BGDPR%7D%3Bgdpr_consent%3D$%7BGDPR_CONSENT_755%7D%3Bltd%3D%3Bdc_tdv%3D1",
-    "id": "B34830862.437422730%3Bdc_trk_aid%3D630523367%3Bdc_trk_cid%3D247627733%3Bdc_lat%3D%3Bdc_rdid%3D%3Btag_for_child_directed_treatment%3D%3Btfua%3D%3Bgdpr%3D$%7BGDPR%7D%3Bgdpr_consent%3D$%7BGDPR_CONSENT_755%7D%3Bltd%3D%3Bdc_tdv%3D1"
   },
   {
     "header": "Pronájem bytu 3+1 55 m²",
@@ -138,12 +138,5 @@
     "Price": "18 500 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-styrice-vysoka/476980044",
     "id": "476980044"
-  },
-  {
-    "header": "Pronájem bytu 2+1 58 m²",
-    "Address": "Jasanová, Brno - Jundrov",
-    "Price": "21 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-jundrov-jasanova/2514035532",
-    "id": "2514035532"
   }
 ]
