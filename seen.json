@@ -70,6 +70,13 @@
     "id": "208106316"
   },
   {
+    "header": "Pronájem bytu 3+kk 88 m²",
+    "Address": "Brno",
+    "Price": "23 500 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-brno-/2590532428",
+    "id": "2590532428"
+  },
+  {
     "header": "Pronájem bytu 3+1 72 m²",
     "Address": "Renneská třída, Brno",
     "Price": "22 000 Kč/měsíc",
@@ -138,12 +145,5 @@
     "Price": "26 400 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-stare-brno-kridlovicka/3167617868",
     "id": "3167617868"
-  },
-  {
-    "header": "Pronájem bytu 2+1 52 m²",
-    "Address": "Voříškova, Brno - Kohoutovice",
-    "Price": "20 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-kohoutovice-voriskova/3532002124",
-    "id": "3532002124"
   }
 ]
