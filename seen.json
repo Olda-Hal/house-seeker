@@ -1,5 +1,19 @@
 [
   {
+    "header": "Pronájem bytu 2+1 88 m²",
+    "Address": "Masná, Brno - Trnitá",
+    "Price": "24 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-trnita-masna/686515020",
+    "id": "686515020"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 77 m²",
+    "Address": "Spolková, Brno - Zábrdovice",
+    "Price": "25 500 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zabrdovice-spolkova/3647628108",
+    "id": "3647628108"
+  },
+  {
     "header": "Pronájem bytu 3+1 79 m²",
     "Address": "Kopečná, Brno - Staré Brno",
     "Price": "19 000 Kč/měsíc",
@@ -124,19 +138,5 @@
     "Price": "27 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zidenice-skorkovskeho/4080010060",
     "id": "4080010060"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 82 m²",
-    "Address": "Fuchsova, Brno - Trnitá",
-    "Price": "29 990 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-trnita-fuchsova/2815632204",
-    "id": "2815632204"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 71 m²",
-    "Address": "Placzkova, Brno - Trnitá",
-    "Price": "25 990 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-trnita-placzkova/2008290124",
-    "id": "2008290124"
   }
 ]
