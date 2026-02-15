@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 2+1 68 m²",
+    "Address": "Soukenická, Brno - Staré Brno",
+    "Price": "26 990 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-stare-brno-soukenicka/1469150028",
+    "id": "1469150028"
+  },
+  {
     "header": "Pronájem bytu 3+kk 95 m²",
     "Address": "Opuštěná, Brno - Trnitá",
     "Price": "27 990 Kč/měsíc",
@@ -131,12 +138,5 @@
     "Price": "19 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-zabovresky-prikra/2986345292",
     "id": "2986345292"
-  },
-  {
-    "header": "Pronájem bytu 2+1 59 m²",
-    "Address": "Merhautova, Brno - Černá Pole",
-    "Price": "18 490 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-cerna-pole-merhautova/1215562572",
-    "id": "1215562572"
   }
 ]
