@@ -1,5 +1,19 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 83 m²",
+    "Address": "Dusíkova, Brno - Lesná",
+    "Price": "27 490 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-lesna-dusikova/3885331276",
+    "id": "3885331276"
+  },
+  {
+    "header": "Pronájem bytu 3+1 55 m²",
+    "Address": "Souběžná, Brno - Židenice",
+    "Price": "19 500 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-zidenice-soubezna/225141580",
+    "id": "225141580"
+  },
+  {
     "header": "Pronájem bytu 3+kk 99 m²",
     "Address": "Lipová, Brno",
     "Price": "18 900 Kč/měsíc",
@@ -40,13 +54,6 @@
     "Price": "22 200 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-kralovo-pole-vackova/1346175820",
     "id": "1346175820"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 83 m²",
-    "Address": "Dusíkova, Brno - Lesná",
-    "Price": "27 490 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-lesna-dusikova/3885331276",
-    "id": "3885331276"
   },
   {
     "header": "Pronájem bytu 2+1 58 m²",
@@ -131,12 +138,5 @@
     "Price": "19 800 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-stare-brno-bezrucova/1029075788",
     "id": "1029075788"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 87 m²",
-    "Address": "Zoubkova, Brno - Nový Lískovec",
-    "Price": "22 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-novy-liskovec-zoubkova/830014284",
-    "id": "830014284"
   }
 ]
