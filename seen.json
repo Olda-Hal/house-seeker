@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 84 m²",
+    "Address": "Kneslova, Brno - Černovice",
+    "Price": "26 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-cernovice-kneslova/2290549580",
+    "id": "2290549580"
+  },
+  {
     "header": "Pronájem bytu 2+1 40 m²",
     "Address": "Vinohradská, Brno - Černovice",
     "Price": "19 000 Kč/měsíc",
@@ -131,12 +138,5 @@
     "Price": "26 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-lisen-leskauerova/1030447948",
     "id": "1030447948"
-  },
-  {
-    "header": "Pronájem bytu 2+1 68 m²",
-    "Address": "Soukenická, Brno - Staré Brno",
-    "Price": "26 990 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-stare-brno-soukenicka/1469150028",
-    "id": "1469150028"
   }
 ]
