@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+1 75 m²",
+    "Address": "Poznaňská, Brno - Žabovřesky",
+    "Price": "24 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-zabovresky-poznanska/2138858316",
+    "id": "2138858316"
+  },
+  {
     "header": "Pronájem bytu 3+1 78 m²",
     "Address": "Kamanova, Brno - Královo Pole",
     "Price": "23 500 Kč/měsíc",
@@ -138,12 +145,5 @@
     "Price": "22 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-zabrdovice-koliste/1610355532",
     "id": "1610355532"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 120 m²",
-    "Address": "Skorkovského, Brno - Židenice",
-    "Price": "27 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zidenice-skorkovskeho/4080010060",
-    "id": "4080010060"
   }
 ]
