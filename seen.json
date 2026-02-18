@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+1 55 m²",
+    "Address": "Brno - Žabovřesky",
+    "Price": "19 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-zabovresky-/710763340",
+    "id": "710763340"
+  },
+  {
     "header": "Pronájem bytu 3+kk 99 m²",
     "Address": "Lipová, Brno",
     "Price": "18 900 Kč/měsíc",
@@ -138,12 +145,5 @@
     "Price": "14 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-reckovice-rencova/805200716",
     "id": "805200716"
-  },
-  {
-    "header": "Pronájem bytu 3+1 72 m²",
-    "Address": "Milénova, Brno - Lesná",
-    "Price": "24 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-lesna-milenova/1962828620",
-    "id": "1962828620"
   }
 ]
