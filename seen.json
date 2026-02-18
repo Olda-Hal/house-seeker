@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 83 m²",
+    "Address": "Dusíkova, Brno - Lesná",
+    "Price": "27 490 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-lesna-dusikova/3885331276",
+    "id": "3885331276"
+  },
+  {
     "header": "Pronájem bytu 3+1 55 m²",
     "Address": "Brno - Žabovřesky",
     "Price": "19 000 Kč/měsíc",
@@ -138,12 +145,5 @@
     "Price": "19 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-cernovice-spacilova/634282828",
     "id": "634282828"
-  },
-  {
-    "header": "Pronájem bytu 2+1 58 m²",
-    "Address": "Renčova, Brno - Řečkovice",
-    "Price": "14 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-reckovice-rencova/805200716",
-    "id": "805200716"
   }
 ]
