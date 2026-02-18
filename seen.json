@@ -1,5 +1,19 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 67 m²",
+    "Address": "Zapletalova, Brno - Dvorska",
+    "Price": "23 990 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-dvorska-zapletalova/1543332684",
+    "id": "1543332684"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 60 m²",
+    "Address": "Tuřanka, Brno - Slatina",
+    "Price": "19 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-slatina-turanka/1945985868",
+    "id": "1945985868"
+  },
+  {
     "header": "Pronájem bytu 2+1 74 m²",
     "Address": "Koliště, Brno - Zábrdovice",
     "Price": "23 500 Kč/měsíc",
@@ -131,19 +145,5 @@
     "Price": "23 500 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-kralovo-pole-kamanova/976950092",
     "id": "976950092"
-  },
-  {
-    "header": "Pronájem bytu 2+1 58 m²",
-    "Address": "Jasanová, Brno - Jundrov",
-    "Price": "21 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-jundrov-jasanova/2514035532",
-    "id": "2514035532"
-  },
-  {
-    "header": "Pronájem bytu 2+1 54 m²",
-    "Address": "Vysoká, Brno - Štýřice",
-    "Price": "18 500 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-styrice-vysoka/476980044",
-    "id": "476980044"
   }
 ]
