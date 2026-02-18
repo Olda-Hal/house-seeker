@@ -1,6 +1,13 @@
 [
   {
     "header": "Pronájem bytu 3+kk 99 m²",
+    "Address": "Lipová, Brno",
+    "Price": "18 900 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-brno-lipova/313025356",
+    "id": "313025356"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 99 m²",
     "Address": "Brno - Pisárky",
     "Price": "18 900 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-pisarky-/3849151308",
@@ -138,12 +145,5 @@
     "Price": "24 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-lesna-milenova/1962828620",
     "id": "1962828620"
-  },
-  {
-    "header": "Pronájem bytu 2+1 54 m²",
-    "Address": "Mojmírovo náměstí, Brno - Královo Pole",
-    "Price": "17 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-kralovo-pole-mojmirovo-namesti/459764556",
-    "id": "459764556"
   }
 ]
