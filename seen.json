@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 2+1 59 m²",
+    "Address": "Špitálka, Brno - Zábrdovice",
+    "Price": "13 500 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-zabrdovice-spitalka/3717423948",
+    "id": "3717423948"
+  },
+  {
     "header": "Pronájem bytu 3+kk 65 m²",
     "Address": "Křídlovická, Brno - Staré Brno",
     "Price": "26 400 Kč/měsíc",
@@ -54,13 +61,6 @@
     "Price": "15 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-reckovice-novomestska/3634234188",
     "id": "3634234188"
-  },
-  {
-    "header": "Získejte silný Internet",
-    "Address": "Přejděte na O2 Internet s funkcí Wi-Fi Mesh a získejte silné připojení pro celou domácnost",
-    "Price": "O2",
-    "link": "https://i.imedia.cz/v2/click?spotId=4108509&d=5HUU8924Y4XY84UXSWV8CAKD9D8NIZ7C8XK8TH7SJ58HQKUZF9E3DFEB923HRK5NVRQQ5794XNJNK69SQGZKW7P8HXAF9NQ7CQD5TGREZDIRA935JUEF8BU4B2Q6MA8W3SH3D87C47864YNI48EAIVNB4SPJWNKTN9JN4I2DCM2CEUX4ITD7B6D59IX6PP3NQSIYQ28Z86JEWFNB9TXXAQFS8GMXG2Q5848DKRRYBRWPTXT9UW3YIX99AUIMKN9WI25XQSJ59UI32BQG4FF4EGY3X6SXA6VFQBWGIVRM9HS6UQUU4R436NHBXP58GCRY7P93J4NAEGP2VWKXZV6PCZM2I9E3KBZRYHKTPYMD7NEXP9ZK&destination=https%3A//ad.doubleclick.net/ddm/trackclk/N1215814.1921114SREALITY/B34830862.437422730%3Bdc_trk_aid%3D630523367%3Bdc_trk_cid%3D247628123%3Bdc_lat%3D%3Bdc_rdid%3D%3Btag_for_child_directed_treatment%3D%3Btfua%3D%3Bgdpr%3D$%7BGDPR%7D%3Bgdpr_consent%3D$%7BGDPR_CONSENT_755%7D%3Bltd%3D%3Bdc_tdv%3D1",
-    "id": "B34830862.437422730%3Bdc_trk_aid%3D630523367%3Bdc_trk_cid%3D247628123%3Bdc_lat%3D%3Bdc_rdid%3D%3Btag_for_child_directed_treatment%3D%3Btfua%3D%3Bgdpr%3D$%7BGDPR%7D%3Bgdpr_consent%3D$%7BGDPR_CONSENT_755%7D%3Bltd%3D%3Bdc_tdv%3D1"
   },
   {
     "header": "Pronájem bytu 2+1 50 m²",
@@ -145,12 +145,5 @@
     "Price": "25 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-veveri-bayerova/2112385868",
     "id": "2112385868"
-  },
-  {
-    "header": "Pronájem bytu 3+1 79 m²",
-    "Address": "Kopečná, Brno - Staré Brno",
-    "Price": "19 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-stare-brno-kopecna/3833226060",
-    "id": "3833226060"
   }
 ]
