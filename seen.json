@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 72 m²",
+    "Address": "Komárovská, Brno - Komárov",
+    "Price": "29 900 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-komarov-komarovska/3768542028",
+    "id": "3768542028"
+  },
+  {
     "header": "Pronájem bytu 2+1 59 m²",
     "Address": "Špitálka, Brno - Zábrdovice",
     "Price": "13 500 Kč/měsíc",
@@ -138,12 +145,5 @@
     "Price": "39 900 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-ponava-domazlicka/3363468108",
     "id": "3363468108"
-  },
-  {
-    "header": "Pronájem bytu 2+1 78 m²",
-    "Address": "Bayerova, Brno - Veveří",
-    "Price": "25 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-veveri-bayerova/2112385868",
-    "id": "2112385868"
   }
 ]
