@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+1 98 m²",
+    "Address": "Nad Dědinou, Brno - Bystrc",
+    "Price": "28 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-bystrc-nad-dedinou/2233623372",
+    "id": "2233623372"
+  },
+  {
     "header": "Pronájem bytu 2+1 60 m²",
     "Address": "Laštůvkova, Brno - Bystrc",
     "Price": "17 500 Kč/měsíc",
@@ -131,12 +138,5 @@
     "Price": "23 500 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-kralovo-pole-kamanova/976950092",
     "id": "976950092"
-  },
-  {
-    "header": "Pronájem bytu 2+1 54 m²",
-    "Address": "Vysoká, Brno - Štýřice",
-    "Price": "18 500 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-styrice-vysoka/476980044",
-    "id": "476980044"
   }
 ]
