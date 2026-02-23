@@ -1,6 +1,13 @@
 [
   {
     "header": "Pronájem bytu 2+1 53 m²",
+    "Address": "Koniklecová, Brno - Nový Lískovec",
+    "Price": "13 500 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-novy-liskovec-koniklecova/61801292",
+    "id": "61801292"
+  },
+  {
+    "header": "Pronájem bytu 2+1 53 m²",
     "Address": "Úvoz, Brno - Veveří",
     "Price": "16 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-veveri-uvoz/3980288844",
@@ -138,12 +145,5 @@
     "Price": "19 500 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-zabrdovice-merhautova/2375091020",
     "id": "2375091020"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 84 m²",
-    "Address": "Vackova, Brno - Královo Pole",
-    "Price": "22 200 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-kralovo-pole-vackova/1346175820",
-    "id": "1346175820"
   }
 ]
