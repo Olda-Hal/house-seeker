@@ -1,9 +1,16 @@
 [
   {
-    "header": "Pronájem bytu 3+kk 121 m²",
-    "Address": "Neumannova, Brno - Pisárky",
+    "header": "Pronájem bytu 3+1 143 m²",
+    "Address": "Schodová, Brno - Černá Pole",
+    "Price": "42 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-cerna-pole-schodova/3472974668",
+    "id": "3472974668"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 124 m²",
+    "Address": "Bohuslava Martinů, Brno - Stránice",
     "Price": "39 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-pisarky-neumannova/238117708",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-stranice-bohuslava-martinu/238117708",
     "id": "238117708"
   },
   {
@@ -138,12 +145,5 @@
     "Price": "28 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-kralovo-pole-podebradova/878469964",
     "id": "878469964"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 83 m²",
-    "Address": "Dusíkova, Brno - Lesná",
-    "Price": "27 490 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-lesna-dusikova/3885331276",
-    "id": "3885331276"
   }
 ]
