@@ -1,5 +1,19 @@
 [
   {
+    "header": "Pronájem bytu 2+1 56 m²",
+    "Address": "Havlenova, Brno - Štýřice",
+    "Price": "17 500 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-styrice-havlenova/4082660172",
+    "id": "4082660172"
+  },
+  {
+    "header": "Pronájem bytu 2+1 65 m²",
+    "Address": "Palackého třída, Brno - Královo Pole",
+    "Price": "20 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-kralovo-pole-palackeho-trida/731865932",
+    "id": "731865932"
+  },
+  {
     "header": "Pronájem bytu 3+kk 109 m²",
     "Address": "Skorkovského, Brno - Židenice",
     "Price": "25 000 Kč/měsíc",
@@ -131,19 +145,5 @@
     "Price": "25 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-stare-brno-leitnerova/33358668",
     "id": "33358668"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 91 m²",
-    "Address": "Wágnerova, Brno - Maloměřice",
-    "Price": "28 990 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-malomerice-wagnerova/3346228044",
-    "id": "3346228044"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 87 m²",
-    "Address": "U Leskavy, Brno - Starý Lískovec",
-    "Price": "29 900 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-stary-liskovec-u-leskavy/2742383436",
-    "id": "2742383436"
   }
 ]
