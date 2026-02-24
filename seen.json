@@ -7,6 +7,13 @@
     "id": "459764556"
   },
   {
+    "header": "Pronájem bytu 3+1 75 m²",
+    "Address": "Dunajská, Brno - Starý Lískovec",
+    "Price": "23 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-stary-liskovec-dunajska/3246416716",
+    "id": "3246416716"
+  },
+  {
     "header": "Pronájem bytu 3+1 100 m²",
     "Address": "Sýpka, Brno - Černá Pole",
     "Price": "24 000 Kč/měsíc",
@@ -138,12 +145,5 @@
     "Price": "31 900 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-pisarky-hlinky/2642088780",
     "id": "2642088780"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 66 m²",
-    "Address": "Hlinky, Brno - Pisárky",
-    "Price": "31 900 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-pisarky-hlinky/846926668",
-    "id": "846926668"
   }
 ]
