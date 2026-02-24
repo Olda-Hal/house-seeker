@@ -1,5 +1,19 @@
 [
   {
+    "header": "Pronájem bytu 3+1 100 m²",
+    "Address": "Sýpka, Brno - Černá Pole",
+    "Price": "24 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-cerna-pole-sypka/4188037964",
+    "id": "4188037964"
+  },
+  {
+    "header": "Pronájem bytu 3+1 67 m²",
+    "Address": "Loosova, Brno - Lesná",
+    "Price": "22 990 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-lesna-loosova/4104352588",
+    "id": "4104352588"
+  },
+  {
     "header": "Pronájem bytu 2+1 54 m²",
     "Address": "Vysoká, Brno - Štýřice",
     "Price": "18 500 Kč/měsíc",
@@ -131,19 +145,5 @@
     "Price": "30 900 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-sadova-zajeci-hora/1097753420",
     "id": "1097753420"
-  },
-  {
-    "header": "Pronájem bytu 3+1 55 m²",
-    "Address": "Brno - Žabovřesky",
-    "Price": "19 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-zabovresky-/710763340",
-    "id": "710763340"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 88 m²",
-    "Address": "Brno",
-    "Price": "23 500 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-brno-/2590532428",
-    "id": "2590532428"
   }
 ]
