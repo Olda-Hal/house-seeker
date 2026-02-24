@@ -1,10 +1,17 @@
 [
   {
-    "header": "Pronájem bytu 3+kk 86 m²",
-    "Address": "Brno - Ponava",
-    "Price": "21 500 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-ponava-/2898027340",
-    "id": "2898027340"
+    "header": "Pronájem bytu 3+1 55 m²",
+    "Address": "Brno - Žabovřesky",
+    "Price": "19 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-zabovresky-/710763340",
+    "id": "710763340"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 88 m²",
+    "Address": "Brno",
+    "Price": "23 500 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-brno-/2590532428",
+    "id": "2590532428"
   },
   {
     "header": "Pronájem bytu 3+kk 99 m²",
@@ -138,12 +145,5 @@
     "Price": "22 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-kralovo-pole-hercikova/150037324",
     "id": "150037324"
-  },
-  {
-    "header": "Pronájem bytu 2+1 56 m²",
-    "Address": "Příkop, Brno - Zábrdovice",
-    "Price": "19 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-zabrdovice-prikop/2129748812",
-    "id": "2129748812"
   }
 ]
