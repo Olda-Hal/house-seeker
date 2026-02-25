@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+1 100 m²",
+    "Address": "Sýpka, Brno - Černá Pole",
+    "Price": "24 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-cerna-pole-sypka/4188037964",
+    "id": "4188037964"
+  },
+  {
     "header": "Pronájem bytu 3+kk 83 m²",
     "Address": "Dusíkova, Brno - Lesná",
     "Price": "27 490 Kč/měsíc",
@@ -49,13 +56,6 @@
     "id": "3246416716"
   },
   {
-    "header": "Pronájem bytu 3+1 100 m²",
-    "Address": "Sýpka, Brno - Černá Pole",
-    "Price": "24 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-cerna-pole-sypka/4188037964",
-    "id": "4188037964"
-  },
-  {
     "header": "Pronájem bytu 3+1 67 m²",
     "Address": "Loosova, Brno - Lesná",
     "Price": "22 990 Kč/měsíc",
@@ -103,13 +103,6 @@
     "Price": "26 500 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-lisen-stefackova/2915066700",
     "id": "2915066700"
-  },
-  {
-    "header": "Luxusní dům Blanka 33",
-    "Address": "Pořiďte si svůj vysněný dům s dispozicí 5+kk za cenu v luxusním provedení 4.650.000 Kč.",
-    "Price": "Ekonomické stavby",
-    "link": "https://i.imedia.cz/v2/click?spotId=4096465&d=T62BYRQ67NAMW8MUBAFI2WYVIAMJJJKZQ49NKJ58WG3ZVYVVM6CTJTMYQNTJE2X9IGUBZ6MAHUKRI78UVJIX22RCG9FPC5CCB4J9VSV5A4Y649YFFC9DXIRZGT62F286BIMEP7AIWFVJTCTM6YPYN57GQWGQ8MIK43QHQS7NXB4N3EDWDZ6HJBU2IVRH3GFQGB8KNJ9RKB396S8U54VM8DN2P35JNH6JR6D5V5HYCTQFZN3IMVWA7JDPANJ9U5RVCZH5W9CMVY2FCWJUN4BNSYUT35CIQ45N25SRDCSEP68VNK99SI4W7QDI722YN9ZATW6Z52FE2KR9R2VGB2YIQG44VI2S7GXWKDHEKVSDT2&destination=https%3A//pozemky.ekonomicke-stavby.cz/blanka_33.php%3Futm_source%3DSreality%26utm_campaign%3DBlanka33%281-2026%29%26utm_term%3Dpromoballoon%26utm_content%3Dpaymentnotshown%26utm_medium%3DNativniInzerat",
-    "id": "blanka_33.php%3Futm_source%3DSreality%26utm_campaign%3DBlanka33%281-2026%29%26utm_term%3Dpromoballoon%26utm_content%3Dpaymentnotshown%26utm_medium%3DNativniInzerat"
   },
   {
     "header": "Pronájem bytu 3+1 134 m²",
