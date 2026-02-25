@@ -1,5 +1,19 @@
 [
   {
+    "header": "Pronájem bytu 3+1 76 m²",
+    "Address": "Foerstrova, Brno - Žabovřesky",
+    "Price": "21 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-zabovresky-foerstrova/557278028",
+    "id": "557278028"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 84 m²",
+    "Address": "Kneslova, Brno - Černovice",
+    "Price": "26 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-cernovice-kneslova/2290549580",
+    "id": "2290549580"
+  },
+  {
     "header": "Pronájem bytu 3+kk 84 m²",
     "Address": "Úvoz, Brno - Brno-střed",
     "Price": "22 500 Kč/měsíc",
@@ -33,6 +47,13 @@
     "Price": "27 490 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-lesna-dusikova/3885331276",
     "id": "3885331276"
+  },
+  {
+    "header": "Silná optika pro celý dům",
+    "Address": "Přejděte na optiku od O2 s funkcí Wi-Fi Mesh a získejte silné připojení pro celý dům",
+    "Price": "O2",
+    "link": "https://i.imedia.cz/v2/click?spotId=4110150&d=HNYRWYUMBVKP3SKDUV769J4AU9RICWECBKUMBUZRJ663RZ2486F4FATAMHUZWIY5Z4VUQ9346JKPX8MW62RGU55UJ7UGKDSUIXNZPKHX7D2JJUHSSIACFBPIYURVNT9YHGS4BSZUBUUGCJ9TRHZTYKSYY7AUHSEFGUJZFHC44HQPKAIGE4WXCKWJ6S3XUN8WB2AT6PZFTHS94WRJ7CJUQHQ9Z3AP2QHNASSR37298B6AJ33D362PKJ8XP5GEQ28DKQPKF7XZRT94CXFGZTWXAERZMY33HBVNSEJJPBDTXINEMJ5Q8NND6VWUPZFB6AFRRZXHABP4WUTGKBCT9UBH25TJETFHU4Z24EV3PSP2WEBA&destination=https%3A//ad.doubleclick.net/ddm/trackclk/N1215814.1921114SREALITY/B34830862.437422730%3Bdc_trk_aid%3D630523367%3Bdc_trk_cid%3D247630499%3Bdc_lat%3D%3Bdc_rdid%3D%3Btag_for_child_directed_treatment%3D%3Btfua%3D%3Bgdpr%3D$%7BGDPR%7D%3Bgdpr_consent%3D$%7BGDPR_CONSENT_755%7D%3Bltd%3D%3Bdc_tdv%3D1",
+    "id": "B34830862.437422730%3Bdc_trk_aid%3D630523367%3Bdc_trk_cid%3D247630499%3Bdc_lat%3D%3Bdc_rdid%3D%3Btag_for_child_directed_treatment%3D%3Btfua%3D%3Bgdpr%3D$%7BGDPR%7D%3Bgdpr_consent%3D$%7BGDPR_CONSENT_755%7D%3Bltd%3D%3Bdc_tdv%3D1"
   },
   {
     "header": "Pronájem bytu 2+1 64 m²",
@@ -124,19 +145,5 @@
     "Price": "26 500 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-lisen-stefackova/2915066700",
     "id": "2915066700"
-  },
-  {
-    "header": "Pronájem bytu 3+1 134 m²",
-    "Address": "Nové sady, Brno - Staré Brno",
-    "Price": "36 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-stare-brno-nove-sady/1941988172",
-    "id": "1941988172"
-  },
-  {
-    "header": "Pronájem bytu 2+1 60 m²",
-    "Address": "Laštůvkova, Brno - Bystrc",
-    "Price": "17 500 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-bystrc-lastuvkova/1037853516",
-    "id": "1037853516"
   }
 ]
