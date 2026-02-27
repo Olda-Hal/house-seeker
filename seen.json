@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 66 m²",
+    "Address": "Trnitá, Brno - Trnitá",
+    "Price": "26 990 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-trnita-trnita/2662273868",
+    "id": "2662273868"
+  },
+  {
     "header": "Pronájem bytu 3+kk 86 m²",
     "Address": "třída Generála Píky, Brno - Černá Pole",
     "Price": "48 000 Kč/měsíc",
@@ -131,12 +138,5 @@
     "Price": "25 990 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-trnita-placzkova/2008290124",
     "id": "2008290124"
-  },
-  {
-    "header": "Pronájem bytu 2+1 62 m²",
-    "Address": "Černého, Brno - Bystrc",
-    "Price": "19 200 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-bystrc-cerneho/163996492",
-    "id": "163996492"
   }
 ]
