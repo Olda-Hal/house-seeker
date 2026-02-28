@@ -1,6 +1,20 @@
 [
   {
     "header": "Pronájem bytu 3+kk 95 m²",
+    "Address": "Klíny, Brno - Židenice",
+    "Price": "21 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zidenice-kliny/315454284",
+    "id": "315454284"
+  },
+  {
+    "header": "Pronájem bytu 2+1 80 m²",
+    "Address": "Zahradníkova, Brno - Veveří",
+    "Price": "19 500 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-veveri-zahradnikova/3895747404",
+    "id": "3895747404"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 95 m²",
     "Address": "Opuštěná, Brno - Trnitá",
     "Price": "27 990 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-trnita-opustena/3691524940",
@@ -54,13 +68,6 @@
     "Price": "17 890 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-lesna-fillova/2358141772",
     "id": "2358141772"
-  },
-  {
-    "header": "Silná optika pro celý dům",
-    "Address": "Přejděte na optiku od O2 s funkcí Wi-Fi Mesh a získejte silné připojení pro celý dům",
-    "Price": "O2",
-    "link": "https://i.imedia.cz/v2/click?spotId=4110150&d=XBVSPNNE4MKQEFJHPYBMM6RFT2Z4FKBBBJ4QDT648T9Q7FR9GG9FN3JXFM75Q5BQSF9F63SA8VTAKVP5VMTZ26NF9BSZJYSR366MXXA7MNNNK563SCRMDWABUFQGBUV3346M3843QBFDVSHMDANC6KIBDD43UVKQC7D5FRVIPIPBDSFU3TUYNN5G72BQIPU28793Y4YCCGAMDD56XZUEHP93MYVKPFEPQPENX88KNKN7983JSFXDIRJRX9PXTBIVRT8UTX7PIGUGTM7GDTJ34SKYBBRZK6BUEDESJMAEWKEX7MZRH7H8HF3RA6J9FVB592R44JJI53EBTVAQCB5JCE8CJQ6DF5FUV8MZ9EZWIS2EQ&destination=https%3A//ad.doubleclick.net/ddm/trackclk/N1215814.1921114SREALITY/B34830862.437422730%3Bdc_trk_aid%3D630523367%3Bdc_trk_cid%3D247630499%3Bdc_lat%3D%3Bdc_rdid%3D%3Btag_for_child_directed_treatment%3D%3Btfua%3D%3Bgdpr%3D$%7BGDPR%7D%3Bgdpr_consent%3D$%7BGDPR_CONSENT_755%7D%3Bltd%3D%3Bdc_tdv%3D1",
-    "id": "B34830862.437422730%3Bdc_trk_aid%3D630523367%3Bdc_trk_cid%3D247630499%3Bdc_lat%3D%3Bdc_rdid%3D%3Btag_for_child_directed_treatment%3D%3Btfua%3D%3Bgdpr%3D$%7BGDPR%7D%3Bgdpr_consent%3D$%7BGDPR_CONSENT_755%7D%3Bltd%3D%3Bdc_tdv%3D1"
   },
   {
     "header": "Pronájem bytu 3+kk 81 m²",
@@ -138,19 +145,5 @@
     "Price": "47 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-veveri-botanicka/1052509004",
     "id": "1052509004"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 74 m²",
-    "Address": "Spáčilova, Brno - Černovice",
-    "Price": "23 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-cernovice-spacilova/3015533388",
-    "id": "3015533388"
-  },
-  {
-    "header": "Pronájem bytu 2+1 57 m²",
-    "Address": "Spáčilova, Brno - Černovice",
-    "Price": "19 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-cernovice-spacilova/634282828",
-    "id": "634282828"
   }
 ]
