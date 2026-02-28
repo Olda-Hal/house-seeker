@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 95 m²",
+    "Address": "Opuštěná, Brno - Trnitá",
+    "Price": "27 990 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-trnita-opustena/3691524940",
+    "id": "3691524940"
+  },
+  {
     "header": "Pronájem bytu 3+1 100 m²",
     "Address": "Sýpka, Brno - Černá Pole",
     "Price": "24 000 Kč/měsíc",
@@ -138,12 +145,5 @@
     "Price": "19 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-cernovice-spacilova/634282828",
     "id": "634282828"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 86 m²",
-    "Address": "Dusíkova, Brno - Lesná",
-    "Price": "24 900 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-lesna-dusikova/94724940",
-    "id": "94724940"
   }
 ]
