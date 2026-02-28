@@ -1,5 +1,19 @@
 [
   {
+    "header": "SLEVA: Pronájem bytu 3+1 67 m²",
+    "Address": "Loosova, Brno - Lesná",
+    "Price": "18 990 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-lesna-loosova/4104352588",
+    "id": "4104352588"
+  },
+  {
+    "header": "Pronájem bytu 2+1 52 m²",
+    "Address": "Křídlovická, Brno - Staré Brno",
+    "Price": "17 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-stare-brno-kridlovicka/3313984332",
+    "id": "3313984332"
+  },
+  {
     "header": "Pronájem bytu 2+1 56 m²",
     "Address": "Fillova, Brno - Lesná",
     "Price": "17 890 Kč/měsíc",
@@ -131,19 +145,5 @@
     "Price": "26 990 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-lesna-dusikova/3885331276",
     "id": "3885331276"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 66 m²",
-    "Address": "Trnitá, Brno - Trnitá",
-    "Price": "26 990 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-trnita-trnita/2662273868",
-    "id": "2662273868"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 86 m²",
-    "Address": "třída Generála Píky, Brno - Černá Pole",
-    "Price": "48 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-cerna-pole-trida-generala-piky/2754634572",
-    "id": "2754634572"
   }
 ]
