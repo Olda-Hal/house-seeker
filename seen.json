@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 238 m²",
+    "Address": "Dusíkova, Brno - Lesná",
+    "Price": "30 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-lesna-dusikova/1823761228",
+    "id": "1823761228"
+  },
+  {
     "header": "Pronájem bytu 2+1 57 m²",
     "Address": "Marie Majerové, Brno - Lesná",
     "Price": "17 000 Kč/měsíc",
@@ -131,12 +138,5 @@
     "Price": "27 990 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-kralovo-pole-podebradova/878469964",
     "id": "878469964"
-  },
-  {
-    "header": "Pronájem bytu 2+1 41 m²",
-    "Address": "Brno - Černá Pole",
-    "Price": "15 500 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-cerna-pole-/2983031628",
-    "id": "2983031628"
   }
 ]
