@@ -1,5 +1,19 @@
 [
   {
+    "header": "Pronájem bytu 2+1 56 m²",
+    "Address": "Fillova, Brno - Lesná",
+    "Price": "17 740 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-lesna-fillova/2358141772",
+    "id": "2358141772"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 81 m²",
+    "Address": "Poděbradova, Brno - Královo Pole",
+    "Price": "27 990 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-kralovo-pole-podebradova/878469964",
+    "id": "878469964"
+  },
+  {
     "header": "Pronájem bytu 2+1 41 m²",
     "Address": "Brno - Černá Pole",
     "Price": "15 500 Kč/měsíc",
@@ -124,19 +138,5 @@
     "Price": "18 990 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-lesna-loosova/4104352588",
     "id": "4104352588"
-  },
-  {
-    "header": "Pronájem bytu 2+1 52 m²",
-    "Address": "Křídlovická, Brno - Staré Brno",
-    "Price": "17 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-stare-brno-kridlovicka/3313984332",
-    "id": "3313984332"
-  },
-  {
-    "header": "Pronájem bytu 2+1 56 m²",
-    "Address": "Fillova, Brno - Lesná",
-    "Price": "17 740 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-lesna-fillova/2358141772",
-    "id": "2358141772"
   }
 ]
