@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 2+1 56 m²",
+    "Address": "Šmahova, Brno - Slatina",
+    "Price": "20 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-slatina-smahova/1512137548",
+    "id": "1512137548"
+  },
+  {
     "header": "Pronájem bytu 3+1 100 m²",
     "Address": "Sýpka, Brno - Černá Pole",
     "Price": "24 000 Kč/měsíc",
@@ -131,12 +138,5 @@
     "Price": "19 500 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-veveri-zahradnikova/3895747404",
     "id": "3895747404"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 83 m²",
-    "Address": "Dusíkova, Brno - Lesná",
-    "Price": "26 990 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-lesna-dusikova/3885331276",
-    "id": "3885331276"
   }
 ]
