@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+1 74 m²",
+    "Address": "Smetanova, Brno - Veveří",
+    "Price": "22 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-veveri-smetanova/823227212",
+    "id": "823227212"
+  },
+  {
     "header": "Pronájem bytu 3+kk 81 m²",
     "Address": "Poděbradova, Brno - Královo Pole",
     "Price": "27 990 Kč/měsíc",
@@ -105,13 +112,6 @@
     "id": "2164527948"
   },
   {
-    "header": "Luxusní dům Blanka 33",
-    "Address": "Pořiďte si svůj vysněný dům s dispozicí 5+kk za cenu v luxusním provedení 4.650.000 Kč.",
-    "Price": "Ekonomické stavby",
-    "link": "https://i.imedia.cz/v2/click?spotId=4115911&d=FXTFXS8KV6GIEPKPEWYMJKGNGFJEKSIYDJFKJYHF8UWBAUKF4BY8FEB7QW9GHG3DUW23FBNF5FHRGDEI3J2WD94DZQFXW4U328KEN3NJ8YCSSQJI6845KIHB6A75XDGBHQTEKGMIFQ7HASHPQ4IHUGMY23XBYU57RYMYY4C5HN7WV9D2EGRGQ6P2QPCBRE7PTB8AT9ETFGHTIDU3P8X5CHXNXEWQV4G39GMH6I6ZCWDB646JKWSGNWG2ITCRNH78AEFMGWDNC537ZEWQHMJ9HQ92JPWUYWS9PW2QXZX7HHTN5EH9YN2E4Y8KTIJIBMUDW7HD46HJW36VUMFVMFKFA6VQIKYXUW76NBTBQ7U4752H2&destination=https%3A//pozemky.ekonomicke-stavby.cz/blanka_33.php%3Futm_source%3DSreality%26utm_campaign%3DBlanka33%281-2026%29%26utm_term%3Dpromoballoon%26utm_content%3Dpaymentnotshown%26utm_medium%3DNativniInzerat",
-    "id": "blanka_33.php%3Futm_source%3DSreality%26utm_campaign%3DBlanka33%281-2026%29%26utm_term%3Dpromoballoon%26utm_content%3Dpaymentnotshown%26utm_medium%3DNativniInzerat"
-  },
-  {
     "header": "Pronájem bytu 3+kk 80 m²",
     "Address": "Žabovřeská, Brno - Pisárky",
     "Price": "26 900 Kč/měsíc",
@@ -138,12 +138,5 @@
     "Price": "31 900 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-pisarky-hlinky/2642088780",
     "id": "2642088780"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 66 m²",
-    "Address": "Hlinky, Brno - Pisárky",
-    "Price": "31 900 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-pisarky-hlinky/846926668",
-    "id": "846926668"
   }
 ]
