@@ -1,5 +1,33 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 68 m²",
+    "Address": "Brno - Veveří",
+    "Price": "26 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-veveri-/870126412",
+    "id": "870126412"
+  },
+  {
+    "header": "Pronájem bytu 3+1 69 m²",
+    "Address": "Brno - Veveří",
+    "Price": "21 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-veveri-/2204463948",
+    "id": "2204463948"
+  },
+  {
+    "header": "Pronájem bytu 2+1 60 m²",
+    "Address": "Borodinova, Brno - Kohoutovice",
+    "Price": "18 900 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-kohoutovice-borodinova/3703911244",
+    "id": "3703911244"
+  },
+  {
+    "header": "Pronájem bytu 2+1 55 m²",
+    "Address": "Vlárská, Brno - Slatina",
+    "Price": "16 500 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-slatina-vlarska/3497227084",
+    "id": "3497227084"
+  },
+  {
     "header": "Pronájem bytu 3+kk 93 m²",
     "Address": "Kopečná, Brno - Staré Brno",
     "Price": "37 500 Kč/měsíc",
@@ -105,45 +133,10 @@
     "id": "823227212"
   },
   {
-    "header": "Luxusní dům Blanka 33",
-    "Address": "Pořiďte si svůj vysněný dům s dispozicí 5+kk za cenu v luxusním provedení 4.650.000 Kč.",
-    "Price": "Ekonomické stavby",
-    "link": "https://i.imedia.cz/v2/click?spotId=4115914&d=KA8U9AXP2CMS84XQPKCJ6HUJNTUNH3BK83ETXTP7W9RHPPBH8VDHHCDMYW5JQ9EQFCHKP553APUQA7CCX3K6QAY2W7B5GVMW26SE2MKXBYB8ZHU8WH85SHKU5EUGG6PVRJEMIE6GN88F7VZIZ4JPWZQRSSH78PZEKM6D7GFVKVPZGPZK6VHKRQS4NEI8KJI8YV59JIGCQNDTXCYEG5D8QTVEDBI47JFYTSRSNDATVUXJHY4JYJRBIIHMC3KS47SCM3YT6G4APS6ISGI62P22GWWQUVAZJIQXDWPNR33BSB9X2WBKYGZN2S4W4GSFZM3W468NA7D7NVKZ5UMZFUXBFEJ9MJYQS84CDFR9NAQE4CXSYQNY66&destination=https%3A//pozemky.ekonomicke-stavby.cz/blanka_33.php%3Futm_source%3DSreality%26utm_campaign%3DBlanka33%281-2026%29%26utm_term%3Dpromoballoon%26utm_content%3Dpaymentnotshown%26utm_medium%3DNativniInzerat",
-    "id": "blanka_33.php%3Futm_source%3DSreality%26utm_campaign%3DBlanka33%281-2026%29%26utm_term%3Dpromoballoon%26utm_content%3Dpaymentnotshown%26utm_medium%3DNativniInzerat"
-  },
-  {
     "header": "Pronájem bytu 3+kk 101 m²",
     "Address": "Florianova, Brno - Královo Pole",
     "Price": "24 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-kralovo-pole-florianova/324555596",
     "id": "324555596"
-  },
-  {
-    "header": "Pronájem bytu 2+1 72 m²",
-    "Address": "Purkyňova, Brno",
-    "Price": "22 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-brno-purkynova/2546099020",
-    "id": "2546099020"
-  },
-  {
-    "header": "Pronájem bytu 2+1 67 m²",
-    "Address": "Merhautova, Brno",
-    "Price": "20 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-brno-merhautova/4148126540",
-    "id": "4148126540"
-  },
-  {
-    "header": "Pronájem bytu 2+1 58 m²",
-    "Address": "Tábor, Brno - Žabovřesky",
-    "Price": "21 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-zabovresky-tabor/533291852",
-    "id": "533291852"
-  },
-  {
-    "header": "Pronájem bytu 2+1 54 m²",
-    "Address": "Janouškova, Brno - Černá Pole",
-    "Price": "19 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-cerna-pole-janouskova/4100477772",
-    "id": "4100477772"
   }
 ]
