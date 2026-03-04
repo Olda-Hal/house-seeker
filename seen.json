@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 2+1 58 m²",
+    "Address": "Svatoplukova, Brno - Židenice",
+    "Price": "19 800 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-zidenice-svatoplukova/2952287052",
+    "id": "2952287052"
+  },
+  {
     "header": "Pronájem bytu 2+1 70 m²",
     "Address": "Křivánkovo náměstí, Brno - Žebětín",
     "Price": "21 000 Kč/měsíc",
@@ -131,12 +138,5 @@
     "Price": "19 500 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-zabrdovice-spolkova/3867239244",
     "id": "3867239244"
-  },
-  {
-    "header": "Pronájem bytu 3+1 98 m²",
-    "Address": "Selská, Brno - Maloměřice",
-    "Price": "35 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-malomerice-selska/3696776012",
-    "id": "3696776012"
   }
 ]
