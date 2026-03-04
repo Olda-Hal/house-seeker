@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 66 m²",
+    "Address": "Trnitá, Brno - Trnitá",
+    "Price": "26 990 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-trnita-trnita/2662273868",
+    "id": "2662273868"
+  },
+  {
     "header": "Pronájem bytu 3+kk 78 m²",
     "Address": "Rotalova, Brno - Husovice",
     "Price": "25 000 Kč/měsíc",
@@ -47,13 +54,6 @@
     "Price": "23 900 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-stare-brno-kridlovicka/3167617868",
     "id": "3167617868"
-  },
-  {
-    "header": "Jedna Wi-Fi pro celý dům",
-    "Address": "O2 Internet teď díky Mesh systému rozšíříte i tam, kam dřív nedosáhl. Už od 299 Kč / měs.",
-    "Price": "O2",
-    "link": "https://i.imedia.cz/v2/click?spotId=4114499&d=SUVQ6QSAGSQ5G5RD9UPHC9PNAMMHRRZCTGEYI9VFQZAIDTXF67Y25MDXGRZM2U8YEGQMD2BY46353SB6E5UHTRX7UNPHHTAJGC5W6AT7ICBZIZWM6CDMR8JEU5FWB3RUWJE8D74JMABPT848XW9JFCX4KNHWE4HGCSJRNGEDRKJGDKYTV7MBJABYJN5GKRI2GV6MMZUACK3XS6Q9VJP4WZMTKRJI88F3BYKW6UZAJYBDYN5MSRKB576HVSHN3KACWRS45ZWCK8PZQ5Y3GSBG8XNMR9TQRZDD25DUV8WBH4A4CGM5GP9KAP3NPZ5TSQW6GVIQCQXRUN4WFYXWQR8BVBSRRHFFY42KE6HCA25TXHWQEIS&destination=https%3A//ad.doubleclick.net/ddm/trackclk/N1215814.1921114SREALITY/B34830862.437422730%3Bdc_trk_aid%3D630523367%3Bdc_trk_cid%3D247627736%3Bdc_lat%3D%3Bdc_rdid%3D%3Btag_for_child_directed_treatment%3D%3Btfua%3D%3Bgdpr%3D$%7BGDPR%7D%3Bgdpr_consent%3D$%7BGDPR_CONSENT_755%7D%3Bltd%3D%3Bdc_tdv%3D1",
-    "id": "B34830862.437422730%3Bdc_trk_aid%3D630523367%3Bdc_trk_cid%3D247627736%3Bdc_lat%3D%3Bdc_rdid%3D%3Btag_for_child_directed_treatment%3D%3Btfua%3D%3Bgdpr%3D$%7BGDPR%7D%3Bgdpr_consent%3D$%7BGDPR_CONSENT_755%7D%3Bltd%3D%3Bdc_tdv%3D1"
   },
   {
     "header": "Pronájem bytu 2+1 54 m²",
@@ -138,12 +138,5 @@
     "Price": "24 500 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-kohoutovice-voriskova/1403216716",
     "id": "1403216716"
-  },
-  {
-    "header": "Pronájem bytu 2+1 67 m²",
-    "Address": "Merhautova, Brno",
-    "Price": "20 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-brno-merhautova/4148126540",
-    "id": "4148126540"
   }
 ]
