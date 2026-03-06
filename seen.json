@@ -1,5 +1,19 @@
 [
   {
+    "header": "Pronájem bytu 3+1 65 m²",
+    "Address": "Dolnopolní, Brno - Maloměřice",
+    "Price": "19 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-malomerice-dolnopolni/1552638796",
+    "id": "1552638796"
+  },
+  {
+    "header": "Pronájem bytu 3+1 92 m²",
+    "Address": "Kotlářská, Brno - Veveří",
+    "Price": "33 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-veveri-kotlarska/3486405452",
+    "id": "3486405452"
+  },
+  {
     "header": "Pronájem bytu 2+1 56 m²",
     "Address": "Fillova, Brno - Lesná",
     "Price": "17 740 Kč/měsíc",
@@ -72,7 +86,7 @@
   {
     "header": "Pronájem bytu 3+1 143 m²",
     "Address": "Schodová, Brno - Černá Pole",
-    "Price": "42 000 Kč/měsíc",
+    "Price": "45 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-cerna-pole-schodova/3472974668",
     "id": "3472974668"
   },
@@ -124,19 +138,5 @@
     "Price": "32 990 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-stare-brno-soukenicka/1213092684",
     "id": "1213092684"
-  },
-  {
-    "header": "Pronájem bytu 2+1 67 m²",
-    "Address": "Černopolní, Brno - Černá Pole",
-    "Price": "21 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-cerna-pole-cernopolni/4092945228",
-    "id": "4092945228"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 83 m²",
-    "Address": "Dusíkova, Brno - Lesná",
-    "Price": "26 990 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-lesna-dusikova/3885331276",
-    "id": "3885331276"
   }
 ]
