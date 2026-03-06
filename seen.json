@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 80 m²",
+    "Address": "Žabovřeská, Brno - Pisárky",
+    "Price": "26 900 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-pisarky-zabovreska/3176297292",
+    "id": "3176297292"
+  },
+  {
     "header": "Pronájem bytu 3+1 67 m²",
     "Address": "Loosova, Brno - Lesná",
     "Price": "18 990 Kč/měsíc",
@@ -131,12 +138,5 @@
     "Price": "25 990 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-trnita-placzkova/2008290124",
     "id": "2008290124"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 75 m²",
-    "Address": "Turgeněvova, Brno - Černovice",
-    "Price": "20 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-cernovice-turgenevova/3386336076",
-    "id": "3386336076"
   }
 ]
