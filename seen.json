@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 95 m²",
+    "Address": "Klíny, Brno - Židenice",
+    "Price": "21 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zidenice-kliny/315454284",
+    "id": "315454284"
+  },
+  {
     "header": "Pronájem bytu 3+kk 65 m²",
     "Address": "Kulkova, Brno - Maloměřice",
     "Price": "17 000 Kč/měsíc",
@@ -138,12 +145,5 @@
     "Price": "46 500 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-lesna-majdalenky/1512788812",
     "id": "1512788812"
-  },
-  {
-    "header": "Pronájem bytu 2+1 62 m²",
-    "Address": "Černého, Brno - Bystrc",
-    "Price": "19 200 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-bystrc-cerneho/163996492",
-    "id": "163996492"
   }
 ]
