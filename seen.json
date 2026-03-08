@@ -1,5 +1,33 @@
 [
   {
+    "header": "Pronájem bytu 3+1 71 m²",
+    "Address": "Banskobystrická, Brno - Řečkovice",
+    "Price": "25 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-reckovice-banskobystricka/1718440780",
+    "id": "1718440780"
+  },
+  {
+    "header": "Pronájem bytu 2+1 66 m²",
+    "Address": "Renneská třída, Brno - Štýřice",
+    "Price": "19 590 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-styrice-renneska-trida/2549158732",
+    "id": "2549158732"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 74 m²",
+    "Address": "Kollárova, Brno - Královo Pole",
+    "Price": "33 990 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-kralovo-pole-kollarova/353567564",
+    "id": "353567564"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 51 m²",
+    "Address": "Ptašínského, Brno - Ponava",
+    "Price": "18 990 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-ponava-ptasinskeho/670266188",
+    "id": "670266188"
+  },
+  {
     "header": "Pronájem bytu 3+kk 86 m²",
     "Address": "Střední, Brno - Ponava",
     "Price": "21 500 Kč/měsíc",
@@ -21,11 +49,11 @@
     "id": "2825737036"
   },
   {
-    "header": "Pronájem bytu 3+1 71 m²",
-    "Address": "Banskobystrická, Brno - Řečkovice",
-    "Price": "25 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-reckovice-banskobystricka/1718440780",
-    "id": "1718440780"
+    "header": "Nový O₂ Smart Box",
+    "Address": "S O2 Boostery vytvoříte silnou Wi-Fi, která rozšíří signál do těch nejvzdálenějších koutů",
+    "Price": "O2",
+    "link": "https://i.imedia.cz/v2/click?spotId=4114494&d=VDC9KTT4HAXIAI44YB8WA4SJVT3IMIPKNHURDCX76XEPFZCHEBNATVP3TT3YAVVHYR7KJT9KDXJPAKMWNJZFRXAJZQHHSCJVUE2JE6KYFW9MTSFB87Q938NYWV5QP5T87ZSGMYMN56IBMVZU3XEFMFPCHUG3M96WB3H6922M5XMH62HX5QBC74M88BAMSCK3XCPC6H77F6M5UC9TPQUTH8AYTR8QK2Y7XKD6FX53943WNE8G7M34RZXUY4Z5EGHT6ADEICKSS5EXHUTHBHIJFMTE7KYRQ9I4SB8M2ISIQVFQCG9HRPD9GZ9BDBPXBEB7FATWPNYXBQJENMKAZYA8YDTDEYKYS5AEFS2IFB42SH6PUREM&destination=https%3A//ad.doubleclick.net/ddm/trackclk/N1215814.1921114SREALITY/B34830862.437422730%3Bdc_trk_aid%3D630523367%3Bdc_trk_cid%3D247627733%3Bdc_lat%3D%3Bdc_rdid%3D%3Btag_for_child_directed_treatment%3D%3Btfua%3D%3Bgdpr%3D$%7BGDPR%7D%3Bgdpr_consent%3D$%7BGDPR_CONSENT_755%7D%3Bltd%3D%3Bdc_tdv%3D1",
+    "id": "B34830862.437422730%3Bdc_trk_aid%3D630523367%3Bdc_trk_cid%3D247627733%3Bdc_lat%3D%3Bdc_rdid%3D%3Btag_for_child_directed_treatment%3D%3Btfua%3D%3Bgdpr%3D$%7BGDPR%7D%3Bgdpr_consent%3D$%7BGDPR_CONSENT_755%7D%3Bltd%3D%3Bdc_tdv%3D1"
   },
   {
     "header": "Pronájem bytu 3+1 68 m²",
@@ -47,13 +75,6 @@
     "Price": "19 200 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-bystrc-cerneho/163996492",
     "id": "163996492"
-  },
-  {
-    "header": "Luxusní dům Blanka 33",
-    "Address": "Pořiďte si svůj vysněný dům s dispozicí 5+kk za cenu v luxusním provedení 4.650.000 Kč.",
-    "Price": "Ekonomické stavby",
-    "link": "https://i.imedia.cz/v2/click?spotId=4115914&d=FZJB3AFNFHTYTVIJYFFK9BW6837MJU5MBG753VJNP2VGAYEBNDUAKD7JW2AVAPK2DFHJU56ERUCRC7FFYZBRN9JT7PR5VVXQQSM6CJM6XGFFVGAZUX6W96DCWZBNPC4TERD848Q8VU77VFSW232GTQ4U43TDHGW8WA8X7E652UGVTPY6QEVARJKTWVER3KBNUE2DKP3QH4MXCDWNSGPCQ7YKPFKBA9XSCPSJWEUQJVKRZ5JMDQ6ABZCT8257DT9FHD6YGCZYRCPAUSY8JZM7X2KWC4RTMKD8CWWRKU8BJ4VE79WDMYENQBEHKD6Z42UDYXCVSAGC9I5V38Z9YJFFWHMDN7C9A8NJ5T7UGT2HWFKXYWA&destination=https%3A//pozemky.ekonomicke-stavby.cz/blanka_33.php%3Futm_source%3DSreality%26utm_campaign%3DBlanka33%281-2026%29%26utm_term%3Dpromoballoon%26utm_content%3Dpaymentnotshown%26utm_medium%3DNativniInzerat",
-    "id": "blanka_33.php%3Futm_source%3DSreality%26utm_campaign%3DBlanka33%281-2026%29%26utm_term%3Dpromoballoon%26utm_content%3Dpaymentnotshown%26utm_medium%3DNativniInzerat"
   },
   {
     "header": "Pronájem bytu 3+kk 118 m²",
@@ -124,26 +145,5 @@
     "Price": "25 990 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-trnita-placzkova/2008290124",
     "id": "2008290124"
-  },
-  {
-    "header": "Pronájem bytu 2+1 70 m²",
-    "Address": "Pekařská, Brno",
-    "Price": "17 500 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-brno-pekarska/625369932",
-    "id": "625369932"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 60 m²",
-    "Address": "Černého, Brno - Bystrc",
-    "Price": "22 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-bystrc-cerneho/239104844",
-    "id": "239104844"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 83 m²",
-    "Address": "Dusíkova, Brno - Lesná",
-    "Price": "26 990 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-lesna-dusikova/3885331276",
-    "id": "3885331276"
   }
 ]
