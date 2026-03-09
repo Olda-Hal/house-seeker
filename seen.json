@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 79 m²",
+    "Address": "Novodvorská, Brno - Žebětín",
+    "Price": "23 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zebetin-novodvorska/2267439948",
+    "id": "2267439948"
+  },
+  {
     "header": "Pronájem bytu 2+1 50 m²",
     "Address": "Pekařská, Brno - Staré Brno",
     "Price": "18 900 Kč/měsíc",
@@ -138,12 +145,5 @@
     "Price": "22 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-zabovresky-chladkova/441869132",
     "id": "441869132"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 64 m²",
-    "Address": "Fryčajova, Brno - Obřany",
-    "Price": "21 800 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-obrany-frycajova/3146605388",
-    "id": "3146605388"
   }
 ]
