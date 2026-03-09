@@ -1,5 +1,40 @@
 [
   {
+    "header": "Pronájem bytu 2+1 50 m²",
+    "Address": "Rybnická, Brno",
+    "Price": "20 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-brno-rybnicka/1185637196",
+    "id": "1185637196"
+  },
+  {
+    "header": "Pronájem bytu 2+1 67 m²",
+    "Address": "Merhautova, Brno - Zábrdovice",
+    "Price": "27 490 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-zabrdovice-merhautova/3088061260",
+    "id": "3088061260"
+  },
+  {
+    "header": "Pronájem bytu 3+1 73 m²",
+    "Address": "Tuřanské náměstí, Brno - Tuřany",
+    "Price": "22 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-turany-turanske-namesti/3709555532",
+    "id": "3709555532"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 60 m²",
+    "Address": "Černého, Brno - Bystrc",
+    "Price": "22 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-bystrc-cerneho/239104844",
+    "id": "239104844"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 76 m²",
+    "Address": "Rybářská, Brno - Staré Brno",
+    "Price": "29 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-stare-brno-rybarska/1042043724",
+    "id": "1042043724"
+  },
+  {
     "header": "Pronájem bytu 3+1 75 m²",
     "Address": "Dunajská, Brno - Starý Lískovec",
     "Price": "23 000 Kč/měsíc",
@@ -77,6 +112,13 @@
     "id": "2925335372"
   },
   {
+    "header": "Luxusní dům Blanka 33",
+    "Address": "Pořiďte si svůj vysněný dům s dispozicí 5+kk za cenu v luxusním provedení 4.650.000 Kč.",
+    "Price": "Ekonomické stavby",
+    "link": "https://i.imedia.cz/v2/click?spotId=4115911&d=MSSZSTT78ZMAQQNJE2USHI2MKQXXGGPGVC6K5BZ6A4X6AJQA85CRXSESI8QWSH2K6C6IAZV6ERDQRSBTY87U464TPYR3TXIP988RHUSTZJU8UQPKBAIUX5X36WI27SHBCJUMDESYXZG2GYU9RK6384PK89QM5J95YU77RPHQMYZS86ZAFU72QRJDDQFRK5SDWN2THWCSSW26E3J9CPAS32WWTY34S6VIM8E8WGPCIMECFQG6DD5H2H6XPBXWTD4WV69KPU28BN7BXK5DKBBTTYZ8VE6RJ69BCC3MMP2XMF76GIRRCPMIAF4WBCJEKBNM9HDD3DE85BV6W98NW2RQCB3ZNVA92IJ3BD3YGASQV8HR7BZE&destination=https%3A//pozemky.ekonomicke-stavby.cz/blanka_33.php%3Futm_source%3DSreality%26utm_campaign%3DBlanka33%281-2026%29%26utm_term%3Dpromoballoon%26utm_content%3Dpaymentnotshown%26utm_medium%3DNativniInzerat",
+    "id": "blanka_33.php%3Futm_source%3DSreality%26utm_campaign%3DBlanka33%281-2026%29%26utm_term%3Dpromoballoon%26utm_content%3Dpaymentnotshown%26utm_medium%3DNativniInzerat"
+  },
+  {
     "header": "Pronájem bytu 3+kk 80 m²",
     "Address": "Masarykova, Brno - Brno-město",
     "Price": "31 400 Kč/měsíc",
@@ -110,40 +152,5 @@
     "Price": "19 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-cernovice-vinohradska/3258540876",
     "id": "3258540876"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 95 m²",
-    "Address": "Opuštěná, Brno - Trnitá",
-    "Price": "27 990 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-trnita-opustena/3691524940",
-    "id": "3691524940"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 86 m²",
-    "Address": "Cacovická, Brno - Husovice",
-    "Price": "23 900 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-husovice-cacovicka/1861628748",
-    "id": "1861628748"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 66 m²",
-    "Address": "Hlinky, Brno - Pisárky",
-    "Price": "31 900 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-pisarky-hlinky/846926668",
-    "id": "846926668"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 87 m²",
-    "Address": "Zaječí hora, Brno - Sadová",
-    "Price": "30 900 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-sadova-zajeci-hora/1097753420",
-    "id": "1097753420"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 83 m²",
-    "Address": "Dusíkova, Brno - Lesná",
-    "Price": "26 990 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-lesna-dusikova/3885331276",
-    "id": "3885331276"
   }
 ]
