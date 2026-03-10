@@ -1,5 +1,19 @@
 [
   {
+    "header": "Pronájem bytu 2+1 85 m²",
+    "Address": "Solniční, Brno - Brno-město",
+    "Price": "22 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-brno-mesto-solnicni/3120719180",
+    "id": "3120719180"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 48 m²",
+    "Address": "Rostislavovo náměstí, Brno - Královo Pole",
+    "Price": "24 990 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-kralovo-pole-rostislavovo-namesti/3009565516",
+    "id": "3009565516"
+  },
+  {
     "header": "Pronájem bytu 3+kk 93 m²",
     "Address": "Kopečná, Brno - Staré Brno",
     "Price": "37 500 Kč/měsíc",
@@ -124,19 +138,5 @@
     "Price": "21 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-cernovice-olomoucka/3191034700",
     "id": "3191034700"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 64 m²",
-    "Address": "Nové sady, Brno - Staré Brno",
-    "Price": "Cena na vyžádání",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-stare-brno-nove-sady/3122877260",
-    "id": "3122877260"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 141 m²",
-    "Address": "Bratislavská, Brno - Zábrdovice",
-    "Price": "36 050 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zabrdovice-bratislavska/3302663500",
-    "id": "3302663500"
   }
 ]
