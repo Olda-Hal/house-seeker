@@ -1,5 +1,19 @@
 [
   {
+    "header": "Pronájem bytu 3+1 72 m²",
+    "Address": "Milénova, Brno - Lesná",
+    "Price": "24 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-lesna-milenova/1962828620",
+    "id": "1962828620"
+  },
+  {
+    "header": "Pronájem bytu 2+1 78 m²",
+    "Address": "Bayerova, Brno - Veveří",
+    "Price": "23 500 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-veveri-bayerova/3602076492",
+    "id": "3602076492"
+  },
+  {
     "header": "Pronájem bytu 3+kk 71 m²",
     "Address": "Placzkova, Brno - Trnitá",
     "Price": "25 990 Kč/měsíc",
@@ -105,13 +119,6 @@
     "id": "2290549580"
   },
   {
-    "header": "Inspirace, XXXL výběr",
-    "Address": "Navštivte naše obchodní domy – rádi vám pomůžeme splnit váš sen o krásném bydlení.",
-    "Price": "XXXLutz Česká republika",
-    "link": "https://i.imedia.cz/v2/click?spotId=4107895&d=RMESRCKK2Z5D32NFWTM7RKXM2KETZPC7YK5BM59NCP3F2GKDN6GFXDEM9X6S7XDJUIPYFU3B3NCE2NP7S2J7IRNV5I3RVZWR95CVGKSPEF38E3XSTUEQEF9JFZ3IV58P7NDXC822WS5K3RAZNTZVSVBA82XTQ22H4YBPQBKX96RSVTJ2MXWQPJT2WND3WHYCT52DXCFUKA37U3B2IC5H6ZCENYA58GNZR7PZGZ9YFRYPUKI392HPAEF9QKIKXJ93ZAS5GKXAMBCWV55XRY7VEWDXNNA353QE6MJGXNEIUB8N8HTZZ9RUAY2N27XI6MEIVVZ6JC3ENTKDKQ4Q4GKNGSRQJQHTSSQAK5EB4CES3AK49XI&destination=https%3A//ad.doubleclick.net/ddm/trackclk/N510405.5083943MUP-SEZNAM-NATIVE/B34999881.439049166%3Bdc_trk_aid%3D632127340%3Bdc_trk_cid%3D247725133%3Bdc_lat%3D%3Bdc_rdid%3D%3Btag_for_child_directed_treatment%3D%3Btfua%3D%3Bgdpr%3D$%7BGDPR%7D%3Bgdpr_consent%3D$%7BGDPR_CONSENT_755%7D%3Bltd%3D%3Bdc_tdv%3D1",
-    "id": "B34999881.439049166%3Bdc_trk_aid%3D632127340%3Bdc_trk_cid%3D247725133%3Bdc_lat%3D%3Bdc_rdid%3D%3Btag_for_child_directed_treatment%3D%3Btfua%3D%3Bgdpr%3D$%7BGDPR%7D%3Bgdpr_consent%3D$%7BGDPR_CONSENT_755%7D%3Bltd%3D%3Bdc_tdv%3D1"
-  },
-  {
     "header": "Pronájem bytu 3+kk 85 m²",
     "Address": "Příční, Brno",
     "Price": "15 900 Kč/měsíc",
@@ -131,19 +138,5 @@
     "Price": "16 400 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-horni-herspice-ksirova/2238403404",
     "id": "2238403404"
-  },
-  {
-    "header": "Pronájem bytu 2+1 60 m²",
-    "Address": "Šrámkova, Brno - Lesná",
-    "Price": "20 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-lesna-sramkova/1468232524",
-    "id": "1468232524"
-  },
-  {
-    "header": "Pronájem bytu 2+1 54 m²",
-    "Address": "Kabátníkova, Brno - Ponava",
-    "Price": "19 500 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-ponava-kabatnikova/4189606732",
-    "id": "4189606732"
   }
 ]
