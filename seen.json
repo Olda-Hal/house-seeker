@@ -14,13 +14,6 @@
     "id": "980570956"
   },
   {
-    "header": "Pronájem bytu 2+1 85 m²",
-    "Address": "Solniční, Brno - Brno-město",
-    "Price": "22 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-brno-mesto-solnicni/3120719180",
-    "id": "3120719180"
-  },
-  {
     "header": "Pronájem bytu 3+kk 48 m²",
     "Address": "Rostislavovo náměstí, Brno - Královo Pole",
     "Price": "24 990 Kč/měsíc",
@@ -112,13 +105,6 @@
     "id": "2022593356"
   },
   {
-    "header": "Luxusní dům Blanka 33",
-    "Address": "Pořiďte si svůj vysněný dům s dispozicí 5+kk za cenu v luxusním provedení 4.650.000 Kč.",
-    "Price": "Ekonomické stavby",
-    "link": "https://i.imedia.cz/v2/click?spotId=4115911&d=ZESUJD8CJEGFCKD8A6M6SICQCRIHRPA3S4IW6AI8AIR4U7U98GMCIEVDRXPXJS7Q83JHM58HAWJK3DNP39JYI9CVXHWEYCJUIMVPUA5U3IZK3J66CDC5PGRB6X9H8RY9FK5XXYG8V3U4E78QZ4HE3DUPSITZXKIV5ZEZZJX882KJV5JK6K8SJGAP8U8ZTKMTW9CIH9JK9H7UDPQCXA7B2BHK9AMTZMSPCVE5UMQFEZRMMA56X4BG9FSBS6H97IPZP7WN8W4HZ8F59XHZPX9CAW3ASWRSPS8PQZ4Q3XNPY4IHKNGU66Z8RUCHVZRHS5X3BASCJ8SCZUDEF8246MP85UKAH6J62QTEUMCX5V6RVY97TWVY9I&destination=https%3A//pozemky.ekonomicke-stavby.cz/blanka_33.php%3Futm_source%3DSreality%26utm_campaign%3DBlanka33%281-2026%29%26utm_term%3Dpromoballoon%26utm_content%3Dpaymentnotshown%26utm_medium%3DNativniInzerat",
-    "id": "blanka_33.php%3Futm_source%3DSreality%26utm_campaign%3DBlanka33%281-2026%29%26utm_term%3Dpromoballoon%26utm_content%3Dpaymentnotshown%26utm_medium%3DNativniInzerat"
-  },
-  {
     "header": "Pronájem bytu 3+1 71 m²",
     "Address": "Banskobystrická, Brno - Řečkovice",
     "Price": "25 000 Kč/měsíc",
@@ -152,5 +138,12 @@
     "Price": "28 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-bohunice-cenka-ruzicky/1560499020",
     "id": "1560499020"
+  },
+  {
+    "header": "Pronájem bytu 2+1 91 m²",
+    "Address": "Olomoucká, Brno - Černovice",
+    "Price": "21 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-cernovice-olomoucka/3191034700",
+    "id": "3191034700"
   }
 ]
