@@ -113,13 +113,6 @@
   },
   {
     "header": "Pronájem bytu 2+1 60 m²",
-    "Address": "Štefánikova, Brno - Veveří",
-    "Price": "18 900 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-veveri-stefanikova/3451085644",
-    "id": "3451085644"
-  },
-  {
-    "header": "Pronájem bytu 2+1 60 m²",
     "Address": "Šrámkova, Brno - Lesná",
     "Price": "20 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-lesna-sramkova/1468232524",
@@ -138,5 +131,12 @@
     "Price": "27 500 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-brno-stefanikova/4275196748",
     "id": "4275196748"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 75 m²",
+    "Address": "Turgeněvova, Brno - Černovice",
+    "Price": "20 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-cernovice-turgenevova/3386336076",
+    "id": "3386336076"
   }
 ]
