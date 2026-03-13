@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 88 m²",
+    "Address": "Brno - Brno-město",
+    "Price": "21 500 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-brno-mesto-/357716812",
+    "id": "357716812"
+  },
+  {
     "header": "Pronájem bytu 3+kk 80 m²",
     "Address": "Žabovřeská, Brno - Pisárky",
     "Price": "26 900 Kč/měsíc",
@@ -138,12 +145,5 @@
     "Price": "20 490 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-trnita-masna/1547719500",
     "id": "1547719500"
-  },
-  {
-    "header": "Pronájem bytu 2+1 53 m²",
-    "Address": "Dalimilova, Brno - Královo Pole",
-    "Price": "18 800 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-kralovo-pole-dalimilova/2369803084",
-    "id": "2369803084"
   }
 ]
