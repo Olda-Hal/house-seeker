@@ -1,5 +1,19 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 65 m²",
+    "Address": "Nad Přehradou, Brno - Bystrc",
+    "Price": "27 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-bystrc-nad-prehradou/3106431820",
+    "id": "3106431820"
+  },
+  {
+    "header": "Pronájem bytu 3+1 81 m²",
+    "Address": "Řehořova, Brno - Černovice",
+    "Price": "29 900 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-cernovice-rehorova/3869266764",
+    "id": "3869266764"
+  },
+  {
     "header": "Pronájem bytu 3+kk 82 m²",
     "Address": "Grohova, Brno - Veveří",
     "Price": "28 000 Kč/měsíc",
@@ -44,7 +58,7 @@
   {
     "header": "Pronájem bytu 2+1 70 m²",
     "Address": "Pekařská, Brno",
-    "Price": "17 500 Kč/měsíc",
+    "Price": "16 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-brno-pekarska/1643336524",
     "id": "1643336524"
   },
@@ -131,19 +145,5 @@
     "Price": "23 900 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-stare-brno-kridlovicka/3167617868",
     "id": "3167617868"
-  },
-  {
-    "header": "Pronájem bytu 2+1 66 m²",
-    "Address": "Renneská třída, Brno - Štýřice",
-    "Price": "19 590 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-styrice-renneska-trida/2549158732",
-    "id": "2549158732"
-  },
-  {
-    "header": "Pronájem bytu 2+1 50 m²",
-    "Address": "Rybnická, Brno",
-    "Price": "19 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-brno-rybnicka/1185637196",
-    "id": "1185637196"
   }
 ]
