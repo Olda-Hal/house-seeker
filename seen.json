@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+1 102 m²",
+    "Address": "Biskupská, Brno - Brno-město",
+    "Price": "46 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-brno-mesto-biskupska/1594315596",
+    "id": "1594315596"
+  },
+  {
     "header": "Pronájem bytu 3+1 143 m²",
     "Address": "Schodová, Brno - Černá Pole",
     "Price": "45 000 Kč/měsíc",
@@ -138,12 +145,5 @@
     "Price": "24 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-kralovo-pole-hercikova/2806469452",
     "id": "2806469452"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 86 m²",
-    "Address": "třída Generála Píky, Brno - Černá Pole",
-    "Price": "48 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-cerna-pole-trida-generala-piky/2754634572",
-    "id": "2754634572"
   }
 ]
