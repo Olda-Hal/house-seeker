@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 2+1 50 m²",
+    "Address": "Pekařská, Brno - Staré Brno",
+    "Price": "18 900 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-stare-brno-pekarska/3414119244",
+    "id": "3414119244"
+  },
+  {
     "header": "Pronájem bytu 2+1 62 m²",
     "Address": "Černého, Brno - Bystrc",
     "Price": "19 200 Kč/měsíc",
@@ -138,12 +145,5 @@
     "Price": "19 900 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-kralovo-pole-vackova/1346175820",
     "id": "1346175820"
-  },
-  {
-    "header": "Pronájem bytu 3+1 59 m²",
-    "Address": "Příkrá, Brno - Žabovřesky",
-    "Price": "18 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-zabovresky-prikra/2015843148",
-    "id": "2015843148"
   }
 ]
