@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 88 m²",
+    "Address": "Brno - Brno-město",
+    "Price": "21 500 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-brno-mesto-/357716812",
+    "id": "357716812"
+  },
+  {
     "header": "Pronájem bytu 3+kk 48 m²",
     "Address": "Rostislavovo náměstí, Brno - Královo Pole",
     "Price": "24 990 Kč/měsíc",
@@ -105,13 +112,6 @@
     "id": "4104352588"
   },
   {
-    "header": "Luxusní dům Blanka 33",
-    "Address": "Pořiďte si svůj vysněný dům s dispozicí 5+kk za cenu v luxusním provedení 4.650.000 Kč.",
-    "Price": "Ekonomické stavby",
-    "link": "https://i.imedia.cz/v2/click?spotId=4115911&d=88B6KUISRKKNCG4D8D9X4W9SIC44DEMYPTME6S8SCQD4PF5QUXE9VS5ET3MN7DX6IG78ZE3QAS43H7GIQ3SNMF6WPD57V6ND7G3DM2K6AXG3XTWWITYTBPX96ZQ74VDJGDCW4W4F94SWVD24HTEAFBP796DG3A7V27Z5DFSGPMZBNTNMVCJNRS8X38WBISB96K6ZZUUXTWSREBJY27M8GRHS7BR2FUAYFEHJ3IRDVSWGKX85CC76RNKFS9GBRBI9FPMQ87AS26HJ9AHAJPJKJT3V32UFSDR4VFU6UKUNNINUSP8ITYGDPKWVHCUUUGNT4JJDVBFYXKZFWXMAX89CRKCP4VGZ3BAA3BNAZE9NZISS&destination=https%3A//pozemky.ekonomicke-stavby.cz/blanka_33.php%3Futm_source%3DSreality%26utm_campaign%3DBlanka33%281-2026%29%26utm_term%3Dpromoballoon%26utm_content%3Dpaymentnotshown%26utm_medium%3DNativniInzerat",
-    "id": "blanka_33.php%3Futm_source%3DSreality%26utm_campaign%3DBlanka33%281-2026%29%26utm_term%3Dpromoballoon%26utm_content%3Dpaymentnotshown%26utm_medium%3DNativniInzerat"
-  },
-  {
     "header": "Pronájem bytu 2+1 60 m²",
     "Address": "Černého, Brno - Bystrc",
     "Price": "16 000 Kč/měsíc",
@@ -138,12 +138,5 @@
     "Price": "46 500 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-lesna-majdalenky/1512788812",
     "id": "1512788812"
-  },
-  {
-    "header": "Pronájem bytu 3+1 64 m²",
-    "Address": "Bořetická, Brno - Židenice",
-    "Price": "22 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-zidenice-boreticka/1889432396",
-    "id": "1889432396"
   }
 ]
