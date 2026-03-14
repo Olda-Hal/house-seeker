@@ -1,5 +1,19 @@
 [
   {
+    "header": "Pronájem bytu 2+1 85 m²",
+    "Address": "Solniční, Brno - Brno-město",
+    "Price": "22 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-brno-mesto-solnicni/3120719180",
+    "id": "3120719180"
+  },
+  {
+    "header": "Pronájem bytu 2+1 67 m²",
+    "Address": "Merhautova, Brno - Zábrdovice",
+    "Price": "27 490 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-zabrdovice-merhautova/3088061260",
+    "id": "3088061260"
+  },
+  {
     "header": "Pronájem bytu 3+kk 118 m²",
     "Address": "Majdalenky, Brno - Lesná",
     "Price": "46 500 Kč/měsíc",
@@ -124,19 +138,5 @@
     "Price": "22 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-veveri-stojanova/1190290252",
     "id": "1190290252"
-  },
-  {
-    "header": "Pronájem bytu 2+1 91 m²",
-    "Address": "Olomoucká, Brno - Černovice",
-    "Price": "21 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-cernovice-olomoucka/3191034700",
-    "id": "3191034700"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 82 m²",
-    "Address": "Grohova, Brno - Veveří",
-    "Price": "28 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-veveri-grohova/1503949644",
-    "id": "1503949644"
   }
 ]
