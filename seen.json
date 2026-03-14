@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+1 67 m²",
+    "Address": "Loosova, Brno - Lesná",
+    "Price": "18 990 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-lesna-loosova/4104352588",
+    "id": "4104352588"
+  },
+  {
     "header": "Pronájem bytu 2+1 60 m²",
     "Address": "Černého, Brno - Bystrc",
     "Price": "16 000 Kč/měsíc",
@@ -131,12 +138,5 @@
     "Price": "20 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-bystrc-cerneho/328295244",
     "id": "328295244"
-  },
-  {
-    "header": "Pronájem bytu 3+1 74 m²",
-    "Address": "Smetanova, Brno - Veveří",
-    "Price": "19 950 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-veveri-smetanova/823227212",
-    "id": "823227212"
   }
 ]
