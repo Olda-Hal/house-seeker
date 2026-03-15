@@ -1,5 +1,33 @@
 [
   {
+    "header": "Pronájem bytu 2+1 55 m²",
+    "Address": "Vlárská, Brno - Slatina",
+    "Price": "16 500 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-slatina-vlarska/3497227084",
+    "id": "3497227084"
+  },
+  {
+    "header": "Pronájem bytu 2+1 66 m²",
+    "Address": "Renneská třída, Brno - Štýřice",
+    "Price": "19 590 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-styrice-renneska-trida/2549158732",
+    "id": "2549158732"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 74 m²",
+    "Address": "Kollárova, Brno - Královo Pole",
+    "Price": "33 990 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-kralovo-pole-kollarova/353567564",
+    "id": "353567564"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 51 m²",
+    "Address": "Ptašínského, Brno - Ponava",
+    "Price": "18 990 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-ponava-ptasinskeho/670266188",
+    "id": "670266188"
+  },
+  {
     "header": "Pronájem bytu 2+1 68 m²",
     "Address": "Údolní, Brno - Brno-město",
     "Price": "19 900 Kč/měsíc",
@@ -117,33 +145,5 @@
     "Price": "29 500 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-brno-tumova/1024545612",
     "id": "1024545612"
-  },
-  {
-    "header": "Pronájem bytu 2+1 85 m²",
-    "Address": "Solniční, Brno - Brno-město",
-    "Price": "22 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-brno-mesto-solnicni/3120719180",
-    "id": "3120719180"
-  },
-  {
-    "header": "Pronájem bytu 2+1 70 m²",
-    "Address": "Pekařská, Brno",
-    "Price": "16 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-brno-pekarska/1643336524",
-    "id": "1643336524"
-  },
-  {
-    "header": "Pronájem bytu 2+1 43 m²",
-    "Address": "Kšírova, Brno - Horní Heršpice",
-    "Price": "16 400 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-horni-herspice-ksirova/2238403404",
-    "id": "2238403404"
-  },
-  {
-    "header": "Pronájem bytu 2+1 53 m²",
-    "Address": "Koniklecová, Brno - Nový Lískovec",
-    "Price": "13 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-novy-liskovec-koniklecova/61801292",
-    "id": "61801292"
   }
 ]
