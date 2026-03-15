@@ -1,5 +1,19 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 238 m²",
+    "Address": "Dusíkova, Brno - Lesná",
+    "Price": "30 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-lesna-dusikova/1823761228",
+    "id": "1823761228"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 79 m²",
+    "Address": "Novodvorská, Brno - Žebětín",
+    "Price": "23 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zebetin-novodvorska/2267439948",
+    "id": "2267439948"
+  },
+  {
     "header": "Pronájem bytu 2+1 68 m²",
     "Address": "Soukenická, Brno - Staré Brno",
     "Price": "25 490 Kč/měsíc",
@@ -131,19 +145,5 @@
     "Price": "30 900 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-sadova-zajeci-hora/1097753420",
     "id": "1097753420"
-  },
-  {
-    "header": "Pronájem bytu 3+1 70 m²",
-    "Address": "Žitná, Brno - Řečkovice",
-    "Price": "27 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-reckovice-zitna/2513916748",
-    "id": "2513916748"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 71 m²",
-    "Address": "Placzkova, Brno - Trnitá",
-    "Price": "25 990 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-trnita-placzkova/2008290124",
-    "id": "2008290124"
   }
 ]
