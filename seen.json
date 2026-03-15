@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 2+1 88 m²",
+    "Address": "Masná, Brno - Trnitá",
+    "Price": "22 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-trnita-masna/686515020",
+    "id": "686515020"
+  },
+  {
     "header": "Pronájem bytu 3+1 89 m²",
     "Address": "Tůmova, Brno",
     "Price": "29 500 Kč/měsíc",
@@ -138,12 +145,5 @@
     "Price": "19 590 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-styrice-renneska-trida/2549158732",
     "id": "2549158732"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 74 m²",
-    "Address": "Kollárova, Brno - Královo Pole",
-    "Price": "33 990 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-kralovo-pole-kollarova/353567564",
-    "id": "353567564"
   }
 ]
