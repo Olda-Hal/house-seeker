@@ -1,5 +1,26 @@
 [
   {
+    "header": "Pronájem bytu 2+1 50 m²",
+    "Address": "Pekařská, Brno - Staré Brno",
+    "Price": "18 900 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-stare-brno-pekarska/3414119244",
+    "id": "3414119244"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 110 m²",
+    "Address": "Skorkovského, Brno - Židenice",
+    "Price": "25 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zidenice-skorkovskeho/4080010060",
+    "id": "4080010060"
+  },
+  {
+    "header": "Pronájem bytu 3+1 75 m²",
+    "Address": "Kvapilova, Brno - Žabovřesky",
+    "Price": "15 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-zabovresky-kvapilova/4068889420",
+    "id": "4068889420"
+  },
+  {
     "header": "Pronájem bytu 2+1 75 m²",
     "Address": "Štefánikova, Brno",
     "Price": "24 000 Kč/měsíc",
@@ -16,7 +37,7 @@
   {
     "header": "Pronájem bytu 3+kk 82 m²",
     "Address": "Drobného, Brno - Černá Pole",
-    "Price": "34 990 Kč/měsíc",
+    "Price": "32 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-cerna-pole-drobneho/2956030796",
     "id": "2956030796"
   },
@@ -117,26 +138,5 @@
     "Price": "30 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-slatina-langrova/1379291980",
     "id": "1379291980"
-  },
-  {
-    "header": "Pronájem bytu 2+1 55 m²",
-    "Address": "Vlárská, Brno - Slatina",
-    "Price": "16 500 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-slatina-vlarska/3497227084",
-    "id": "3497227084"
-  },
-  {
-    "header": "Pronájem bytu 2+1 66 m²",
-    "Address": "Renneská třída, Brno - Štýřice",
-    "Price": "19 590 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-styrice-renneska-trida/2549158732",
-    "id": "2549158732"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 74 m²",
-    "Address": "Kollárova, Brno - Královo Pole",
-    "Price": "33 990 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-kralovo-pole-kollarova/353567564",
-    "id": "353567564"
   }
 ]
