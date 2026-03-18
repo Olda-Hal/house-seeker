@@ -1,17 +1,45 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 78 m²",
+    "Address": "Hybešova, Brno - Staré Brno",
+    "Price": "25 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-stare-brno-hybesova/2629518156",
+    "id": "2629518156"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 86 m²",
+    "Address": "Cacovická, Brno - Husovice",
+    "Price": "23 900 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-husovice-cacovicka/1861628748",
+    "id": "1861628748"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 66 m²",
+    "Address": "Hlinky, Brno - Pisárky",
+    "Price": "31 900 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-pisarky-hlinky/846926668",
+    "id": "846926668"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 87 m²",
+    "Address": "Zaječí hora, Brno - Sadová",
+    "Price": "30 900 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-sadova-zajeci-hora/1097753420",
+    "id": "1097753420"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 84 m²",
+    "Address": "Vackova, Brno - Královo Pole",
+    "Price": "19 900 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-kralovo-pole-vackova/1346175820",
+    "id": "1346175820"
+  },
+  {
     "header": "Pronájem bytu 3+kk 143 m²",
     "Address": "Panská, Brno - Brno-město",
     "Price": "32 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-brno-mesto-panska/3086697292",
     "id": "3086697292"
-  },
-  {
-    "header": "Pronájem bytu 2+1 63 m²",
-    "Address": "Opálkova, Brno - Bystrc",
-    "Price": "18 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-bystrc-opalkova/3135980364",
-    "id": "3135980364"
   },
   {
     "header": "Pronájem bytu 3+1 73 m²",
@@ -112,45 +140,10 @@
     "id": "2356761420"
   },
   {
-    "header": "Luxusní dům František 14",
-    "Address": "Pořiďte si svůj vysněný dům s dispozicí 5+1+G včetně pozemku za 21.696 Kč /měsíčně.",
-    "Price": "Ekonomické stavby",
-    "link": "https://i.imedia.cz/v2/click?spotId=4126467&d=54TXPHR9R7R3EZQB64VYZUSAAVHYANIIG3NK64SCTFFI4MGZA6TUGXV4CIDPZI49TJUDS9JZZA6XUFYFDQ8YTY9J6IH536ZZDG4WYZMAANA9VN4R6YDF29R4JN4ZZWKF6QC9KP83EYEACJ6WDGCRZ3CZ4VKC2VBGQXRJWKF9C9NA6TFFUZ2V9S9UBMIRBEG8FZA8DBZBK3XIDMJBTKYDUXR4B58SSWS5YG5GJRJRAG4BFGG39B925G7QADA9ZVNI3D2296HCCFGSGJU2EV6KQTCVGX2MC4J4RTFTTIJ82PTPDZUYPV3E3ICPVWE35EW784TATAYIDWMES4BVGUX8CBY9C2257SSZ5FF2N6QABU8MBE72&destination=https%3A//pozemky.ekonomicke-stavby.cz/frantisek_14.php%3Futm_source%3DSreality%26utm_campaign%3DFrantisek14%282-2026%29%26utm_term%3Dpromoballoon%26utm_content%3Dpaymentnotshown%26utm_medium%3DNativniInzerat",
-    "id": "frantisek_14.php%3Futm_source%3DSreality%26utm_campaign%3DFrantisek14%282-2026%29%26utm_term%3Dpromoballoon%26utm_content%3Dpaymentnotshown%26utm_medium%3DNativniInzerat"
-  },
-  {
     "header": "Pronájem bytu 3+1 82 m²",
     "Address": "Valtická, Brno - Židenice",
     "Price": "23 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-zidenice-valticka/1131500364",
     "id": "1131500364"
-  },
-  {
-    "header": "Pronájem bytu 3+1 71 m²",
-    "Address": "Banskobystrická, Brno - Řečkovice",
-    "Price": "25 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-reckovice-banskobystricka/1718440780",
-    "id": "1718440780"
-  },
-  {
-    "header": "Pronájem bytu 2+1 65 m²",
-    "Address": "Lidická, Brno - Černá Pole",
-    "Price": "16 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-cerna-pole-lidicka/2631160652",
-    "id": "2631160652"
-  },
-  {
-    "header": "Pronájem bytu 2+1 42 m²",
-    "Address": "Jamborova, Brno - Židenice",
-    "Price": "14 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-zidenice-jamborova/2438677324",
-    "id": "2438677324"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 88 m²",
-    "Address": "Brno - Brno-město",
-    "Price": "21 500 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-brno-mesto-/357716812",
-    "id": "357716812"
   }
 ]
