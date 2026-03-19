@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 2+1 46 m²",
+    "Address": "Pěkná, Brno - Chrlice",
+    "Price": "17 565 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-chrlice-pekna/3545842508",
+    "id": "3545842508"
+  },
+  {
     "header": "Pronájem bytu 2+1 45 m²",
     "Address": "třída Generála Píky, Brno - Černá Pole",
     "Price": "14 900 Kč/měsíc",
@@ -131,12 +138,5 @@
     "Price": "25 990 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-trnita-placzkova/2008290124",
     "id": "2008290124"
-  },
-  {
-    "header": "Pronájem bytu 2+1 60 m²",
-    "Address": "Arbesova, Brno - Lesná",
-    "Price": "18 500 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-lesna-arbesova/4141499212",
-    "id": "4141499212"
   }
 ]
