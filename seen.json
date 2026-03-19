@@ -1,5 +1,19 @@
 [
   {
+    "header": "Pronájem bytu 2+1 60 m²",
+    "Address": "Arbesova, Brno - Lesná",
+    "Price": "18 500 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-lesna-arbesova/4141499212",
+    "id": "4141499212"
+  },
+  {
+    "header": "Pronájem bytu 3+1 73 m²",
+    "Address": "Kamínky, Brno - Nový Lískovec",
+    "Price": "23 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-novy-liskovec-kaminky/365577036",
+    "id": "365577036"
+  },
+  {
     "header": "Pronájem bytu 2+1 58 m²",
     "Address": "Chládkova, Brno - Žabovřesky",
     "Price": "22 000 Kč/měsíc",
@@ -124,19 +138,5 @@
     "Price": "16 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-pisarky-neumannova/3092923212",
     "id": "3092923212"
-  },
-  {
-    "header": "Pronájem bytu 2+1 53 m²",
-    "Address": "Koniklecová, Brno - Nový Lískovec",
-    "Price": "13 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-novy-liskovec-koniklecova/61801292",
-    "id": "61801292"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 110 m²",
-    "Address": "Skorkovského, Brno - Židenice",
-    "Price": "25 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zidenice-skorkovskeho/4080010060",
-    "id": "4080010060"
   }
 ]
