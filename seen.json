@@ -1,5 +1,19 @@
 [
   {
+    "header": "Pronájem bytu 3+1 67 m²",
+    "Address": "Loosova, Brno - Lesná",
+    "Price": "18 990 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-lesna-loosova/4104352588",
+    "id": "4104352588"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 83 m²",
+    "Address": "Dusíkova, Brno - Lesná",
+    "Price": "26 990 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-lesna-dusikova/3885331276",
+    "id": "3885331276"
+  },
+  {
     "header": "Pronájem bytu 3+kk 118 m²",
     "Address": "Majdalenky, Brno - Lesná",
     "Price": "46 500 Kč/měsíc",
@@ -105,13 +119,6 @@
     "id": "2008290124"
   },
   {
-    "header": "Získejte silnou Wi-Fi",
-    "Address": "Celou domácnost připojíte za 399 Kč měsíčně, v balíčku O2 Spolu dokonce za 299 Kč měsíčně",
-    "Price": "O2",
-    "link": "https://i.imedia.cz/v2/click?spotId=4122688&d=DTUCHKQCCCZ5TXPAEUHF8PUA6QDPY8NF3TC5DFJM5WB8I3E64BHU2FB2Q62695AJKZQMT7W7VUF5MDQ8Q28C58DT9I8HVI58MFD7897TGGBDN3G7NWD8Y8K7D4S4AT5GFU3BG324XENSH94EGAWZEVX3P9MQATP4CPVYJKFS5TTNWQPAB5Q38ENDRRYMS892DUVKBKGPGAHGXUXGIABB5KYQ64R6P977UJGNGCFM3UMMZ7IXD344RQQMS4SMG6S8YPKNFG8FEYNMU33WXIRCWGBUYP25FGKNCJB6TXZ6PKWIJ76TXGWJIIYX8DMJVU6UWCWY7X4BYBCABBW7J6M6BCG9HYUHUHYH3X4U8W7DUU8H7I6G&destination=https%3A//ad.doubleclick.net/ddm/trackclk/N1215814.1921114SREALITY/B34830862.437422730%3Bdc_trk_aid%3D630523367%3Bdc_trk_cid%3D248274084%3Bdc_lat%3D%3Bdc_rdid%3D%3Btag_for_child_directed_treatment%3D%3Btfua%3D%3Bgdpr%3D$%7BGDPR%7D%3Bgdpr_consent%3D$%7BGDPR_CONSENT_755%7D%3Bltd%3D%3Bdc_tdv%3D1",
-    "id": "B34830862.437422730%3Bdc_trk_aid%3D630523367%3Bdc_trk_cid%3D248274084%3Bdc_lat%3D%3Bdc_rdid%3D%3Btag_for_child_directed_treatment%3D%3Btfua%3D%3Bgdpr%3D$%7BGDPR%7D%3Bgdpr_consent%3D$%7BGDPR_CONSENT_755%7D%3Bltd%3D%3Bdc_tdv%3D1"
-  },
-  {
     "header": "Pronájem bytu 2+1 60 m²",
     "Address": "Arbesova, Brno - Lesná",
     "Price": "18 500 Kč/měsíc",
@@ -131,19 +138,5 @@
     "Price": "22 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-zabovresky-chladkova/646603596",
     "id": "646603596"
-  },
-  {
-    "header": "Pronájem bytu 2+1 64 m²",
-    "Address": "Božetěchova, Brno - Královo Pole",
-    "Price": "20 990 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-kralovo-pole-bozetechova/183124812",
-    "id": "183124812"
-  },
-  {
-    "header": "Pronájem bytu 2+1 65 m²",
-    "Address": "Rybnická, Brno - Nový Lískovec",
-    "Price": "16 500 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-novy-liskovec-rybnicka/2652521292",
-    "id": "2652521292"
   }
 ]
