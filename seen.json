@@ -1,6 +1,13 @@
 [
   {
     "header": "Pronájem bytu 2+1 65 m²",
+    "Address": "Rybnická, Brno - Nový Lískovec",
+    "Price": "16 500 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-novy-liskovec-rybnicka/2652521292",
+    "id": "2652521292"
+  },
+  {
+    "header": "Pronájem bytu 2+1 65 m²",
     "Address": "Milady Horákové, Brno - Zábrdovice",
     "Price": "20 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-zabrdovice-milady-horakove/725304140",
@@ -47,13 +54,6 @@
     "Price": "23 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-lisen-otiskova/2017084236",
     "id": "2017084236"
-  },
-  {
-    "header": "Luxusní dům František 14",
-    "Address": "Pořiďte si svůj vysněný dům s dispozicí 5+1+G včetně pozemku za 21.696 Kč /měsíčně.",
-    "Price": "Ekonomické stavby",
-    "link": "https://i.imedia.cz/v2/click?spotId=4126467&d=IJ7JGDS56B4TXWC3MJNJTCWTFCN4WJF8AEIJQWWCC49GXHJQIFPJ9B2RXZ6YHUNKDM3VKNU5N3897T7MCXQUDB6Q4YB8GXCTMGJ54JDMPSTU9DQPTYHHTRBSRY4VGED3ZN8C8JJR6QPHH9V3UT7RBZ4M7NWTB52QEUIJEQJP9HCANR9A6SK8P2DBTF7PXW2UJCUBZBWGCHNR2EVHB3AXV22MPESJTYUCJTH9UR48E4QJDN7P8CCYSVB8IPFNERSPPDPGD3Y328V5WMCEZCJI7CCSJV9IRT7A77DSIRCE7ESM8HKVHM3TYSCXIQVW4FBFWG6PNRSUGZM7NZNY2WM38GD3VDZQCAHMDSC98N5IHWM2JIEV&destination=https%3A//pozemky.ekonomicke-stavby.cz/frantisek_14.php%3Futm_source%3DSreality%26utm_campaign%3DFrantisek14%282-2026%29%26utm_term%3Dpromoballoon%26utm_content%3Dpaymentnotshown%26utm_medium%3DNativniInzerat",
-    "id": "frantisek_14.php%3Futm_source%3DSreality%26utm_campaign%3DFrantisek14%282-2026%29%26utm_term%3Dpromoballoon%26utm_content%3Dpaymentnotshown%26utm_medium%3DNativniInzerat"
   },
   {
     "header": "Pronájem bytu 2+1 60 m²",
@@ -138,12 +138,5 @@
     "Price": "15 900 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-horni-herspice-ksirova/2238403404",
     "id": "2238403404"
-  },
-  {
-    "header": "Pronájem bytu 2+1 54 m²",
-    "Address": "Kabátníkova, Brno - Ponava",
-    "Price": "19 500 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-ponava-kabatnikova/4189606732",
-    "id": "4189606732"
   }
 ]
