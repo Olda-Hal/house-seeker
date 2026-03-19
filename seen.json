@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 2+1 67 m²",
+    "Address": "Neumannova, Brno - Pisárky",
+    "Price": "16 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-pisarky-neumannova/3092923212",
+    "id": "3092923212"
+  },
+  {
     "header": "Pronájem bytu 2+1 53 m²",
     "Address": "Koniklecová, Brno - Nový Lískovec",
     "Price": "13 000 Kč/měsíc",
@@ -42,18 +49,18 @@
     "id": "3111797580"
   },
   {
+    "header": "Luxusní dům František 14",
+    "Address": "Pořiďte si svůj vysněný dům s dispozicí 5+1+G včetně pozemku za 21.696 Kč /měsíčně.",
+    "Price": "Ekonomické stavby",
+    "link": "https://i.imedia.cz/v2/click?spotId=4126468&d=6SRVXYRUDA67UMWK2JYAVYTNA84WM323PB6R68Q3C93T2BFTZZZZV33B3ANUIIMG29IINMPS32JXHGSR7VHSX687F8GRGPH27FT6Q3VE7AA367A5ZIUVG2HBJ9CG639GWU8C5EH6J438IA2RS666II3CPEI3K6JWAVF564BYKH4CXDRA8Z5Y4SN3M9RDYHZKMXC9TXPTE98B7UKZFA676VGZMPCXQ5YTE73XJMYJDJBJZKVYHZPM2NNAEFYGX7AM3F2A8P36P445794EDQNZF3S8VIPXECJJ9ZVPBSXFXUSDCBTB74IKESBDW5HNSHVNJ2WVCKT6GXBE8RDEGEDSD6BEF22NWBFZPCGZUPQV5BQA&destination=https%3A//pozemky.ekonomicke-stavby.cz/frantisek_14.php%3Futm_source%3DSreality%26utm_campaign%3DFrantisek14%282-2026%29%26utm_term%3Dpromoballoon%26utm_content%3Dpaymentnotshown%26utm_medium%3DNativniInzerat",
+    "id": "frantisek_14.php%3Futm_source%3DSreality%26utm_campaign%3DFrantisek14%282-2026%29%26utm_term%3Dpromoballoon%26utm_content%3Dpaymentnotshown%26utm_medium%3DNativniInzerat"
+  },
+  {
     "header": "Pronájem bytu 2+1 56 m²",
     "Address": "Renneská třída, Brno - Štýřice",
     "Price": "24 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-styrice-renneska-trida/3620164428",
     "id": "3620164428"
-  },
-  {
-    "header": "Plánování kuchyně ZDARMA",
-    "Address": "Rezervujte termín a naplánujte si s námi kuchyni německé kvality se zárukou až 25 let.",
-    "Price": "XXXLutz Česká republika",
-    "link": "https://i.imedia.cz/v2/click?spotId=4107894&d=ABMUGREBJHZJQHRJADDZ94B6DUIS6S858WI6J5YZNH5CEX3VTJBK749PZM6WQ8K4HGVXQ2DF32ZMBVKWXEKVYZKPJ8JR8PQTPRKRZ4KV8WZRRYN5AGHICPMUQGZKRMCYAJDKIITGY53U9439N49SWUD3XSWDJ3KYEPAZFIEE7YGWITU5CHG3D8FM3EK4THPHGUKE442N87SKPZI4WVQM9TAKXC9YBI4TTU5J6HXQ4FDKW2B27SBU6PCC333MUKCHYRTGNQ2WYNZDFUK9VMP9QGUA3QYX8BA8PFP7EZUPN2VS6BHFYIQIRERBTFFH7S7F2F3BVX8PSRP2USEE3RJN7UKJ9E5DUMDUWIKB89CZMIPS&destination=https%3A//ad.doubleclick.net/ddm/trackclk/N510405.5083943MUP-SEZNAM-NATIVE/B34999881.438741785%3Bdc_trk_aid%3D632129215%3Bdc_trk_cid%3D247725133%3Bdc_lat%3D%3Bdc_rdid%3D%3Btag_for_child_directed_treatment%3D%3Btfua%3D%3Bgdpr%3D$%7BGDPR%7D%3Bgdpr_consent%3D$%7BGDPR_CONSENT_755%7D%3Bltd%3D%3Bdc_tdv%3D1",
-    "id": "B34999881.438741785%3Bdc_trk_aid%3D632129215%3Bdc_trk_cid%3D247725133%3Bdc_lat%3D%3Bdc_rdid%3D%3Btag_for_child_directed_treatment%3D%3Btfua%3D%3Bgdpr%3D$%7BGDPR%7D%3Bgdpr_consent%3D$%7BGDPR_CONSENT_755%7D%3Bltd%3D%3Bdc_tdv%3D1"
   },
   {
     "header": "Pronájem bytu 3+kk 70 m²",
@@ -138,12 +145,5 @@
     "Price": "21 900 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-novy-liskovec-obla/2570089292",
     "id": "2570089292"
-  },
-  {
-    "header": "Pronájem bytu 3+1 64 m²",
-    "Address": "Bořetická, Brno - Židenice",
-    "Price": "22 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-zidenice-boreticka/1889432396",
-    "id": "1889432396"
   }
 ]
