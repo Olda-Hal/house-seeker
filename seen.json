@@ -1,5 +1,19 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 75 m²",
+    "Address": "Turgeněvova, Brno - Černovice",
+    "Price": "20 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-cernovice-turgenevova/3386336076",
+    "id": "3386336076"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 82 m²",
+    "Address": "Jánošíkova, Brno - Chrlice",
+    "Price": "21 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-chrlice-janosikova/54547276",
+    "id": "54547276"
+  },
+  {
     "header": "Pronájem bytu 2+1 52 m²",
     "Address": "Nové sady, Brno - Staré Brno",
     "Price": "18 900 Kč/měsíc",
@@ -124,19 +138,5 @@
     "Price": "19 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-brno-rybnicka/1185637196",
     "id": "1185637196"
-  },
-  {
-    "header": "Pronájem bytu 2+1 58 m²",
-    "Address": "Ptašínského, Brno - Ponava",
-    "Price": "14 500 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-ponava-ptasinskeho/2559198028",
-    "id": "2559198028"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 109 m²",
-    "Address": "Komárovská, Brno - Komárov",
-    "Price": "35 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-komarov-komarovska/330974028",
-    "id": "330974028"
   }
 ]
