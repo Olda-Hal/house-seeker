@@ -1,5 +1,19 @@
 [
   {
+    "header": "Pronájem bytu 2+1 55 m²",
+    "Address": "Záhřebská, Brno - Žabovřesky",
+    "Price": "19 500 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-zabovresky-zahrebska/2507686732",
+    "id": "2507686732"
+  },
+  {
+    "header": "Pronájem bytu 2+1 50 m²",
+    "Address": "Rybnická, Brno",
+    "Price": "19 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-brno-rybnicka/1185637196",
+    "id": "1185637196"
+  },
+  {
     "header": "Pronájem bytu 2+1 100 m²",
     "Address": "Lipová, Brno - Pisárky",
     "Price": "28 500 Kč/měsíc",
@@ -124,19 +138,5 @@
     "Price": "14 900 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-cerna-pole-trida-generala-piky/3628680012",
     "id": "3628680012"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 67 m²",
-    "Address": "Ostopovická, Brno - Bosonohy",
-    "Price": "25 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-bosonohy-ostopovicka/3368375116",
-    "id": "3368375116"
-  },
-  {
-    "header": "Pronájem bytu 3+1 67 m²",
-    "Address": "Loosova, Brno - Lesná",
-    "Price": "17 490 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-lesna-loosova/4104352588",
-    "id": "4104352588"
   }
 ]
