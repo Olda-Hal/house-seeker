@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+1 55 m²",
+    "Address": "Příkrá, Brno - Žabovřesky",
+    "Price": "19 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-zabovresky-prikra/2620998476",
+    "id": "2620998476"
+  },
+  {
     "header": "Pronájem bytu 2+1 46 m²",
     "Address": "Pěkná, Brno - Chrlice",
     "Price": "17 565 Kč/měsíc",
@@ -131,12 +138,5 @@
     "Price": "29 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-stare-brno-rybarska/1042043724",
     "id": "1042043724"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 71 m²",
-    "Address": "Placzkova, Brno - Trnitá",
-    "Price": "25 990 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-trnita-placzkova/2008290124",
-    "id": "2008290124"
   }
 ]
