@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 2+1 62 m²",
+    "Address": "Stojanova, Brno - Veveří",
+    "Price": "22 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-veveri-stojanova/1190290252",
+    "id": "1190290252"
+  },
+  {
     "header": "Pronájem bytu 3+kk 48 m²",
     "Address": "Rostislavovo náměstí, Brno - Královo Pole",
     "Price": "23 750 Kč/měsíc",
@@ -105,13 +112,6 @@
     "id": "3089646412"
   },
   {
-    "header": "Jedna Wi-Fi pro celý dům",
-    "Address": "O2 Internet teď díky Mesh systému rozšíříte i tam, kam dřív nedosáhl. Už od 299 Kč / měs.",
-    "Price": "O2",
-    "link": "https://i.imedia.cz/v2/click?spotId=4122686&d=I3DQJURPKQHDTTBGVM7KXUYYC6QHGQHAJTPWFI3U8AQ77GKEC74XE9FQCXSSGJYDDASETFHT6XT9J9UY4QHWP86E9JPT4EY6EIK5VRQD79HDGI6RUS7M85M6AQMVIXD8SIRZG9ASVK4SQ9VN9QZ55SBHX9JQ28MBKG3V2PYZII3YS8S7VXG85IEKA4KPNM5GEQGFVT3D57I8F4NSVVDMK954PCHW6EAZMRFQFK9BWCA667H2TE8AHW486BTUHHCQJH3ZBGXBCV5MW9QGQUJ4YPUKGMSN5TRFJK7R6RD2SNGSESH8NHS9GY992YI64RQ3XTYZC6D6F9GRF75PF2FNFPCX4Z8SPJ5ABHRPPI389VGPB6A&destination=https%3A//ad.doubleclick.net/ddm/trackclk/N1215814.1921114SREALITY/B34830862.437422730%3Bdc_trk_aid%3D630523367%3Bdc_trk_cid%3D247627736%3Bdc_lat%3D%3Bdc_rdid%3D%3Btag_for_child_directed_treatment%3D%3Btfua%3D%3Bgdpr%3D$%7BGDPR%7D%3Bgdpr_consent%3D$%7BGDPR_CONSENT_755%7D%3Bltd%3D%3Bdc_tdv%3D1",
-    "id": "B34830862.437422730%3Bdc_trk_aid%3D630523367%3Bdc_trk_cid%3D247627736%3Bdc_lat%3D%3Bdc_rdid%3D%3Btag_for_child_directed_treatment%3D%3Btfua%3D%3Bgdpr%3D$%7BGDPR%7D%3Bgdpr_consent%3D$%7BGDPR_CONSENT_755%7D%3Bltd%3D%3Bdc_tdv%3D1"
-  },
-  {
     "header": "Pronájem bytu 3+kk 118 m²",
     "Address": "Majdalenky, Brno - Lesná",
     "Price": "46 500 Kč/měsíc",
@@ -138,12 +138,5 @@
     "Price": "26 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-brno-krepelci/3535364940",
     "id": "3535364940"
-  },
-  {
-    "header": "Pronájem bytu 3+1 73 m²",
-    "Address": "Oblá, Brno - Nový Lískovec",
-    "Price": "21 900 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-novy-liskovec-obla/2570089292",
-    "id": "2570089292"
   }
 ]
