@@ -1,5 +1,26 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 83 m²",
+    "Address": "Dusíkova, Brno - Lesná",
+    "Price": "26 990 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-lesna-dusikova/3885331276",
+    "id": "3885331276"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 87 m²",
+    "Address": "Soukenická, Brno - Staré Brno",
+    "Price": "31 990 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-stare-brno-soukenicka/1213092684",
+    "id": "1213092684"
+  },
+  {
+    "header": "Pronájem bytu 3+1 73 m²",
+    "Address": "Tuřanské náměstí, Brno - Tuřany",
+    "Price": "22 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-turany-turanske-namesti/3709555532",
+    "id": "3709555532"
+  },
+  {
     "header": "Pronájem bytu 3+kk 110 m²",
     "Address": "Skorkovského, Brno - Židenice",
     "Price": "25 000 Kč/měsíc",
@@ -117,26 +138,5 @@
     "Price": "18 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-bystrc-opalkova/1515733836",
     "id": "1515733836"
-  },
-  {
-    "header": "Pronájem bytu 2+1 64 m²",
-    "Address": "Božetěchova, Brno - Královo Pole",
-    "Price": "20 990 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-kralovo-pole-bozetechova/183124812",
-    "id": "183124812"
-  },
-  {
-    "header": "Pronájem bytu 2+1 70 m²",
-    "Address": "Kotkova, Brno - Černovice",
-    "Price": "21 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-cernovice-kotkova/609764172",
-    "id": "609764172"
-  },
-  {
-    "header": "Pronájem bytu 3+1 74 m²",
-    "Address": "Smetanova, Brno - Veveří",
-    "Price": "19 950 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-veveri-smetanova/823227212",
-    "id": "823227212"
   }
 ]
