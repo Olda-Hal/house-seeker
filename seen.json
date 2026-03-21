@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+1 65 m²",
+    "Address": "Prušánecká, Brno - Židenice",
+    "Price": "17 500 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-zidenice-prusanecka/193221452",
+    "id": "193221452"
+  },
+  {
     "header": "Pronájem bytu 3+1 75 m²",
     "Address": "Dunajská, Brno - Starý Lískovec",
     "Price": "23 000 Kč/měsíc",
@@ -131,19 +138,5 @@
     "Price": "19 200 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-bystrc-cerneho/163996492",
     "id": "163996492"
-  },
-  {
-    "header": "Pronájem bytu 3+1 65 m²",
-    "Address": "Čejkovická, Brno - Židenice",
-    "Price": "23 500 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-zidenice-cejkovicka/619270988",
-    "id": "619270988"
-  },
-  {
-    "header": "PRONÁJEM BYTU 2+1 72 m²",
-    "Address": "Havlišova, Brno - Královo Pole, Jihomoravský kraj",
-    "Price": "24 000 Kč+ 4 000 Kč",
-    "link": "No Link",
-    "id": "No ID"
   }
 ]
