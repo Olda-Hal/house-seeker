@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 2+1 53 m²",
+    "Address": "Koniklecová, Brno - Nový Lískovec",
+    "Price": "13 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-novy-liskovec-koniklecova/61801292",
+    "id": "61801292"
+  },
+  {
     "header": "Pronájem bytu 2+1 56 m²",
     "Address": "Renneská třída, Brno - Štýřice",
     "Price": "24 000 Kč/měsíc",
@@ -138,12 +145,5 @@
     "Price": "22 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-turany-turanske-namesti/3709555532",
     "id": "3709555532"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 110 m²",
-    "Address": "Skorkovského, Brno - Židenice",
-    "Price": "25 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zidenice-skorkovskeho/4080010060",
-    "id": "4080010060"
   }
 ]
