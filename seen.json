@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 2+1 70 m²",
+    "Address": "Pekařská, Brno",
+    "Price": "16 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-brno-pekarska/1643336524",
+    "id": "1643336524"
+  },
+  {
     "header": "Pronájem bytu 2+1 53 m²",
     "Address": "Koniklecová, Brno - Nový Lískovec",
     "Price": "13 000 Kč/měsíc",
@@ -138,12 +145,5 @@
     "Price": "31 990 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-stare-brno-soukenicka/1213092684",
     "id": "1213092684"
-  },
-  {
-    "header": "Pronájem bytu 3+1 73 m²",
-    "Address": "Tuřanské náměstí, Brno - Tuřany",
-    "Price": "22 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-turany-turanske-namesti/3709555532",
-    "id": "3709555532"
   }
 ]
