@@ -63,13 +63,6 @@
     "id": "3167617868"
   },
   {
-    "header": "Pronájem bytu 3+1 65 m²",
-    "Address": "Prušánecká, Brno - Židenice",
-    "Price": "17 500 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-zidenice-prusanecka/193221452",
-    "id": "193221452"
-  },
-  {
     "header": "Pronájem bytu 3+1 75 m²",
     "Address": "Dunajská, Brno - Starý Lískovec",
     "Price": "23 000 Kč/měsíc",
@@ -145,5 +138,12 @@
     "Price": "17 490 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-lesna-loosova/4104352588",
     "id": "4104352588"
+  },
+  {
+    "header": "Pronájem bytu 2+1 88 m²",
+    "Address": "Masná, Brno - Trnitá",
+    "Price": "22 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-trnita-masna/686515020",
+    "id": "686515020"
   }
 ]
