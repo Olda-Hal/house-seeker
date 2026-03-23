@@ -1,10 +1,31 @@
 [
   {
+    "header": "Pronájem bytu 2+1 75 m²",
+    "Address": "Ostrá, Brno - Žabovřesky",
+    "Price": "15 400 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-zabovresky-ostra/3857597260",
+    "id": "3857597260"
+  },
+  {
+    "header": "Pronájem bytu 3+1 80 m²",
+    "Address": "Kamenná, Brno - Štýřice",
+    "Price": "24 900 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-styrice-kamenna/91489100",
+    "id": "91489100"
+  },
+  {
     "header": "Pronájem bytu 3+kk 72 m²",
     "Address": "Fantova, Brno - Obřany",
     "Price": "29 800 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-obrany-fantova/1756451660",
     "id": "1756451660"
+  },
+  {
+    "header": "Pronájem bytu 3+1 69 m²",
+    "Address": "Ondrouškova, Brno - Bystrc",
+    "Price": "18 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-bystrc-ondrouskova/387859276",
+    "id": "387859276"
   },
   {
     "header": "Pronájem bytu 3+1 75 m²",
@@ -117,26 +138,5 @@
     "Price": "17 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-bohunice-moldavska/2864280396",
     "id": "2864280396"
-  },
-  {
-    "header": "SLEVA: Pronájem bytu 3+kk 65 m²",
-    "Address": "Křídlovická, Brno - Staré Brno",
-    "Price": "21 500 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-stare-brno-kridlovicka/3167617868",
-    "id": "3167617868"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 70 m²",
-    "Address": "Rybnická, Brno - Nový Lískovec",
-    "Price": "31 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-novy-liskovec-rybnicka/2885448524",
-    "id": "2885448524"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 80 m²",
-    "Address": "Masarykova, Brno - Brno-město",
-    "Price": "31 400 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-brno-mesto-masarykova/1181307724",
-    "id": "1181307724"
   }
 ]
