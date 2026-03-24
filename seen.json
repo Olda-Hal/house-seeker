@@ -1,5 +1,19 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 73 m²",
+    "Address": "Říčanská, Brno - Bystrc",
+    "Price": "25 990 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-bystrc-ricanska/4094575436",
+    "id": "4094575436"
+  },
+  {
+    "header": "Pronájem bytu 2+1 64 m²",
+    "Address": "Božetěchova, Brno - Královo Pole",
+    "Price": "20 990 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-kralovo-pole-bozetechova/183124812",
+    "id": "183124812"
+  },
+  {
     "header": "Pronájem bytu 2+1 70 m²",
     "Address": "Pekařská, Brno",
     "Price": "16 000 Kč/měsíc",
@@ -105,13 +119,6 @@
     "id": "655246156"
   },
   {
-    "header": "Pronájem bytu 3+kk 73 m²",
-    "Address": "Říčanská, Brno - Bystrc",
-    "Price": "25 990 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-bystrc-ricanska/4094575436",
-    "id": "4094575436"
-  },
-  {
     "header": "Pronájem bytu 2+1 69 m²",
     "Address": "Chládkova, Brno - Žabovřesky",
     "Price": "22 000 Kč/měsíc",
@@ -138,12 +145,5 @@
     "Price": "26 990 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-trnita-trnita/2662273868",
     "id": "2662273868"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 118 m²",
-    "Address": "Majdalenky, Brno - Lesná",
-    "Price": "46 500 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-lesna-majdalenky/1512788812",
-    "id": "1512788812"
   }
 ]
