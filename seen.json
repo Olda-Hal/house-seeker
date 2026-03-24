@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 110 m²",
+    "Address": "Skorkovského, Brno - Židenice",
+    "Price": "25 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zidenice-skorkovskeho/4080010060",
+    "id": "4080010060"
+  },
+  {
     "header": "Pronájem bytu 3+1 72 m²",
     "Address": "Arbesova, Brno - Lesná",
     "Price": "23 000 Kč/měsíc",
@@ -138,12 +145,5 @@
     "Price": "17 500 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-styrice-havlenova/4082660172",
     "id": "4082660172"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 143 m²",
-    "Address": "Panská, Brno - Brno-město",
-    "Price": "32 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-brno-mesto-panska/3086697292",
-    "id": "3086697292"
   }
 ]
