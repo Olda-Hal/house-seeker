@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+1 76 m²",
+    "Address": "Bellova, Brno - Kohoutovice",
+    "Price": "25 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-kohoutovice-bellova/3169665868",
+    "id": "3169665868"
+  },
+  {
     "header": "Pronájem bytu 3+kk 70 m²",
     "Address": "Ramešova, Brno - Královo Pole",
     "Price": "25 000 Kč/měsíc",
@@ -112,13 +119,6 @@
     "id": "183124812"
   },
   {
-    "header": "Získejte silný Internet",
-    "Address": "Přejděte na O2 Internet s funkcí Wi-Fi Mesh a získejte silné připojení pro celou domácnost",
-    "Price": "O2",
-    "link": "https://i.imedia.cz/v2/click?spotId=4126924&d=FH23ZZWEG8567QGCZ8U47JH7SNG27WMYHXQK3BK8IRT5F79JFX2ZFB3Y2SNNK3BF485MRXFHKFQRYXRUJ6Q5FFQ5CAANR4IPTY46IDQF7RYV6GMZUM6HUH3FP23IJYNQRMCZZH7BTDPPYX79WE2ENRZ7PWXVNJPF9F4UCT38EI5CQZS2NCD88V7J2UVIZVKRVMD979GXPT65KS9JHYR55SJ5FHYVK68RN2N2CBHPX5QWP3JBXE3DMXBHIUMFFATS8UYPTGJY6WIG7AT8356TEMI5NEXQ4R22YM5YTEUE6RN69A3BFHRHMTVIKU8DEQ84IMWIFN2FIUQJDKEBMXGURC369TYVFXN7IBWSF979WGF3XZGN&destination=https%3A//ad.doubleclick.net/ddm/trackclk/N1215814.1921114SREALITY/B34830862.437422730%3Bdc_trk_aid%3D630523367%3Bdc_trk_cid%3D247628123%3Bdc_lat%3D%3Bdc_rdid%3D%3Btag_for_child_directed_treatment%3D%3Btfua%3D%3Bgdpr%3D$%7BGDPR%7D%3Bgdpr_consent%3D$%7BGDPR_CONSENT_755%7D%3Bltd%3D%3Bdc_tdv%3D1",
-    "id": "B34830862.437422730%3Bdc_trk_aid%3D630523367%3Bdc_trk_cid%3D247628123%3Bdc_lat%3D%3Bdc_rdid%3D%3Btag_for_child_directed_treatment%3D%3Btfua%3D%3Bgdpr%3D$%7BGDPR%7D%3Bgdpr_consent%3D$%7BGDPR_CONSENT_755%7D%3Bltd%3D%3Bdc_tdv%3D1"
-  },
-  {
     "header": "Pronájem bytu 2+1 70 m²",
     "Address": "Pekařská, Brno",
     "Price": "16 000 Kč/měsíc",
@@ -145,12 +145,5 @@
     "Price": "29 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-stare-brno-rybarska/1042043724",
     "id": "1042043724"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 87 m²",
-    "Address": "Soukenická, Brno - Staré Brno",
-    "Price": "31 990 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-stare-brno-soukenicka/1213092684",
-    "id": "1213092684"
   }
 ]
