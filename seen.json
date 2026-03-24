@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 67 m²",
+    "Address": "Ostopovická, Brno - Bosonohy",
+    "Price": "25 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-bosonohy-ostopovicka/1290683212",
+    "id": "1290683212"
+  },
+  {
     "header": "Pronájem bytu 2+1 64 m²",
     "Address": "Křenová, Brno - Trnitá",
     "Price": "18 000 Kč/měsíc",
@@ -138,12 +145,5 @@
     "Price": "22 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-zidenice-boreticka/1889432396",
     "id": "1889432396"
-  },
-  {
-    "header": "Pronájem bytu 2+1 58 m²",
-    "Address": "Moldavská, Brno - Bohunice",
-    "Price": "17 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-bohunice-moldavska/2864280396",
-    "id": "2864280396"
   }
 ]
