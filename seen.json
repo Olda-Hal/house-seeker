@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 90 m²",
+    "Address": "Kollárova, Brno - Královo Pole",
+    "Price": "30 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-kralovo-pole-kollarova/2897036108",
+    "id": "2897036108"
+  },
+  {
     "header": "Pronájem bytu 3+kk 76 m²",
     "Address": "Otiskova, Brno - Líšeň",
     "Price": "23 000 Kč/měsíc",
@@ -23,7 +30,7 @@
   {
     "header": "Pronájem bytu 2+1 54 m²",
     "Address": "Kvapilova, Brno - Žabovřesky",
-    "Price": "19 990 Kč/měsíc",
+    "Price": "22 590 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-zabovresky-kvapilova/655246156",
     "id": "655246156"
   },
@@ -131,12 +138,5 @@
     "Price": "17 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-bohunice-moldavska/2864280396",
     "id": "2864280396"
-  },
-  {
-    "header": "SLEVA: Pronájem bytu 3+kk 65 m²",
-    "Address": "Křídlovická, Brno - Staré Brno",
-    "Price": "21 500 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-stare-brno-kridlovicka/3167617868",
-    "id": "3167617868"
   }
 ]
