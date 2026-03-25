@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 2+1 54 m²",
+    "Address": "Kabátníkova, Brno - Ponava",
+    "Price": "19 500 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-ponava-kabatnikova/4189606732",
+    "id": "4189606732"
+  },
+  {
     "header": "Pronájem bytu 3+1 87 m²",
     "Address": "Jugoslávská, Brno - Černá Pole",
     "Price": "24 000 Kč/měsíc",
@@ -131,12 +138,5 @@
     "Price": "16 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-brno-pekarska/1643336524",
     "id": "1643336524"
-  },
-  {
-    "header": "Pronájem bytu 2+1 52 m²",
-    "Address": "Nové sady, Brno - Staré Brno",
-    "Price": "18 900 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-stare-brno-nove-sady/1695105868",
-    "id": "1695105868"
   }
 ]
