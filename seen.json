@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 110 m²",
+    "Address": "Skorkovského, Brno - Židenice",
+    "Price": "25 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zidenice-skorkovskeho/4080010060",
+    "id": "4080010060"
+  },
+  {
     "header": "Pronájem bytu 3+1 85 m²",
     "Address": "Tábor, Brno - Ponava",
     "Price": "26 500 Kč/měsíc",
@@ -105,6 +112,13 @@
     "id": "2864280396"
   },
   {
+    "header": "Move-in ready Brno",
+    "Address": "Designově vybavené nájemní apartmány. WiFi, smart home, gym, parkování a skvělá poloha.",
+    "Price": "BRAVIS Reality",
+    "link": "https://i.imedia.cz/v2/click?spotId=4132282&d=8VH9STG6J8CFEQ2RKA5BXJFAVKNQSAUMWN32T2XE752YDNK8RCRGV7ZCAS5ZX8IC2ZRUUSMH2EQIQUR6U5UX6STSM9TCQQT4ZHVR4FMMJIJQABPDWCXTUYWKW69HU4UA88H83TCX2JJEEGKNW4JNX5FIDNTSKPDESM9DRNKVNDNDC3AI9TN64ZVPPHAZXX3TY4HAJ4VNA73GUH2UEBHF29Q4KM575Y5XW92ZBPMVR3BJCVWKW9RZZHJRZ5RXF9GQM3SNNGFXYXHTQBGUJ3T5J2JXF5KAKTAZZCP4VPAJV8W6QH5EGTK7XCHSS4QNZMRFSGBKFQYHMMVVXRHFWXM24JXSSQNPDNP8BTYKXAKT49CA7KS&destination=https%3A//www.bravis.cz/pronajem-apartmany-kralovopolska",
+    "id": "pronajem-apartmany-kralovopolska"
+  },
+  {
     "header": "SLEVA: Pronájem bytu 3+kk 65 m²",
     "Address": "Křídlovická, Brno - Staré Brno",
     "Price": "21 500 Kč/měsíc",
@@ -138,12 +152,5 @@
     "Price": "29 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-stare-brno-rybarska/1042043724",
     "id": "1042043724"
-  },
-  {
-    "header": "Pronájem bytu 2+1 40 m²",
-    "Address": "Václavská, Brno - Staré Brno",
-    "Price": "16 900 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-stare-brno-vaclavska/1340883788",
-    "id": "1340883788"
   }
 ]
