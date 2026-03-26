@@ -1,5 +1,33 @@
 [
   {
+    "header": "Pronájem bytu 2+1 56 m²",
+    "Address": "Zborovská, Brno - Žabovřesky",
+    "Price": "15 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-zabovresky-zborovska/2539864908",
+    "id": "2539864908"
+  },
+  {
+    "header": "Pronájem bytu 2+1 69 m²",
+    "Address": "Chládkova, Brno - Žabovřesky",
+    "Price": "22 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-zabovresky-chladkova/441869132",
+    "id": "441869132"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 95 m²",
+    "Address": "Kosmova, Brno - Královo Pole",
+    "Price": "28 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-kralovo-pole-kosmova/4271653708",
+    "id": "4271653708"
+  },
+  {
+    "header": "Pronájem bytu 2+1 40 m²",
+    "Address": "Vinohradská, Brno - Černovice",
+    "Price": "19 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-cernovice-vinohradska/3258540876",
+    "id": "3258540876"
+  },
+  {
     "header": "Pronájem bytu 2+1 43 m²",
     "Address": "Kšírova, Brno - Horní Heršpice",
     "Price": "15 900 Kč/měsíc",
@@ -117,33 +145,5 @@
     "Price": "17 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-bohunice-moldavska/2864280396",
     "id": "2864280396"
-  },
-  {
-    "header": "SLEVA: Pronájem bytu 3+kk 65 m²",
-    "Address": "Křídlovická, Brno - Staré Brno",
-    "Price": "21 500 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-stare-brno-kridlovicka/3167617868",
-    "id": "3167617868"
-  },
-  {
-    "header": "Pronájem bytu 2+1 85 m²",
-    "Address": "Solniční, Brno - Brno-město",
-    "Price": "20 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-brno-mesto-solnicni/3120719180",
-    "id": "3120719180"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 120 m²",
-    "Address": "Všetičkova, Brno - Stránice",
-    "Price": "55 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-stranice-vsetickova/345981772",
-    "id": "345981772"
-  },
-  {
-    "header": "Pronájem bytu 3+1 102 m²",
-    "Address": "Biskupská, Brno - Brno-město",
-    "Price": "44 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-brno-mesto-biskupska/1594315596",
-    "id": "1594315596"
   }
 ]
