@@ -1,5 +1,19 @@
 [
   {
+    "header": "Pronájem bytu 2+1 100 m²",
+    "Address": "Lipová, Brno - Pisárky",
+    "Price": "28 500 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-pisarky-lipova/3768140620",
+    "id": "3768140620"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 83 m²",
+    "Address": "Dusíkova, Brno - Lesná",
+    "Price": "25 990 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-lesna-dusikova/3885331276",
+    "id": "3885331276"
+  },
+  {
     "header": "Pronájem bytu 3+kk 71 m²",
     "Address": "Placzkova, Brno - Trnitá",
     "Price": "25 990 Kč/měsíc",
@@ -49,13 +63,6 @@
     "id": "21119820"
   },
   {
-    "header": "Buďte první nájemník",
-    "Address": "Designové 1+kk a 2+kk s vybavením. WiFi, smart home, gym, kavárna i parkování v rezidenci.",
-    "Price": "BRAVIS Reality",
-    "link": "https://i.imedia.cz/v2/click?spotId=4132280&d=EWRNX28JBHJBI2FNBFK6NHRDZW2KYXW43RRH7XM72BS6VPW6W7ME4E29T45XEYBJCPHT4KV626P3SFKD7M7QWZHJBKNEMJF6CPHSQ4RT47I5AA9Q724N4P4AW489RWBY5TK7XXU52UJDYWVHH2W68Q9MNX58JK68TN6UYXARBKEZCMK4PVHRP6SG4GUV5EV4AW9WM3HF6486XWVD3SIRGKPXZQFUUKNZXAYPJX7I7FFFSYRJ7DB5U33HKTE64G97IREANMFCF4QURFS23UKQ9QQAGH8KPPPU3JNUWYW37CRFEMC2UFSVRJBJY3AEG6VVU5BDWCYFJXN4ZHAQK7REP8IW2PJ9UIAIBZ6RWKE2JH9MQ&destination=https%3A//www.bravis.cz/pronajem-apartmany-kralovopolska",
-    "id": "pronajem-apartmany-kralovopolska"
-  },
-  {
     "header": "Pronájem bytu 2+1 50 m²",
     "Address": "Řádky, Brno - Obřany",
     "Price": "16 000 Kč/měsíc",
@@ -98,13 +105,6 @@
     "id": "4104352588"
   },
   {
-    "header": "Pronájem bytu 3+kk 83 m²",
-    "Address": "Dusíkova, Brno - Lesná",
-    "Price": "25 990 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-lesna-dusikova/3885331276",
-    "id": "3885331276"
-  },
-  {
     "header": "Pronájem bytu 2+1 85 m²",
     "Address": "Solniční, Brno - Brno-město",
     "Price": "20 000 Kč/měsíc",
@@ -138,12 +138,5 @@
     "Price": "46 500 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-lesna-majdalenky/1512788812",
     "id": "1512788812"
-  },
-  {
-    "header": "Pronájem bytu 3+1 73 m²",
-    "Address": "Oblá, Brno - Nový Lískovec",
-    "Price": "21 900 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-novy-liskovec-obla/2570089292",
-    "id": "2570089292"
   }
 ]
