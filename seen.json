@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 65 m²",
+    "Address": "Nad Přehradou, Brno - Bystrc",
+    "Price": "27 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-bystrc-nad-prehradou/3106431820",
+    "id": "3106431820"
+  },
+  {
     "header": "Pronájem bytu 3+kk 68 m²",
     "Address": "Ponětovická, Brno - Slatina",
     "Price": "23 000 Kč/měsíc",
@@ -40,6 +47,13 @@
     "Price": "22 590 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-zabovresky-kvapilova/655246156",
     "id": "655246156"
+  },
+  {
+    "header": "Nový O₂ Smart Box",
+    "Address": "S O2 Boostery vytvoříte silnou Wi-Fi, která rozšíří signál do těch nejvzdálenějších koutů",
+    "Price": "O2",
+    "link": "https://i.imedia.cz/v2/click?spotId=4126922&d=89QSYVRCT3BADEACFDKMIVK8GD6PYHTVEC3BCH9H4PUESX7YTGFMW9Y2ZNXKKAZPY2V3V5B92YC6HDVBK3YGFJMAE7NN7AEUQ4YD8BJ2WKUB6Y495TWX2BBW83D5MSMM4N2FUIYVT84RIJJZHGYHJRR3W5VC5VG3XWJ5ZC9YKR2KGESA3S8DAACD8QZ8AH4TTPI9B3HNM3F5Q8DT8CSR64VVJMKMMMYD7Q8YDBMAVGERKAMSWUVAAMDU3CIGEBIU3EG9U9PDNDQKF48GV5FZHXQ2ZAMIT2565RNURZP7FJ7R7KIWSM64D6EU78CJSJYWXEFSFPQBJG8YTPXQH5HS9SI8IPFVY6Z49ARD9RABN3Z8GKWM&destination=https%3A//ad.doubleclick.net/ddm/trackclk/N1215814.1921114SREALITY/B34830862.437422730%3Bdc_trk_aid%3D630523367%3Bdc_trk_cid%3D247627733%3Bdc_lat%3D%3Bdc_rdid%3D%3Btag_for_child_directed_treatment%3D%3Btfua%3D%3Bgdpr%3D$%7BGDPR%7D%3Bgdpr_consent%3D$%7BGDPR_CONSENT_755%7D%3Bltd%3D%3Bdc_tdv%3D1",
+    "id": "B34830862.437422730%3Bdc_trk_aid%3D630523367%3Bdc_trk_cid%3D247627733%3Bdc_lat%3D%3Bdc_rdid%3D%3Btag_for_child_directed_treatment%3D%3Btfua%3D%3Bgdpr%3D$%7BGDPR%7D%3Bgdpr_consent%3D$%7BGDPR_CONSENT_755%7D%3Bltd%3D%3Bdc_tdv%3D1"
   },
   {
     "header": "Pronájem bytu 3+1 67 m²",
@@ -131,12 +145,5 @@
     "Price": "31 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-novy-liskovec-rybnicka/2885448524",
     "id": "2885448524"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 80 m²",
-    "Address": "Masarykova, Brno - Brno-město",
-    "Price": "31 400 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-brno-mesto-masarykova/1181307724",
-    "id": "1181307724"
   }
 ]
