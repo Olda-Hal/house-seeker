@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 2+1 68 m²",
+    "Address": "Údolní, Brno - Brno-město",
+    "Price": "19 900 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-brno-mesto-udolni/274293580",
+    "id": "274293580"
+  },
+  {
     "header": "Pronájem bytu 2+1 43 m²",
     "Address": "Kšírova, Brno - Horní Heršpice",
     "Price": "15 900 Kč/měsíc",
@@ -131,12 +138,5 @@
     "Price": "18 900 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-stare-brno-pekarska/3414119244",
     "id": "3414119244"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 83 m²",
-    "Address": "Dusíkova, Brno - Lesná",
-    "Price": "25 990 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-lesna-dusikova/3885331276",
-    "id": "3885331276"
   }
 ]
