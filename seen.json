@@ -1,5 +1,19 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 71 m²",
+    "Address": "Placzkova, Brno - Trnitá",
+    "Price": "25 990 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-trnita-placzkova/2008290124",
+    "id": "2008290124"
+  },
+  {
+    "header": "Pronájem bytu 2+1 50 m²",
+    "Address": "Pekařská, Brno - Staré Brno",
+    "Price": "18 900 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-stare-brno-pekarska/3414119244",
+    "id": "3414119244"
+  },
+  {
     "header": "Pronájem bytu 3+kk 83 m²",
     "Address": "Dusíkova, Brno - Lesná",
     "Price": "25 990 Kč/měsíc",
@@ -91,6 +105,13 @@
     "id": "2885448524"
   },
   {
+    "header": "Buďte první nájemník",
+    "Address": "Designové 1+kk a 2+kk s vybavením. WiFi, smart home, gym, kavárna i parkování v rezidenci.",
+    "Price": "BRAVIS Reality",
+    "link": "https://i.imedia.cz/v2/click?spotId=4132280&d=3QGPSREPHANUEG3P5A4ZU676UGXAKHW3NZ6T5F9ZWKFBGT5TTFPB8V9YM3DHNKD4PPIBBTKEAKIDIZ4T8SERQHYX73DPMKZWJZ4Q2N89V66Y6YVW85UJ83S9D6N6GTJ82WTKDXWVEX9JUZK8M3VZP7SCYFUAGT3P4BJQUGGK2CZ4CK8C79BHJQTA9ASJ83JICUU6SRJAHNSBRDBUK3UP8UT7SY3EQKGVYPPERRWSK7HI2S8T7BCXAUDKR48BTCHXF6IW3GX39N3ZAS2KPB9XHPU3U5H7J989RIDEKDXCZSWAPCIJJWMBYPQFM8CZ24BIYHSJ3DXAM8XNNKGH2CW9ZHU44CF27GU2KYABC2NBM5IQ6SI&destination=https%3A//www.bravis.cz/pronajem-apartmany-kralovopolska",
+    "id": "pronajem-apartmany-kralovopolska"
+  },
+  {
     "header": "Pronájem bytu 3+kk 93 m²",
     "Address": "Kopečná, Brno - Staré Brno",
     "Price": "37 500 Kč/měsíc",
@@ -124,19 +145,5 @@
     "Price": "23 500 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-zidenice-cejkovicka/619270988",
     "id": "619270988"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 118 m²",
-    "Address": "Majdalenky, Brno - Lesná",
-    "Price": "46 500 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-lesna-majdalenky/1512788812",
-    "id": "1512788812"
-  },
-  {
-    "header": "Pronájem bytu 2+1 63 m²",
-    "Address": "Cacovická, Brno - Husovice",
-    "Price": "22 500 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-husovice-cacovicka/1188320076",
-    "id": "1188320076"
   }
 ]
