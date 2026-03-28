@@ -1,5 +1,33 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 83 m²",
+    "Address": "Dusíkova, Brno - Lesná",
+    "Price": "25 990 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-lesna-dusikova/3885331276",
+    "id": "3885331276"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 87 m²",
+    "Address": "Soukenická, Brno - Staré Brno",
+    "Price": "31 990 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-stare-brno-soukenicka/1213092684",
+    "id": "1213092684"
+  },
+  {
+    "header": "Pronájem bytu 2+1 54 m²",
+    "Address": "Kvapilova, Brno - Žabovřesky",
+    "Price": "22 590 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-zabovresky-kvapilova/655246156",
+    "id": "655246156"
+  },
+  {
+    "header": "Pronájem bytu 3+1 73 m²",
+    "Address": "Tuřanské náměstí, Brno - Tuřany",
+    "Price": "22 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-turany-turanske-namesti/3709555532",
+    "id": "3709555532"
+  },
+  {
     "header": "Pronájem bytu 3+1 67 m²",
     "Address": "Loosova, Brno - Lesná",
     "Price": "17 490 Kč/měsíc",
@@ -47,13 +75,6 @@
     "Price": "24 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-styrice-renneska-trida/3620164428",
     "id": "3620164428"
-  },
-  {
-    "header": "Move-in ready Brno",
-    "Address": "Designově vybavené nájemní apartmány. WiFi, smart home, gym, parkování a skvělá poloha.",
-    "Price": "BRAVIS Reality",
-    "link": "https://i.imedia.cz/v2/click?spotId=4132282&d=4GU75UC3E627G69NMCNDM7FSQYPQ7NBNN7CMC9QPAQ9GNUD9ZDGP5DH6T7FPB75D27IRIYY3IA8AJUZ9TVNN7GAKDRFRWUACIF7JE4W93E8IXR2IDPMNI3P45IV7S7J676HSQ7U82GF3FSIINGMKI69VY7BRPTXYYHZRCI8K7QD5UZ22BMQJCYRN9JN7KH2US54D8WR9ZRE9X3KHGTESFMK8WH57BWE48VDVQR85XQJ8KERKG46CS6AFFYZEEVGSVPUQT85BHMTK6D7XF7CE64TAGBGA8PVYNIXAFCCXIA5RVRUFD89XIPNKJ2MHCA8PBCYETDZKA92UVX6BJE794IHMAIMEAESZW3G6SWH3Z5PZ883SQA&destination=https%3A//www.bravis.cz/pronajem-apartmany-kralovopolska",
-    "id": "pronajem-apartmany-kralovopolska"
   },
   {
     "header": "Pronájem bytu 3+1 68 m²",
@@ -117,33 +138,5 @@
     "Price": "22 500 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-husovice-cacovicka/1188320076",
     "id": "1188320076"
-  },
-  {
-    "header": "Pronájem bytu 2+1 59 m²",
-    "Address": "Bayerova, Brno - Veveří",
-    "Price": "21 900 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-veveri-bayerova/2394444620",
-    "id": "2394444620"
-  },
-  {
-    "header": "Pronájem bytu 2+1 59 m²",
-    "Address": "Teyschlova, Brno - Bystrc",
-    "Price": "18 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-bystrc-teyschlova/3606471500",
-    "id": "3606471500"
-  },
-  {
-    "header": "Pronájem bytu 3+1 73 m²",
-    "Address": "Oblá, Brno - Nový Lískovec",
-    "Price": "21 900 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-novy-liskovec-obla/2570089292",
-    "id": "2570089292"
-  },
-  {
-    "header": "Pronájem bytu 3+1 64 m²",
-    "Address": "Bořetická, Brno - Židenice",
-    "Price": "22 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-zidenice-boreticka/1889432396",
-    "id": "1889432396"
   }
 ]
