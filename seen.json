@@ -138,5 +138,19 @@
     "Price": "21 500 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-stare-brno-kridlovicka/3167617868",
     "id": "3167617868"
+  },
+  {
+    "header": "PRONÁJEM BYTU 3+kk 100 m²",
+    "Address": "Kamínky, Brno - Nový Lískovec, Jihomoravský kraj",
+    "Price": "33 000 Kč+ 4 000 Kč",
+    "link": "https://www.bezrealitky.cz/nemovitosti-byty-domy/1000971-nabidka-pronajem-bytu-kaminky-brno",
+    "id": "1000971"
+  },
+  {
+    "header": "PRONÁJEM BYTU 2+1 50 m²",
+    "Address": "Měřičkova, Brno - Řečkovice, Jihomoravský kraj",
+    "Price": "15 500 Kč+ 4 500 Kč",
+    "link": "No Link",
+    "id": "No ID"
   }
 ]
