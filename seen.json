@@ -1,5 +1,19 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 72 m²",
+    "Address": "Fantova, Brno - Obřany",
+    "Price": "29 800 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-obrany-fantova/1756451660",
+    "id": "1756451660"
+  },
+  {
+    "header": "Pronájem bytu 2+1 55 m²",
+    "Address": "Jílová, Brno - Štýřice",
+    "Price": "20 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-styrice-jilova/462570316",
+    "id": "462570316"
+  },
+  {
     "header": "Pronájem bytu 2+1 53 m²",
     "Address": "Tilhonova, Brno - Slatina",
     "Price": "22 000 Kč/měsíc",
@@ -124,19 +138,5 @@
     "Price": "21 500 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-stare-brno-kridlovicka/3167617868",
     "id": "3167617868"
-  },
-  {
-    "header": "Pronájem bytu 3+1 143 m²",
-    "Address": "Schodová, Brno - Černá Pole",
-    "Price": "45 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-cerna-pole-schodova/3472974668",
-    "id": "3472974668"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 120 m²",
-    "Address": "Všetičkova, Brno - Stránice",
-    "Price": "55 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-stranice-vsetickova/345981772",
-    "id": "345981772"
   }
 ]
