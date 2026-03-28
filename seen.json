@@ -1,8 +1,15 @@
 [
   {
+    "header": "Pronájem bytu 2+1 43 m²",
+    "Address": "Kšírova, Brno - Horní Heršpice",
+    "Price": "15 900 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-horni-herspice-ksirova/2238403404",
+    "id": "2238403404"
+  },
+  {
     "header": "Pronájem bytu 3+kk 75 m²",
     "Address": "Bayerova, Brno - Veveří",
-    "Price": "26 000 Kč/měsíc",
+    "Price": "27 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-veveri-bayerova/3156296524",
     "id": "3156296524"
   },
@@ -49,13 +56,6 @@
     "id": "619270988"
   },
   {
-    "header": "Luxusní dům František 14",
-    "Address": "Pořiďte si svůj vysněný dům s dispozicí 5+1+G včetně pozemku za 21.696 Kč /měsíčně.",
-    "Price": "Ekonomické stavby",
-    "link": "https://i.imedia.cz/v2/click?spotId=4126467&d=GNT3ZGGCCCUJJ3GTJD8CER7UCVXE5SD5VKEHJTKNT25MRP4ANG8TYWHCFNSH4DNRBURTNTH9YSTFWIZ9U5PUBJZKJ49NAXYF2GYYWYZPNYTQSC98D5HFRGYFHI9FT3Z7EQB4N8KUSJ2E5AQ94R8A5AZZEJPU2QRQMRH8XGFZYFKGC5HCKYI6EXZSTDKWY7A3G5SDA9S9SHKBS2QMHEIBN9Z2KMTCZMF8WVFAXD72UFQJEMT8KKEGEXGUXZFTMKB3A5XA3R6F3EVQ3Y2PTDK4J4KNGDTMV2KPQZGF6J3VF4MD5BMYK6TXXCTHEPFDQWSWPZXEIPABA4IJG8RYT4MHVUSJYH3MKWS9AEW38E2TGSFZ6TVU&destination=https%3A//pozemky.ekonomicke-stavby.cz/frantisek_14.php%3Futm_source%3DSreality%26utm_campaign%3DFrantisek14%282-2026%29%26utm_term%3Dpromoballoon%26utm_content%3Dpaymentnotshown%26utm_medium%3DNativniInzerat",
-    "id": "frantisek_14.php%3Futm_source%3DSreality%26utm_campaign%3DFrantisek14%282-2026%29%26utm_term%3Dpromoballoon%26utm_content%3Dpaymentnotshown%26utm_medium%3DNativniInzerat"
-  },
-  {
     "header": "Pronájem bytu 3+kk 118 m²",
     "Address": "Majdalenky, Brno - Lesná",
     "Price": "46 500 Kč/měsíc",
@@ -68,13 +68,6 @@
     "Price": "18 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-bystrc-teyschlova/3606471500",
     "id": "3606471500"
-  },
-  {
-    "header": "Pronájem bytu 3+1 73 m²",
-    "Address": "Oblá, Brno - Nový Lískovec",
-    "Price": "21 900 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-novy-liskovec-obla/2570089292",
-    "id": "2570089292"
   },
   {
     "header": "Pronájem bytu 3+1 64 m²",
@@ -110,6 +103,13 @@
     "Price": "16 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-brno-pekarska/1643336524",
     "id": "1643336524"
+  },
+  {
+    "header": "Move-in ready Brno",
+    "Address": "Designově vybavené nájemní apartmány. WiFi, smart home, gym, parkování a skvělá poloha.",
+    "Price": "BRAVIS Reality",
+    "link": "https://i.imedia.cz/v2/click?spotId=4132282&d=BRFGF8SZ76NM8HUQFTAK5JC8JGG4DBX7NR25YGAJDK2HIB927H664PVSUNX4AG2HAMU7ESQI4B2AFQGVTYWSH9ITJNHYM2GDBVMREVSAMHDMZ4VH2CTWT2NGKEZUG4XMUA27I74HKSHG8BQIVVFG9HY6MRUYDVT8KFAS2RX4N2WX953MFRN9SMVMJW7449CFDY6KV6F8DU69NISKFYR2VS2SNW7ZSU4A6RPV3NNEBG5R358GNXFRKVATF2JRIWSMI4FMUC99HUYDKSRUSBGKQNRMV7KCCC98RIFZU2M2IX7PY3R4UDS8H9XDD4DC48BVZMDAZGARCNNU6Y8EVCADPT92T75837QE4NGKRM9STMIZGVNS&destination=https%3A//www.bravis.cz/pronajem-apartmany-kralovopolska",
+    "id": "pronajem-apartmany-kralovopolska"
   },
   {
     "header": "Pronájem bytu 3+1 68 m²",
