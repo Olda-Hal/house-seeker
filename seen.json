@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 66 m²",
+    "Address": "Trnitá, Brno - Trnitá",
+    "Price": "26 990 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-trnita-trnita/2662273868",
+    "id": "2662273868"
+  },
+  {
     "header": "Pronájem bytu 3+kk 71 m²",
     "Address": "Placzkova, Brno - Trnitá",
     "Price": "25 990 Kč/měsíc",
@@ -105,13 +112,6 @@
     "id": "2394444620"
   },
   {
-    "header": "Buďte první nájemník",
-    "Address": "Designové 1+kk a 2+kk s vybavením. WiFi, smart home, gym, kavárna i parkování v rezidenci.",
-    "Price": "BRAVIS Reality",
-    "link": "https://i.imedia.cz/v2/click?spotId=4132280&d=WGWDPERU2R3EJCETEMQ2BMGVVTDR35PSHSBTFQ32CX9XRIJ7A7C2J7CVSAXBMBMYUMIXEY8UEMRSK47SEXMFBI4U9RISAC32A3XN5M34VBYMKV42UHJ4BIY9TWRQS3ZW8U2KR5RUHDQAQMXRMMV5Y8GY2SV8DTC3IPDGHR3AUSJQNDKNS5XZE7CIKK3Z5QY3GKKUCWJRAQ62ZMEXTKGMJYIGVQ4R73GBQSR4PS2AW2RNIJKYI92GENRESZWNRHFFBWP92XIY6HNYPGNJ4E5CQQB2UNE3EVF58IRTFHF5KN3R5HUGWKITWPBY2VKRRVZJN6PF5IXYBSJHDIWWWEEV3ZXBVYKNFTPTJRG4VG3VSY97N&destination=https%3A//www.bravis.cz/pronajem-apartmany-kralovopolska",
-    "id": "pronajem-apartmany-kralovopolska"
-  },
-  {
     "header": "Pronájem bytu 3+1 65 m²",
     "Address": "Čejkovická, Brno - Židenice",
     "Price": "23 500 Kč/měsíc",
@@ -138,12 +138,5 @@
     "Price": "22 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-zidenice-boreticka/1889432396",
     "id": "1889432396"
-  },
-  {
-    "header": "SLEVA: Pronájem bytu 3+kk 65 m²",
-    "Address": "Křídlovická, Brno - Staré Brno",
-    "Price": "21 500 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-stare-brno-kridlovicka/3167617868",
-    "id": "3167617868"
   }
 ]
