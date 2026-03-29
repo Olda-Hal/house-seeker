@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 2+1 56 m²",
+    "Address": "Renneská třída, Brno - Štýřice",
+    "Price": "24 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-styrice-renneska-trida/3620164428",
+    "id": "3620164428"
+  },
+  {
     "header": "Pronájem bytu 2+1 68 m²",
     "Address": "Údolní, Brno - Brno-město",
     "Price": "19 900 Kč/měsíc",
@@ -98,18 +105,18 @@
     "id": "1162953548"
   },
   {
+    "header": "Získejte silný Internet",
+    "Address": "Přejděte na O2 Internet s funkcí Wi-Fi Mesh a získejte silné připojení pro celou domácnost",
+    "Price": "O2",
+    "link": "https://i.imedia.cz/v2/click?spotId=4126924&d=2U2SABPWP3C8NBZB5IIZH55FWYI2X7C5FHBRKT55UYZKZX7NTE5ZEWRP8HFVBD3U9RW5U28JY28FX8PHPIRHRCKNNKVN6MTWU9QE4N2TWRPM7DQQTDI437KDFX29EHIY8X6W685SY6GAFIWUVAMT8SEZJ4V8DHSIKGXFJSR7SG2GSPGMYGQY3YS3JTJE49V6BCDMBD4PYCD5IJJ4R8MSU7B6VP2T72N6VTE3S5KYCA8ZMMKYE4TB23XMUDTC3AQNXN5KKDWWGHUNB8ZZP4I33T7R7MY7PWM49JBFU4T7SJ8H5EG4XVWSZ2X85MSJ8PWFASBEHQGD5WAJGYY5WG45RC6ZZRYDAV98D75PHGWW9WP6K&destination=https%3A//ad.doubleclick.net/ddm/trackclk/N1215814.1921114SREALITY/B34830862.437422730%3Bdc_trk_aid%3D630523367%3Bdc_trk_cid%3D247628123%3Bdc_lat%3D%3Bdc_rdid%3D%3Btag_for_child_directed_treatment%3D%3Btfua%3D%3Bgdpr%3D$%7BGDPR%7D%3Bgdpr_consent%3D$%7BGDPR_CONSENT_755%7D%3Bltd%3D%3Bdc_tdv%3D1",
+    "id": "B34830862.437422730%3Bdc_trk_aid%3D630523367%3Bdc_trk_cid%3D247628123%3Bdc_lat%3D%3Bdc_rdid%3D%3Btag_for_child_directed_treatment%3D%3Btfua%3D%3Bgdpr%3D$%7BGDPR%7D%3Bgdpr_consent%3D$%7BGDPR_CONSENT_755%7D%3Bltd%3D%3Bdc_tdv%3D1"
+  },
+  {
     "header": "Pronájem bytu 3+1 76 m²",
     "Address": "Bellova, Brno - Kohoutovice",
     "Price": "25 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-kohoutovice-bellova/3169665868",
     "id": "3169665868"
-  },
-  {
-    "header": "Stačí přijít a bydlet",
-    "Address": "Nájemní 1+kk a 2+kk v Brně. Kompletní vybavení, WiFi, smart home, gym, kavárna i parkování",
-    "Price": "BRAVIS Reality",
-    "link": "https://i.imedia.cz/v2/click?spotId=4132281&d=ARSCTX7KHPCU7YJ7YM6WF69WZXWYQ26Z6YPJQ643A894IKRZPIME4B28XTW3JNEQE6WA2ZU9BGJI2N4HFJRZXIZU7MYYJU6Z6JA7XF6N9NTBF3ZRVKFUTIK8JQ4FAN6NHIGXJWBV9BF6I8BGNMY6G4YITSWNJRQSK2BWABJKU82YBHYPNFMJ27NT4T96KFDQUFBEB98KWDWRS4IMFJCHFEWS3VZPB9JK44QR3F8EZFAYC2RWNYNB8BTJHBEJWE5M8M4RTDRGAVX7MUABK5XDWCN5NGFN7NMPWZSGBDACPK5H7H3WKPVYBPXABM85MAHPC79DF64TNX55TYD4SMKHYBFE3IMX24U3TJ2W5PQDXVFI53I&destination=https%3A//www.bravis.cz/pronajem-apartmany-kralovopolska",
-    "id": "pronajem-apartmany-kralovopolska"
   },
   {
     "header": "Pronájem bytu 2+1 70 m²",
@@ -138,12 +145,5 @@
     "Price": "18 900 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-stare-brno-pekarska/3414119244",
     "id": "3414119244"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 83 m²",
-    "Address": "Dusíkova, Brno - Lesná",
-    "Price": "25 990 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-lesna-dusikova/3885331276",
-    "id": "3885331276"
   }
 ]
