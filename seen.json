@@ -105,6 +105,13 @@
     "id": "2238403404"
   },
   {
+    "header": "Stačí přijít a bydlet",
+    "Address": "Nájemní 1+kk a 2+kk v Brně. Kompletní vybavení, WiFi, smart home, gym, kavárna i parkování",
+    "Price": "BRAVIS Reality",
+    "link": "https://i.imedia.cz/v2/click?spotId=4132281&d=YW26SE3FJ724VTVKGN4VZDCS5X5K8QFCP44Q8PGQZZAXIYBHAW237MWT3THV4UHXKUT2I8DCYJY4EKNVIT8RI8V4CC69QUUWTIVJPGJM3UIPRY5VFAK8AWYNXE3Q268EKNZGPBESMDP9FBQVYITJ642PNYNM8FPYS6KYUZU3A29NNBZFTF9ZKW8NXEE9FD7648EZIWZK4PXWUI54BE2URJBFCQRY9S598T2ZJZJ7A674YIUENJGX96HQX39IVGBQJYDFVPMFN9TNDHASFHQDSU6QP8NU37W4GXKIHFA2J3WC3J78QNQH5MHJDT9YSYA92TK66Z49BBSJF3SV9XT3PXIK66RR9F5TPHWAWMFU5CXMT4A&destination=https%3A//www.bravis.cz/pronajem-apartmany-kralovopolska",
+    "id": "pronajem-apartmany-kralovopolska"
+  },
+  {
     "header": "Pronájem bytu 2+1 53 m²",
     "Address": "Koniklecová, Brno - Nový Lískovec",
     "Price": "13 000 Kč/měsíc",
@@ -119,13 +126,6 @@
     "id": "3857535820"
   },
   {
-    "header": "Pronájem bytu 2+1 85 m²",
-    "Address": "Solniční, Brno - Brno-město",
-    "Price": "20 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-brno-mesto-solnicni/3120719180",
-    "id": "3120719180"
-  },
-  {
     "header": "Pronájem bytu 3+kk 66 m²",
     "Address": "Trnitá, Brno - Trnitá",
     "Price": "26 990 Kč/měsíc",
@@ -138,5 +138,12 @@
     "Price": "25 990 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-trnita-placzkova/2008290124",
     "id": "2008290124"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 143 m²",
+    "Address": "Panská, Brno - Brno-město",
+    "Price": "32 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-brno-mesto-panska/3086697292",
+    "id": "3086697292"
   }
 ]
