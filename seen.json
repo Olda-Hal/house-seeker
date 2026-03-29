@@ -49,13 +49,6 @@
     "id": "1188320076"
   },
   {
-    "header": "Move-in ready Brno",
-    "Address": "Designově vybavené nájemní apartmány. WiFi, smart home, gym, parkování a skvělá poloha.",
-    "Price": "BRAVIS Reality",
-    "link": "https://i.imedia.cz/v2/click?spotId=4132282&d=9D3KVU6YWK7PH27HJNZNGG6XCU33VTW8EGFHF9UYPBJV5U324UZF55YFUDTBYTZRUUVZ4TW99ZB929I3FBIDKHB9QYGQI3BZZMMINNMCMPTTY3AMTKX3GQTW2VVTW5ATNJUD6RC5VPZQG5U4KH6DV92VD5VTJY6KP5N52ZGJZWF9GTEUIDE5PZEEZJYGQS5IUFCRVI4CRRJWDZ7CWZAIVKUHNGA9VJVYUPNDH5W6QMWQUITJPAAMFXSGK84T7QUUCH4A8A2SJZTIZ9EWY6FER36T97GQWXV6TVRAQKGBMIFHW4D92XCQ969DVYCJSNSWXCJJZ6R8ZZUIJBQY8DPKAFGRY2IEEGGK275XYZQR8IPG3XXESN&destination=https%3A//www.bravis.cz/pronajem-apartmany-kralovopolska",
-    "id": "pronajem-apartmany-kralovopolska"
-  },
-  {
     "header": "Pronájem bytu 2+1 59 m²",
     "Address": "Bayerova, Brno - Veveří",
     "Price": "21 900 Kč/měsíc",
@@ -119,13 +112,6 @@
     "id": "1643336524"
   },
   {
-    "header": "Pronájem bytu 3+1 68 m²",
-    "Address": "Horní, Brno - Štýřice",
-    "Price": "25 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-styrice-horni/1819890508",
-    "id": "1819890508"
-  },
-  {
     "header": "Pronájem bytu 3+kk 48 m²",
     "Address": "Rostislavovo náměstí, Brno - Královo Pole",
     "Price": "22 500 Kč/měsíc",
@@ -145,5 +131,12 @@
     "Price": "18 900 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-stare-brno-pekarska/3414119244",
     "id": "3414119244"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 83 m²",
+    "Address": "Dusíkova, Brno - Lesná",
+    "Price": "25 990 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-lesna-dusikova/3885331276",
+    "id": "3885331276"
   }
 ]
