@@ -1,5 +1,40 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 70 m²",
+    "Address": "Rybnická, Brno - Nový Lískovec",
+    "Price": "31 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-novy-liskovec-rybnicka/2885448524",
+    "id": "2885448524"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 52 m²",
+    "Address": "Merhautova, Brno - Brno-sever",
+    "Price": "24 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-brno-sever-merhautova/2482725708",
+    "id": "2482725708"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 94 m²",
+    "Address": "Mlýnská, Brno",
+    "Price": "27 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-brno-mlynska/2381464396",
+    "id": "2381464396"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 87 m²",
+    "Address": "Soukenická, Brno - Staré Brno",
+    "Price": "31 990 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-stare-brno-soukenicka/1213092684",
+    "id": "1213092684"
+  },
+  {
+    "header": "Pronájem bytu 2+1 55 m²",
+    "Address": "Čápkova, Brno - Veveří",
+    "Price": "23 500 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-veveri-capkova/344216396",
+    "id": "344216396"
+  },
+  {
     "header": "Pronájem bytu 3+kk 66 m²",
     "Address": "Trnitá, Brno - Trnitá",
     "Price": "26 990 Kč/měsíc",
@@ -103,47 +138,5 @@
     "Price": "26 990 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-zabrdovice-merhautova/3088061260",
     "id": "3088061260"
-  },
-  {
-    "header": "Buďte první nájemník",
-    "Address": "Designové 1+kk a 2+kk s vybavením. WiFi, smart home, gym, kavárna i parkování v rezidenci.",
-    "Price": "BRAVIS Reality",
-    "link": "https://i.imedia.cz/v2/click?spotId=4132280&d=X7XGNMST8R8ZMD9J7B8D58GW3MKP6GZ4CEGBX9KDSC7Q5Q4FGX5AMJGNT843ENKX693PR7IIZJQHEX8FQAJGRASM2NY98XRPINUMZSX4ATZUMNDR3I9JVTB5NMKSNXH44P8RTGX5DJM5VJRRKDVHXMYQ5QXIWYU9NHIKESNMK3MCIQPCAEM4U6UAN8PSB48UQFRFCM8WK6JVI9K44TUHYK6ZZY9X7MTT2VK28SQJ8E999PB94N994S2YM4XPPQGCU5NTCBA5VPEB4DFCMW42SYTZERIM7JDHVB4N43CDD8K2TCTVRE6UFNJSIJF75UXM3GNQQ8SB8UBWQQHUJE3IN3IKVIXMZIYC6VVUZVEM9ZAA&destination=https%3A//www.bravis.cz/pronajem-apartmany-kralovopolska",
-    "id": "pronajem-apartmany-kralovopolska"
-  },
-  {
-    "header": "Pronájem bytu 3+1 70 m²",
-    "Address": "Okrouhlá, Brno",
-    "Price": "19 500 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-brno-okrouhla/129123148",
-    "id": "129123148"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 66 m²",
-    "Address": "Hlinky, Brno - Pisárky",
-    "Price": "31 900 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-pisarky-hlinky/846926668",
-    "id": "846926668"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 66 m²",
-    "Address": "Hlinky, Brno - Pisárky",
-    "Price": "31 900 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-pisarky-hlinky/581587788",
-    "id": "581587788"
-  },
-  {
-    "header": "Pronájem bytu 3+1 90 m²",
-    "Address": "Jeřabinová, Brno - Staré Brno",
-    "Price": "26 500 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-stare-brno-jerabinova/1990148940",
-    "id": "1990148940"
-  },
-  {
-    "header": "Pronájem bytu 3+1 68 m²",
-    "Address": "Bieblova, Brno - Černá Pole",
-    "Price": "23 900 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-cerna-pole-bieblova/419382092",
-    "id": "419382092"
   }
 ]
