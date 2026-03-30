@@ -1,5 +1,19 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 108 m²",
+    "Address": "Komárovská, Brno - Komárov",
+    "Price": "35 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-komarov-komarovska/1069171532",
+    "id": "1069171532"
+  },
+  {
+    "header": "Pronájem bytu 2+1 55 m²",
+    "Address": "náměstí SNP, Brno - Černá Pole",
+    "Price": "21 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-cerna-pole-namesti-snp/560415564",
+    "id": "560415564"
+  },
+  {
     "header": "Pronájem bytu 2+1 58 m²",
     "Address": "Strážnická, Brno - Slatina",
     "Price": "19 800 Kč/měsíc",
@@ -124,19 +138,5 @@
     "Price": "21 500 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-stare-brno-kridlovicka/3167617868",
     "id": "3167617868"
-  },
-  {
-    "header": "Pronájem bytu 3+1 74 m²",
-    "Address": "Smetanova, Brno - Veveří",
-    "Price": "19 950 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-veveri-smetanova/823227212",
-    "id": "823227212"
-  },
-  {
-    "header": "Pronájem bytu 2+1 101 m²",
-    "Address": "Smetanova, Brno - Veveří",
-    "Price": "22 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-veveri-smetanova/124867404",
-    "id": "124867404"
   }
 ]
