@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 72 m²",
+    "Address": "Fantova, Brno - Obřany",
+    "Price": "29 800 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-obrany-fantova/1756451660",
+    "id": "1756451660"
+  },
+  {
     "header": "Pronájem bytu 3+kk 108 m²",
     "Address": "Komárovská, Brno - Komárov",
     "Price": "35 000 Kč/měsíc",
@@ -40,6 +47,13 @@
     "Price": "24 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-brno-sever-merhautova/2482725708",
     "id": "2482725708"
+  },
+  {
+    "header": "Stačí přijít a bydlet",
+    "Address": "Nájemní 1+kk a 2+kk v Brně. Kompletní vybavení, WiFi, smart home, gym, kavárna i parkování",
+    "Price": "BRAVIS Reality",
+    "link": "https://i.imedia.cz/v2/click?spotId=4132281&d=968JA67DDPZUJUHWQ7TRFY685ZHRRYPQ4BMC836829W26HCCH9NP676UYNGYZI8VREQUGA4BUBG88F5DHCQN2WQAATJ9UKR6DWSQFBYCY2986QN2KRXQJMRJSTDZH5T7KSNW695EYV2X98XJN342J8QR6ITK6HNBAS8RS93TSKNAR7BVY7N6WDBS9924RB27K5DAFA95AWZV6VZCMYY8R9UD3JNHAMXETSY5CIFW8ECTZUFPM9X4TV6BDAW646RYAERDVYDBRBZXK9F6BA9KUF8N7P7YTS7PCQ9FZFQCCC364HK6TSZ6UXSMA7NJG9QMDMR3CDHWWAFWUKFKSJSJE4VBPGSK9YMPMWCPXGKW87C98G2&destination=https%3A//www.bravis.cz/pronajem-apartmany-kralovopolska",
+    "id": "pronajem-apartmany-kralovopolska"
   },
   {
     "header": "Pronájem bytu 3+kk 94 m²",
@@ -131,12 +145,5 @@
     "Price": "22 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-zidenice-boreticka/1889432396",
     "id": "1889432396"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 65 m²",
-    "Address": "Křídlovická, Brno - Staré Brno",
-    "Price": "21 500 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-stare-brno-kridlovicka/3167617868",
-    "id": "3167617868"
   }
 ]
