@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 2+1 67 m²",
+    "Address": "Merhautova, Brno",
+    "Price": "20 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-brno-merhautova/4148126540",
+    "id": "4148126540"
+  },
+  {
     "header": "Pronájem bytu 3+kk 73 m²",
     "Address": "Říčanská, Brno - Bystrc",
     "Price": "24 990 Kč/měsíc",
@@ -105,13 +112,6 @@
     "id": "560415564"
   },
   {
-    "header": "Kuchyně snů od profíků",
-    "Address": "Rezervujte termín a naplánujte si s námi kuchyni německé kvality se zárukou až 25 let.",
-    "Price": "XXXLutz Česká republika",
-    "link": "https://i.imedia.cz/v2/click?spotId=4107893&d=RUA5MSSXX9H9DZZXS4P9JJCF8HWZXNAFCYQ2GJAR3FVT22P4QBDACCEEUF7RFDZ89B4SZWZ6528D43ABETR6I26GZ7MVYZTR6SQPHJN8TK9JDYVBJFGPK6UP7N2WG96Z8HYGUBRQ6ZSKD4CEDTQUF3SUJH8XEMWX8Z3FFGIJQ9NI2E92IN9ENAZHRIQZUJJXRXC8UBTBMZMJ2H7NNXFT524MWH5X5R25VIU6YCAJF9S7RTST9QUC3RSGFBNTR27RPIZ7NY65I72RAEQ4655SV9DET94HCBPQJ6J8WTR3KGWYDGK5WQDK9CKQWZW5K6I45MYJ6NZPDTMWCUTGR9T869ZVT5AFM7BFTUAP2Y2DN2GU8&destination=https%3A//ad.doubleclick.net/ddm/trackclk/N510405.5083943MUP-SEZNAM-NATIVE/B34999881.439057698%3Bdc_trk_aid%3D631994391%3Bdc_trk_cid%3D247725133%3Bdc_lat%3D%3Bdc_rdid%3D%3Btag_for_child_directed_treatment%3D%3Btfua%3D%3Bgdpr%3D$%7BGDPR%7D%3Bgdpr_consent%3D$%7BGDPR_CONSENT_755%7D%3Bltd%3D%3Bdc_tdv%3D1",
-    "id": "B34999881.439057698%3Bdc_trk_aid%3D631994391%3Bdc_trk_cid%3D247725133%3Bdc_lat%3D%3Bdc_rdid%3D%3Btag_for_child_directed_treatment%3D%3Btfua%3D%3Bgdpr%3D$%7BGDPR%7D%3Bgdpr_consent%3D$%7BGDPR_CONSENT_755%7D%3Bltd%3D%3Bdc_tdv%3D1"
-  },
-  {
     "header": "Pronájem bytu 2+1 58 m²",
     "Address": "Strážnická, Brno - Slatina",
     "Price": "19 800 Kč/měsíc",
@@ -138,12 +138,5 @@
     "Price": "24 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-brno-sever-merhautova/2482725708",
     "id": "2482725708"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 94 m²",
-    "Address": "Mlýnská, Brno",
-    "Price": "27 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-brno-mlynska/2381464396",
-    "id": "2381464396"
   }
 ]
