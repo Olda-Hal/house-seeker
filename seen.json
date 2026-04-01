@@ -1,5 +1,12 @@
 [
   {
+    "header": "SLEVA: Pronájem bytu 2+1 56 m²",
+    "Address": "Renneská třída, Brno - Štýřice",
+    "Price": "20 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-styrice-renneska-trida/3620164428",
+    "id": "3620164428"
+  },
+  {
     "header": "Pronájem bytu 3+1 143 m²",
     "Address": "Schodová, Brno - Černá Pole",
     "Price": "45 000 Kč/měsíc",
@@ -40,6 +47,13 @@
     "Price": "46 500 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-lesna-majdalenky/1512788812",
     "id": "1512788812"
+  },
+  {
+    "header": "Move-in ready Brno",
+    "Address": "Designově vybavené nájemní apartmány. WiFi, smart home, gym, parkování a skvělá poloha.",
+    "Price": "BRAVIS Reality",
+    "link": "https://i.imedia.cz/v2/click?spotId=4132282&d=UJFSEKNT7S69EJACUJ3SDBSEY4G9S6SMWBWZDJV2XKRWGSBSDQT4KZKAZ9CDPW6DUT99Q9G66TQKNK5RP85FWCPZG8ZGE9CX6IWQ99P4K794FQBWNUBZF5VMAIJAEGNZ34HGQUDMH84HDKYG5V5VJ73WQXS2EHVK88NTC74U93VZJ8JC2R87PQ2J86KQYRS6ZB3WBNMT874EGSGN89PTSHRJ663Y8UZFHBJHD4N4F4QJPUKBFRD8WC623ZH7QI7H59NIYDTX7M6DVRFVJFMMPK7M2F86ZXJU79YCN79Y3ZKPBMDWKA7IU3SYYW76Y9CUDIPCUDJPSDSP5JT6UMV33WF2SYV6I5263HJZKXE8A93EIAS&destination=https%3A//www.bravis.cz/pronajem-apartmany-kralovopolska",
+    "id": "pronajem-apartmany-kralovopolska"
   },
   {
     "header": "Pronájem bytu 2+1 59 m²",
@@ -131,12 +145,5 @@
     "Price": "22 500 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-kralovo-pole-rostislavovo-namesti/3009565516",
     "id": "3009565516"
-  },
-  {
-    "header": "Pronájem bytu 2+1 74 m²",
-    "Address": "Kotlářská, Brno - Veveří",
-    "Price": "24 990 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-veveri-kotlarska/2467128140",
-    "id": "2467128140"
   }
 ]
