@@ -1,5 +1,26 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 65 m²",
+    "Address": "Kulkova, Brno - Maloměřice",
+    "Price": "16 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-malomerice-kulkova/2022593356",
+    "id": "2022593356"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 109 m²",
+    "Address": "Komárovská, Brno - Komárov",
+    "Price": "35 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-komarov-komarovska/330974028",
+    "id": "330974028"
+  },
+  {
+    "header": "Pronájem bytu 2+1 55 m²",
+    "Address": "Bakalovo nábřeží, Brno - Štýřice",
+    "Price": "24 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-styrice-bakalovo-nabrezi/371606348",
+    "id": "371606348"
+  },
+  {
     "header": "Pronájem bytu 3+kk 83 m²",
     "Address": "Dusíkova, Brno - Lesná",
     "Price": "25 990 Kč/měsíc",
@@ -26,6 +47,13 @@
     "Price": "30 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-veveri-mezirka/2100446028",
     "id": "2100446028"
+  },
+  {
+    "header": "Stačí přijít a bydlet",
+    "Address": "Nájemní 1+kk a 2+kk v Brně. Kompletní vybavení, WiFi, smart home, gym, kavárna i parkování",
+    "Price": "BRAVIS Reality",
+    "link": "https://i.imedia.cz/v2/click?spotId=4132281&d=PSI8FICT9ICY4BUPHUUUXSF2HUVSZVR8FPQVWN2RN2CBZKDIVYAJE54ZZJWRUV2UD6DCWJWV3NAS83MBTS4HXEUY97WKRPKA9Y4YTSNVKVJFMMRWAIMJP4B57QG4CETPKJ32E4QPVEWJWXBJ46KAXDMNNBGSZG73P95TJ54MZMCXRIS34WC5WBZKXCMCH44T6XUZMJUSA84SKZTYXUHVBAFI8NUBBC3CV555QDKD4VPVU6N3C89D9QWVA4EPHZAMDMHYAPPHMZYD2FBWZB4DKF3WUPDM9CMDTFQII8ZJFS9FGTW6MM96HTSZ5X7JWBGDFYMTVCQVBQRJJX8IBSBU3JCZHPBAD7GFNVK5MW6JNQ3GU&destination=https%3A//www.bravis.cz/pronajem-apartmany-kralovopolska",
+    "id": "pronajem-apartmany-kralovopolska"
   },
   {
     "header": "Pronájem bytu 3+kk 90 m²",
@@ -105,13 +133,6 @@
     "id": "1889432396"
   },
   {
-    "header": "Move-in ready Brno",
-    "Address": "Designově vybavené nájemní apartmány. WiFi, smart home, gym, parkování a skvělá poloha.",
-    "Price": "BRAVIS Reality",
-    "link": "https://i.imedia.cz/v2/click?spotId=4132282&d=PGC8I9X8G9YD6Q8C2SYHYY37DGMHD3HX6SPYB2FWYSSUFDHKD6PDBNURFU2K22PWDJ9QZUTT4VDFBVNK7BH8B2FAQU9HEJI7RQKEDTMCGWY37KMSH9UDQFPFH2YFZTB5VHF9J67D7RHG2P877S3JEHIC4RUA76YIIFYKJQYKCV3Y5Y499DF4ZXI94SQRXEQ3JFKJR6HP7VRDNAS5YZTD64VEEM2NQBTKAJVDACKP9ZKQTMVHQQT8AW4F5R7W289TMZIRTQYIDPEWGXSHB5X3V9AFJSZ75ZCIHENPD5Q23SBH2HDQHB9F3I3HPHGTTVUC2XB7UPHJIIWZ3HGEQTT5JCKFSJ4BIEKCS77G2PZJ32SUJXS&destination=https%3A//www.bravis.cz/pronajem-apartmany-kralovopolska",
-    "id": "pronajem-apartmany-kralovopolska"
-  },
-  {
     "header": "Pronájem bytu 3+kk 77 m²",
     "Address": "Jižní, Brno - Horní Heršpice",
     "Price": "25 000 Kč/měsíc",
@@ -124,26 +145,5 @@
     "Price": "19 990 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-styrice-ludmily-konecne/1384596300",
     "id": "1384596300"
-  },
-  {
-    "header": "Pronájem bytu 2+1 54 m²",
-    "Address": "Janouškova, Brno - Černá Pole",
-    "Price": "19 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-cerna-pole-janouskova/4100477772",
-    "id": "4100477772"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 238 m²",
-    "Address": "Dusíkova, Brno - Lesná",
-    "Price": "30 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-lesna-dusikova/1823761228",
-    "id": "1823761228"
-  },
-  {
-    "header": "Pronájem bytu 2+1 50 m²",
-    "Address": "Brožíkova, Brno - Lesná",
-    "Price": "16 700 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-lesna-brozikova/3922150220",
-    "id": "3922150220"
   }
 ]
