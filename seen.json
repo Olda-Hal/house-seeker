@@ -1,5 +1,19 @@
 [
   {
+    "header": "Pronájem bytu 2+1 55 m²",
+    "Address": "Vránova, Brno - Řečkovice",
+    "Price": "20 900 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-reckovice-vranova/527385420",
+    "id": "527385420"
+  },
+  {
+    "header": "Pronájem bytu 2+1 55 m²",
+    "Address": "Sýpka, Brno - Brno-sever",
+    "Price": "18 500 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-brno-sever-sypka/3047506764",
+    "id": "3047506764"
+  },
+  {
     "header": "Pronájem bytu 3+1 76 m²",
     "Address": "Bellova, Brno - Kohoutovice",
     "Price": "25 000 Kč/měsíc",
@@ -47,13 +61,6 @@
     "Price": "23 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-ponava-kounicova/3165733708",
     "id": "3165733708"
-  },
-  {
-    "header": "Inspirace, XXXL výběr",
-    "Address": "Navštivte naše obchodní domy – rádi vám pomůžeme splnit váš sen o krásném bydlení.",
-    "Price": "XXXLutz Česká republika",
-    "link": "https://i.imedia.cz/v2/click?spotId=4107898&d=QFVRF8MXYRT2BIZ9KTW93VF4BZSRVV8ZYRFF9DMZC5594M3DJF778A7NRRWE7V968TZDRX77HQEXNERKVTKS2IT4K7584D7C6NC4AZ954VGJTEJFZ6BY8BV86VSZX9JJ63RRYW5TUEWXQ2A3QZNPACQM7QS578CW9R3BUKCAVW33TFW64D6MPV6SKAMZY3892ICYEYBUC5MYNUNGG6HD5DJCIKQNKVGSE2NCZR2ZPV5I9ZTM63P2674MJ5E848YBR2M3TMSNPSGTH56U4CUVRYXVUS9KFM7D9YSMMTRASW4IWHDCVS286UWWXHXCG72WIU5NAIYKRNSQ2AKWSB67GZ2DG6VBTE87ZAIUJ7KR8XIQFHAR&destination=https%3A//ad.doubleclick.net/ddm/trackclk/N510405.5083943MUP-SEZNAM-NATIVE/B34999881.439049166%3Bdc_trk_aid%3D632127340%3Bdc_trk_cid%3D247725133%3Bdc_lat%3D%3Bdc_rdid%3D%3Btag_for_child_directed_treatment%3D%3Btfua%3D%3Bgdpr%3D$%7BGDPR%7D%3Bgdpr_consent%3D$%7BGDPR_CONSENT_755%7D%3Bltd%3D%3Bdc_tdv%3D1",
-    "id": "B34999881.439049166%3Bdc_trk_aid%3D632127340%3Bdc_trk_cid%3D247725133%3Bdc_lat%3D%3Bdc_rdid%3D%3Btag_for_child_directed_treatment%3D%3Btfua%3D%3Bgdpr%3D$%7BGDPR%7D%3Bgdpr_consent%3D$%7BGDPR_CONSENT_755%7D%3Bltd%3D%3Bdc_tdv%3D1"
   },
   {
     "header": "Pronájem bytu 3+1 67 m²",
@@ -131,19 +138,5 @@
     "Price": "13 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-novy-liskovec-koniklecova/61801292",
     "id": "61801292"
-  },
-  {
-    "header": "Pronájem bytu 2+1 64 m²",
-    "Address": "Záhřebská, Brno - Žabovřesky",
-    "Price": "20 500 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-zabovresky-zahrebska/803619660",
-    "id": "803619660"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 72 m²",
-    "Address": "Opuštěná, Brno - Trnitá",
-    "Price": "31 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-trnita-opustena/1977951052",
-    "id": "1977951052"
   }
 ]
