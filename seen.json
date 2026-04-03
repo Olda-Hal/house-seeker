@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 72 m²",
+    "Address": "Fantova, Brno - Obřany",
+    "Price": "29 800 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-obrany-fantova/1756451660",
+    "id": "1756451660"
+  },
+  {
     "header": "Pronájem bytu 2+1 55 m²",
     "Address": "Čápkova, Brno - Veveří",
     "Price": "23 500 Kč/měsíc",
@@ -98,6 +105,13 @@
     "id": "1889432396"
   },
   {
+    "header": "Buďte první nájemník",
+    "Address": "Designové 1+kk a 2+kk s vybavením. WiFi, smart home, gym, kavárna i parkování v rezidenci.",
+    "Price": "BRAVIS Reality",
+    "link": "https://i.imedia.cz/v2/click?spotId=4132280&d=T7VJ6YX5SEFSUEERDI7GSAXRG9NHCZKVJJ4D9IHSTTZMCDSJQXZXQZH2JZGTVUWPZF6C8BT3WC9X3KEW7WT4M5GZYRUC52CQRYCMTVRH4FPB2NZZGFJHEVX7YKHRZNJQHRXQW4JMHFGU3BNJP244PSYV4WJSPM7QDFI3FQYVNBIP43QDVI44VVMX5NXX3893T8YE6MJS2F9WIUBX4YRCTNDIDKGTXPTUB86EXNZUY8HK4N2VUJ4YY5GY5UCGRVFSBBVAYKP54XDPCWX8G9NWCDA39B547AWZVEBKHHSCRSD5NS72MQ7BWENAXST5SY2EXPMCWPDJ4SGX5QXXRI3CMGN68FPMCPZ7Y8U9PMB6TD2GS&destination=https%3A//www.bravis.cz/pronajem-apartmany-kralovopolska",
+    "id": "pronajem-apartmany-kralovopolska"
+  },
+  {
     "header": "Pronájem bytu 3+kk 70 m²",
     "Address": "Rybnická, Brno - Nový Lískovec",
     "Price": "31 000 Kč/měsíc",
@@ -131,12 +145,5 @@
     "Price": "45 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-cerna-pole-schodova/3472974668",
     "id": "3472974668"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 120 m²",
-    "Address": "Všetičkova, Brno - Stránice",
-    "Price": "55 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-stranice-vsetickova/345981772",
-    "id": "345981772"
   }
 ]
