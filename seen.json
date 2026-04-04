@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+1 70 m²",
+    "Address": "Okrouhlá, Brno",
+    "Price": "19 500 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-brno-okrouhla/129123148",
+    "id": "129123148"
+  },
+  {
     "header": "Pronájem bytu 2+1 67 m²",
     "Address": "Merhautova, Brno - Zábrdovice",
     "Price": "26 990 Kč/měsíc",
@@ -131,68 +138,5 @@
     "Price": "31 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-trnita-opustena/1977951052",
     "id": "1977951052"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 76 m²",
-    "Address": "Komárovská, Brno - Komárov",
-    "Price": "36 800 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-komarov-komarovska/4274275148",
-    "id": "4274275148"
-  },
-  {
-    "header": "PRONÁJEM BYTU 3+kk 57 m²",
-    "Address": "Dobrovského, Brno - Královo Pole, Jihomoravský kraj",
-    "Price": "22 900 Kč+ 4 500 Kč",
-    "link": "https://www.bezrealitky.cz/nemovitosti-byty-domy/605416-nabidka-pronajem-bytu-dobrovskeho-usti-nad-labem",
-    "id": "605416"
-  },
-  {
-    "header": "PRONÁJEM BYTU 3+1 88 m²",
-    "Address": "Podnásepní, Brno - Trnitá, Jihomoravský kraj",
-    "Price": "18 200 Kč+ 4 000 Kč",
-    "link": "https://www.bezrealitky.cz/nemovitosti-byty-domy/620992-nabidka-pronajem-bytu-podnasepni-brno",
-    "id": "620992"
-  },
-  {
-    "header": "PRONÁJEM BYTU 3+kk 60 m²",
-    "Address": "Táborská, Brno - Židenice, Jihomoravský kraj",
-    "Price": "23 000 Kč+ 2 000 Kč",
-    "link": "https://www.bezrealitky.cz/nemovitosti-byty-domy/954670-nabidka-pronajem-bytu-taborska-brno",
-    "id": "954670"
-  },
-  {
-    "header": "PRONÁJEM BYTU 3+kk 68 m²",
-    "Address": "Žilkova, Brno - Řečkovice, Jihomoravský kraj",
-    "Price": "26 500 Kč+ 5 000 Kč",
-    "link": "https://www.bezrealitky.cz/nemovitosti-byty-domy/938402-nabidka-pronajem-bytu-zilkova-brno",
-    "id": "938402"
-  },
-  {
-    "header": "PRONÁJEM BYTU 2+1 85 m²",
-    "Address": "Jiránkova, Brno - Černovice, Jihomoravský kraj",
-    "Price": "27 000 Kč+ 5 000 Kč",
-    "link": "https://www.bezrealitky.cz/nemovitosti-byty-domy/771560-nabidka-pronajem-bytu-jirankova-brno",
-    "id": "771560"
-  },
-  {
-    "header": "PRONÁJEM BYTU 3+1 81 m²",
-    "Address": "Bendlova, Brno - Černá Pole, Jihomoravský kraj",
-    "Price": "22 500 Kč+ 4 800 Kč",
-    "link": "https://www.bezrealitky.cz/nemovitosti-byty-domy/795624-nabidka-pronajem-bytu-bendlova-brno",
-    "id": "795624"
-  },
-  {
-    "header": "PRONÁJEM BYTU 3+1 112 m²",
-    "Address": "Stojanova, Brno - Veveří, Jihomoravský kraj",
-    "Price": "33 000 Kč+ 5 720 Kč",
-    "link": "https://www.bezrealitky.cz/nemovitosti-byty-domy/1007954-nabidka-pronajem-bytu-stojanova-brno",
-    "id": "1007954"
-  },
-  {
-    "header": "PRONÁJEM BYTU 2+1 60 m²",
-    "Address": "Letovická, Brno - Řečkovice, Jihomoravský kraj",
-    "Price": "19 500 Kč+ 4 500 Kč",
-    "link": "https://www.bezrealitky.cz/nemovitosti-byty-domy/953093-nabidka-pronajem-bytu-letovicka-brno",
-    "id": "953093"
   }
 ]
