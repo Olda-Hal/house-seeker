@@ -49,13 +49,6 @@
     "id": "129123148"
   },
   {
-    "header": "Stačí přijít a bydlet",
-    "Address": "Nájemní 1+kk a 2+kk v Brně. Kompletní vybavení, WiFi, smart home, gym, kavárna i parkování",
-    "Price": "BRAVIS Reality",
-    "link": "https://i.imedia.cz/v2/click?spotId=4132281&d=FJZNQJX8F4DTP87RVUJNNACHFTMBBCH2W5V4ARAQNM23KCW5I33VZN5AY7CFPM85I7QDTTX48YIA4923FQEP4R6WZVRUY9B3QWJABG9PUHK6IQQT4MMJJASGU62EIDRPZS6ES3VFJSDRYYH75MM9UZGDS8C5YRIK4PUGCAEZXUR2YBU2E8BZP4IDNCMSF2XAHCY8CNX7V7SXKUCGT8HMYTXTN5N76K2KXPNKKQV5D2G6Y7GI9JAAPZQ77E62QC8M2JK6KYYRJSBRA43WI35852AEDRBH6MUR6M9PCQNXTQ7G7BT7VUHHPG4CC5CMXT8VA7U36HVQ87KEXS7SVZP7IJ2MB9U5BS5M33DPGVAWJTKDXGPESW&destination=https%3A//www.bravis.cz/pronajem-apartmany-kralovopolska",
-    "id": "pronajem-apartmany-kralovopolska"
-  },
-  {
     "header": "Pronájem bytu 2+1 67 m²",
     "Address": "Merhautova, Brno - Zábrdovice",
     "Price": "26 990 Kč/měsíc",
@@ -110,6 +103,13 @@
     "Price": "24 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-zabovresky-tumova/4184097612",
     "id": "4184097612"
+  },
+  {
+    "header": "Luxusní dům František 14",
+    "Address": "Pořiďte si svůj vysněný dům s dispozicí 5+1+G včetně pozemku za 21.696 Kč /měsíčně.",
+    "Price": "Ekonomické stavby",
+    "link": "https://i.imedia.cz/v2/click?spotId=4133814&d=3BXR22RG4F6JUPQXMU2FFDMPWTEY2CA95N5DBUIE29QCVQY2MWHSG9BBU9JEB2EBRKUDQK458UUCB26NJ7IRPUNV2WIKAX8MITNJGCJ48UU74KX4K3YZP2JZKEJNG8YRQFVMYTM6QZFNEBK4CHIKY8CJ89D7AEKZXR8EZMG6Q3AQTR69JW5GT3HXI5FHYDSXPN7H67Z6BBF6BACHIEIUCB89PKRQD6C9M2NX7K8THC6Y9JYNNE4H73C3RIMNMSFICAHKKK47HDQA8KE6I76N8HU5TM6GTWXVRBEWY2MAS4D9WGMHBKYPQZCK5GPFSHYKGGDWZVKACY3BRGQ3REJEFMB23WFREGRXQF83BC8RDRNAYKS5P2&destination=https%3A//pozemky.ekonomicke-stavby.cz/frantisek_14.php%3Futm_source%3DSreality%26utm_campaign%3DFrantisek14%282-2026%29%26utm_term%3Dpromoballoon%26utm_content%3Dpaymentnotshown%26utm_medium%3DNativniInzerat",
+    "id": "frantisek_14.php%3Futm_source%3DSreality%26utm_campaign%3DFrantisek14%282-2026%29%26utm_term%3Dpromoballoon%26utm_content%3Dpaymentnotshown%26utm_medium%3DNativniInzerat"
   },
   {
     "header": "Pronájem bytu 3+1 93 m²",
