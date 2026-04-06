@@ -28,48 +28,6 @@
     "id": "2662273868"
   },
   {
-    "header": "Pronájem bytu 3+kk 118 m²",
-    "Address": "Majdalenky, Brno - Lesná",
-    "Price": "46 500 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-lesna-majdalenky/1512788812",
-    "id": "1512788812"
-  },
-  {
-    "header": "Pronájem bytu 3+1 74 m²",
-    "Address": "Kuršova, Brno - Bystrc",
-    "Price": "18 900 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-bystrc-kursova/3774567244",
-    "id": "3774567244"
-  },
-  {
-    "header": "Pronájem bytu 3+1 65 m²",
-    "Address": "Čejkovická, Brno - Židenice",
-    "Price": "22 500 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-zidenice-cejkovicka/619270988",
-    "id": "619270988"
-  },
-  {
-    "header": "Pronájem bytu 2+1 59 m²",
-    "Address": "Bayerova, Brno - Veveří",
-    "Price": "21 900 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-veveri-bayerova/2394444620",
-    "id": "2394444620"
-  },
-  {
-    "header": "Pronájem bytu 2+1 59 m²",
-    "Address": "Teyschlova, Brno - Bystrc",
-    "Price": "18 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-bystrc-teyschlova/3606471500",
-    "id": "3606471500"
-  },
-  {
-    "header": "Pronájem bytu 3+1 64 m²",
-    "Address": "Bořetická, Brno - Židenice",
-    "Price": "22 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-zidenice-boreticka/1889432396",
-    "id": "1889432396"
-  },
-  {
     "header": "Pronájem bytu 2+1 67 m²",
     "Address": "Merhautova, Brno - Zábrdovice",
     "Price": "26 990 Kč/měsíc",
@@ -138,5 +96,54 @@
     "Price": "21 590 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-zabovresky-kvapilova/655246156",
     "id": "655246156"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 72 m²",
+    "Address": "Fantova, Brno - Obřany",
+    "Price": "29 800 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-obrany-fantova/1756451660",
+    "id": "1756451660"
+  },
+  {
+    "header": "Move-in ready Brno",
+    "Address": "Designově vybavené nájemní apartmány. WiFi, smart home, gym, parkování a skvělá poloha.",
+    "Price": "BRAVIS Reality",
+    "link": "https://i.imedia.cz/v2/click?spotId=4132282&d=HTNASWX7S7IGKJQHC3UPWQVAAT4JPBI9TZPR83AEVTQXPI377YJGU8UH6PJ29KFZXFMC9GYTMSZM2W9BCCVCKNNEDBYZTM5BAK6UGAYRNTZ746Z4JQ3WVT47WMVAR2AYUSGQ4JFHBU8E7A67U7Q7IYV6CABD3ZFSXJ7H4XV3TZB4AU6E4RGU629PQ6ZXPXKITK7384A7KZ3N5TGHEIYM7BSVZ43CEZ23VGWRU25C4XJGIQUJQA8VR4MCF492IJ5ADZ6ZKICY32P2QJJCYYBWRDA8EFDEAJ6ZFE583MVS8TPXBX92K9BGTUES3JCW7FXF646EYKDNWPED8CJMP7I5UCBJRCSWZ7R4VPIK697B5F6CSCY5&destination=https%3A//www.bravis.cz/pronajem-apartmany-kralovopolska",
+    "id": "pronajem-apartmany-kralovopolska"
+  },
+  {
+    "header": "Pronájem bytu 3+1 67 m²",
+    "Address": "Haškova, Brno - Lesná",
+    "Price": "17 500 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-lesna-haskova/3191582796",
+    "id": "3191582796"
+  },
+  {
+    "header": "Pronájem bytu 2+1 78 m²",
+    "Address": "Kounicova, Brno - Ponava",
+    "Price": "23 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-ponava-kounicova/3165733708",
+    "id": "3165733708"
+  },
+  {
+    "header": "Pronájem bytu 2+1 64 m²",
+    "Address": "Veslařská, Brno - Jundrov",
+    "Price": "19 500 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-jundrov-veslarska/286540620",
+    "id": "286540620"
+  },
+  {
+    "header": "Pronájem bytu 2+1 60 m²",
+    "Address": "Černého, Brno - Bystrc",
+    "Price": "19 500 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-bystrc-cerneho/328295244",
+    "id": "328295244"
+  },
+  {
+    "header": "Pronájem bytu 2+1 53 m²",
+    "Address": "Tilhonova, Brno - Slatina",
+    "Price": "22 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-slatina-tilhonova/1524958028",
+    "id": "1524958028"
   }
 ]
