@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 2+1 51 m²",
+    "Address": "Zedníkova, Brno - Staré Brno",
+    "Price": "17 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-stare-brno-zednikova/1859945292",
+    "id": "1859945292"
+  },
+  {
     "header": "Pronájem bytu 3+1 73 m²",
     "Address": "Merhautova, Brno - Černá Pole",
     "Price": "27 990 Kč/měsíc",
@@ -112,13 +119,6 @@
     "id": "1512788812"
   },
   {
-    "header": "Buďte první nájemník",
-    "Address": "Designové 1+kk a 2+kk s vybavením. WiFi, smart home, gym, kavárna i parkování v rezidenci.",
-    "Price": "BRAVIS Reality",
-    "link": "https://i.imedia.cz/v2/click?spotId=4132280&d=TB9DSPRMRBP5GRJGSEY4ETPKWSSZ7VU7IRESD4MS4NDCYWE9SZXBYY4TXWY4ZNA65WHTWXWBMHB6SJX99BHF8HMI67YY3GS9Q9ZQJRTHNQWI6GWUNHC9K7ZCFF5D9K4BTQQXZIKDFMCM39CHMEUVMZNB8Q865UHC5AKJ248C3UUNB4RY2T4MUKB9TPCIT7HG9U6JIPQV6YI383YMJC5Y9KTJEJGX2KWW8Y8V7NT5JUAC6EQ58482HC7AP9TYYGY2P27GFVPVFBUJQATJXRXQWP9E5MAJZQBENA4MRN9MV43WJZZEV5CSYDZUZGF5HUDMFRHFW2ICX68GD8MAMMWI2AQXR5S552K6TK335N2KABS74&destination=https%3A//www.bravis.cz/pronajem-apartmany-kralovopolska",
-    "id": "pronajem-apartmany-kralovopolska"
-  },
-  {
     "header": "Pronájem bytu 2+1 59 m²",
     "Address": "Teyschlova, Brno - Bystrc",
     "Price": "18 000 Kč/měsíc",
@@ -145,12 +145,5 @@
     "Price": "22 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-slatina-tilhonova/1524958028",
     "id": "1524958028"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 66 m²",
-    "Address": "Trnitá, Brno - Trnitá",
-    "Price": "26 990 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-trnita-trnita/2662273868",
-    "id": "2662273868"
   }
 ]
