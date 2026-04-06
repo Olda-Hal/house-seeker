@@ -1,5 +1,19 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 82 m²",
+    "Address": "Drobného, Brno - Černá Pole",
+    "Price": "32 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-cerna-pole-drobneho/2956030796",
+    "id": "2956030796"
+  },
+  {
+    "header": "Pronájem bytu 2+1 56 m²",
+    "Address": "Záhumenice, Brno - Horní Heršpice",
+    "Price": "21 990 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-horni-herspice-zahumenice/4019667788",
+    "id": "4019667788"
+  },
+  {
     "header": "Pronájem bytu 2+1 55 m²",
     "Address": "Vránova, Brno - Řečkovice",
     "Price": "20 900 Kč/měsíc",
@@ -54,13 +68,6 @@
     "Price": "31 990 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-stare-brno-soukenicka/1213092684",
     "id": "1213092684"
-  },
-  {
-    "header": "Stačí přijít a bydlet",
-    "Address": "Nájemní 1+kk a 2+kk v Brně. Kompletní vybavení, WiFi, smart home, gym, kavárna i parkování",
-    "Price": "BRAVIS Reality",
-    "link": "https://i.imedia.cz/v2/click?spotId=4132281&d=3BZRI2K9V48XQ9G88GJVS79Y7PR53PAMPPKQRQHANG3GGIN5PB4DPD88PZZ4KAU455HVFKHTDI63R28AV6HU2XTPJSYTIGHDBNP95R3RE9P3DWHRA88U6JPQ9FB9IFHXSGZIEY9QERFW942N86VIQUV3FZ8C3VU9GI9JVT5B4QSXAHFT9N7G2QVW2WG9QDDV65MF9TJTUTVWMF9JUJ5ARPZ89C72UQTDJTN8QHIHEYMXTXY7FTTVSJ7Y385HFNDP5R9M5M2I8JCZ4WKSC2TTXD5VV6F3EZ4SX9SWPKBF3XDY4E8HK5G3S4ZKXHH8MBYUNVHC84HP38UPTAKDBETJNFHW4WTNRFWHXX4WB3RFUAT2B3Z2&destination=https%3A//www.bravis.cz/pronajem-apartmany-kralovopolska",
-    "id": "pronajem-apartmany-kralovopolska"
   },
   {
     "header": "Pronájem bytu 2+1 64 m²",
@@ -119,13 +126,6 @@
     "id": "328295244"
   },
   {
-    "header": "Luxusní dům František 14",
-    "Address": "Pořiďte si svůj vysněný dům s dispozicí 5+1+G včetně pozemku za 21.696 Kč /měsíčně.",
-    "Price": "Ekonomické stavby",
-    "link": "https://i.imedia.cz/v2/click?spotId=4133838&d=TJ23I7S9S3MHDHICI4758H676482ME3RS9I2S2KMZAT4PVYCZZJ4IDY9GVX5E95UZS3ZJWKR9UQHNC6CT8BK92P8KWAYWIUKH25PXGV3ZXZEC599QH6K5I5CBSRB784SKY4G7VW6IFFIS84UGQ5F94KYBYRQS9ATVVA94IRHGHNZMP4G5PJSJSHREU7U2HIB6VHKMFN8JBCP3B4IAR83NIPPYYSKWUMRP4TE9WVBWCAZ682REUR4YGBJZN2QHMRKBVWI6CPDYWWR56CTAPHRYWQ673GZKUXMWJEMU9YRYZQ2J5HV9EPWF9CX6IAXX9IDQAF76GIB7E7GXBCSEUK66QZX59EYCM65PXZ394XSK3DNQPYV&destination=https%3A//pozemky.ekonomicke-stavby.cz/frantisek_14.php%3Futm_source%3DSreality%26utm_campaign%3DFrantisek14%282-2026%29%26utm_term%3Dpromoballoon%26utm_content%3Dpaymentnotshown%26utm_medium%3DNativniInzerat",
-    "id": "frantisek_14.php%3Futm_source%3DSreality%26utm_campaign%3DFrantisek14%282-2026%29%26utm_term%3Dpromoballoon%26utm_content%3Dpaymentnotshown%26utm_medium%3DNativniInzerat"
-  },
-  {
     "header": "Pronájem bytu 2+1 53 m²",
     "Address": "Tilhonova, Brno - Slatina",
     "Price": "22 000 Kč/měsíc",
@@ -145,19 +145,5 @@
     "Price": "17 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-stare-brno-zednikova/1859945292",
     "id": "1859945292"
-  },
-  {
-    "header": "Pronájem bytu 3+1 68 m²",
-    "Address": "Horní, Brno - Štýřice",
-    "Price": "25 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-styrice-horni/1819890508",
-    "id": "1819890508"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 66 m²",
-    "Address": "Hlinky, Brno - Pisárky",
-    "Price": "31 900 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-pisarky-hlinky/581587788",
-    "id": "581587788"
   }
 ]
