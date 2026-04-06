@@ -1,5 +1,19 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 64 m²",
+    "Address": "Fryčajova, Brno - Obřany",
+    "Price": "21 900 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-obrany-frycajova/1431585612",
+    "id": "1431585612"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 87 m²",
+    "Address": "Soukenická, Brno - Staré Brno",
+    "Price": "31 990 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-stare-brno-soukenicka/1213092684",
+    "id": "1213092684"
+  },
+  {
     "header": "Pronájem bytu 3+kk 66 m²",
     "Address": "Trnitá, Brno - Trnitá",
     "Price": "26 990 Kč/měsíc",
@@ -131,19 +145,5 @@
     "Price": "17 500 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-lesna-haskova/3191582796",
     "id": "3191582796"
-  },
-  {
-    "header": "Pronájem bytu 3+1 76 m²",
-    "Address": "Bellova, Brno - Kohoutovice",
-    "Price": "25 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-kohoutovice-bellova/3169665868",
-    "id": "3169665868"
-  },
-  {
-    "header": "Pronájem bytu 2+1 78 m²",
-    "Address": "Kounicova, Brno - Ponava",
-    "Price": "23 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-ponava-kounicova/3165733708",
-    "id": "3165733708"
   }
 ]
