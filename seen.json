@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+1 76 m²",
+    "Address": "Bellova, Brno - Kohoutovice",
+    "Price": "25 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-kohoutovice-bellova/3169665868",
+    "id": "3169665868"
+  },
+  {
     "header": "Pronájem bytu 3+kk 64 m²",
     "Address": "Fryčajova, Brno - Obřany",
     "Price": "21 900 Kč/měsíc",
@@ -47,6 +54,13 @@
     "Price": "21 900 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-veveri-bayerova/2394444620",
     "id": "2394444620"
+  },
+  {
+    "header": "Buďte první nájemník",
+    "Address": "Designové 1+kk a 2+kk s vybavením. WiFi, smart home, gym, kavárna i parkování v rezidenci.",
+    "Price": "BRAVIS Reality",
+    "link": "https://i.imedia.cz/v2/click?spotId=4132280&d=W7X2EHFUPBIXVFTKGSK9XFJ7EJJ27HWGHGNN499X35IARIS8XGMC7RN3JVRK6X9DV6PBMBSXWUANA57AJDAGDRTADAJW8FB23HZWPNQWUZR5UFEJIWRBTEEQ3KKBRD4G67RT9BC6PUUFC3J3M4NCBDCBNA999DG3ZNQ3WGFY3KPAWAU2A9JIPZMJDD4UPKIK3V78JZNT3EZMR8S8VHETAYSXPUHQKBEFBM2C7FA35F9BINRUNK3RSXRERWKIU92G8FSJRQKRWU9PE6QUHG9I7T7RE6RQJ5VZ2GTSUJ7B5Y3BMZXZ3A2QVNMSPS46RKQ5FVVIEHDZMM42GYSIXA5HGF9TTDQMEI7CGBTSHQZ9286S&destination=https%3A//www.bravis.cz/pronajem-apartmany-kralovopolska",
+    "id": "pronajem-apartmany-kralovopolska"
   },
   {
     "header": "Pronájem bytu 2+1 59 m²",
@@ -138,12 +152,5 @@
     "Price": "29 800 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-obrany-fantova/1756451660",
     "id": "1756451660"
-  },
-  {
-    "header": "Pronájem bytu 3+1 67 m²",
-    "Address": "Haškova, Brno - Lesná",
-    "Price": "17 500 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-lesna-haskova/3191582796",
-    "id": "3191582796"
   }
 ]
