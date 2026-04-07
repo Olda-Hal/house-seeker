@@ -1,5 +1,68 @@
 [
   {
+    "header": "Pronájem bytu 3+1 70 m²",
+    "Address": "Tůmova, Brno - Žabovřesky",
+    "Price": "24 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-zabovresky-tumova/4184097612",
+    "id": "4184097612"
+  },
+  {
+    "header": "Pronájem bytu 2+1 59 m²",
+    "Address": "Bayerova, Brno - Veveří",
+    "Price": "20 500 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-veveri-bayerova/2394444620",
+    "id": "2394444620"
+  },
+  {
+    "header": "Pronájem bytu 3+1 65 m²",
+    "Address": "Čejkovická, Brno - Židenice",
+    "Price": "22 500 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-zidenice-cejkovicka/619270988",
+    "id": "619270988"
+  },
+  {
+    "header": "Pronájem bytu 3+1 74 m²",
+    "Address": "Kuršova, Brno - Bystrc",
+    "Price": "18 900 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-bystrc-kursova/3774567244",
+    "id": "3774567244"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 118 m²",
+    "Address": "Majdalenky, Brno - Lesná",
+    "Price": "46 500 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-lesna-majdalenky/1512788812",
+    "id": "1512788812"
+  },
+  {
+    "header": "Pronájem bytu 2+1 59 m²",
+    "Address": "Teyschlova, Brno - Bystrc",
+    "Price": "18 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-bystrc-teyschlova/3606471500",
+    "id": "3606471500"
+  },
+  {
+    "header": "Pronájem bytu 3+1 64 m²",
+    "Address": "Bořetická, Brno - Židenice",
+    "Price": "22 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-zidenice-boreticka/1889432396",
+    "id": "1889432396"
+  },
+  {
+    "header": "Move-in ready Brno",
+    "Address": "Designově vybavené nájemní apartmány. WiFi, smart home, gym, parkování a skvělá poloha.",
+    "Price": "BRAVIS Reality",
+    "link": "https://i.imedia.cz/v2/click?spotId=4132282&d=DYM3DQX485M9YXXUJNKJP9MW8WS6JRWYEHRUDP9R3MFZRMAD9CMTA8X7U4KGB5V3MR3CNKMSF9GRXXQR7SB4P98A2KNZAZ8AGKM3HGGPGFKW6KMSVF5I24G78RBBQQSACEEPDCZZQIZU8SYFZGB4QTGIESDV35MK9WUEDAB477EAKWDUETQY9Y3QN6V8GQUJKVTCP9G2ZHZIGDI5GNGSEBDHQFETHU8ATRC7TE44YVTHFDJ3EAJN3DJKBGZ4Z3J6U2ITJ7KN87Q9BDPXFU7RJ5FPW5X45VQSZXQ9C39UC93JBK2AJUMJBVXKJA2E49HCZ2R3NC857SQREHJIM45Q8TAV77ICFXBI6N3N5IZMTPPBS&destination=https%3A//www.bravis.cz/pronajem-apartmany-kralovopolska",
+    "id": "pronajem-apartmany-kralovopolska"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 97 m²",
+    "Address": "Charvatská, Brno - Královo Pole",
+    "Price": "39 900 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-kralovo-pole-charvatska/3028685644",
+    "id": "3028685644"
+  },
+  {
     "header": "Pronájem bytu 2+1 75 m²",
     "Address": "Pekařská, Brno - Staré Brno",
     "Price": "21 900 Kč/měsíc",
@@ -82,68 +145,5 @@
     "Price": "24 990 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-bystrc-ricanska/4094575436",
     "id": "4094575436"
-  },
-  {
-    "header": "Pronájem bytu 2+1 64 m²",
-    "Address": "Božetěchova, Brno - Královo Pole",
-    "Price": "20 990 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-kralovo-pole-bozetechova/183124812",
-    "id": "183124812"
-  },
-  {
-    "header": "Pronájem bytu 3+1 116 m²",
-    "Address": "Vinohrady, Brno - Brno-střed",
-    "Price": "35 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-brno-stred-vinohrady/3846877260",
-    "id": "3846877260"
-  },
-  {
-    "header": "Pronájem bytu 3+1 64 m²",
-    "Address": "Bořetická, Brno - Židenice",
-    "Price": "21 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-zidenice-boreticka/2457514060",
-    "id": "2457514060"
-  },
-  {
-    "header": "Buďte první nájemník",
-    "Address": "Designové 1+kk a 2+kk s vybavením. WiFi, smart home, gym, kavárna i parkování v rezidenci.",
-    "Price": "BRAVIS Reality",
-    "link": "https://i.imedia.cz/v2/click?spotId=4132280&d=GYYH6MIHM7QZY4VPBGXQMJZ33NTEE96WCSWF8HWR6QPQI5EST5QTEXYNY6M95DJMGVGRYM2BKASBJQMKDM7W6XDHSZDGYAAVPNEBQ3JMFICVB5YMSUTEH2PY2SZ4F4GAKX93KXDMK9P7NCMV4SNZJBK5TZJFF87TAVBP9JKMGKPF7F9HSUYG6F6TK5PXBKV5F48DTHDK3TUFKKFRRI2VYFRX7ICYKTM4T4669XRP8T95487B27FYAEJV4IV2Z3MTPQ22B8GHFIRTMGUF7YT6XXP2Y7M3QGIYVVNE7KCRXUH8MATS4VTF665Y9J339Q5NMJ6AXYTU7B3QS5CG76RV2HP6SQYAYUDIVF3CM9HBZE9A&destination=https%3A//www.bravis.cz/pronajem-apartmany-kralovopolska",
-    "id": "pronajem-apartmany-kralovopolska"
-  },
-  {
-    "header": "Pronájem bytu 3+1 76 m²",
-    "Address": "Bellova, Brno - Kohoutovice",
-    "Price": "25 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-kohoutovice-bellova/3169665868",
-    "id": "3169665868"
-  },
-  {
-    "header": "Pronájem bytu 3+1 93 m²",
-    "Address": "Burešova, Brno - Veveří",
-    "Price": "24 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-veveri-buresova/2587517772",
-    "id": "2587517772"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 68 m²",
-    "Address": "Ponětovická, Brno - Slatina",
-    "Price": "23 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-slatina-ponetovicka/21119820",
-    "id": "21119820"
-  },
-  {
-    "header": "Pronájem bytu 3+1 120 m²",
-    "Address": "Skácelova, Brno - Královo Pole",
-    "Price": "30 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-kralovo-pole-skacelova/2925335372",
-    "id": "2925335372"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 80 m²",
-    "Address": "Masarykova, Brno - Brno-město",
-    "Price": "31 400 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-brno-mesto-masarykova/2356761420",
-    "id": "2356761420"
   }
 ]
