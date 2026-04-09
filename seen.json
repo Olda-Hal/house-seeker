@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 2+1 95 m²",
+    "Address": "Cihlářská, Brno - Veveří",
+    "Price": "24 500 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-veveri-cihlarska/3783241804",
+    "id": "3783241804"
+  },
+  {
     "header": "Pronájem bytu 2+1 55 m²",
     "Address": "Vránova, Brno - Řečkovice",
     "Price": "20 900 Kč/měsíc",
@@ -131,12 +138,5 @@
     "Price": "19 600 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-komin-absolonova/3057926988",
     "id": "3057926988"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 87 m²",
-    "Address": "Jiráskova, Brno - Veveří",
-    "Price": "26 500 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-veveri-jiraskova/2353283916",
-    "id": "2353283916"
   }
 ]
