@@ -1,5 +1,19 @@
 [
   {
+    "header": "Pronájem bytu 2+1 55 m²",
+    "Address": "Vránova, Brno - Řečkovice",
+    "Price": "20 900 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-reckovice-vranova/527385420",
+    "id": "527385420"
+  },
+  {
+    "header": "Pronájem bytu 2+1 46 m²",
+    "Address": "Hvězdová, Brno - Zábrdovice",
+    "Price": "18 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-zabrdovice-hvezdova/194555980",
+    "id": "194555980"
+  },
+  {
     "header": "Pronájem bytu 2+1 88 m²",
     "Address": "Masná, Brno - Trnitá",
     "Price": "22 000 Kč/měsíc",
@@ -124,19 +138,5 @@
     "Price": "26 500 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-veveri-jiraskova/2353283916",
     "id": "2353283916"
-  },
-  {
-    "header": "Pronájem bytu 2+1 56 m²",
-    "Address": "Renneská třída, Brno - Štýřice",
-    "Price": "20 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-styrice-renneska-trida/3620164428",
-    "id": "3620164428"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 70 m²",
-    "Address": "Rybnická, Brno - Nový Lískovec",
-    "Price": "31 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-novy-liskovec-rybnicka/2885448524",
-    "id": "2885448524"
   }
 ]
