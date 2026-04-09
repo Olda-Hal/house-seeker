@@ -1,5 +1,33 @@
 [
   {
+    "header": "Pronájem bytu 2+1 53 m²",
+    "Address": "Tilhonova, Brno - Slatina",
+    "Price": "22 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-slatina-tilhonova/1524958028",
+    "id": "1524958028"
+  },
+  {
+    "header": "Pronájem bytu 2+1 60 m²",
+    "Address": "Černého, Brno - Bystrc",
+    "Price": "19 500 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-bystrc-cerneho/328295244",
+    "id": "328295244"
+  },
+  {
+    "header": "Pronájem bytu 3+1 71 m²",
+    "Address": "Havelkova, Brno - Bohunice",
+    "Price": "24 500 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-bohunice-havelkova/2445979724",
+    "id": "2445979724"
+  },
+  {
+    "header": "Pronájem bytu 2+1 73 m²",
+    "Address": "Čápkova, Brno - Veveří",
+    "Price": "29 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-veveri-capkova/720351308",
+    "id": "720351308"
+  },
+  {
     "header": "Pronájem bytu 2+1 67 m²",
     "Address": "Vlhká, Brno - Zábrdovice",
     "Price": "22 000 Kč/měsíc",
@@ -47,13 +75,6 @@
     "Price": "28 500 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-pisarky-lipova/3768140620",
     "id": "3768140620"
-  },
-  {
-    "header": "Luxusní dům František 14",
-    "Address": "Pořiďte si svůj vysněný dům s dispozicí 5+1+G včetně pozemku za 21.696 Kč /měsíčně.",
-    "Price": "Ekonomické stavby",
-    "link": "https://i.imedia.cz/v2/click?spotId=4133838&d=DMBT9SKUA2WH54YT73ZAPGHWFJNK42G2PSA3S34846IXMBIT62GMY8MDMEH9FE2IUCIQRSE36WMS9XFXVYMFIPHYVDM2H2JUSPDRTJEGU8IYJDEUFQUGYS3G6DHK4SQP5N36PI38AVKTW655SRA4PMYEAI875BA6QXFBKET9NRSXJGMY7AZ7YFH9GEYQ2IQ2J934MMCSS8VABGARMS5ZQQ54WEVGZ2IT9H53BR9K9SG58NYTGEDWE5CWTWNFBHYWY2N9RNY3IXA8HAEU69XN2V85K7ES4JFDTE7GI6UGXPZ5TCUS4JP42I6HMIB8MJEVG4QGR8X6K8939E4HS5PY75ZWVXW8V8YX3HIY6AMFJIV8DB2&destination=https%3A//pozemky.ekonomicke-stavby.cz/frantisek_14.php%3Futm_source%3DSreality%26utm_campaign%3DFrantisek14%282-2026%29%26utm_term%3Dpromoballoon%26utm_content%3Dpaymentnotshown%26utm_medium%3DNativniInzerat",
-    "id": "frantisek_14.php%3Futm_source%3DSreality%26utm_campaign%3DFrantisek14%282-2026%29%26utm_term%3Dpromoballoon%26utm_content%3Dpaymentnotshown%26utm_medium%3DNativniInzerat"
   },
   {
     "header": "Pronájem bytu 3+kk 70 m²",
@@ -117,33 +138,5 @@
     "Price": "22 500 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-zidenice-cejkovicka/619270988",
     "id": "619270988"
-  },
-  {
-    "header": "Pronájem bytu 3+1 74 m²",
-    "Address": "Kuršova, Brno - Bystrc",
-    "Price": "18 900 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-bystrc-kursova/3774567244",
-    "id": "3774567244"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 118 m²",
-    "Address": "Majdalenky, Brno - Lesná",
-    "Price": "46 500 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-lesna-majdalenky/1512788812",
-    "id": "1512788812"
-  },
-  {
-    "header": "Pronájem bytu 2+1 59 m²",
-    "Address": "Teyschlova, Brno - Bystrc",
-    "Price": "18 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-bystrc-teyschlova/3606471500",
-    "id": "3606471500"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 75 m²",
-    "Address": "Dačického, Brno - Husovice",
-    "Price": "25 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-husovice-dacickeho/2133831756",
-    "id": "2133831756"
   }
 ]
