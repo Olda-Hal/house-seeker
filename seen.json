@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 2+1 45 m²",
+    "Address": "Absolonova, Brno - Komín",
+    "Price": "21 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-komin-absolonova/333361228",
+    "id": "333361228"
+  },
+  {
     "header": "Pronájem bytu 3+kk 72 m²",
     "Address": "Opuštěná, Brno - Trnitá",
     "Price": "31 000 Kč/měsíc",
@@ -131,12 +138,5 @@
     "Price": "41 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-brno-mesto-biskupska/1594315596",
     "id": "1594315596"
-  },
-  {
-    "header": "Pronájem bytu 3+1 143 m²",
-    "Address": "Schodová, Brno - Černá Pole",
-    "Price": "45 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-cerna-pole-schodova/3472974668",
-    "id": "3472974668"
   }
 ]
