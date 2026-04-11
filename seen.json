@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 2+1 57 m²",
+    "Address": "Střední, Brno - Ponava",
+    "Price": "22 800 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-ponava-stredni/2975707212",
+    "id": "2975707212"
+  },
+  {
     "header": "Pronájem bytu 3+kk 65 m²",
     "Address": "Auerswaldova, Brno - Zábrdovice",
     "Price": "29 000 Kč/měsíc",
@@ -47,13 +54,6 @@
     "Price": "22 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-kralovo-pole-palackeho-trida/2948313164",
     "id": "2948313164"
-  },
-  {
-    "header": "Luxusní dům František 14",
-    "Address": "Pořiďte si svůj vysněný dům s dispozicí 5+1+G včetně pozemku za 21.696 Kč /měsíčně.",
-    "Price": "Ekonomické stavby",
-    "link": "https://i.imedia.cz/v2/click?spotId=4133814&d=WDXB57YXM7EVWMJPCNXKWZIS7XQKFCZ976T4EDKA5V5HXMZETA4ZAYASA462MNT4MC9YQPQ934F5CW7TT746SK6MCPWD4YJYTI6FFVZK83KNK6KCPWPYA4P3IWQESS4KJ55BHK5HDI42TD3P3YFVBT5WDNUU25SUU8KZAIA5X8YJ4XP9W5EYBDUHRFZHBSB3QYEQDS6B94EBSK6GJE5GHZKGIH8BV67PFA2QXE9IDD7ESUBW7G33XFYYHQEFPP9A6ZYMNNGEC5FJXBB33MIIECAEYACBBEWZTA7G3VXQ27P85QEV5ZFNVPS6M6ZUNFZ4VK37XWQ8QA8XM2TMRCX856NBF3BEGBQ6M49VXQTTIFG3GZ2&destination=https%3A//pozemky.ekonomicke-stavby.cz/frantisek_14.php%3Futm_source%3DSreality%26utm_campaign%3DFrantisek14%282-2026%29%26utm_term%3Dpromoballoon%26utm_content%3Dpaymentnotshown%26utm_medium%3DNativniInzerat",
-    "id": "frantisek_14.php%3Futm_source%3DSreality%26utm_campaign%3DFrantisek14%282-2026%29%26utm_term%3Dpromoballoon%26utm_content%3Dpaymentnotshown%26utm_medium%3DNativniInzerat"
   },
   {
     "header": "Pronájem bytu 2+1 55 m²",
@@ -138,12 +138,5 @@
     "Price": "27 990 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-stare-brno-soukenicka/1213092684",
     "id": "1213092684"
-  },
-  {
-    "header": "Pronájem bytu 2+1 54 m²",
-    "Address": "Kvapilova, Brno - Žabovřesky",
-    "Price": "19 990 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-zabovresky-kvapilova/655246156",
-    "id": "655246156"
   }
 ]
