@@ -1,5 +1,19 @@
 [
   {
+    "header": "Pronájem bytu 3+1 68 m²",
+    "Address": "Horní, Brno - Štýřice",
+    "Price": "25 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-styrice-horni/1819890508",
+    "id": "1819890508"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 48 m²",
+    "Address": "Rostislavovo náměstí, Brno - Královo Pole",
+    "Price": "21 250 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-kralovo-pole-rostislavovo-namesti/3009565516",
+    "id": "3009565516"
+  },
+  {
     "header": "Pronájem bytu 3+kk 103 m²",
     "Address": "Čeňka Růžičky, Brno - Bohunice",
     "Price": "28 000 Kč/měsíc",
@@ -124,19 +138,5 @@
     "Price": "18 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-bystrc-teyschlova/3606471500",
     "id": "3606471500"
-  },
-  {
-    "header": "Pronájem bytu 3+1 71 m²",
-    "Address": "Třískalova, Brno - Lesná",
-    "Price": "21 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-lesna-triskalova/1171173452",
-    "id": "1171173452"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 73 m²",
-    "Address": "Říčanská, Brno - Bystrc",
-    "Price": "24 990 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-bystrc-ricanska/4094575436",
-    "id": "4094575436"
   }
 ]
