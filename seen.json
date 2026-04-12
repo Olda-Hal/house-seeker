@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 63 m²",
+    "Address": "U Viaduktu, Brno - Chrlice",
+    "Price": "22 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-chrlice-u-viaduktu/3020795980",
+    "id": "3020795980"
+  },
+  {
     "header": "Pronájem bytu 2+1 57 m²",
     "Address": "Střední, Brno - Ponava",
     "Price": "22 800 Kč/měsíc",
@@ -131,12 +138,5 @@
     "Price": "18 500 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-brno-sever-sypka/3047506764",
     "id": "3047506764"
-  },
-  {
-    "header": "Pronájem bytu 3+1 80 m²",
-    "Address": "Herčíkova, Brno - Královo Pole",
-    "Price": "25 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-kralovo-pole-hercikova/2806469452",
-    "id": "2806469452"
   }
 ]
