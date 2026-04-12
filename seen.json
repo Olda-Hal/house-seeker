@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 72 m²",
+    "Address": "Fantova, Brno - Obřany",
+    "Price": "29 800 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-obrany-fantova/1756451660",
+    "id": "1756451660"
+  },
+  {
     "header": "Pronájem bytu 2+1 57 m²",
     "Address": "Střední, Brno - Ponava",
     "Price": "22 800 Kč/měsíc",
@@ -131,12 +138,5 @@
     "Price": "24 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-veveri-grohova/730771532",
     "id": "730771532"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 87 m²",
-    "Address": "Soukenická, Brno - Staré Brno",
-    "Price": "27 990 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-stare-brno-soukenicka/1213092684",
-    "id": "1213092684"
   }
 ]
