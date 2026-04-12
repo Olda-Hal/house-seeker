@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 2+1 75 m²",
+    "Address": "Štefánikova, Brno",
+    "Price": "27 500 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-brno-stefanikova/4275196748",
+    "id": "4275196748"
+  },
+  {
     "header": "Pronájem bytu 3+kk 63 m²",
     "Address": "U Viaduktu, Brno - Chrlice",
     "Price": "22 000 Kč/měsíc",
@@ -131,12 +138,5 @@
     "Price": "22 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-kralovo-pole-palackeho-trida/2948313164",
     "id": "2948313164"
-  },
-  {
-    "header": "Pronájem bytu 2+1 55 m²",
-    "Address": "Sýpka, Brno - Brno-sever",
-    "Price": "18 500 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-brno-sever-sypka/3047506764",
-    "id": "3047506764"
   }
 ]
