@@ -1,5 +1,96 @@
 [
   {
+    "header": "Pronájem bytu 3+1 65 m²",
+    "Address": "Čejkovická, Brno - Židenice",
+    "Price": "22 500 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-zidenice-cejkovicka/619270988",
+    "id": "619270988"
+  },
+  {
+    "header": "Pronájem bytu 3+1 74 m²",
+    "Address": "Kuršova, Brno - Bystrc",
+    "Price": "18 900 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-bystrc-kursova/3774567244",
+    "id": "3774567244"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 118 m²",
+    "Address": "Majdalenky, Brno - Lesná",
+    "Price": "46 500 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-lesna-majdalenky/1512788812",
+    "id": "1512788812"
+  },
+  {
+    "header": "Pronájem bytu 2+1 59 m²",
+    "Address": "Teyschlova, Brno - Bystrc",
+    "Price": "18 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-bystrc-teyschlova/3606471500",
+    "id": "3606471500"
+  },
+  {
+    "header": "Pronájem bytu 2+1 55 m²",
+    "Address": "Bakalovo nábřeží, Brno - Štýřice",
+    "Price": "19 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-styrice-bakalovo-nabrezi/163360844",
+    "id": "163360844"
+  },
+  {
+    "header": "Pronájem bytu 2+1 69 m²",
+    "Address": "Chládkova, Brno - Žabovřesky",
+    "Price": "22 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-zabovresky-chladkova/441869132",
+    "id": "441869132"
+  },
+  {
+    "header": "Pronájem bytu 2+1 56 m²",
+    "Address": "Havlenova, Brno - Štýřice",
+    "Price": "17 500 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-styrice-havlenova/4082660172",
+    "id": "4082660172"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 64 m²",
+    "Address": "Fryčajova, Brno - Obřany",
+    "Price": "21 800 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-obrany-frycajova/3146605388",
+    "id": "3146605388"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 90 m²",
+    "Address": "Kollárova, Brno - Královo Pole",
+    "Price": "30 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-kralovo-pole-kollarova/2897036108",
+    "id": "2897036108"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 143 m²",
+    "Address": "Panská, Brno - Brno-město",
+    "Price": "32 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-brno-mesto-panska/3086697292",
+    "id": "3086697292"
+  },
+  {
+    "header": "Pronájem bytu 2+1 67 m²",
+    "Address": "Merhautova, Brno - Zábrdovice",
+    "Price": "26 990 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-zabrdovice-merhautova/3088061260",
+    "id": "3088061260"
+  },
+  {
+    "header": "Pronájem bytu 3+1 73 m²",
+    "Address": "Brno - Líšeň",
+    "Price": "23 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-lisen-/164409420",
+    "id": "164409420"
+  },
+  {
+    "header": "Pronájem bytu 2+1 45 m²",
+    "Address": "náměstí SNP, Brno - Černá Pole",
+    "Price": "20 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-cerna-pole-namesti-snp/3737956428",
+    "id": "3737956428"
+  },
+  {
     "header": "Pronájem bytu 2+1 75 m²",
     "Address": "Štefánikova, Brno",
     "Price": "27 500 Kč/měsíc",
@@ -12,6 +103,13 @@
     "Price": "20 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-stare-brno-pekarska/3709644876",
     "id": "3709644876"
+  },
+  {
+    "header": "Inspirace, XXXL výběr",
+    "Address": "Navštivte naše obchodní domy – rádi vám pomůžeme splnit váš sen o krásném bydlení.",
+    "Price": "XXXLutz Česká republika",
+    "link": "https://i.imedia.cz/v2/click?spotId=4107898&d=DSBJYYHN8GI6ZYQQ7HCG6GTIC4P9XJJPN5MQ2TKC5AMPXMA5X5MI4G4VT8VPMXIDN6CICYVPYI5FGGUHBKVA2YB6Q97C4CDE2PY8KISGNCA7ZYHXAAIMHGTFBKIADTXGXJRNUJ8BRXIQB6F9BGJBD45P9CCN5UFJIDIN9U7HXW5MTYTC9UFFDJQRC8P5R9B5PWNX3K4PA9J7FJUIHUB7D598VXA967MDJ92HBTK34ZJYW8AVMP2RRBRMUAWMS68S29E4A3U6T2DXZUJ6U2ZTWB9VHVSFGGBT935V64F8Y8QWDQYT65IVFWV829K4YV3Q4EMZ6FI3RCP9YMXHB8CBR63BRVB4HRIW6WZT4EA4YME4I&destination=https%3A//ad.doubleclick.net/ddm/trackclk/N510405.5083943MUP-SEZNAM-NATIVE/B34999881.439049166%3Bdc_trk_aid%3D632127340%3Bdc_trk_cid%3D247725133%3Bdc_lat%3D%3Bdc_rdid%3D%3Btag_for_child_directed_treatment%3D%3Btfua%3D%3Bgdpr%3D$%7BGDPR%7D%3Bgdpr_consent%3D$%7BGDPR_CONSENT_755%7D%3Bltd%3D%3Bdc_tdv%3D1",
+    "id": "B34999881.439049166%3Bdc_trk_aid%3D632127340%3Bdc_trk_cid%3D247725133%3Bdc_lat%3D%3Bdc_rdid%3D%3Btag_for_child_directed_treatment%3D%3Btfua%3D%3Bgdpr%3D$%7BGDPR%7D%3Bgdpr_consent%3D$%7BGDPR_CONSENT_755%7D%3Bltd%3D%3Bdc_tdv%3D1"
   },
   {
     "header": "Pronájem bytu 3+kk 104 m²",
@@ -47,96 +145,5 @@
     "Price": "26 500 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-stare-brno-jerabinova/1990148940",
     "id": "1990148940"
-  },
-  {
-    "header": "Pronájem bytu 2+1 52 m²",
-    "Address": "Veselá, Brno - Brno-město",
-    "Price": "18 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-brno-mesto-vesela/1831645260",
-    "id": "1831645260"
-  },
-  {
-    "header": "Pronájem bytu 2+1 53 m²",
-    "Address": "Veselá, Brno - Brno-město",
-    "Price": "23 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-brno-mesto-vesela/2640097356",
-    "id": "2640097356"
-  },
-  {
-    "header": "Pronájem bytu 3+1 73 m²",
-    "Address": "Merhautova, Brno - Černá Pole",
-    "Price": "27 990 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-cerna-pole-merhautova/1808089932",
-    "id": "1808089932"
-  },
-  {
-    "header": "Pronájem bytu 2+1 53 m²",
-    "Address": "Kobylín, Brno - Soběšice",
-    "Price": "18 500 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-sobesice-kobylin/1333571660",
-    "id": "1333571660"
-  },
-  {
-    "header": "Pronájem bytu 2+1 56 m²",
-    "Address": "Záhumenice, Brno - Horní Heršpice",
-    "Price": "20 990 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-horni-herspice-zahumenice/4019667788",
-    "id": "4019667788"
-  },
-  {
-    "header": "Pronájem bytu 2+1 43 m²",
-    "Address": "Kamínky, Brno - Nový Lískovec",
-    "Price": "14 900 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-novy-liskovec-kaminky/3935285324",
-    "id": "3935285324"
-  },
-  {
-    "header": "Pronájem bytu 2+1 55 m²",
-    "Address": "Vránova, Brno - Řečkovice",
-    "Price": "20 900 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-reckovice-vranova/527385420",
-    "id": "527385420"
-  },
-  {
-    "header": "Pronájem bytu 3+1 120 m²",
-    "Address": "Skácelova, Brno - Královo Pole",
-    "Price": "30 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-kralovo-pole-skacelova/2925335372",
-    "id": "2925335372"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 80 m²",
-    "Address": "Masarykova, Brno - Brno-město",
-    "Price": "31 400 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-brno-mesto-masarykova/2356761420",
-    "id": "2356761420"
-  },
-  {
-    "header": "Pronájem bytu 3+1 82 m²",
-    "Address": "Valtická, Brno - Židenice",
-    "Price": "23 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-zidenice-valticka/1131500364",
-    "id": "1131500364"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 88 m²",
-    "Address": "Jezerůvky, Brno",
-    "Price": "25 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-brno-jezeruvky/1422766156",
-    "id": "1422766156"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 78 m²",
-    "Address": "Neumannova, Brno - Pisárky",
-    "Price": "29 900 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-pisarky-neumannova/1688055884",
-    "id": "1688055884"
-  },
-  {
-    "header": "Pronájem bytu 2+1 67 m²",
-    "Address": "Vlhká, Brno - Zábrdovice",
-    "Price": "22 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-zabrdovice-vlhka/2552213580",
-    "id": "2552213580"
   }
 ]
