@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 97 m²",
+    "Address": "Charvatská, Brno - Královo Pole",
+    "Price": "39 900 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-kralovo-pole-charvatska/3028685644",
+    "id": "3028685644"
+  },
+  {
     "header": "Pronájem bytu 3+kk 70 m²",
     "Address": "Rybnická, Brno - Nový Lískovec",
     "Price": "31 000 Kč/měsíc",
@@ -105,13 +112,6 @@
     "id": "1512788812"
   },
   {
-    "header": "Kuchyně snů od profíků",
-    "Address": "Rezervujte termín a naplánujte si s námi kuchyni německé kvality se zárukou až 25 let.",
-    "Price": "XXXLutz Česká republika",
-    "link": "https://i.imedia.cz/v2/click?spotId=4107896&d=RJFUGRR8I9ZEJYG7GA3EMPA9D89G2DVATBIE24MBG9PJ9S9JGPSQ4PUZTE88Z2J95WWKTDRTYUQUUNVG8SEFYB2WVCHTSXMFH47NA3GM6NMFSKUMZAKPJ6AHRQZ2H5Q39GE9N6B4KAZ7FN547SSTCKBD8GU8NS3PH4VAUVZ8BG8HWBZ8T3DMZB2EK65BPGIFHFCNSJBXN3EUA8D2PC4STNRGDK6BQMS7TFG8QJZ9HIDK8964B7GW5S8FZ7CGBUVIAM755VV4TWVZX6FVIANMNTVXWUFRFDF72PM42FK8V7FASTDUW87P7FWIERUQPQI3DRBGITJHGMGQQTMF9JTJFT8PX9FHGBC62HXQTS6BT6IYXGES&destination=https%3A//ad.doubleclick.net/ddm/trackclk/N510405.5083943MUP-SEZNAM-NATIVE/B34999881.439057698%3Bdc_trk_aid%3D631994391%3Bdc_trk_cid%3D247725133%3Bdc_lat%3D%3Bdc_rdid%3D%3Btag_for_child_directed_treatment%3D%3Btfua%3D%3Bgdpr%3D$%7BGDPR%7D%3Bgdpr_consent%3D$%7BGDPR_CONSENT_755%7D%3Bltd%3D%3Bdc_tdv%3D1",
-    "id": "B34999881.439057698%3Bdc_trk_aid%3D631994391%3Bdc_trk_cid%3D247725133%3Bdc_lat%3D%3Bdc_rdid%3D%3Btag_for_child_directed_treatment%3D%3Btfua%3D%3Bgdpr%3D$%7BGDPR%7D%3Bgdpr_consent%3D$%7BGDPR_CONSENT_755%7D%3Bltd%3D%3Bdc_tdv%3D1"
-  },
-  {
     "header": "Pronájem bytu 2+1 59 m²",
     "Address": "Teyschlova, Brno - Bystrc",
     "Price": "18 000 Kč/měsíc",
@@ -138,12 +138,5 @@
     "Price": "17 500 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-styrice-havlenova/4082660172",
     "id": "4082660172"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 64 m²",
-    "Address": "Fryčajova, Brno - Obřany",
-    "Price": "21 800 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-obrany-frycajova/3146605388",
-    "id": "3146605388"
   }
 ]
