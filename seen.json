@@ -1,5 +1,19 @@
 [
   {
+    "header": "Pronájem bytu 2+1 95 m²",
+    "Address": "Cihlářská, Brno - Veveří",
+    "Price": "24 500 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-veveri-cihlarska/3783241804",
+    "id": "3783241804"
+  },
+  {
+    "header": "Pronájem bytu 2+1 73 m²",
+    "Address": "Slovinská, Brno - Královo Pole",
+    "Price": "18 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-kralovo-pole-slovinska/4173181004",
+    "id": "4173181004"
+  },
+  {
     "header": "Pronájem bytu 3+kk 60 m²",
     "Address": "Černého, Brno - Bystrc",
     "Price": "22 000 Kč/měsíc",
@@ -124,19 +138,5 @@
     "Price": "15 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-cerna-pole-maskova/2683154508",
     "id": "2683154508"
-  },
-  {
-    "header": "Pronájem bytu 2+1 67 m²",
-    "Address": "Merhautova, Brno - Zábrdovice",
-    "Price": "26 990 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-zabrdovice-merhautova/3088061260",
-    "id": "3088061260"
-  },
-  {
-    "header": "Pronájem bytu 2+1 100 m²",
-    "Address": "Lipová, Brno - Pisárky",
-    "Price": "28 500 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-pisarky-lipova/3768140620",
-    "id": "3768140620"
   }
 ]
