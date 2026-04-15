@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 87 m²",
+    "Address": "Sochorova, Brno - Žabovřesky",
+    "Price": "35 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zabovresky-sochorova/704819276",
+    "id": "704819276"
+  },
+  {
     "header": "Pronájem bytu 3+kk 72 m²",
     "Address": "Fantova, Brno - Obřany",
     "Price": "29 800 Kč/měsíc",
@@ -131,12 +138,5 @@
     "Price": "33 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-stare-brno-hlinky/3731075148",
     "id": "3731075148"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 72 m²",
-    "Address": "Opuštěná, Brno - Trnitá",
-    "Price": "31 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-trnita-opustena/1977951052",
-    "id": "1977951052"
   }
 ]
