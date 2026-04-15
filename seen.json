@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 2+1 54 m²",
+    "Address": "Janouškova, Brno - Černá Pole",
+    "Price": "19 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-cerna-pole-janouskova/4100477772",
+    "id": "4100477772"
+  },
+  {
     "header": "Pronájem bytu 2+1 43 m²",
     "Address": "Vídeňská, Brno - Štýřice",
     "Price": "16 500 Kč/měsíc",
@@ -131,12 +138,5 @@
     "Price": "17 500 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-lisen-pohankova/4230066252",
     "id": "4230066252"
-  },
-  {
-    "header": "Pronájem bytu 2+1 75 m²",
-    "Address": "Hostinského, Brno - Královo Pole",
-    "Price": "23 990 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-kralovo-pole-hostinskeho/3609309260",
-    "id": "3609309260"
   }
 ]
