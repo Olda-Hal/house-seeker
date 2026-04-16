@@ -1,5 +1,26 @@
 [
   {
+    "header": "Pronájem bytu 2+1 63 m²",
+    "Address": "Letovická, Brno - Řečkovice",
+    "Price": "21 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-reckovice-letovicka/3265245260",
+    "id": "3265245260"
+  },
+  {
+    "header": "SLEVA: Pronájem bytu 3+kk 82 m²",
+    "Address": "Fuchsova, Brno - Trnitá",
+    "Price": "31 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-trnita-fuchsova/1892766540",
+    "id": "1892766540"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 64 m²",
+    "Address": "Fryčajova, Brno - Obřany",
+    "Price": "21 900 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-obrany-frycajova/1431585612",
+    "id": "1431585612"
+  },
+  {
     "header": "Pronájem bytu 3+kk 86 m²",
     "Address": "Chládkova, Brno - Žabovřesky",
     "Price": "28 990 Kč/měsíc",
@@ -117,26 +138,5 @@
     "Price": "33 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-stare-brno-hlinky/3731075148",
     "id": "3731075148"
-  },
-  {
-    "header": "Pronájem bytu 3+1 76 m²",
-    "Address": "Ramešova, Brno - Královo Pole",
-    "Price": "24 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-kralovo-pole-ramesova/2024910924",
-    "id": "2024910924"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 74 m²",
-    "Address": "Brno",
-    "Price": "25 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-brno-/2394009676",
-    "id": "2394009676"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 120 m²",
-    "Address": "Všetičkova, Brno - Stránice",
-    "Price": "55 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-stranice-vsetickova/345981772",
-    "id": "345981772"
   }
 ]
