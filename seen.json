@@ -49,6 +49,13 @@
     "id": "3047506764"
   },
   {
+    "header": "Luxusní dům František 14",
+    "Address": "Pořiďte si svůj vysněný dům s dispozicí 5+1+G včetně pozemku za 21.696 Kč /měsíčně.",
+    "Price": "Ekonomické stavby",
+    "link": "https://i.imedia.cz/v2/click?spotId=4133838&d=J9IUZPPDDWJVJXX9HTZNYSUB5GS4IENCVUKW4FU4YEMJ962VFER6XSYPFWWW6X7TS4DDA34FXK2ATCHZ6KVRWAZ9ZMZNQKYZ3BBRQSEKM38V3GHYTCT4SM5PMP4SWBKIFJ2VQM2AUY2KV9I4Z5ESE7WRTDT7PNTB5UXYA7TGQRI8FV7KUYWWHZE5MDRXZ8PS42Y7RRD6IWBRFB7WEXXTRM2HNBQPX8KE5FETPZ8PJ2YSTTIJANQUY32T9NQEIAWYS2KAMSIHJF2PHPXWFSBP2AY7RN3JM7X77WWEPAMM6FZF27J42TMT3CB35CXTAYCYMPRVJJ9TKGZANRNPII6X3IACN85PU7VJAG7XI7CNCAUS&destination=https%3A//pozemky.ekonomicke-stavby.cz/frantisek_14.php%3Futm_source%3DSreality%26utm_campaign%3DFrantisek14%282-2026%29%26utm_term%3Dpromoballoon%26utm_content%3Dpaymentnotshown%26utm_medium%3DNativniInzerat",
+    "id": "frantisek_14.php%3Futm_source%3DSreality%26utm_campaign%3DFrantisek14%282-2026%29%26utm_term%3Dpromoballoon%26utm_content%3Dpaymentnotshown%26utm_medium%3DNativniInzerat"
+  },
+  {
     "header": "Pronájem bytu 2+1 59 m²",
     "Address": "Bayerova, Brno - Veveří",
     "Price": "20 500 Kč/měsíc",
@@ -82,13 +89,6 @@
     "Price": "17 600 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-bystrc-teyschlova/3606471500",
     "id": "3606471500"
-  },
-  {
-    "header": "Pronájem bytu 2+1 63 m²",
-    "Address": "Letovická, Brno - Řečkovice",
-    "Price": "21 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-reckovice-letovicka/3265245260",
-    "id": "3265245260"
   },
   {
     "header": "SLEVA: Pronájem bytu 3+kk 82 m²",
@@ -138,5 +138,12 @@
     "Price": "14 500 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-brno-pekarska/961589324",
     "id": "961589324"
+  },
+  {
+    "header": "Pronájem bytu 2+1 95 m²",
+    "Address": "Cihlářská, Brno - Veveří",
+    "Price": "24 500 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-veveri-cihlarska/3783241804",
+    "id": "3783241804"
   }
 ]
