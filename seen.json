@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 95 m²",
+    "Address": "třída Kpt. Jaroše, Brno - Černá Pole",
+    "Price": "27 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-cerna-pole-trida-kpt-jarose/1384362060",
+    "id": "1384362060"
+  },
+  {
     "header": "Pronájem bytu 3+kk 80 m²",
     "Address": "Helfertova, Brno - Černá Pole",
     "Price": "29 500 Kč/měsíc",
@@ -105,13 +112,6 @@
     "id": "2948313164"
   },
   {
-    "header": "Luxusní dům František 14",
-    "Address": "Pořiďte si svůj vysněný dům s dispozicí 5+1+G včetně pozemku za 21.696 Kč /měsíčně.",
-    "Price": "Ekonomické stavby",
-    "link": "https://i.imedia.cz/v2/click?spotId=4133814&d=HEE3RYATEUZU9RB5XVBP4GGYFJMQ5XHDK83YKTN4J6AJ9CZP7KIX3RXDC6AUAKPXU937B7C5HFFAW588N8XWGNGZUTBIWP8T9DX24HG9USZPSHBQ7A9NB4S32E89R7G4IIFWQZG4FICUHDZFWQ7HIUHNAAA74XBCZV62973DAKSTCIKM734VSDGW7HXTGTU33XNNCGBTMA4D3Y95Z27FXUZ96A6GH365WVQZND5345675T7QRVG3B3NW7RC26S4RV5S7D3NMSJ2XVENM8BKDTF76GJ22HA3P6PAH26EBJ32BD9BHMN8EYJCY5C3TPQ9C7TGD6NG25UGPYFNRFIWNB9QBITGCD63UTFI5BB75QUPGN&destination=https%3A//pozemky.ekonomicke-stavby.cz/frantisek_14.php%3Futm_source%3DSreality%26utm_campaign%3DFrantisek14%282-2026%29%26utm_term%3Dpromoballoon%26utm_content%3Dpaymentnotshown%26utm_medium%3DNativniInzerat",
-    "id": "frantisek_14.php%3Futm_source%3DSreality%26utm_campaign%3DFrantisek14%282-2026%29%26utm_term%3Dpromoballoon%26utm_content%3Dpaymentnotshown%26utm_medium%3DNativniInzerat"
-  },
-  {
     "header": "Pronájem bytu 2+1 55 m²",
     "Address": "Sýpka, Brno - Brno-sever",
     "Price": "18 500 Kč/měsíc",
@@ -138,12 +138,5 @@
     "Price": "17 600 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-bystrc-teyschlova/3606471500",
     "id": "3606471500"
-  },
-  {
-    "header": "Pronájem bytu 2+1 70 m²",
-    "Address": "Kotkova, Brno - Černovice",
-    "Price": "20 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-cernovice-kotkova/609764172",
-    "id": "609764172"
   }
 ]
