@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 123 m²",
+    "Address": "třída Generála Píky, Brno",
+    "Price": "14 600 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-brno-trida-generala-piky/2138484812",
+    "id": "2138484812"
+  },
+  {
     "header": "Pronájem bytu 2+1 60 m²",
     "Address": "Černého, Brno - Bystrc",
     "Price": "19 500 Kč/měsíc",
@@ -131,12 +138,5 @@
     "Price": "47 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-brno-trida-generala-piky/3868700748",
     "id": "3868700748"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 103 m²",
-    "Address": "Čeňka Růžičky, Brno - Bohunice",
-    "Price": "28 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-bohunice-cenka-ruzicky/1560499020",
-    "id": "1560499020"
   }
 ]
