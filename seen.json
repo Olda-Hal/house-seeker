@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 2+1 73 m²",
+    "Address": "Slovinská, Brno - Královo Pole",
+    "Price": "18 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-kralovo-pole-slovinska/4173181004",
+    "id": "4173181004"
+  },
+  {
     "header": "Pronájem bytu 3+1 66 m²",
     "Address": "Veletržní, Brno - Staré Brno",
     "Price": "22 000 Kč/měsíc",
@@ -131,12 +138,5 @@
     "Price": "27 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-lesna-majdalenky/4283543628",
     "id": "4283543628"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 72 m²",
-    "Address": "Opuštěná, Brno - Trnitá",
-    "Price": "31 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-trnita-opustena/1977951052",
-    "id": "1977951052"
   }
 ]
