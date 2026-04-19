@@ -1,5 +1,12 @@
 [
   {
+    "header": "SLEVA: Pronájem bytu 2+1 78 m²",
+    "Address": "Rezkova, Brno - Stránice",
+    "Price": "26 900 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-stranice-rezkova/2386060108",
+    "id": "2386060108"
+  },
+  {
     "header": "Pronájem bytu 2+1 78 m²",
     "Address": "Kounicova, Brno - Ponava",
     "Price": "23 000 Kč/měsíc",
@@ -131,12 +138,5 @@
     "Price": "15 250 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-veveri-kotlarska/238240588",
     "id": "238240588"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 104 m²",
-    "Address": "Preslova, Brno - Stránice",
-    "Price": "35 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-stranice-preslova/1729933388",
-    "id": "1729933388"
   }
 ]
