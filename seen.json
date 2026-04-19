@@ -7,6 +7,13 @@
     "id": "3807424588"
   },
   {
+    "header": "Pronájem bytu 2+1 60 m²",
+    "Address": "Mikulčická, Brno - Slatina",
+    "Price": "18 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-slatina-mikulcicka/398897228",
+    "id": "398897228"
+  },
+  {
     "header": "Pronájem bytu 3+1 70 m²",
     "Address": "Vlasty Pittnerové, Brno - Řečkovice",
     "Price": "24 500 Kč/měsíc",
@@ -131,12 +138,5 @@
     "Price": "17 600 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-bystrc-teyschlova/3606471500",
     "id": "3606471500"
-  },
-  {
-    "header": "SLEVA: Pronájem bytu 2+1 61 m²",
-    "Address": "Tůmova, Brno",
-    "Price": "21 900 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-brno-tumova/3334624076",
-    "id": "3334624076"
   }
 ]
