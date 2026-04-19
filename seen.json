@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 2+1 57 m²",
+    "Address": "Střední, Brno - Ponava",
+    "Price": "22 800 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-ponava-stredni/2975707212",
+    "id": "2975707212"
+  },
+  {
     "header": "Pronájem bytu 2+1 60 m²",
     "Address": "Chopinova, Brno - Kohoutovice",
     "Price": "21 000 Kč/měsíc",
@@ -131,12 +138,5 @@
     "Price": "23 990 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-kralovo-pole-hostinskeho/3609309260",
     "id": "3609309260"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 87 m²",
-    "Address": "Hlinky, Brno - Staré Brno",
-    "Price": "33 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-stare-brno-hlinky/3731075148",
-    "id": "3731075148"
   }
 ]
