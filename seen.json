@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+1 85 m²",
+    "Address": "Mezírka, Brno - Veveří",
+    "Price": "30 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-veveri-mezirka/2100446028",
+    "id": "2100446028"
+  },
+  {
     "header": "SLEVA: Pronájem bytu 3+kk 82 m²",
     "Address": "Fuchsova, Brno - Trnitá",
     "Price": "31 000 Kč/měsíc",
@@ -131,12 +138,5 @@
     "Price": "27 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-ivanovice-hrebickova/728150092",
     "id": "728150092"
-  },
-  {
-    "header": "Pronájem bytu 2+1 73 m²",
-    "Address": "Slovinská, Brno - Královo Pole",
-    "Price": "17 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-kralovo-pole-slovinska/4173181004",
-    "id": "4173181004"
   }
 ]
