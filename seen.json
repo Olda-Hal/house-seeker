@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 2+1 60 m²",
+    "Address": "Renneská třída, Brno - Štýřice",
+    "Price": "19 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-styrice-renneska-trida/177582156",
+    "id": "177582156"
+  },
+  {
     "header": "Pronájem bytu 3+1 61 m²",
     "Address": "Škroupova, Brno - Židenice",
     "Price": "18 000 Kč/měsíc",
@@ -131,12 +138,5 @@
     "Price": "42 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-cerna-pole-schodova/937078860",
     "id": "937078860"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 90 m²",
-    "Address": "Majdalenky, Brno - Lesná",
-    "Price": "27 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-lesna-majdalenky/4283543628",
-    "id": "4283543628"
   }
 ]
