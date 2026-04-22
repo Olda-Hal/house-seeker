@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 2+1 57 m²",
+    "Address": "Letovická, Brno - Řečkovice",
+    "Price": "19 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-reckovice-letovicka/151691340",
+    "id": "151691340"
+  },
+  {
     "header": "Pronájem bytu 3+kk 94 m²",
     "Address": "U Leskavy, Brno - Starý Lískovec",
     "Price": "32 000 Kč/měsíc",
@@ -131,12 +138,5 @@
     "Price": "27 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-ivanovice-hrebickova/728150092",
     "id": "728150092"
-  },
-  {
-    "header": "Pronájem bytu 2+1 60 m²",
-    "Address": "Purkyňova, Brno - Královo Pole",
-    "Price": "21 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-kralovo-pole-purkynova/242917452",
-    "id": "242917452"
   }
 ]
