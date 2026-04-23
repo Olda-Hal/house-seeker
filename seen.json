@@ -1,5 +1,19 @@
 [
   {
+    "header": "Pronájem bytu 2+1 57 m²",
+    "Address": "Střední, Brno - Ponava",
+    "Price": "22 800 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-ponava-stredni/2975707212",
+    "id": "2975707212"
+  },
+  {
+    "header": "Pronájem bytu 2+1 57 m²",
+    "Address": "Letovická, Brno - Řečkovice",
+    "Price": "19 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-reckovice-letovicka/151691340",
+    "id": "151691340"
+  },
+  {
     "header": "Pronájem bytu 2+1 54 m²",
     "Address": "Kvapilova, Brno - Žabovřesky",
     "Price": "19 990 Kč/měsíc",
@@ -105,13 +119,6 @@
     "id": "2356761420"
   },
   {
-    "header": "Luxusní dům František 14",
-    "Address": "Pořiďte si svůj vysněný dům s dispozicí 5+1+G včetně pozemku za 21.696 Kč /měsíčně.",
-    "Price": "Ekonomické stavby",
-    "link": "https://i.imedia.cz/v2/click?spotId=4133838&d=NTCUG4JIDS6FI8BESUQHBIUTJMSIZ76PA3T4GJSUAXDXFRDBHQMEI3GW6ZGEV37EET3CB5B9KJ8KSMI9DGU5QDDJAKFJMWS7BFRAF8T6YDFKQ45QEJG2YAPDBI9GEGDP83RJHGIZJACJ6ET32B72W7NZM9FIEJ6JY8WJI4BKZ394826F7CR6YTIXM3YDZ2VKAE4RDCAKPRVGVH4SYQW4P96X8U6ZQNRJDYEI2KDZB9ZBXJTZCBRNI9CYUJB5QXYFPBPKZ3BMFZV2SPTJ5RHGYBJJIC7IZ2SZNJ479AGE2P4DR27BSCAQGUKA25W7E9TQF2STAJPVP3GKIUFRGBYIHSV74UIG3YF323RM3PD348G5KRBU&destination=https%3A//pozemky.ekonomicke-stavby.cz/frantisek_14.php%3Futm_source%3DSreality%26utm_campaign%3DFrantisek14%282-2026%29%26utm_term%3Dpromoballoon%26utm_content%3Dpaymentnotshown%26utm_medium%3DNativniInzerat",
-    "id": "frantisek_14.php%3Futm_source%3DSreality%26utm_campaign%3DFrantisek14%282-2026%29%26utm_term%3Dpromoballoon%26utm_content%3Dpaymentnotshown%26utm_medium%3DNativniInzerat"
-  },
-  {
     "header": "Pronájem bytu 3+1 82 m²",
     "Address": "Valtická, Brno - Židenice",
     "Price": "22 000 Kč/měsíc",
@@ -131,19 +138,5 @@
     "Price": "15 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-komin-rezacova/2653528140",
     "id": "2653528140"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 68 m²",
-    "Address": "Renneská třída, Brno - Štýřice",
-    "Price": "22 500 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-styrice-renneska-trida/4081688652",
-    "id": "4081688652"
-  },
-  {
-    "header": "Pronájem bytu 2+1 65 m²",
-    "Address": "Milady Horákové, Brno - Zábrdovice",
-    "Price": "20 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-zabrdovice-milady-horakove/725304140",
-    "id": "725304140"
   }
 ]
