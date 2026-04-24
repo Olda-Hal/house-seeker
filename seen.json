@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+1 70 m²",
+    "Address": "Vlasty Pittnerové, Brno - Řečkovice",
+    "Price": "24 500 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-reckovice-vlasty-pittnerove/3182014540",
+    "id": "3182014540"
+  },
+  {
     "header": "Pronájem bytu 3+kk 87 m²",
     "Address": "Soukenická, Brno - Staré Brno",
     "Price": "27 990 Kč/měsíc",
@@ -138,12 +145,5 @@
     "Price": "46 500 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-lesna-majdalenky/1512788812",
     "id": "1512788812"
-  },
-  {
-    "header": "Pronájem bytu 2+1 59 m²",
-    "Address": "Teyschlova, Brno - Bystrc",
-    "Price": "17 600 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-bystrc-teyschlova/3606471500",
-    "id": "3606471500"
   }
 ]
