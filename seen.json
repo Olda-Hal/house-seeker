@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 2+1 60 m²",
+    "Address": "Chopinova, Brno - Kohoutovice",
+    "Price": "21 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-kohoutovice-chopinova/1575399500",
+    "id": "1575399500"
+  },
+  {
     "header": "Pronájem bytu 3+kk 103 m²",
     "Address": "Čeňka Růžičky, Brno - Bohunice",
     "Price": "28 000 Kč/měsíc",
@@ -131,12 +138,5 @@
     "Price": "22 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-stare-brno-veletrzni/950293324",
     "id": "950293324"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 104 m²",
-    "Address": "Preslova, Brno - Stránice",
-    "Price": "35 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-stranice-preslova/1729933388",
-    "id": "1729933388"
   }
 ]
