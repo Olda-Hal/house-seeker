@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 48 m²",
+    "Address": "Rostislavovo náměstí, Brno - Královo Pole",
+    "Price": "20 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-kralovo-pole-rostislavovo-namesti/3009565516",
+    "id": "3009565516"
+  },
+  {
     "header": "Pronájem bytu 3+kk 83 m²",
     "Address": "Dusíkova, Brno - Lesná",
     "Price": "24 990 Kč/měsíc",
@@ -131,12 +138,5 @@
     "Price": "28 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-bohunice-cenka-ruzicky/1560499020",
     "id": "1560499020"
-  },
-  {
-    "header": "Pronájem bytu 2+1 58 m²",
-    "Address": "Hrušňová, Brno - Medlánky",
-    "Price": "19 700 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-medlanky-hrusnova/2872263500",
-    "id": "2872263500"
   }
 ]
