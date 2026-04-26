@@ -1,17 +1,24 @@
 [
   {
-    "header": "Pronájem bytu 2+1 78 m²",
-    "Address": "Kounicova, Brno - Ponava",
-    "Price": "23 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-ponava-kounicova/3165733708",
-    "id": "3165733708"
-  },
-  {
     "header": "Pronájem bytu 3+kk 103 m²",
     "Address": "Čeňka Růžičky, Brno - Bohunice",
     "Price": "28 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-bohunice-cenka-ruzicky/1560499020",
     "id": "1560499020"
+  },
+  {
+    "header": "Pronájem bytu 3+1 68 m²",
+    "Address": "Bieblova, Brno - Černá Pole",
+    "Price": "23 900 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-cerna-pole-bieblova/419382092",
+    "id": "419382092"
+  },
+  {
+    "header": "Pronájem bytu 2+1 78 m²",
+    "Address": "Kounicova, Brno - Ponava",
+    "Price": "23 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-ponava-kounicova/3165733708",
+    "id": "3165733708"
   },
   {
     "header": "Pronájem bytu 2+1 60 m²",
@@ -131,12 +138,5 @@
     "Price": "25 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-styrice-horni/1116975180",
     "id": "1116975180"
-  },
-  {
-    "header": "Pronájem bytu 2+1 45 m²",
-    "Address": "Přízova, Brno - Trnitá",
-    "Price": "19 500 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-trnita-prizova/2334892108",
-    "id": "2334892108"
   }
 ]
