@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+1 42 m²",
+    "Address": "Renneská třída, Brno - Štýřice",
+    "Price": "16 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-styrice-renneska-trida/1318953036",
+    "id": "1318953036"
+  },
+  {
     "header": "Pronájem bytu 3+1 60 m²",
     "Address": "Moldavská, Brno - Bohunice",
     "Price": "21 000 Kč/měsíc",
@@ -131,12 +138,5 @@
     "Price": "21 450 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-veveri-jaselska/2062393420",
     "id": "2062393420"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 72 m²",
-    "Address": "Opuštěná, Brno - Trnitá",
-    "Price": "31 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-trnita-opustena/1977951052",
-    "id": "1977951052"
   }
 ]
