@@ -1,5 +1,19 @@
 [
   {
+    "header": "Pronájem bytu 3+1 60 m²",
+    "Address": "Moldavská, Brno - Bohunice",
+    "Price": "21 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-bohunice-moldavska/261988428",
+    "id": "261988428"
+  },
+  {
+    "header": "Pronájem bytu 2+1 56 m²",
+    "Address": "Chodská, Brno - Královo Pole",
+    "Price": "21 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-kralovo-pole-chodska/3289886796",
+    "id": "3289886796"
+  },
+  {
     "header": "Pronájem bytu 2+1 50 m²",
     "Address": "Ježkova, Brno - Lesná",
     "Price": "19 990 Kč/měsíc",
@@ -124,19 +138,5 @@
     "Price": "31 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-trnita-opustena/1977951052",
     "id": "1977951052"
-  },
-  {
-    "header": "Pronájem bytu 2+1 60 m²",
-    "Address": "Sokolova, Brno - Horní Heršpice",
-    "Price": "15 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-horni-herspice-sokolova/938319948",
-    "id": "938319948"
-  },
-  {
-    "header": "Pronájem bytu 3+1 102 m²",
-    "Address": "Biskupská, Brno - Brno-město",
-    "Price": "41 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-brno-mesto-biskupska/1594315596",
-    "id": "1594315596"
   }
 ]
