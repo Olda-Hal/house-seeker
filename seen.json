@@ -1,5 +1,19 @@
 [
   {
+    "header": "Pronájem bytu 2+1 58 m²",
+    "Address": "Vídeňská, Brno - Štýřice",
+    "Price": "18 500 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-styrice-videnska/1396940876",
+    "id": "1396940876"
+  },
+  {
+    "header": "Pronájem bytu 2+1 56 m²",
+    "Address": "Mostecká, Brno - Husovice",
+    "Price": "16 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-husovice-mostecka/3074662476",
+    "id": "3074662476"
+  },
+  {
     "header": "Pronájem bytu 2+1 60 m²",
     "Address": "Chopinova, Brno - Kohoutovice",
     "Price": "21 000 Kč/měsíc",
@@ -124,19 +138,5 @@
     "Price": "19 900 Kč",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-slatina-slavkovska/1179492428",
     "id": "1179492428"
-  },
-  {
-    "header": "Pronájem bytu 2+1 55 m²",
-    "Address": "Merhautova, Brno",
-    "Price": "19 500 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-brno-merhautova/1876044",
-    "id": "1876044"
-  },
-  {
-    "header": "Pronájem bytu 3+1 120 m²",
-    "Address": "Skácelova, Brno - Královo Pole",
-    "Price": "30 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-kralovo-pole-skacelova/2925335372",
-    "id": "2925335372"
   }
 ]
