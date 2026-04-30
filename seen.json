@@ -1,5 +1,19 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 61 m²",
+    "Address": "Churého, Brno - Černovice",
+    "Price": "22 700 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-cernovice-chureho/3553996876",
+    "id": "3553996876"
+  },
+  {
+    "header": "Pronájem bytu 3+1 75 m²",
+    "Address": "Řezáčova, Brno - Komín",
+    "Price": "22 900 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-komin-rezacova/1709551692",
+    "id": "1709551692"
+  },
+  {
     "header": "Pronájem bytu 2+1 60 m²",
     "Address": "Chopinova, Brno - Kohoutovice",
     "Price": "21 000 Kč/měsíc",
@@ -105,13 +119,6 @@
     "id": "1512788812"
   },
   {
-    "header": "Move-in ready Brno",
-    "Address": "Designově vybavené nájemní apartmány. WiFi, smart home, gym, parkování a skvělá poloha.",
-    "Price": "BRAVIS Reality",
-    "link": "https://i.imedia.cz/v2/click?spotId=4156639&d=AW85FCA9Q2PA6B78KRZIYIX6DAJMGYYK2RUD25CJSY8V7C4CEXKUE8FWNZJP6Z5JUVFBMVHGYCEY6IC5V823VXWMY237GR5AN7PJCZADWATU8GPMN7CCEIVJ4JFH6JQ4UET9ZDHP8K6H5P92TV9X4QDIWU7Y8S4NXCZT8FHUPDPJ9MN324UZ9D3BVCMWS933UEHQ3D8E2PXXPR6XW8I5X7W3K4B65UYSSF4YJVXPJK2IB9NUSSIZS9JWR34PP42BQBTZGMGM2T3WH6QI6IBWSVWUA2ZPGZKQGD7HTC7J3HPECY2M6GGNHX8NMXXKE63SHTEMU9CEX73SHKY8ABNKJNSRF9CV3NZAS4WHB79N77T78&destination=https%3A//www.bravis.cz/pronajem-apartmany-kralovopolska",
-    "id": "pronajem-apartmany-kralovopolska"
-  },
-  {
     "header": "Pronájem bytu 2+1 59 m²",
     "Address": "Teyschlova, Brno - Bystrc",
     "Price": "17 600 Kč/měsíc",
@@ -131,19 +138,5 @@
     "Price": "30 500 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-brno-mesto-masarykova/2356761420",
     "id": "2356761420"
-  },
-  {
-    "header": "Pronájem bytu 3+1 82 m²",
-    "Address": "Valtická, Brno - Židenice",
-    "Price": "22 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-zidenice-valticka/1131500364",
-    "id": "1131500364"
-  },
-  {
-    "header": "Pronájem bytu 2+1 47 m²",
-    "Address": "Slovákova, Brno - Veveří",
-    "Price": "21 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-veveri-slovakova/2070650956",
-    "id": "2070650956"
   }
 ]
