@@ -1,5 +1,19 @@
 [
   {
+    "header": "Pronájem bytu 3+1 68 m²",
+    "Address": "Horní, Brno - Štýřice",
+    "Price": "25 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-styrice-horni/1116975180",
+    "id": "1116975180"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 120 m²",
+    "Address": "Majdalenky, Brno - Lesná",
+    "Price": "39 900 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-lesna-majdalenky/2444402764",
+    "id": "2444402764"
+  },
+  {
     "header": "Pronájem bytu 3+kk 110 m²",
     "Address": "Skorkovského, Brno - Židenice",
     "Price": "25 000 Kč/měsíc",
@@ -105,13 +119,6 @@
     "id": "1709551692"
   },
   {
-    "header": "Buďte první nájemník",
-    "Address": "Designové 1+kk a 2+kk s vybavením. WiFi, smart home, gym, kavárna i parkování v rezidenci.",
-    "Price": "BRAVIS Reality",
-    "link": "https://i.imedia.cz/v2/click?spotId=4156641&d=Q48W4XT3VBKIUQ5ZRKGIE87Z75NYR7QKZB4QY645Y5RY9EVR4Z39A2THDF94TF5QS6SSIZ4BV5VIREIN6FQCRNDDC9774A2AXGNMMZ45KZ9J7JWETCBAYW4EZAGAGMHCKT33VJIP82A9EPFSB8S84WG4A7Y2C9GGYJYM3QJJJ69IWI7PG2CQI49U5M4WIHPMY9PAH7BTNXYU2X63K6SFWMF9FD72SQ6I2QI5HEY3KG2TH422RI73QDBVGDI8J7V7FSIRFERQBBS52N7IWARBI8CQI5MRK5BTFNSSUX82PHHQZBDXA2KRMTBP8GSP4WIUC2Z58BMSSDPPX6ZAMKDS8W38PKRN868YZD5UIDFIGIZ6I32&destination=https%3A//www.bravis.cz/pronajem-apartmany-kralovopolska",
-    "id": "pronajem-apartmany-kralovopolska"
-  },
-  {
     "header": "Pronájem bytu 2+1 60 m²",
     "Address": "Chopinova, Brno - Kohoutovice",
     "Price": "21 000 Kč/měsíc",
@@ -131,19 +138,5 @@
     "Price": "31 400 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-brno-mesto-masarykova/1181307724",
     "id": "1181307724"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 93 m²",
-    "Address": "Kopečná, Brno - Staré Brno",
-    "Price": "37 500 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-stare-brno-kopecna/252203852",
-    "id": "252203852"
-  },
-  {
-    "header": "Pronájem bytu 3+1 143 m²",
-    "Address": "Schodová, Brno - Černá Pole",
-    "Price": "40 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-cerna-pole-schodova/937078860",
-    "id": "937078860"
   }
 ]
