@@ -49,6 +49,13 @@
     "id": "3868700748"
   },
   {
+    "header": "Luxusní dům František 14",
+    "Address": "Pořiďte si svůj vysněný dům s dispozicí 5+1+G včetně pozemku za 21.696 Kč /měsíčně.",
+    "Price": "Ekonomické stavby",
+    "link": "https://i.imedia.cz/v2/click?spotId=4149840&d=XU83C4DC8PMTU6R97IXK5AUQHRK7E9B9K3P9J22TX42WUEYZW7JDNISH8CHJQT6AXG8H5H92D8KYI9RKWVWCWSKZN8AUUQR6ZJEIZIFFEYCENF55YDJMUY7V9TYCVJNMVMU2XUSM8VUCD398TMA8392SK69PPF2U2DCXAD65M3R3ZGHEFCW5JGDHGJXNJ5I6BYD8C3WRWZBQ8IBX8S72N8YXQYURRWNYFCDMHP89D87DRES7P736EF78YJNTK6EJPUAZ84K769VRXIM93FN9YHWNC5ZUCTSES5KMJEMQ6FFPIH43EU9S54PIY6EHI3W2VG7PHMQEFSS5V633H4UAKVEBBS656T3663GJQJR242TVY&destination=https%3A//pozemky.ekonomicke-stavby.cz/frantisek_14.php%3Futm_source%3DSreality%26utm_campaign%3DFrantisek14%282-2026%29%26utm_term%3Dpromoballoon%26utm_content%3Dpaymentnotshown%26utm_medium%3DNativniInzerat",
+    "id": "frantisek_14.php%3Futm_source%3DSreality%26utm_campaign%3DFrantisek14%282-2026%29%26utm_term%3Dpromoballoon%26utm_content%3Dpaymentnotshown%26utm_medium%3DNativniInzerat"
+  },
+  {
     "header": "Pronájem bytu 3+1 80 m²",
     "Address": "Herčíkova, Brno - Královo Pole",
     "Price": "23 800 Kč/měsíc",
@@ -138,12 +145,5 @@
     "Price": "24 990 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-lesna-dusikova/3885331276",
     "id": "3885331276"
-  },
-  {
-    "header": "Pronájem bytu 2+1 75 m²",
-    "Address": "Úvoz, Brno - Brno-střed",
-    "Price": "18 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-brno-stred-uvoz/4076970060",
-    "id": "4076970060"
   }
 ]
