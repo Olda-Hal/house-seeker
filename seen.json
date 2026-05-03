@@ -1,5 +1,19 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 48 m²",
+    "Address": "Rostislavovo náměstí, Brno - Královo Pole",
+    "Price": "20 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-kralovo-pole-rostislavovo-namesti/3009565516",
+    "id": "3009565516"
+  },
+  {
+    "header": "Pronájem bytu 3+1 80 m²",
+    "Address": "Pekařská, Brno - Staré Brno",
+    "Price": "25 900 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-stare-brno-pekarska/4194410572",
+    "id": "4194410572"
+  },
+  {
     "header": "Pronájem bytu 2+1 55 m²",
     "Address": "Jana Uhra, Brno - Veveří",
     "Price": "20 000 Kč/měsíc",
@@ -54,13 +68,6 @@
     "Price": "23 200 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-lisen-otiskova/724672588",
     "id": "724672588"
-  },
-  {
-    "header": "Move-in ready Brno",
-    "Address": "Designově vybavené nájemní apartmány. WiFi, smart home, gym, parkování a skvělá poloha.",
-    "Price": "BRAVIS Reality",
-    "link": "https://i.imedia.cz/v2/click?spotId=4156639&d=APXW5897NYSIZQTI7JPF8IDZ9J2WM532X6AKBJHP4F8HUYHSKB7YQ2HKQEVJ66F3UEI2RINM93QAXHTAJTU5EZ26ITIHNRT64CE3CMZAZM3RAM6DAMNN9HWP7GMYEE9YB7I8V9TFDZQGSK7DYJSFMKRATAKEFYYD9T3Q3UMAKI75DDFQ38WMYMJAFGVKDFXCBFQBMHGNRCNMYB3JVD3ZCKRRVDHBFMMBQ6XUHFPV4PSBZET67CBKX9VVNRJBXT2XQYAYVQDMUPRADEZTUJK4HRR4JV68K3MA3E8MHEYZ9IGBUSUHK24BMEFFJWXYAERPRDCRM5FIZK572ETWBHIRMGZ2VCWGZ6JYFXBDYPZ2KUCKH2S&destination=https%3A//www.bravis.cz/pronajem-apartmany-kralovopolska",
-    "id": "pronajem-apartmany-kralovopolska"
   },
   {
     "header": "Pronájem bytu 2+1 60 m²",
@@ -138,19 +145,5 @@
     "Price": "19 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-zabovresky-prikra/2691801164",
     "id": "2691801164"
-  },
-  {
-    "header": "Pronájem bytu 2+1 58 m²",
-    "Address": "Masná, Brno - Trnitá",
-    "Price": "18 990 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-trnita-masna/1547719500",
-    "id": "1547719500"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 87 m²",
-    "Address": "Soukenická, Brno - Staré Brno",
-    "Price": "27 990 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-stare-brno-soukenicka/1213092684",
-    "id": "1213092684"
   }
 ]
