@@ -1,5 +1,19 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 67 m²",
+    "Address": "Otiskova, Brno - Líšeň",
+    "Price": "23 200 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-lisen-otiskova/724672588",
+    "id": "724672588"
+  },
+  {
+    "header": "Pronájem bytu 2+1 60 m²",
+    "Address": "Chopinova, Brno - Kohoutovice",
+    "Price": "21 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-kohoutovice-chopinova/1575399500",
+    "id": "1575399500"
+  },
+  {
     "header": "Pronájem bytu 3+1 64 m²",
     "Address": "Vrbenského, Brno - Komín",
     "Price": "21 500 Kč/měsíc",
@@ -40,6 +54,13 @@
     "Price": "46 500 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-lesna-majdalenky/1512788812",
     "id": "1512788812"
+  },
+  {
+    "header": "Stačí přijít a bydlet",
+    "Address": "Nájemní 1+kk a 2+kk v Brně. Kompletní vybavení, WiFi, smart home, gym, kavárna i parkování",
+    "Price": "BRAVIS Reality",
+    "link": "https://i.imedia.cz/v2/click?spotId=4156640&d=IABPNGMYT3UPEIYNDTR73FW2H8N59X2BC4KJWHBKQ7S8ZVT86JUMUXD3P35D9DA3JHRDI88ITNKDUQWK5WJ7UZJK3BUREQYN36FQWCBI8YXC7P7I7Z4RPB9EVMHR38HWX9S26UNKFYY4ACI86HZFS5B25AWE7YUDXDJQHYP3UBC7JM5X3C8QZMF5EURE9C3978ECYDZ7WPPTHS64QDZ5QPIZIAADEMJBHCIIDSJTMI8CVT8YECQ7K5EDCH6C7C89JR9ADU5JJBR3M2KIPYC8AE4R6TXTWKWVHYGANBSUZ7YTEMIVXDYTDR3B96N5FIITGVT5UJXRKBXDFHW24NFIHVMZVGAI83RJFPRF2SF5JSC74II&destination=https%3A//www.bravis.cz/pronajem-apartmany-kralovopolska",
+    "id": "pronajem-apartmany-kralovopolska"
   },
   {
     "header": "Pronájem bytu 2+1 59 m²",
@@ -91,13 +112,6 @@
     "id": "1547719500"
   },
   {
-    "header": "Pronájem bytu 2+1 60 m²",
-    "Address": "Chopinova, Brno - Kohoutovice",
-    "Price": "21 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-kohoutovice-chopinova/1575399500",
-    "id": "1575399500"
-  },
-  {
     "header": "Pronájem bytu 3+kk 87 m²",
     "Address": "Soukenická, Brno - Staré Brno",
     "Price": "27 990 Kč/měsíc",
@@ -110,13 +124,6 @@
     "Price": "20 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-kralovo-pole-rostislavovo-namesti/3009565516",
     "id": "3009565516"
-  },
-  {
-    "header": "Buďte první nájemník",
-    "Address": "Designové 1+kk a 2+kk s vybavením. WiFi, smart home, gym, kavárna i parkování v rezidenci.",
-    "Price": "BRAVIS Reality",
-    "link": "https://i.imedia.cz/v2/click?spotId=4156641&d=CPYWAU3K26K6HS57KT4FGUEEK3BA4PJ3XN7YAECN372XR6HAMZREHY7ZFPNQSKVBTZQ73TSXC7UKMPF7VAN6ZZNAA54IHJ8U4PAY57F6MDNMU2XG7V4WSKQC4G8VIXIIF8DPI5X3BRXQ869PEU43MNMW9M2IVV8Q7CGKB2893FK86NWC7WUG493U3AQVY5EU4XPNFQ2DBQ33QCGTY3P2UDZ22QQYIIT3AUZ6SJFRM7546HX84HV3QZQBT9YGFTJ3ZJ7U9N84GTA34KSADRVFQA6BAMNU56JMX9RHZBS7TZA8I3BNZ5HGQX646QZZTQQRA5M5N86PXYN2IPMUNA9M2RP3WZDPQ46D9A7AAKD9WGJ3E&destination=https%3A//www.bravis.cz/pronajem-apartmany-kralovopolska",
-    "id": "pronajem-apartmany-kralovopolska"
   },
   {
     "header": "Pronájem bytu 2+1 60 m²",
@@ -145,12 +152,5 @@
     "Price": "21 800 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-obrany-frycajova/4149719116",
     "id": "4149719116"
-  },
-  {
-    "header": "Pronájem bytu 2+1 50 m²",
-    "Address": "Ježkova, Brno - Lesná",
-    "Price": "19 990 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-lesna-jezkova/3522797644",
-    "id": "3522797644"
   }
 ]
