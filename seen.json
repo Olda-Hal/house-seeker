@@ -1,5 +1,19 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 74 m²",
+    "Address": "Bohuslava Martinů, Brno - Stránice",
+    "Price": "30 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-stranice-bohuslava-martinu/886153292",
+    "id": "886153292"
+  },
+  {
+    "header": "Pronájem bytu 3+1 66 m²",
+    "Address": "Veletržní, Brno - Staré Brno",
+    "Price": "20 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-stare-brno-veletrzni/950293324",
+    "id": "950293324"
+  },
+  {
     "header": "Pronájem bytu 3+kk 103 m²",
     "Address": "Čeňka Růžičky, Brno - Bohunice",
     "Price": "28 000 Kč/měsíc",
@@ -40,6 +54,13 @@
     "Price": "23 800 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-kralovo-pole-hercikova/2806469452",
     "id": "2806469452"
+  },
+  {
+    "header": "Move-in ready Brno",
+    "Address": "Designově vybavené nájemní apartmány. WiFi, smart home, gym, parkování a skvělá poloha.",
+    "Price": "BRAVIS Reality",
+    "link": "https://i.imedia.cz/v2/click?spotId=4156639&d=22K3VZP2VRG2GTHIFAN48HRT5S8C9T6T838EEENCGJMUEX4RAJ85WYM5E8IIIUY2FU5PF4EXE85HRXFRNP3GJX3MDT3FJPNDRB8A5BP8KFCJWN7BIPH7J9JDR69A2TIVCARZH4B2HZWG2KI3WF6TJXHD97NB6FPI52SMNCHNH34B9SI4BV7UDSUQSW5S47J265GXJNCS75XIMCZIIZECF3XWD4YXDJMIRWKX4R2SYT8ENWDJX9JN4NZIR6EPDHYPQXJT8DFTN459MGZAMHFIKS824XST9JDR4W4Y7Z5E7F96X836746BP8GWEKQBRT8WQUFV9FM6RA66BDVFA485BF7YE6E2YBB7ITTTN5SZ8PY5I&destination=https%3A//www.bravis.cz/pronajem-apartmany-kralovopolska",
+    "id": "pronajem-apartmany-kralovopolska"
   },
   {
     "header": "Pronájem bytu 3+kk 118 m²",
@@ -131,19 +152,5 @@
     "Price": "18 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-brno-stred-uvoz/4076970060",
     "id": "4076970060"
-  },
-  {
-    "header": "Pronájem bytu 3+1 83 m²",
-    "Address": "Merhautova, Brno - Brno-sever",
-    "Price": "26 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-brno-sever-merhautova/3489767500",
-    "id": "3489767500"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 64 m²",
-    "Address": "Poděbradova, Brno - Brno-Královo Pole",
-    "Price": "25 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-brno-kralovo-pole-podebradova/4127301708",
-    "id": "4127301708"
   }
 ]
