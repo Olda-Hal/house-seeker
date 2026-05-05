@@ -1,5 +1,19 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 62 m²",
+    "Address": "Štouračova, Brno - Bystrc",
+    "Price": "21 500 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-bystrc-stouracova/2081857612",
+    "id": "2081857612"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 61 m²",
+    "Address": "Churého, Brno - Černovice",
+    "Price": "22 700 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-cernovice-chureho/3553996876",
+    "id": "3553996876"
+  },
+  {
     "header": "Pronájem bytu 2+1 53 m²",
     "Address": "Ypsilantiho, Brno - Staré Brno",
     "Price": "16 300 Kč/měsíc",
@@ -33,6 +47,13 @@
     "Price": "37 500 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-stare-brno-kopecna/252203852",
     "id": "252203852"
+  },
+  {
+    "header": "Move-in ready Brno",
+    "Address": "Designově vybavené nájemní apartmány. WiFi, smart home, gym, parkování a skvělá poloha.",
+    "Price": "BRAVIS Reality",
+    "link": "https://i.imedia.cz/v2/click?spotId=4156639&d=ITA9X2HFN3V32SZ4FX8VVK8235V8ISP583P2KIS4UF5ZJZXVKKWA22M7CSU2AEABJXISVJ8KBCUX5XK2983C6UEFXFTN9INJR4VGETBWYNB26V6PD8DIW659D4N9ZC6XP2F86X9M6H8AMI6JJ86RT5TQ2MK7B9THCP3HPWZW2YMT5CZYD6F6A5Y9QZAKRQQ5J88U2VRYB7ZGJEMBQKJUQCPIM4NRVKD42FB2QXTX9TCRNVUSPGHSXRDNP2S2CXEEJDWK2Y3AUWIY2EYKQ5RWA9UDQEQZHGATMHF9N4HY4VB6ENBWR9GPEITFF96P3P97TCDI7FHZUX6IB8Z4XG9HURWSSEVJ4M5C93DP8JSKEKF2A5WK72&destination=https%3A//www.bravis.cz/pronajem-apartmany-kralovopolska",
+    "id": "pronajem-apartmany-kralovopolska"
   },
   {
     "header": "Pronájem bytu 3+1 143 m²",
@@ -124,19 +145,5 @@
     "Price": "17 600 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-bystrc-teyschlova/3606471500",
     "id": "3606471500"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 69 m²",
-    "Address": "Sibiřská, Brno - Řečkovice",
-    "Price": "26 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-reckovice-sibirska/1431740492",
-    "id": "1431740492"
-  },
-  {
-    "header": "Pronájem bytu 3+1 120 m²",
-    "Address": "Starobrněnská, Brno - Brno-město",
-    "Price": "31 500 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-brno-mesto-starobrnenska/2303107148",
-    "id": "2303107148"
   }
 ]
