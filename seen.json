@@ -1,5 +1,26 @@
 [
   {
+    "header": "Pronájem bytu 2+1 70 m²",
+    "Address": "Traubova, Brno - Černá Pole",
+    "Price": "19 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-cerna-pole-traubova/1228382284",
+    "id": "1228382284"
+  },
+  {
+    "header": "Pronájem bytu 2+1 68 m²",
+    "Address": "Jaselská, Brno - Veveří",
+    "Price": "21 450 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-veveri-jaselska/2062393420",
+    "id": "2062393420"
+  },
+  {
+    "header": "Pronájem bytu 3+1 64 m²",
+    "Address": "Vrbenského, Brno - Komín",
+    "Price": "21 500 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-komin-vrbenskeho/1380298828",
+    "id": "1380298828"
+  },
+  {
     "header": "Pronájem bytu 2+1 61 m²",
     "Address": "Tůmova, Brno",
     "Price": "21 900 Kč/měsíc",
@@ -105,13 +126,6 @@
     "id": "3104129868"
   },
   {
-    "header": "Move-in ready Brno",
-    "Address": "Designově vybavené nájemní apartmány. WiFi, smart home, gym, parkování a skvělá poloha.",
-    "Price": "BRAVIS Reality",
-    "link": "https://i.imedia.cz/v2/click?spotId=4156639&d=JNJB52XVNNIHBAEV7IMNZ8QQZARMTJY3I6VKNVQ3K4I97GSETJV74IX8QFWVQFX36BUKIBUF5HFK67FQN4DDFPENJ6KKMRDKIYQZACVRYAYEDGG44WB778WTJ7AYSPMAXIFAAWYVQDX6X6PVM6BD7NDJQY94P4XFI2MFTSWA4QVYRFW7243X7SZPHXFQGKE6TGFP2NBYSH5RXF2T5WBRNVP7A3ZXD76NDZZ5UKH7RA5KYTBE5PPH466BUDYGJ8DNHWG3AD56F6GJBKRU5WTBWJDEB7PHBNCYIFZ2TIEQ7TP3N8WG53RAGVFW4AKJPT322ZR345T4F55SYHQQA588DW7HZ4E8AWNCUI3G8278VW8A&destination=https%3A//www.bravis.cz/pronajem-apartmany-kralovopolska",
-    "id": "pronajem-apartmany-kralovopolska"
-  },
-  {
     "header": "Pronájem bytu 3+kk 58 m²",
     "Address": "Táborská, Brno - Židenice",
     "Price": "20 990 Kč/měsíc",
@@ -124,26 +138,5 @@
     "Price": "22 990 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-kralovo-pole-hostinskeho/3609309260",
     "id": "3609309260"
-  },
-  {
-    "header": "SLEVA: Pronájem bytu 3+1 59 m²",
-    "Address": "Příkrá, Brno - Žabovřesky",
-    "Price": "16 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-zabovresky-prikra/2015843148",
-    "id": "2015843148"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 91 m²",
-    "Address": "třída Generála Píky, Brno",
-    "Price": "47 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-brno-trida-generala-piky/3868700748",
-    "id": "3868700748"
-  },
-  {
-    "header": "Pronájem bytu 2+1 52 m²",
-    "Address": "Křížová, Brno - Staré Brno",
-    "Price": "21 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-stare-brno-krizova/296595532",
-    "id": "296595532"
   }
 ]
