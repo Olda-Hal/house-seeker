@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 2+1 53 m²",
+    "Address": "Ypsilantiho, Brno - Staré Brno",
+    "Price": "16 300 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-stare-brno-ypsilantiho/1829150796",
+    "id": "1829150796"
+  },
+  {
     "header": "Pronájem bytu 2+1 81 m²",
     "Address": "Antonínská, Brno - Veveří",
     "Price": "21 500 Kč/měsíc",
@@ -49,13 +56,6 @@
     "id": "4283543628"
   },
   {
-    "header": "Pronájem bytu 2+1 57 m²",
-    "Address": "Letovická, Brno - Řečkovice",
-    "Price": "19 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-reckovice-letovicka/151691340",
-    "id": "151691340"
-  },
-  {
     "header": "Pronájem bytu 3+1 42 m²",
     "Address": "Renneská třída, Brno - Štýřice",
     "Price": "16 000 Kč/měsíc",
@@ -103,13 +103,6 @@
     "Price": "47 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-brno-trida-generala-piky/3868700748",
     "id": "3868700748"
-  },
-  {
-    "header": "Move-in ready Brno",
-    "Address": "Designově vybavené nájemní apartmány. WiFi, smart home, gym, parkování a skvělá poloha.",
-    "Price": "BRAVIS Reality",
-    "link": "https://i.imedia.cz/v2/click?spotId=4156639&d=TRQYYT98W6I887JK7UNMCHYYTR83F5SY38GHFMI5K2ZXPJY9CRHPGEQWA9ZYP9JA8WKRIVSJRYANESSPHHV8PHQ4P36CQZ89BAC689HTYPJFJ67QI3B24PCQ8MY782M9TKD6BY82S37AB9PHGS2EK44C8E4RKRVB6GUY96IH76K5ZSW5Q9DN73FT8PPWIJ4WJIN7P95NTHCD62MYARPPE6XAWRP22SU88WXZED8KKFJ2PMG58XMP76BKVTQGJMZPJSD76NTIKDBQRG7EV6EVD3PCT8SWQYK9GVSY3DKEY9NTCS5VMMNB4N95RBM8NQW2T8JZM79DX3YPIGSF4RTG5IDG6QUKP78MSCWKXRSNMF2SVXS9&destination=https%3A//www.bravis.cz/pronajem-apartmany-kralovopolska",
-    "id": "pronajem-apartmany-kralovopolska"
   },
   {
     "header": "Pronájem bytu 3+1 80 m²",
