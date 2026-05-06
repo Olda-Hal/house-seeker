@@ -21,48 +21,6 @@
     "id": "3450122316"
   },
   {
-    "header": "Pronájem bytu 2+1 52 m²",
-    "Address": "Křížová, Brno - Staré Brno",
-    "Price": "21 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-stare-brno-krizova/296595532",
-    "id": "296595532"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 91 m²",
-    "Address": "třída Generála Píky, Brno",
-    "Price": "47 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-brno-trida-generala-piky/3868700748",
-    "id": "3868700748"
-  },
-  {
-    "header": "Pronájem bytu 3+1 80 m²",
-    "Address": "Herčíkova, Brno - Královo Pole",
-    "Price": "23 800 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-kralovo-pole-hercikova/2806469452",
-    "id": "2806469452"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 118 m²",
-    "Address": "Majdalenky, Brno - Lesná",
-    "Price": "46 500 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-lesna-majdalenky/1512788812",
-    "id": "1512788812"
-  },
-  {
-    "header": "Buďte první nájemník",
-    "Address": "Designové 1+kk a 2+kk s vybavením. WiFi, smart home, gym, kavárna i parkování v rezidenci.",
-    "Price": "BRAVIS Reality",
-    "link": "https://i.imedia.cz/v2/click?spotId=4156641&d=59X53QA5MNEBR4MYSBE7FNBMXQ64B3STF8JKJ567V8SJYRYGSE8NAB4RXRXE96VCDPXRMMCSYISZ4R2BRVJQ5K36S5KBGNGBFVM768TYEKJG7WEZ3ZEWQX65PXSBI2NEWHIT9JWNNIZZCTU3I3GM3BVV79SMZCVRSIKZDUX6AMZGISMAK6757EXNPY2GVJFKEHYMZSFDPMD2CZ2HJDPP29AWSDJ6K7G99D8YK69JS3URQITFRW3BDDQ2UCKDVHRIBJIYYDQ6XGBV3R9H7IMHWUXMCID92GE96UG7Y22C4GEZG8XY6WDQC83XFEPVS2G729GRAUV36TIKWFYDKMXGC3QP4VD3YDXVZZS47BD4EBGD3J2&destination=https%3A//www.bravis.cz/pronajem-apartmany-kralovopolska",
-    "id": "pronajem-apartmany-kralovopolska"
-  },
-  {
-    "header": "Pronájem bytu 2+1 59 m²",
-    "Address": "Teyschlova, Brno - Bystrc",
-    "Price": "17 600 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-bystrc-teyschlova/3606471500",
-    "id": "3606471500"
-  },
-  {
     "header": "Pronájem bytu 2+1 46 m²",
     "Address": "Hvězdová, Brno - Zábrdovice",
     "Price": "18 000 Kč/měsíc",
@@ -89,6 +47,13 @@
     "Price": "21 990 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-veveri-capkova/1622646860",
     "id": "1622646860"
+  },
+  {
+    "header": "Luxusní dům František 14",
+    "Address": "Pořiďte si svůj vysněný dům s dispozicí 5+1+G včetně pozemku za 21.696 Kč /měsíčně.",
+    "Price": "Ekonomické stavby",
+    "link": "https://i.imedia.cz/v2/click?spotId=4149840&d=6EG6XCDR5UXW4C6H2KQFP3XSUERTKR3D7J49MU99QSXS3G5Z8E6VIVPW53CRY46KRFG6JNIKR85CIIUASUZTAUV5XCPHG33Q339ND9FCN9MGMEEGW4YKYKP9G8UW6S49TVTXU6XK6N9FQ5JQVKSHSXIW6JVJTG2IXM8HEYCK63QP45B5BRIUC9V2NSNAJDWVSIYVTWAEBTEQM9XU7TEM9E25I3CRJ4CV7WJTA3YJGW7FSS653NS8V7B5B2ID9HGD4DHK8FMBP3QJIFYKIRAXW5SAAKY3WTY9G5HARZBCZCBZET2CDXH7CF34Q2TRCRP8FQFPCBIRVMFXMYWI8BQ7KC6ETN8BIDA6MFISPTPWGNQBHJI&destination=https%3A//pozemky.ekonomicke-stavby.cz/frantisek_14.php%3Futm_source%3DSreality%26utm_campaign%3DFrantisek14%282-2026%29%26utm_term%3Dpromoballoon%26utm_content%3Dpaymentnotshown%26utm_medium%3DNativniInzerat",
+    "id": "frantisek_14.php%3Futm_source%3DSreality%26utm_campaign%3DFrantisek14%282-2026%29%26utm_term%3Dpromoballoon%26utm_content%3Dpaymentnotshown%26utm_medium%3DNativniInzerat"
   },
   {
     "header": "Pronájem bytu 2+1 67 m²",
@@ -145,5 +110,47 @@
     "Price": "17 500 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-holasky-javorova/1349427276",
     "id": "1349427276"
+  },
+  {
+    "header": "Plánování kuchyně ZDARMA",
+    "Address": "Rezervujte termín a naplánujte si s námi kuchyni německé kvality se zárukou až 25 let.",
+    "Price": "XXXLutz Česká republika",
+    "link": "https://i.imedia.cz/v2/click?spotId=4140457&d=8FCK8FRQZEG2CSFAXYW6XG4AUPBSHGD8NHZFSP3DMDMVENY6QS429KN8B6XGI4VJHQGI6J46PEA86IMY675W5I4ZWUPIZGHIXQAZFKKMY7MJZSG4AQQBJREWZCNDXXD86N9MKJX9SD3IFUU8Y7D3V92RJW36BDZCVW6D63YSNNTBGNV8WW9EKRKSRI3XPY9B7UVU6QWH48WA28FX9ZDQQKKIJX759T5358Q7MS82J8X5UY4Q696W6YMXADQ68273FV85TGWQQD7T5DHMC4JEG7MZQTRQM7UZX22XAGIZVUJB8CY53WBHWNSFRIUB2TVEGX52CPW2Z44XTNKAW2QTQ6RYXBS3XWJWRQC2VJZ4UA6ZD22&destination=https%3A//ad.doubleclick.net/ddm/trackclk/N510405.5083943MUP-SEZNAM-NATIVE/B34999881.438741785%3Bdc_trk_aid%3D632129215%3Bdc_trk_cid%3D247725133%3Bdc_lat%3D%3Bdc_rdid%3D%3Btag_for_child_directed_treatment%3D%3Btfua%3D%3Bgdpr%3D$%7BGDPR%7D%3Bgdpr_consent%3D$%7BGDPR_CONSENT_755%7D%3Bltd%3D%3Bdc_tdv%3D1",
+    "id": "B34999881.438741785%3Bdc_trk_aid%3D632129215%3Bdc_trk_cid%3D247725133%3Bdc_lat%3D%3Bdc_rdid%3D%3Btag_for_child_directed_treatment%3D%3Btfua%3D%3Bgdpr%3D$%7BGDPR%7D%3Bgdpr_consent%3D$%7BGDPR_CONSENT_755%7D%3Bltd%3D%3Bdc_tdv%3D1"
+  },
+  {
+    "header": "Pronájem bytu 2+1 58 m²",
+    "Address": "Hrušňová, Brno - Medlánky",
+    "Price": "18 700 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-medlanky-hrusnova/2872263500",
+    "id": "2872263500"
+  },
+  {
+    "header": "Pronájem bytu 2+1 57 m²",
+    "Address": "Slavkovská, Brno - Slatina",
+    "Price": "19 900 Kč",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-slatina-slavkovska/1179492428",
+    "id": "1179492428"
+  },
+  {
+    "header": "Pronájem bytu 3+1 55 m²",
+    "Address": "Tábor, Brno - Žabovřesky",
+    "Price": "20 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-zabovresky-tabor/749838412",
+    "id": "749838412"
+  },
+  {
+    "header": "Pronájem bytu 2+1 42 m²",
+    "Address": "Maškova, Brno - Černá Pole",
+    "Price": "15 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-cerna-pole-maskova/2683154508",
+    "id": "2683154508"
+  },
+  {
+    "header": "Pronájem bytu 3+1 74 m²",
+    "Address": "Podpěrova, Brno - Medlánky",
+    "Price": "23 900 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-medlanky-podperova/110534732",
+    "id": "110534732"
   }
 ]
