@@ -1,5 +1,82 @@
 [
   {
+    "header": "Pronájem bytu 2+1 61 m²",
+    "Address": "Kobližná, Brno - Brno-město",
+    "Price": "18 200 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-brno-mesto-koblizna/1555341388",
+    "id": "1555341388"
+  },
+  {
+    "header": "Pronájem bytu 3+1 69 m²",
+    "Address": "Grohova, Brno - Veveří",
+    "Price": "24 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-veveri-grohova/2565320780",
+    "id": "2565320780"
+  },
+  {
+    "header": "Pronájem bytu 2+1 57 m²",
+    "Address": "Smetanova, Brno - Veveří",
+    "Price": "24 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-veveri-smetanova/3545407564",
+    "id": "3545407564"
+  },
+  {
+    "header": "Pronájem bytu 2+1 52 m²",
+    "Address": "Křížová, Brno - Staré Brno",
+    "Price": "21 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-stare-brno-krizova/296595532",
+    "id": "296595532"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 91 m²",
+    "Address": "třída Generála Píky, Brno",
+    "Price": "47 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-brno-trida-generala-piky/3868700748",
+    "id": "3868700748"
+  },
+  {
+    "header": "Pronájem bytu 3+1 80 m²",
+    "Address": "Herčíkova, Brno - Královo Pole",
+    "Price": "23 800 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-kralovo-pole-hercikova/2806469452",
+    "id": "2806469452"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 118 m²",
+    "Address": "Majdalenky, Brno - Lesná",
+    "Price": "46 500 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-lesna-majdalenky/1512788812",
+    "id": "1512788812"
+  },
+  {
+    "header": "Buďte první nájemník",
+    "Address": "Designové 1+kk a 2+kk s vybavením. WiFi, smart home, gym, kavárna i parkování v rezidenci.",
+    "Price": "BRAVIS Reality",
+    "link": "https://i.imedia.cz/v2/click?spotId=4156641&d=KBUE8T5EX9DTY3QTAN6TC9S52CDD64VMQ2WPV9HUKQTP8FYRKUCW5F7VW6ZI72MDYAYNMJV67SG4UMR93THXCNCVDIDY33GAWFA5TKSIA8WBFAJTQWNJ567K8MDVW2EHMGIT3HAB7RK9YZU5M8WIXURN2ZAP34E73WRTY5FI82XXFTJ2IAUHYWQFQDJQFGFPW3EY2HKPPNAH9Q3KEDN85DCD96A88C4BPV69KFRJ97RTUV7N6YVESQX5Z6URIZEG9MK8C5YG36Q579GYYD8IGGDQ8KITYH3W4S4U2B4563C56KBB7H922WP4BZBWIHP8UEXPSII7IFD66N6B4MME5CAGUJXWSBJRIYBTJA4T6FNB3YAZVS&destination=https%3A//www.bravis.cz/pronajem-apartmany-kralovopolska",
+    "id": "pronajem-apartmany-kralovopolska"
+  },
+  {
+    "header": "Pronájem bytu 2+1 59 m²",
+    "Address": "Teyschlova, Brno - Bystrc",
+    "Price": "16 900 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-bystrc-teyschlova/3606471500",
+    "id": "3606471500"
+  },
+  {
+    "header": "Pronájem bytu 2+1 54 m²",
+    "Address": "Kubánská, Brno - Žabovřesky",
+    "Price": "16 500 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-zabovresky-kubanska/198484044",
+    "id": "198484044"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 107 m²",
+    "Address": "U Leskavy, Brno - Starý Lískovec",
+    "Price": "31 900 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-stary-liskovec-u-leskavy/106602572",
+    "id": "106602572"
+  },
+  {
     "header": "Pronájem bytu 2+1 67 m²",
     "Address": "Merhautova, Brno",
     "Price": "20 000 Kč/měsíc",
@@ -68,75 +145,5 @@
     "Price": "25 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-veveri-slovakova/635740236",
     "id": "635740236"
-  },
-  {
-    "header": "Pronájem bytu 2+1 60 m²",
-    "Address": "Jiráskova, Brno - Veveří",
-    "Price": "25 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-veveri-jiraskova/3390349388",
-    "id": "3390349388"
-  },
-  {
-    "header": "Pronájem bytu 3+1 99 m²",
-    "Address": "Moldavská, Brno - Bohunice",
-    "Price": "20 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-bohunice-moldavska/844406860",
-    "id": "844406860"
-  },
-  {
-    "header": "Pronájem bytu 2+1 50 m²",
-    "Address": "Turistická, Brno - Medlánky",
-    "Price": "19 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-medlanky-turisticka/3694960716",
-    "id": "3694960716"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 92 m²",
-    "Address": "Cacovická, Brno - Husovice",
-    "Price": "Cena na vyžádání",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-husovice-cacovicka/3989992268",
-    "id": "3989992268"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 86 m²",
-    "Address": "Chládkova, Brno - Žabovřesky",
-    "Price": "28 990 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zabovresky-chladkova/3104129868",
-    "id": "3104129868"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 58 m²",
-    "Address": "Táborská, Brno - Židenice",
-    "Price": "20 990 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zidenice-taborska/602227532",
-    "id": "602227532"
-  },
-  {
-    "header": "Pronájem bytu 2+1 75 m²",
-    "Address": "Hostinského, Brno - Královo Pole",
-    "Price": "22 990 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-kralovo-pole-hostinskeho/3609309260",
-    "id": "3609309260"
-  },
-  {
-    "header": "Pronájem bytu 2+1 57 m²",
-    "Address": "Antonínská, Brno - Veveří",
-    "Price": "21 590 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-veveri-antoninska/1701093452",
-    "id": "1701093452"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 88 m²",
-    "Address": "Kumpoštova, Brno - Sadová",
-    "Price": "31 523 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-sadova-kumpostova/2247860300",
-    "id": "2247860300"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 76 m²",
-    "Address": "Kosmova, Brno - Královo Pole",
-    "Price": "30 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-kralovo-pole-kosmova/1653973068",
-    "id": "1653973068"
   }
 ]
