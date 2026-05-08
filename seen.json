@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 110 m²",
+    "Address": "Skorkovského, Brno - Židenice",
+    "Price": "25 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zidenice-skorkovskeho/3650203724",
+    "id": "3650203724"
+  },
+  {
     "header": "Pronájem bytu 2+1 67 m²",
     "Address": "Libušino údolí, Brno",
     "Price": "23 000 Kč/měsíc",
@@ -138,12 +145,5 @@
     "Price": "21 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-kohoutovice-chopinova/1575399500",
     "id": "1575399500"
-  },
-  {
-    "header": "Pronájem bytu 3+1 120 m²",
-    "Address": "Skácelova, Brno - Královo Pole",
-    "Price": "30 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-kralovo-pole-skacelova/2925335372",
-    "id": "2925335372"
   }
 ]
