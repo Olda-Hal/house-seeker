@@ -1,5 +1,26 @@
 [
   {
+    "header": "Pronájem bytu 2+1 81 m²",
+    "Address": "Antonínská, Brno - Veveří",
+    "Price": "21 500 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-veveri-antoninska/1010016332",
+    "id": "1010016332"
+  },
+  {
+    "header": "Pronájem bytu 2+1 50 m²",
+    "Address": "Foerstrova, Brno - Žabovřesky",
+    "Price": "16 800 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-zabovresky-foerstrova/2287312972",
+    "id": "2287312972"
+  },
+  {
+    "header": "Pronájem bytu 2+1 45 m²",
+    "Address": "Branka, Brno - Komín",
+    "Price": "7 850 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-komin-branka/2809892940",
+    "id": "2809892940"
+  },
+  {
     "header": "Pronájem bytu 2+1 58 m²",
     "Address": "Vídeňská, Brno - Štýřice",
     "Price": "18 500 Kč/měsíc",
@@ -112,13 +133,6 @@
     "id": "2587996236"
   },
   {
-    "header": "Stačí přijít a bydlet",
-    "Address": "Nájemní 1+kk a 2+kk v Brně. Kompletní vybavení, WiFi, smart home, gym, kavárna i parkování",
-    "Price": "BRAVIS Reality",
-    "link": "https://i.imedia.cz/v2/click?spotId=4156640&d=EFI2X3QP2XRCCKXZ56CQBH2X7FZMTSKGR2TQBUFT4FM6IYJBCFAS9942MZ9BHCYAJ2KX9T4PSV9J9S8TJ8TR5ZDG8IFQCGGIXU94YRMPEKR29TBIDJEPX35DN9CSFT9HD5U4FN242NMJ6GT2PTXTKJV6QVZH9FJVSEA5V96ZJMN5QCZMQQCBJEKM2AUI78AS2EZYBHQAJ85U2P6JPWU4MHN7I2DF8Q7H9SHH7MEQCCGF6CIZP3A7BHG3Y58HKKW4XY72N4KGFGBGSC5SUTH3IUZADXE8IVB8JMNIT7GJF6S7NFUZTKB6CAU3R2BZ3IQU8K6AVDHIX5RFCB4PPHDGANC8YB2GR8YUWNC3INZN8UYS&destination=https%3A//www.bravis.cz/pronajem-apartmany-kralovopolska",
-    "id": "pronajem-apartmany-kralovopolska"
-  },
-  {
     "header": "Pronájem bytu 3+kk 90 m²",
     "Address": "Majdalenky, Brno - Lesná",
     "Price": "27 000 Kč/měsíc",
@@ -131,26 +145,5 @@
     "Price": "31 500 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-brno-mesto-starobrnenska/2303107148",
     "id": "2303107148"
-  },
-  {
-    "header": "Pronájem bytu 2+1 48 m²",
-    "Address": "Palackého třída, Brno - Královo Pole",
-    "Price": "19 900 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-kralovo-pole-palackeho-trida/4189364300",
-    "id": "4189364300"
-  },
-  {
-    "header": "Pronájem bytu 2+1 61 m²",
-    "Address": "Kobližná, Brno - Brno-město",
-    "Price": "18 200 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-brno-mesto-koblizna/1555341388",
-    "id": "1555341388"
-  },
-  {
-    "header": "Pronájem bytu 3+1 69 m²",
-    "Address": "Grohova, Brno - Veveří",
-    "Price": "24 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-veveri-grohova/2565320780",
-    "id": "2565320780"
   }
 ]
