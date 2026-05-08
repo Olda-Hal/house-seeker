@@ -49,6 +49,13 @@
     "id": "1575399500"
   },
   {
+    "header": "Pronájem bytu 3+1 120 m²",
+    "Address": "Skácelova, Brno - Královo Pole",
+    "Price": "30 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-kralovo-pole-skacelova/2925335372",
+    "id": "2925335372"
+  },
+  {
     "header": "Pronájem bytu 3+kk 70 m²",
     "Address": "Rybnická, Brno - Nový Lískovec",
     "Price": "31 000 Kč/měsíc",
@@ -58,9 +65,23 @@
   {
     "header": "Pronájem bytu 3+kk 80 m²",
     "Address": "Masarykova, Brno - Brno-město",
+    "Price": "30 500 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-brno-mesto-masarykova/2356761420",
+    "id": "2356761420"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 80 m²",
+    "Address": "Masarykova, Brno - Brno-město",
     "Price": "31 400 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-brno-mesto-masarykova/1181307724",
     "id": "1181307724"
+  },
+  {
+    "header": "Pronájem bytu 3+1 82 m²",
+    "Address": "Valtická, Brno - Židenice",
+    "Price": "22 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-zidenice-valticka/1131500364",
+    "id": "1131500364"
   },
   {
     "header": "Pronájem bytu 3+kk 93 m²",
@@ -77,6 +98,13 @@
     "id": "937078860"
   },
   {
+    "header": "Pronájem bytu 2+1 47 m²",
+    "Address": "Slovákova, Brno - Veveří",
+    "Price": "21 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-veveri-slovakova/2070650956",
+    "id": "2070650956"
+  },
+  {
     "header": "Pronájem bytu 3+kk 83 m²",
     "Address": "Kopečná, Brno - Staré Brno",
     "Price": "32 000 Kč/měsíc",
@@ -84,11 +112,25 @@
     "id": "2587996236"
   },
   {
+    "header": "Stačí přijít a bydlet",
+    "Address": "Nájemní 1+kk a 2+kk v Brně. Kompletní vybavení, WiFi, smart home, gym, kavárna i parkování",
+    "Price": "BRAVIS Reality",
+    "link": "https://i.imedia.cz/v2/click?spotId=4156640&d=EFI2X3QP2XRCCKXZ56CQBH2X7FZMTSKGR2TQBUFT4FM6IYJBCFAS9942MZ9BHCYAJ2KX9T4PSV9J9S8TJ8TR5ZDG8IFQCGGIXU94YRMPEKR29TBIDJEPX35DN9CSFT9HD5U4FN242NMJ6GT2PTXTKJV6QVZH9FJVSEA5V96ZJMN5QCZMQQCBJEKM2AUI78AS2EZYBHQAJ85U2P6JPWU4MHN7I2DF8Q7H9SHH7MEQCCGF6CIZP3A7BHG3Y58HKKW4XY72N4KGFGBGSC5SUTH3IUZADXE8IVB8JMNIT7GJF6S7NFUZTKB6CAU3R2BZ3IQU8K6AVDHIX5RFCB4PPHDGANC8YB2GR8YUWNC3INZN8UYS&destination=https%3A//www.bravis.cz/pronajem-apartmany-kralovopolska",
+    "id": "pronajem-apartmany-kralovopolska"
+  },
+  {
     "header": "Pronájem bytu 3+kk 90 m²",
     "Address": "Majdalenky, Brno - Lesná",
     "Price": "27 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-lesna-majdalenky/4283543628",
     "id": "4283543628"
+  },
+  {
+    "header": "Pronájem bytu 3+1 120 m²",
+    "Address": "Starobrněnská, Brno - Brno-město",
+    "Price": "31 500 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-brno-mesto-starobrnenska/2303107148",
+    "id": "2303107148"
   },
   {
     "header": "Pronájem bytu 2+1 48 m²",
@@ -110,40 +152,5 @@
     "Price": "24 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-veveri-grohova/2565320780",
     "id": "2565320780"
-  },
-  {
-    "header": "Pronájem bytu 2+1 57 m²",
-    "Address": "Smetanova, Brno - Veveří",
-    "Price": "24 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-veveri-smetanova/3545407564",
-    "id": "3545407564"
-  },
-  {
-    "header": "Pronájem bytu 2+1 52 m²",
-    "Address": "Křížová, Brno - Staré Brno",
-    "Price": "21 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-stare-brno-krizova/296595532",
-    "id": "296595532"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 91 m²",
-    "Address": "třída Generála Píky, Brno",
-    "Price": "47 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-brno-trida-generala-piky/3868700748",
-    "id": "3868700748"
-  },
-  {
-    "header": "Pronájem bytu 3+1 80 m²",
-    "Address": "Herčíkova, Brno - Královo Pole",
-    "Price": "23 800 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-kralovo-pole-hercikova/2806469452",
-    "id": "2806469452"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 118 m²",
-    "Address": "Majdalenky, Brno - Lesná",
-    "Price": "46 500 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-lesna-majdalenky/1512788812",
-    "id": "1512788812"
   }
 ]
