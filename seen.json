@@ -112,13 +112,6 @@
     "id": "1213092684"
   },
   {
-    "header": "Stačí přijít a bydlet",
-    "Address": "Nájemní 1+kk a 2+kk v Brně. Kompletní vybavení, WiFi, smart home, gym, kavárna i parkování",
-    "Price": "BRAVIS Reality",
-    "link": "https://i.imedia.cz/v2/click?spotId=4156640&d=RF5DMWSHVY2HFHBJV2PI8Q89MRZYFNZTHTIWUEWMFVWW6S462I3FPYYA2ATY3XP6WA2HSWM78ZK7RGY3FHJP264XT5YGA7ENJH6MJ6DZ8JRA68XUW8VTZZ5P7P69EEC7M9P3TTKFU9GP36WM96WV6NSYS38X8YCFR9DH4DP3DBS4WYTF8D9A4V9HEP92H4DMF3XJQIMRXGIITYV3HMPFI4TYTQHH2XZIATDQQFDB3XIAAVT87J6H5QW5UHFDPBI4K6RGZ7ENUFYBAW9RG86B5YEMCA9PRPIT5XIXH3A5W6QH7YPN4CZIYE9J25NMWVKPX9QS7EG9TARPQCSYE5TWNQ34NTANXT535KRC9YZHHIEA&destination=https%3A//www.bravis.cz/pronajem-apartmany-kralovopolska",
-    "id": "pronajem-apartmany-kralovopolska"
-  },
-  {
     "header": "Pronájem bytu 3+kk 103 m²",
     "Address": "Čeňka Růžičky, Brno - Bohunice",
     "Price": "28 000 Kč/měsíc",
@@ -145,12 +138,5 @@
     "Price": "22 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-brno-renneska-trida/3336205132",
     "id": "3336205132"
-  },
-  {
-    "header": "Pronájem bytu 2+1 60 m²",
-    "Address": "Chopinova, Brno - Kohoutovice",
-    "Price": "21 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-kohoutovice-chopinova/1575399500",
-    "id": "1575399500"
   }
 ]
