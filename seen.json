@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+1 42 m²",
+    "Address": "Renneská třída, Brno - Štýřice",
+    "Price": "16 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-styrice-renneska-trida/1318953036",
+    "id": "1318953036"
+  },
+  {
     "header": "Pronájem bytu 3+1 73 m²",
     "Address": "Merhautova, Brno - Černá Pole",
     "Price": "26 990 Kč/měsíc",
@@ -105,6 +112,13 @@
     "id": "1560499020"
   },
   {
+    "header": "Stačí přijít a bydlet",
+    "Address": "Nájemní 1+kk a 2+kk v Brně. Kompletní vybavení, WiFi, smart home, gym, kavárna i parkování",
+    "Price": "BRAVIS Reality",
+    "link": "https://i.imedia.cz/v2/click?spotId=4156640&d=G8PUTMKN6UGRBDHB2FTVBFWCE39437I7XKHFZSF6F3JIFT4PVNPK3R9V8D76J4GQ3HXF9UTXKNFW4IG35CBZ9G5JAYKE9HYPX5PTKZTJXBUTQSU4GC5DQ2HXTCY27S66EUAPAGDIU34H6I9FAWZ4MVK5S6SEFGWNQYZNMBMCAHVX6PEB7NEUNVV3R9HI8SXTMU24TEPZIDJY2TG9JHFQD3IPNNWNUB4PICDZIH6A526XZDRKT6BTZNQM4DI53CCJGE6NEBD3ABDZJ37MQ7BF9SI5RTDU8N2VG3B85JBVF2XPN6NXVRXB4MFNC942RH2P8AMY8I7AD3V5AFSAX4G8QHGUHPYSIRCJJ7P8QFD2C28M2SA&destination=https%3A//www.bravis.cz/pronajem-apartmany-kralovopolska",
+    "id": "pronajem-apartmany-kralovopolska"
+  },
+  {
     "header": "Pronájem bytu 3+1 68 m²",
     "Address": "Horní, Brno - Štýřice",
     "Price": "25 000 Kč/měsíc",
@@ -138,12 +152,5 @@
     "Price": "31 900 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-stary-liskovec-u-leskavy/106602572",
     "id": "106602572"
-  },
-  {
-    "header": "Pronájem bytu 3+1 74 m²",
-    "Address": "Fryčajova, Brno - Obřany",
-    "Price": "21 800 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-obrany-frycajova/4149719116",
-    "id": "4149719116"
   }
 ]
