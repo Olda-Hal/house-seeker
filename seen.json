@@ -1,5 +1,26 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 103 m²",
+    "Address": "Čeňka Růžičky, Brno - Bohunice",
+    "Price": "28 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-bohunice-cenka-ruzicky/1560499020",
+    "id": "1560499020"
+  },
+  {
+    "header": "Pronájem bytu 2+1 60 m²",
+    "Address": "Chopinova, Brno - Kohoutovice",
+    "Price": "21 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-kohoutovice-chopinova/1575399500",
+    "id": "1575399500"
+  },
+  {
+    "header": "Pronájem bytu 2+1 50 m²",
+    "Address": "Foerstrova, Brno - Žabovřesky",
+    "Price": "16 800 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-zabovresky-foerstrova/2287312972",
+    "id": "2287312972"
+  },
+  {
     "header": "Pronájem bytu 3+kk 107 m²",
     "Address": "U Leskavy, Brno - Starý Lískovec",
     "Price": "31 900 Kč/měsíc",
@@ -49,13 +70,6 @@
     "id": "1977951052"
   },
   {
-    "header": "Pronájem bytu 3+kk 103 m²",
-    "Address": "Čeňka Růžičky, Brno - Bohunice",
-    "Price": "28 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-bohunice-cenka-ruzicky/1560499020",
-    "id": "1560499020"
-  },
-  {
     "header": "Pronájem bytu 2+1 52 m²",
     "Address": "Křížová, Brno - Staré Brno",
     "Price": "21 000 Kč/měsíc",
@@ -68,13 +82,6 @@
     "Price": "47 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-brno-trida-generala-piky/3868700748",
     "id": "3868700748"
-  },
-  {
-    "header": "Pronájem bytu 2+1 60 m²",
-    "Address": "Chopinova, Brno - Kohoutovice",
-    "Price": "21 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-kohoutovice-chopinova/1575399500",
-    "id": "1575399500"
   },
   {
     "header": "Pronájem bytu 3+1 80 m²",
@@ -138,12 +145,5 @@
     "Price": "23 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-brno-libusino-udoli/901029964",
     "id": "901029964"
-  },
-  {
-    "header": "Pronájem bytu 3+1 80 m²",
-    "Address": "Škrétova, Brno - Řečkovice",
-    "Price": "24 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-reckovice-skretova/3861614668",
-    "id": "3861614668"
   }
 ]
