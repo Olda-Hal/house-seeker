@@ -1,5 +1,26 @@
 [
   {
+    "header": "Pronájem bytu 2+1 50 m²",
+    "Address": "Foerstrova, Brno - Žabovřesky",
+    "Price": "16 800 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-zabovresky-foerstrova/2287312972",
+    "id": "2287312972"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 73 m²",
+    "Address": "Říčanská, Brno - Bystrc",
+    "Price": "24 990 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-bystrc-ricanska/4094575436",
+    "id": "4094575436"
+  },
+  {
+    "header": "Pronájem bytu 2+1 46 m²",
+    "Address": "Hvězdová, Brno - Zábrdovice",
+    "Price": "18 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-zabrdovice-hvezdova/194555980",
+    "id": "194555980"
+  },
+  {
     "header": "Pronájem bytu 3+1 81 m²",
     "Address": "Poříčí, Brno",
     "Price": "20 000 Kč/měsíc",
@@ -35,6 +56,13 @@
     "id": "1179492428"
   },
   {
+    "header": "Move-in ready Brno",
+    "Address": "Designově vybavené nájemní apartmány. WiFi, smart home, gym, parkování a skvělá poloha.",
+    "Price": "BRAVIS Reality",
+    "link": "https://i.imedia.cz/v2/click?spotId=4156639&d=QGRSFTQA8NIXCFY6Q6MVM4ZUXZH8T9YCPSTFNIIRPWBPMP7JU7EYPNXDTQ8T37T7RXZ6D5UZ5RUS8ICU7CE6E9PINE8BR43XUNFAU5X45UVHX7G9XCMECEFJAQ9GWXB86XWW2WQFEK4SX28GP3HQNTJP2FCX2ZMQU9FHECCM2ICVZAA597YR7VSBXBMEGTCXNHXXZIBFTXXQMJ7R33F7PEJ92IIVXQQ7ERCDEU4GCHN9H68Q8IGS8RBKBRGQTX38VJTTDE6IYZAXYR9PIAY2DJU3SKKRTYGMA8KXPP96Y9X7235F4NDI7S5UJFUIID3XXD8KZ44KKVKTMQV8NCJINYCUGGHVJHG2ZFSF28ZSVKZK4&destination=https%3A//www.bravis.cz/pronajem-apartmany-kralovopolska",
+    "id": "pronajem-apartmany-kralovopolska"
+  },
+  {
     "header": "Pronájem bytu 3+1 72 m²",
     "Address": "Renneská třída, Brno",
     "Price": "22 000 Kč/měsíc",
@@ -47,20 +75,6 @@
     "Price": "21 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-kohoutovice-chopinova/1575399500",
     "id": "1575399500"
-  },
-  {
-    "header": "Pronájem bytu 2+1 50 m²",
-    "Address": "Foerstrova, Brno - Žabovřesky",
-    "Price": "16 800 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-zabovresky-foerstrova/2287312972",
-    "id": "2287312972"
-  },
-  {
-    "header": "Luxusní dům František 14",
-    "Address": "Pořiďte si svůj vysněný dům s dispozicí 5+1+G včetně pozemku za 21.696 Kč /měsíčně.",
-    "Price": "Ekonomické stavby",
-    "link": "https://i.imedia.cz/v2/click?spotId=4149845&d=CIPVWA7T2SZK7CHGEEHRGDM7MQHQXHRGHD6HQBGV53PFIMJABMCE9RGEWF9TPT9BPF9YE28EHNC32NKBF64PZ77VBTRJZRQYCUWJECI3UR6B9WJ9QY5GND3X5ZEVMNZJM3GHFID5VRDW735INNM8KEH49C6VW6QPNH4HVXGC7SWIDGGYX7XIFRI98HBVKTQX3HXYRW4EJCKFEF3BN7RU4MH4GQI9Q5MERV34WQ9RDH6CIVA5C7KV5AYQJH8TUH8E29EMQGN7EIZGGJKXUW7PJHF4G46UDQYSPH3SM7SE67JW84XIFRGQ3BC5YPHX2CM2EZXA8HAXPYYJ42FN2TIWKBWD4SMESGHX7QTSXDEPYUW49ZA&destination=https%3A//pozemky.ekonomicke-stavby.cz/frantisek_14.php%3Futm_source%3DSreality%26utm_campaign%3DFrantisek14%282-2026%29%26utm_term%3Dpromoballoon%26utm_content%3Dpaymentnotshown%26utm_medium%3DNativniInzerat",
-    "id": "frantisek_14.php%3Futm_source%3DSreality%26utm_campaign%3DFrantisek14%282-2026%29%26utm_term%3Dpromoballoon%26utm_content%3Dpaymentnotshown%26utm_medium%3DNativniInzerat"
   },
   {
     "header": "Pronájem bytu 3+kk 107 m²",
@@ -138,19 +152,5 @@
     "Price": "16 900 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-bystrc-teyschlova/3606471500",
     "id": "3606471500"
-  },
-  {
-    "header": "Pronájem bytu 2+1 67 m²",
-    "Address": "Merhautova, Brno",
-    "Price": "20 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-brno-merhautova/4148126540",
-    "id": "4148126540"
-  },
-  {
-    "header": "Pronájem bytu 2+1 55 m²",
-    "Address": "Merhautova, Brno",
-    "Price": "19 500 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-brno-merhautova/1876044",
-    "id": "1876044"
   }
 ]
