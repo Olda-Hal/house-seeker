@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+1 72 m²",
+    "Address": "Vídeňská, Brno - Štýřice",
+    "Price": "23 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-styrice-videnska/3468398668",
+    "id": "3468398668"
+  },
+  {
     "header": "Pronájem bytu 3+1 42 m²",
     "Address": "Renneská třída, Brno - Štýřice",
     "Price": "16 000 Kč/měsíc",
@@ -105,18 +112,18 @@
     "id": "1213092684"
   },
   {
+    "header": "Move-in ready Brno",
+    "Address": "Designově vybavené nájemní apartmány. WiFi, smart home, gym, parkování a skvělá poloha.",
+    "Price": "BRAVIS Reality",
+    "link": "https://i.imedia.cz/v2/click?spotId=4156639&d=ZRBS63RP8NSS3K3SX5SPNBFYWJ2JPN7YDTDB5YFEAEH53IK24GRTX263KVC8A9G2HAKY2I67VVVE6K2AHCTA7Z9PXWEWFKTNN9T2SZ2UZF5N5WPCXYT6C6XWDMMBCXEM3YAQ3NM72TBKSI5F4J48H8IJU5KNF36Q5AI9SY8C9TJGZ5DVDHHEQZDR4BR2MCCXSNPND9MPUFYDT8VVTSBWX5IG59MF3T5JS8AWHXAPX2ZVRAHP9GEAVJSGXAWXETNYMZ9JUPKRY47TCJHZ62487AB5I27GG3YYDWZ7E93JHM94M95MXEURMMT49WWNWNRXJ7Q3GAEV3T8597R469X9ECWCFCFE9ICU3Z6IH7HY82BKI&destination=https%3A//www.bravis.cz/pronajem-apartmany-kralovopolska",
+    "id": "pronajem-apartmany-kralovopolska"
+  },
+  {
     "header": "Pronájem bytu 3+kk 103 m²",
     "Address": "Čeňka Růžičky, Brno - Bohunice",
     "Price": "28 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-bohunice-cenka-ruzicky/1560499020",
     "id": "1560499020"
-  },
-  {
-    "header": "Stačí přijít a bydlet",
-    "Address": "Nájemní 1+kk a 2+kk v Brně. Kompletní vybavení, WiFi, smart home, gym, kavárna i parkování",
-    "Price": "BRAVIS Reality",
-    "link": "https://i.imedia.cz/v2/click?spotId=4156640&d=G8PUTMKN6UGRBDHB2FTVBFWCE39437I7XKHFZSF6F3JIFT4PVNPK3R9V8D76J4GQ3HXF9UTXKNFW4IG35CBZ9G5JAYKE9HYPX5PTKZTJXBUTQSU4GC5DQ2HXTCY27S66EUAPAGDIU34H6I9FAWZ4MVK5S6SEFGWNQYZNMBMCAHVX6PEB7NEUNVV3R9HI8SXTMU24TEPZIDJY2TG9JHFQD3IPNNWNUB4PICDZIH6A526XZDRKT6BTZNQM4DI53CCJGE6NEBD3ABDZJ37MQ7BF9SI5RTDU8N2VG3B85JBVF2XPN6NXVRXB4MFNC942RH2P8AMY8I7AD3V5AFSAX4G8QHGUHPYSIRCJJ7P8QFD2C28M2SA&destination=https%3A//www.bravis.cz/pronajem-apartmany-kralovopolska",
-    "id": "pronajem-apartmany-kralovopolska"
   },
   {
     "header": "Pronájem bytu 3+1 68 m²",
@@ -145,12 +152,5 @@
     "Price": "21 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-kohoutovice-chopinova/1575399500",
     "id": "1575399500"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 107 m²",
-    "Address": "U Leskavy, Brno - Starý Lískovec",
-    "Price": "31 900 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-stary-liskovec-u-leskavy/106602572",
-    "id": "106602572"
   }
 ]
