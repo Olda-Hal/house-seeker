@@ -1,5 +1,19 @@
 [
   {
+    "header": "Pronájem bytu 3+1 73 m²",
+    "Address": "Merhautova, Brno - Černá Pole",
+    "Price": "26 990 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-cerna-pole-merhautova/1808089932",
+    "id": "1808089932"
+  },
+  {
+    "header": "Pronájem bytu 2+1 51 m²",
+    "Address": "Čápkova, Brno - Veveří",
+    "Price": "21 990 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-veveri-capkova/1622646860",
+    "id": "1622646860"
+  },
+  {
     "header": "Pronájem bytu 2+1 52 m²",
     "Address": "Křížová, Brno - Staré Brno",
     "Price": "21 000 Kč/měsíc",
@@ -54,13 +68,6 @@
     "Price": "16 800 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-zabovresky-foerstrova/2287312972",
     "id": "2287312972"
-  },
-  {
-    "header": "Stačí přijít a bydlet",
-    "Address": "Nájemní 1+kk a 2+kk v Brně. Kompletní vybavení, WiFi, smart home, gym, kavárna i parkování",
-    "Price": "BRAVIS Reality",
-    "link": "https://i.imedia.cz/v2/click?spotId=4156640&d=DXXQNW9AW2IFHIXXIGBV9PYETKURJCAFJCH52PKH3GAPIYA2RBIHMRWE48GYZVXDQGEKJ3NAXGATJR6X8MV279NW444W6MBU2B5CWGF4ZP2UYQBC3GX9CDWC9KI665GDI3KG89T7M8R8ICAJ6PWKXQU5R235HG33FYV2DKZH4ISS7A94JNREVG6UWDG9SYWD2ENG6U4ZWXMK8ZXWNM2KR4Q5JND7I2TCTVRVAMG7SKMIUZJX4T5ZPRB4FCXYKZ6XB334UTBVNSSPF7XM7DF3VMNR3TQEDTJ2C2G3X6JU43K8KI2P57PEUZUKF68UXMGHNQXNFAHUPKZNC3FTDMVFACWFKQMI325J8JPXNN63PHFGFUI&destination=https%3A//www.bravis.cz/pronajem-apartmany-kralovopolska",
-    "id": "pronajem-apartmany-kralovopolska"
   },
   {
     "header": "Pronájem bytu 3+kk 73 m²",
@@ -138,19 +145,5 @@
     "Price": "21 800 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-obrany-frycajova/4149719116",
     "id": "4149719116"
-  },
-  {
-    "header": "Pronájem bytu 3+1 73 m²",
-    "Address": "Merhautova, Brno - Černá Pole",
-    "Price": "26 990 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-cerna-pole-merhautova/1808089932",
-    "id": "1808089932"
-  },
-  {
-    "header": "Pronájem bytu 3+1 73 m²",
-    "Address": "Mikulčická, Brno - Slatina",
-    "Price": "22 500 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-slatina-mikulcicka/2904989772",
-    "id": "2904989772"
   }
 ]
