@@ -56,13 +56,6 @@
     "id": "1179492428"
   },
   {
-    "header": "Move-in ready Brno",
-    "Address": "Designově vybavené nájemní apartmány. WiFi, smart home, gym, parkování a skvělá poloha.",
-    "Price": "BRAVIS Reality",
-    "link": "https://i.imedia.cz/v2/click?spotId=4156639&d=QGRSFTQA8NIXCFY6Q6MVM4ZUXZH8T9YCPSTFNIIRPWBPMP7JU7EYPNXDTQ8T37T7RXZ6D5UZ5RUS8ICU7CE6E9PINE8BR43XUNFAU5X45UVHX7G9XCMECEFJAQ9GWXB86XWW2WQFEK4SX28GP3HQNTJP2FCX2ZMQU9FHECCM2ICVZAA597YR7VSBXBMEGTCXNHXXZIBFTXXQMJ7R33F7PEJ92IIVXQQ7ERCDEU4GCHN9H68Q8IGS8RBKBRGQTX38VJTTDE6IYZAXYR9PIAY2DJU3SKKRTYGMA8KXPP96Y9X7235F4NDI7S5UJFUIID3XXD8KZ44KKVKTMQV8NCJINYCUGGHVJHG2ZFSF28ZSVKZK4&destination=https%3A//www.bravis.cz/pronajem-apartmany-kralovopolska",
-    "id": "pronajem-apartmany-kralovopolska"
-  },
-  {
     "header": "Pronájem bytu 3+1 72 m²",
     "Address": "Renneská třída, Brno",
     "Price": "22 000 Kč/měsíc",
@@ -117,6 +110,13 @@
     "Price": "31 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-trnita-opustena/1977951052",
     "id": "1977951052"
+  },
+  {
+    "header": "Stačí přijít a bydlet",
+    "Address": "Nájemní 1+kk a 2+kk v Brně. Kompletní vybavení, WiFi, smart home, gym, kavárna i parkování",
+    "Price": "BRAVIS Reality",
+    "link": "https://i.imedia.cz/v2/click?spotId=4156640&d=YBN2HCQ958V2MFJYKC4VXNRBY5BQ32EUMVY6V32Z9CXPU6X2QQF3FI2BNRTQGQF98MZEINY94P8AHBZGECVINZUF4APJWNZQC87DGD6MZH3DK535Q9699UXN8B4KPHFRKQZS8AP7MXD49FTFP52JAT653H3RVSUT34HCDQRWHHZPESFUKYH6CS6FYWU83EUBFB7SSEDJD3CF8UAM87ER3K9ZDN8ZADNAPHYH3WPQKITIAY2NY9D9A8KY7A7U8DNNER6ZUMQ4YKPH8IGTHWDR3QI4YXHSCTANA44JZXQJGUDWZ5RJW26EJY33IJAUYJX2ESVJBN75IFMNDHZH8JYI3IW29BNN9WMKH2H76ST3632KW&destination=https%3A//www.bravis.cz/pronajem-apartmany-kralovopolska",
+    "id": "pronajem-apartmany-kralovopolska"
   },
   {
     "header": "Pronájem bytu 2+1 52 m²",
