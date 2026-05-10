@@ -1,17 +1,24 @@
 [
   {
-    "header": "Pronájem bytu 3+1 73 m²",
-    "Address": "Merhautova, Brno - Černá Pole",
-    "Price": "26 990 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-cerna-pole-merhautova/1808089932",
-    "id": "1808089932"
-  },
-  {
     "header": "Pronájem bytu 2+1 50 m²",
     "Address": "Foerstrova, Brno - Žabovřesky",
     "Price": "16 800 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-zabovresky-foerstrova/2287312972",
     "id": "2287312972"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 95 m²",
+    "Address": "Opuštěná, Brno - Trnitá",
+    "Price": "27 500 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-trnita-opustena/3246035020",
+    "id": "3246035020"
+  },
+  {
+    "header": "Pronájem bytu 3+1 73 m²",
+    "Address": "Merhautova, Brno - Černá Pole",
+    "Price": "26 990 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-cerna-pole-merhautova/1808089932",
+    "id": "1808089932"
   },
   {
     "header": "Pronájem bytu 3+kk 83 m²",
@@ -40,6 +47,13 @@
     "Price": "20 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-brno-porici/3450122316",
     "id": "3450122316"
+  },
+  {
+    "header": "Buďte první nájemník",
+    "Address": "Designové 1+kk a 2+kk s vybavením. WiFi, smart home, gym, kavárna i parkování v rezidenci.",
+    "Price": "BRAVIS Reality",
+    "link": "https://i.imedia.cz/v2/click?spotId=4156641&d=MND4IB7XIHDJG5CVPTNF5YP7TN3K77BKJNSE8MQU4GTY8Z7V3ZGAVP99F5KBPIACVWF7BQGTYYR2FRGXJB3P3QQ7B9TKCCEI7TV72YEBSQF69FDTB9S57C6RYT8JZPEVPIYHQYC6HZQX9P9X6X4K3IYQRW32FC63CBIAGDFAMBA9R6YUR45N3VF76IFGWREPZWCSYZGQDS6TZKKJH7ZSVF89C9ACUG4NX6XHGQANXMYNTFP8UM59D2I5T8GVXEQGDGCTQ7VTWJY8DTCECYNEBKVKKWDB7G76DJJ4HI95TYRHUSJ3DZUS58NAC3MUZVFXTDI4P7TWSI7IYF82IDJ4BQYCFKHCJTJPBYTDHCA2DSIIR2A&destination=https%3A//www.bravis.cz/pronajem-apartmany-kralovopolska",
+    "id": "pronajem-apartmany-kralovopolska"
   },
   {
     "header": "Pronájem bytu 3+1 68 m²",
@@ -131,12 +145,5 @@
     "Price": "47 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-brno-trida-generala-piky/3868700748",
     "id": "3868700748"
-  },
-  {
-    "header": "Pronájem bytu 3+1 80 m²",
-    "Address": "Herčíkova, Brno - Královo Pole",
-    "Price": "23 800 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-kralovo-pole-hercikova/2806469452",
-    "id": "2806469452"
   }
 ]
