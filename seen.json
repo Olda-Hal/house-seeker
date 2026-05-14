@@ -1,5 +1,61 @@
 [
   {
+    "header": "SLEVA: Pronájem bytu 3+kk 120 m²",
+    "Address": "Majdalenky, Brno - Lesná",
+    "Price": "35 900 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-lesna-majdalenky/2444402764",
+    "id": "2444402764"
+  },
+  {
+    "header": "Pronájem bytu 2+1 56 m²",
+    "Address": "Štefánikova, Brno - Ponava",
+    "Price": "20 900 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-ponava-stefanikova/1379766348",
+    "id": "1379766348"
+  },
+  {
+    "header": "Pronájem bytu 2+1 42 m²",
+    "Address": "Renneská třída, Brno - Štýřice",
+    "Price": "16 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-styrice-renneska-trida/1243123788",
+    "id": "1243123788"
+  },
+  {
+    "header": "Pronájem bytu 2+1 65 m²",
+    "Address": "Purkyňova, Brno - Královo Pole",
+    "Price": "21 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-kralovo-pole-purkynova/9674828",
+    "id": "9674828"
+  },
+  {
+    "header": "Pronájem bytu 2+1 60 m²",
+    "Address": "Purkyňova, Brno - Královo Pole",
+    "Price": "21 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-kralovo-pole-purkynova/242917452",
+    "id": "242917452"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 62 m²",
+    "Address": "Štouračova, Brno - Bystrc",
+    "Price": "21 500 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-bystrc-stouracova/2081857612",
+    "id": "2081857612"
+  },
+  {
+    "header": "Pronájem bytu 3+1 73 m²",
+    "Address": "Mikulčická, Brno - Slatina",
+    "Price": "22 500 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-slatina-mikulcicka/2904989772",
+    "id": "2904989772"
+  },
+  {
+    "header": "Pronájem bytu 2+1 65 m²",
+    "Address": "Štefánikova, Brno - Veveří",
+    "Price": "21 900 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-veveri-stefanikova/1043173452",
+    "id": "1043173452"
+  },
+  {
     "header": "Pronájem bytu 2+1 60 m²",
     "Address": "Chopinova, Brno - Kohoutovice",
     "Price": "21 000 Kč/měsíc",
@@ -89,61 +145,5 @@
     "Price": "21 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-lisen-zikova/8228940",
     "id": "8228940"
-  },
-  {
-    "header": "Pronájem bytu 2+1 56 m²",
-    "Address": "Štefánikova, Brno - Ponava",
-    "Price": "20 900 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-ponava-stefanikova/577605708",
-    "id": "577605708"
-  },
-  {
-    "header": "Pronájem bytu 2+1 46 m²",
-    "Address": "Hvězdová, Brno - Zábrdovice",
-    "Price": "18 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-zabrdovice-hvezdova/194555980",
-    "id": "194555980"
-  },
-  {
-    "header": "Pronájem bytu 2+1 41 m²",
-    "Address": "Horova, Brno - Žabovřesky",
-    "Price": "14 500 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-zabovresky-horova/1252410188",
-    "id": "1252410188"
-  },
-  {
-    "header": "Pronájem bytu 2+1 67 m²",
-    "Address": "Merhautova, Brno",
-    "Price": "20 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-brno-merhautova/4148126540",
-    "id": "4148126540"
-  },
-  {
-    "header": "Pronájem bytu 2+1 55 m²",
-    "Address": "Merhautova, Brno",
-    "Price": "19 500 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-brno-merhautova/1876044",
-    "id": "1876044"
-  },
-  {
-    "header": "Pronájem bytu 2+1 60 m²",
-    "Address": "Chládkova, Brno - Žabovřesky",
-    "Price": "7 500 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-zabovresky-chladkova/1925091404",
-    "id": "1925091404"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 89 m²",
-    "Address": "Královopolská, Brno",
-    "Price": "28 400 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-brno-kralovopolska/616468556",
-    "id": "616468556"
-  },
-  {
-    "header": "Pronájem bytu 2+1 55 m²",
-    "Address": "Bieblova, Brno - Černá Pole",
-    "Price": "18 500 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-cerna-pole-bieblova/2495516748",
-    "id": "2495516748"
   }
 ]
