@@ -1,5 +1,26 @@
 [
   {
+    "header": "Pronájem bytu 2+1 76 m²",
+    "Address": "Zeyerova, Brno - Žabovřesky",
+    "Price": "21 900 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-zabovresky-zeyerova/520917068",
+    "id": "520917068"
+  },
+  {
+    "header": "Pronájem bytu 3+1 86 m²",
+    "Address": "Šeříková, Brno - Jundrov",
+    "Price": "26 500 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-jundrov-serikova/3123028044",
+    "id": "3123028044"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 61 m²",
+    "Address": "Churého, Brno - Černovice",
+    "Price": "22 700 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-cernovice-chureho/3553996876",
+    "id": "3553996876"
+  },
+  {
     "header": "Pronájem bytu 3+1 66 m²",
     "Address": "Veletržní, Brno - Staré Brno",
     "Price": "20 000 Kč/měsíc",
@@ -117,26 +138,5 @@
     "Price": "21 800 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-obrany-frycajova/4149719116",
     "id": "4149719116"
-  },
-  {
-    "header": "Pronájem bytu 3+1 72 m²",
-    "Address": "Loosova, Brno - Lesná",
-    "Price": "21 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-lesna-loosova/3145572428",
-    "id": "3145572428"
-  },
-  {
-    "header": "Pronájem bytu 3+1 120 m²",
-    "Address": "Skácelova, Brno - Královo Pole",
-    "Price": "30 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-kralovo-pole-skacelova/2925335372",
-    "id": "2925335372"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 80 m²",
-    "Address": "Masarykova, Brno - Brno-město",
-    "Price": "30 500 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-brno-mesto-masarykova/2356761420",
-    "id": "2356761420"
   }
 ]
