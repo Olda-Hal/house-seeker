@@ -1,5 +1,19 @@
 [
   {
+    "header": "Pronájem bytu 3+1 73 m²",
+    "Address": "Mikulčická, Brno - Slatina",
+    "Price": "22 500 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-slatina-mikulcicka/2904989772",
+    "id": "2904989772"
+  },
+  {
+    "header": "Pronájem bytu 3+1 123 m²",
+    "Address": "Hlinky, Brno - Staré Brno",
+    "Price": "30 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-stare-brno-hlinky/3306177356",
+    "id": "3306177356"
+  },
+  {
     "header": "Pronájem bytu 3+1 55 m²",
     "Address": "Tábor, Brno - Žabovřesky",
     "Price": "20 000 Kč/měsíc",
@@ -131,19 +145,5 @@
     "Price": "27 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-lesna-majdalenky/4283543628",
     "id": "4283543628"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 83 m²",
-    "Address": "Dusíkova, Brno - Lesná",
-    "Price": "23 990 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-lesna-dusikova/3885331276",
-    "id": "3885331276"
-  },
-  {
-    "header": "Pronájem bytu 3+1 68 m²",
-    "Address": "Horní, Brno - Štýřice",
-    "Price": "25 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-styrice-horni/1116975180",
-    "id": "1116975180"
   }
 ]
