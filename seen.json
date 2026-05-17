@@ -21,6 +21,34 @@
     "id": "749838412"
   },
   {
+    "header": "Pronájem bytu 3+kk 91 m²",
+    "Address": "třída Generála Píky, Brno",
+    "Price": "47 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-brno-trida-generala-piky/3868700748",
+    "id": "3868700748"
+  },
+  {
+    "header": "Pronájem bytu 2+1 52 m²",
+    "Address": "Křížová, Brno - Staré Brno",
+    "Price": "21 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-stare-brno-krizova/296595532",
+    "id": "296595532"
+  },
+  {
+    "header": "Pronájem bytu 3+1 80 m²",
+    "Address": "Herčíkova, Brno - Královo Pole",
+    "Price": "23 800 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-kralovo-pole-hercikova/2806469452",
+    "id": "2806469452"
+  },
+  {
+    "header": "Pronájem bytu 2+1 59 m²",
+    "Address": "Teyschlova, Brno - Bystrc",
+    "Price": "16 900 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-bystrc-teyschlova/3606471500",
+    "id": "3606471500"
+  },
+  {
     "header": "Pronájem bytu 3+kk 73 m²",
     "Address": "Říčanská, Brno - Bystrc",
     "Price": "23 990 Kč/měsíc",
@@ -117,33 +145,5 @@
     "Price": "7 500 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-zabovresky-chladkova/1925091404",
     "id": "1925091404"
-  },
-  {
-    "header": "Pronájem bytu 2+1 45 m²",
-    "Address": "Brno - Brno-Komín",
-    "Price": "7 850 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-brno-komin-/3004993612",
-    "id": "3004993612"
-  },
-  {
-    "header": "Pronájem bytu 2+1 76 m²",
-    "Address": "Zeyerova, Brno - Žabovřesky",
-    "Price": "21 900 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-zabovresky-zeyerova/520917068",
-    "id": "520917068"
-  },
-  {
-    "header": "Pronájem bytu 3+1 86 m²",
-    "Address": "Šeříková, Brno - Jundrov",
-    "Price": "26 500 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-jundrov-serikova/3123028044",
-    "id": "3123028044"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 61 m²",
-    "Address": "Churého, Brno - Černovice",
-    "Price": "22 700 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-cernovice-chureho/3553996876",
-    "id": "3553996876"
   }
 ]
