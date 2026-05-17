@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+1 55 m²",
+    "Address": "Tábor, Brno - Žabovřesky",
+    "Price": "20 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-zabovresky-tabor/749838412",
+    "id": "749838412"
+  },
+  {
     "header": "Pronájem bytu 2+1 64 m²",
     "Address": "Píškova, Brno - Bystrc",
     "Price": "21 000 Kč/měsíc",
@@ -138,12 +145,5 @@
     "Price": "25 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-styrice-horni/1116975180",
     "id": "1116975180"
-  },
-  {
-    "header": "Pronájem bytu 2+1 46 m²",
-    "Address": "Hvězdová, Brno - Zábrdovice",
-    "Price": "18 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-zabrdovice-hvezdova/194555980",
-    "id": "194555980"
   }
 ]
