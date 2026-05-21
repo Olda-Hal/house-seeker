@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 2+1 56 m²",
+    "Address": "Přadlácká, Brno - Zábrdovice",
+    "Price": "18 600 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-zabrdovice-pradlacka/2275905612",
+    "id": "2275905612"
+  },
+  {
     "header": "Pronájem bytu 3+kk 100 m²",
     "Address": "Majdalenky, Brno - Lesná",
     "Price": "35 900 Kč/měsíc",
@@ -47,13 +54,6 @@
     "Price": "30 500 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-brno-mesto-masarykova/1181307724",
     "id": "1181307724"
-  },
-  {
-    "header": "Luxusní dům František 14",
-    "Address": "Pořiďte si svůj vysněný dům s dispozicí 5+1+G včetně pozemku za 21.696 Kč /měsíčně.",
-    "Price": "Ekonomické stavby",
-    "link": "https://i.imedia.cz/v2/click?spotId=4149845&d=ZQGVXDTCWB7WMHTWAT28S427UIF8A3RY4U39JWXTT7PEW55WMPS2I7GTKSSHCFNNJURMWD789C2KPDH68TTXWMBSJFY5IEJG6UT943SQJNPCJJ9PGFFRE2CKMEEW9SVN6XEA8E8D2PVZFXKN33PJAFPKEY5S3YP9IJJ7AMA98M7JYAFHAZ3WJ2EUSJHVIC5MHNDZWMBAIMCB8V88ZV698WQXMRGJPSE62R4BRASH4Q99GKTSN69UPUGXXV2A4Q522T3YJI4VW49UFXFIQK6CX8VFS2G2HUTTJR3PEKRZXSNTD7562FAFI5NVUIZ7KKYW8NRS7RKCU7S6WKNBI8E4SFZFDUIBVVH6U3MQ2KVM99W8V85Z&destination=https%3A//pozemky.ekonomicke-stavby.cz/frantisek_14.php%3Futm_source%3DSreality%26utm_campaign%3DFrantisek14%282-2026%29%26utm_term%3Dpromoballoon%26utm_content%3Dpaymentnotshown%26utm_medium%3DNativniInzerat",
-    "id": "frantisek_14.php%3Futm_source%3DSreality%26utm_campaign%3DFrantisek14%282-2026%29%26utm_term%3Dpromoballoon%26utm_content%3Dpaymentnotshown%26utm_medium%3DNativniInzerat"
   },
   {
     "header": "Pronájem bytu 3+kk 93 m²",
@@ -138,12 +138,5 @@
     "Price": "30 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-veveri-capkova/70750284",
     "id": "70750284"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 70 m²",
-    "Address": "Cejl, Brno - Zábrdovice",
-    "Price": "24 900 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zabrdovice-cejl/1512157260",
-    "id": "1512157260"
   }
 ]
