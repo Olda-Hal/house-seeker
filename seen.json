@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 2+1 42 m²",
+    "Address": "Renneská třída, Brno - Štýřice",
+    "Price": "16 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-styrice-renneska-trida/1243123788",
+    "id": "1243123788"
+  },
+  {
     "header": "Pronájem bytu 3+kk 87 m²",
     "Address": "Soukenická, Brno - Staré Brno",
     "Price": "27 990 Kč/měsíc",
@@ -138,12 +145,5 @@
     "Price": "15 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-veveri-zahradnikova/4236677196",
     "id": "4236677196"
-  },
-  {
-    "header": "Pronájem bytu 2+1 81 m²",
-    "Address": "Antonínská, Brno - Veveří",
-    "Price": "21 500 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-veveri-antoninska/1010016332",
-    "id": "1010016332"
   }
 ]
