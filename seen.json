@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 62 m²",
+    "Address": "Štouračova, Brno - Bystrc",
+    "Price": "21 500 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-bystrc-stouracova/2081857612",
+    "id": "2081857612"
+  },
+  {
     "header": "Pronájem bytu 3+kk 87 m²",
     "Address": "Hlinky, Brno - Staré Brno",
     "Price": "33 000 Kč/měsíc",
@@ -105,13 +112,6 @@
     "id": "2202382412"
   },
   {
-    "header": "Luxusní dům František 14",
-    "Address": "Pořiďte si svůj vysněný dům s dispozicí 5+1+G včetně pozemku za 21.696 Kč /měsíčně.",
-    "Price": "Ekonomické stavby",
-    "link": "https://i.imedia.cz/v2/click?spotId=4149840&d=79UQTX7WZ5YQIN8NK7A2SNP7VHDYMPVRV5P3F5ZCTD79UA6G3QE2PFJ4UCV7XM6CAVMFAJ3BH83XGXIBIMYWC9PB6KBN3HTKXB9GKGZEYCK97AHVYJCIGX2CJGXINXE98Q2RJAXX74M42WY5IIS5EKNKWEPHDYESS92J8JE85ZJ8XPG2YP89GT54ICRKDNIDNIB4MPFF7HXAWQU3FJAMZHICSPTETWQJACKPYTG6B5A6F37P86GAS4V7M9KDT5WSTCRQY48NZ8HNJVIETCCYTMF4ND9I9ZCS3YHQKJFD3IXQIWPT8B82EBZN2JAU8BJD665IS5RGYHC6V7TIB2PF4C6I7BB9MDFHSWJ9ZDM3FUKYNKTR&destination=https%3A//pozemky.ekonomicke-stavby.cz/frantisek_14.php%3Futm_source%3DSreality%26utm_campaign%3DFrantisek14%282-2026%29%26utm_term%3Dpromoballoon%26utm_content%3Dpaymentnotshown%26utm_medium%3DNativniInzerat",
-    "id": "frantisek_14.php%3Futm_source%3DSreality%26utm_campaign%3DFrantisek14%282-2026%29%26utm_term%3Dpromoballoon%26utm_content%3Dpaymentnotshown%26utm_medium%3DNativniInzerat"
-  },
-  {
     "header": "Pronájem bytu 2+1 52 m²",
     "Address": "Křížová, Brno - Staré Brno",
     "Price": "21 000 Kč/měsíc",
@@ -138,12 +138,5 @@
     "Price": "23 450 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-zabrdovice-vlhka/460689484",
     "id": "460689484"
-  },
-  {
-    "header": "Pronájem bytu 2+1 46 m²",
-    "Address": "Hvězdová, Brno - Zábrdovice",
-    "Price": "18 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-zabrdovice-hvezdova/194555980",
-    "id": "194555980"
   }
 ]
