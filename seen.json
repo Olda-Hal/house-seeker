@@ -21,13 +21,6 @@
     "id": "571510860"
   },
   {
-    "header": "Pronájem bytu 2+1 70 m²",
-    "Address": "Panská, Brno - Brno-město",
-    "Price": "26 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-brno-mesto-panska/480481356",
-    "id": "480481356"
-  },
-  {
     "header": "Pronájem bytu 3+1 73 m²",
     "Address": "Mikulčická, Brno - Slatina",
     "Price": "22 500 Kč/měsíc",
@@ -54,6 +47,13 @@
     "Price": "47 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-brno-trida-generala-piky/3868700748",
     "id": "3868700748"
+  },
+  {
+    "header": "Luxusní dům František 14",
+    "Address": "Pořiďte si svůj vysněný dům s dispozicí 5+1+G včetně pozemku za 21.696 Kč /měsíčně.",
+    "Price": "Ekonomické stavby",
+    "link": "https://i.imedia.cz/v2/click?spotId=4149840&d=FWGAWXQD8QJE6ZXEVP98GKUVQ3UZ8F98MKDUC3UBUQARMZDS3TH97QESTKSD33SIBIUIE6EWZ622K5QXT9XM2RWZT8RNCQTKQP4XAMA7MQ9WY6BJJCHIHJ767NK2TM9V9YFWBA27RIDVP5P2U5MK7IZC8YYTKKNBAJTQNIIFFS2IRHWJYEFPSNBYTJ9AINW5VY8U5FDYHIG9BWV6QGTGN3W9P3SXNJ3EU5MSGZR56S9Y3KT6Z2UXUYBGZ3K6RTXNRY8ANT9DV7UQD3BUCAW6YQ7SSWRX79Z99ZMNKGTBRE5E2VUQGUTZMUNFGB7EKZ2Z9BY728RTIWMRAKEE4AQ7A4BVUT8EXGYYBYGEX33CT2KK7UDA&destination=https%3A//pozemky.ekonomicke-stavby.cz/frantisek_14.php%3Futm_source%3DSreality%26utm_campaign%3DFrantisek14%282-2026%29%26utm_term%3Dpromoballoon%26utm_content%3Dpaymentnotshown%26utm_medium%3DNativniInzerat",
+    "id": "frantisek_14.php%3Futm_source%3DSreality%26utm_campaign%3DFrantisek14%282-2026%29%26utm_term%3Dpromoballoon%26utm_content%3Dpaymentnotshown%26utm_medium%3DNativniInzerat"
   },
   {
     "header": "Pronájem bytu 2+1 52 m²",
@@ -138,5 +138,12 @@
     "Price": "21 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-lesna-loosova/3145572428",
     "id": "3145572428"
+  },
+  {
+    "header": "Pronájem bytu 2+1 70 m²",
+    "Address": "Údolní, Brno - Veveří",
+    "Price": "25 000 Kč",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-veveri-udolni/2962788428",
+    "id": "2962788428"
   }
 ]
