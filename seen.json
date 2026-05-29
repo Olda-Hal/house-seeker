@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 2+1 54 m²",
+    "Address": "Družstevní, Brno - Řečkovice",
+    "Price": "21 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-reckovice-druzstevni/1449689164",
+    "id": "1449689164"
+  },
+  {
     "header": "Pronájem bytu 3+kk 65 m²",
     "Address": "Vodova, Brno - Královo Pole",
     "Price": "22 000 Kč/měsíc",
@@ -138,12 +145,5 @@
     "Price": "18 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-zabrdovice-hvezdova/194555980",
     "id": "194555980"
-  },
-  {
-    "header": "Pronájem bytu 2+1 62 m²",
-    "Address": "Brno - Žabovřesky",
-    "Price": "20 800 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-zabovresky-/1869250636",
-    "id": "1869250636"
   }
 ]
