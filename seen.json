@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+1 64 m²",
+    "Address": "Vrbenského, Brno - Komín",
+    "Price": "20 500 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-komin-vrbenskeho/716673100",
+    "id": "716673100"
+  },
+  {
     "header": "Pronájem bytu 3+kk 65 m²",
     "Address": "Vodova, Brno - Královo Pole",
     "Price": "22 000 Kč/měsíc",
@@ -138,12 +145,5 @@
     "Price": "22 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-stary-liskovec-dunajska/1622909004",
     "id": "1622909004"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 71 m²",
-    "Address": "Renneská třída, Brno - Štýřice",
-    "Price": "21 500 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-styrice-renneska-trida/2202382412",
-    "id": "2202382412"
   }
 ]
