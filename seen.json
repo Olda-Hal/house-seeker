@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 2+1 60 m²",
+    "Address": "Chládkova, Brno - Žabovřesky",
+    "Price": "7 500 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-zabovresky-chladkova/1925091404",
+    "id": "1925091404"
+  },
+  {
     "header": "Pronájem bytu 3+1 103 m²",
     "Address": "Jakubské náměstí, Brno - Brno-město",
     "Price": "33 000 Kč/měsíc",
@@ -138,12 +145,5 @@
     "Price": "18 990 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-trnita-masna/1547719500",
     "id": "1547719500"
-  },
-  {
-    "header": "Pronájem bytu 2+1 62 m²",
-    "Address": "Skorkovského, Brno - Židenice",
-    "Price": "21 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-zidenice-skorkovskeho/4171735116",
-    "id": "4171735116"
   }
 ]
