@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+1 75 m²",
+    "Address": "Jožky Jabůrkové, Brno - Komín",
+    "Price": "27 990 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-komin-jozky-jaburkove/2662047820",
+    "id": "2662047820"
+  },
+  {
     "header": "Pronájem bytu 2+1 53 m²",
     "Address": "Koliště, Brno - Zábrdovice",
     "Price": "19 000 Kč/měsíc",
@@ -138,12 +145,5 @@
     "Price": "30 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-kralovo-pole-cervinkova/2852880460",
     "id": "2852880460"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 87 m²",
-    "Address": "Jaselská, Brno - Veveří",
-    "Price": "28 500 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-veveri-jaselska/3055517772",
-    "id": "3055517772"
   }
 ]
