@@ -1,5 +1,19 @@
 [
   {
+    "header": "Pronájem bytu 3+1 76 m²",
+    "Address": "Jeronýmova, Brno - Židenice",
+    "Price": "21 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-zidenice-jeronymova/3321004108",
+    "id": "3321004108"
+  },
+  {
+    "header": "Pronájem bytu 2+1 68 m²",
+    "Address": "Grohova, Brno - Veveří",
+    "Price": "23 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-veveri-grohova/2330099788",
+    "id": "2330099788"
+  },
+  {
     "header": "Pronájem bytu 3+kk 71 m²",
     "Address": "Čeňka Růžičky, Brno - Bohunice",
     "Price": "27 000 Kč/měsíc",
@@ -131,19 +145,5 @@
     "Price": "23 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-brno-kralovopolska/616468556",
     "id": "616468556"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 80 m²",
-    "Address": "Opuštěná, Brno - Trnitá",
-    "Price": "28 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-trnita-opustena/589463628",
-    "id": "589463628"
-  },
-  {
-    "header": "Pronájem bytu 2+1 46 m²",
-    "Address": "Hvězdová, Brno - Zábrdovice",
-    "Price": "18 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-zabrdovice-hvezdova/194555980",
-    "id": "194555980"
   }
 ]
