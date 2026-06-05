@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 73 m²",
+    "Address": "Jižní, Brno - Horní Heršpice",
+    "Price": "29 500 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-horni-herspice-jizni/1304526924",
+    "id": "1304526924"
+  },
+  {
     "header": "Pronájem bytu 3+kk 87 m²",
     "Address": "Hlinky, Brno - Staré Brno",
     "Price": "31 500 Kč/měsíc",
@@ -138,12 +145,5 @@
     "Price": "17 990 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-trnita-masna/1547719500",
     "id": "1547719500"
-  },
-  {
-    "header": "Pronájem bytu 2+1 58 m²",
-    "Address": "U Velké ceny, Brno - Kohoutovice",
-    "Price": "19 500 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-kohoutovice-u-velke-ceny/2023587916",
-    "id": "2023587916"
   }
 ]
