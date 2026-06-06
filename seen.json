@@ -1,5 +1,19 @@
 [
   {
+    "header": "Pronájem bytu 3+1 62 m²",
+    "Address": "Švermova, Brno - Bohunice",
+    "Price": "22 990 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-bohunice-svermova/4024074316",
+    "id": "4024074316"
+  },
+  {
+    "header": "Pronájem bytu 3+1 107 m²",
+    "Address": "Veveří, Brno - Veveří",
+    "Price": "19 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-veveri-veveri/1518436428",
+    "id": "1518436428"
+  },
+  {
     "header": "Pronájem bytu 3+1 103 m²",
     "Address": "Jakubské náměstí, Brno - Brno-město",
     "Price": "33 000 Kč/měsíc",
@@ -131,19 +145,5 @@
     "Price": "20 500 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-komin-vrbenskeho/716673100",
     "id": "716673100"
-  },
-  {
-    "header": "Pronájem bytu 3+1 68 m²",
-    "Address": "Horní, Brno - Štýřice",
-    "Price": "25 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-styrice-horni/1116975180",
-    "id": "1116975180"
-  },
-  {
-    "header": "Pronájem bytu 2+1 50 m²",
-    "Address": "Havlišova, Brno - Královo Pole",
-    "Price": "21 500 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-kralovo-pole-havlisova/4037115980",
-    "id": "4037115980"
   }
 ]
