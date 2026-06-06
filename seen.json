@@ -1,5 +1,26 @@
 [
   {
+    "header": "Pronájem bytu 2+1 60 m²",
+    "Address": "Chládkova, Brno - Žabovřesky",
+    "Price": "7 500 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-zabovresky-chladkova/1925091404",
+    "id": "1925091404"
+  },
+  {
+    "header": "Pronájem bytu 2+1 62 m²",
+    "Address": "Chládkova, Brno - Žabovřesky",
+    "Price": "20 800 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-zabovresky-chladkova/1869250636",
+    "id": "1869250636"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 100 m²",
+    "Address": "Majdalenky, Brno - Lesná",
+    "Price": "35 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-lesna-majdalenky/2444402764",
+    "id": "2444402764"
+  },
+  {
     "header": "Pronájem bytu 2+1 55 m²",
     "Address": "Vlhká, Brno - Zábrdovice",
     "Price": "23 295 Kč/měsíc",
@@ -112,13 +133,6 @@
     "id": "3887894604"
   },
   {
-    "header": "Pronájem bytu 3+kk 100 m²",
-    "Address": "Majdalenky, Brno - Lesná",
-    "Price": "35 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-lesna-majdalenky/2444402764",
-    "id": "2444402764"
-  },
-  {
     "header": "Pronájem bytu 3+1 73 m²",
     "Address": "Merhautova, Brno - Černá Pole",
     "Price": "25 990 Kč/měsíc",
@@ -131,19 +145,5 @@
     "Price": "26 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-veveri-antoninska/1945206860",
     "id": "1945206860"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 80 m²",
-    "Address": "Masarykova, Brno - Brno-město",
-    "Price": "30 500 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-brno-mesto-masarykova/1181307724",
-    "id": "1181307724"
-  },
-  {
-    "header": "Pronájem bytu 3+1 143 m²",
-    "Address": "Schodová, Brno - Černá Pole",
-    "Price": "40 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-cerna-pole-schodova/937078860",
-    "id": "937078860"
   }
 ]
