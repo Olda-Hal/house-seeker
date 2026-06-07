@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 73 m²",
+    "Address": "Bednaříkova, Brno - Líšeň",
+    "Price": "21 500 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-lisen-bednarikova/2593030220",
+    "id": "2593030220"
+  },
+  {
     "header": "Pronájem bytu 3+kk 87 m²",
     "Address": "Soukenická, Brno - Staré Brno",
     "Price": "26 990 Kč/měsíc",
@@ -105,13 +112,6 @@
     "id": "1796051020"
   },
   {
-    "header": "Luxusní dům František 14",
-    "Address": "Pořiďte si svůj vysněný dům s dispozicí 5+1+G včetně pozemku za 21.696 Kč /měsíčně.",
-    "Price": "Ekonomické stavby",
-    "link": "https://i.imedia.cz/v2/click?spotId=4172140&d=TQM6YEY2E6PWYCXY62GRDV53RK7QGXFCWJEGJNT5VD4T7IZZQ8DSNJV7R4JDTVIBW95D5Y8YC372V2W2ZK83Q5QGYRZ6MTGUU6TF2K5WMKSPV5SQY9I9VFN5PX2VZTN5GWSIMPM2XDJUSD5PPJ9TIKZI9AWEDZ8IW5BBBC9WU423PC272XQ6X45TGJACIGQRBV2SGH9ZVPH498Y5NTW3G8ZB9HGJXBQK47CZ7VHZC9HXPSAG9K85TMTVSIFU2M7V5V8G9DMNJWHVN3FUB5S6UCKRVITBDCS7F73264F7YQHKWKJ5QQ4UQFS7M8SY674AGC27QIUPC8K2SQPZ8NS7SURMMMDCDU3D3X4DQXE3CQCRW&destination=https%3A//pozemky.ekonomicke-stavby.cz/frantisek_14.php%3Futm_source%3DSreality%26utm_campaign%3DFrantisek14%282-2026%29%26utm_term%3Dpromoballoon%26utm_content%3Dpaymentnotshown%26utm_medium%3DNativniInzerat",
-    "id": "frantisek_14.php%3Futm_source%3DSreality%26utm_campaign%3DFrantisek14%282-2026%29%26utm_term%3Dpromoballoon%26utm_content%3Dpaymentnotshown%26utm_medium%3DNativniInzerat"
-  },
-  {
     "header": "Pronájem bytu 3+1 73 m²",
     "Address": "Merhautova, Brno - Černá Pole",
     "Price": "25 990 Kč/měsíc",
@@ -138,12 +138,5 @@
     "Price": "30 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-brno-schodova/1882161228",
     "id": "1882161228"
-  },
-  {
-    "header": "Pronájem bytu 3+1 68 m²",
-    "Address": "Podlesí, Brno - Komín",
-    "Price": "20 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-komin-podlesi/1797488716",
-    "id": "1797488716"
   }
 ]
