@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 83 m²",
+    "Address": "Mlýnská, Brno - Trnitá",
+    "Price": "27 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-trnita-mlynska/1788182604",
+    "id": "1788182604"
+  },
+  {
     "header": "Pronájem bytu 3+1 70 m²",
     "Address": "Tábor, Brno - Žabovřesky",
     "Price": "25 000 Kč/měsíc",
@@ -98,6 +105,13 @@
     "id": "1622909004"
   },
   {
+    "header": "Luxusní dům František 14",
+    "Address": "Pořiďte si svůj vysněný dům s dispozicí 5+1+G včetně pozemku za 21.696 Kč /měsíčně.",
+    "Price": "Ekonomické stavby",
+    "link": "https://i.imedia.cz/v2/click?spotId=4172135&d=8DHQK3CNQ9BC2V5Z2RE9FP94C8ITBJB579HBRKMGQ496AMXICAS8KHNTT29XIPS6I3DBXA2AAP4VZESDZGMJWPDYQNV6EX38MMJ9I5I96Q6H5CDV74W5MXHE35MHDBUPRIRIYP73KCJPWDE7H36GE29Y2QHR9UEK5BEGJD64NAMK57VX6HVTPB6Q37HJDYV6CD7U69IWXBXETYDKSJMIVQU6RWRAHZ797WIXFSETD6D9WAP2MXPMKKMPMRKWSFTAEE7NWSEHWKYGB99GNXRZCBMK43YCHRASI5WVTMBG8I5DQ7EK3VGKTVB6J7MKCJ49GUQSE354Q5XEYU6K7YU8TPU7E9XPJS4S9ZPVZWIJPCZTNGW2&destination=https%3A//pozemky.ekonomicke-stavby.cz/frantisek_14.php%3Futm_source%3DSreality%26utm_campaign%3DFrantisek14%282-2026%29%26utm_term%3Dpromoballoon%26utm_content%3Dpaymentnotshown%26utm_medium%3DNativniInzerat",
+    "id": "frantisek_14.php%3Futm_source%3DSreality%26utm_campaign%3DFrantisek14%282-2026%29%26utm_term%3Dpromoballoon%26utm_content%3Dpaymentnotshown%26utm_medium%3DNativniInzerat"
+  },
+  {
     "header": "Pronájem bytu 3+kk 91 m²",
     "Address": "třída Generála Píky, Brno",
     "Price": "47 000 Kč/měsíc",
@@ -131,12 +145,5 @@
     "Price": "25 990 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-cerna-pole-namesti-snp/167936076",
     "id": "167936076"
-  },
-  {
-    "header": "Pronájem bytu 2+1 47 m²",
-    "Address": "Václavkova, Brno - Židenice",
-    "Price": "17 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-zidenice-vaclavkova/1758822476",
-    "id": "1758822476"
   }
 ]
