@@ -14,13 +14,6 @@
     "id": "1931182156"
   },
   {
-    "header": "Pronájem bytu 2+1 46 m²",
-    "Address": "Hlávkova, Brno - Stránice",
-    "Price": "14 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-stranice-hlavkova/1253343308",
-    "id": "1253343308"
-  },
-  {
     "header": "Pronájem bytu 3+1 71 m²",
     "Address": "Valašská, Brno - Starý Lískovec",
     "Price": "24 000 Kč/měsíc",
@@ -54,6 +47,13 @@
     "Price": "17 990 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-husovice-namesti-republiky/2864025676",
     "id": "2864025676"
+  },
+  {
+    "header": "Luxusní dům František 14",
+    "Address": "Pořiďte si svůj vysněný dům s dispozicí 5+1+G včetně pozemku za 21.696 Kč /měsíčně.",
+    "Price": "Ekonomické stavby",
+    "link": "https://i.imedia.cz/v2/click?spotId=4172135&d=ZHVYYQHRUFACVQBDD7ZUISZF73ZP4CBDPMKD3I8SV6BJUATH3QREQZ558VDRIQX4GU27H7VSUWDPHCXRRNR324TXTME92FJW7PK6PBCDTZJ9G7DJYHB77FP32YD7T9WPPF7ZBTZF7S89XZPYT7DB3KJ9673BKF2P9VG6HREWV3R9H8KBMJMXSP2UR95963FTTRNYRT2DUXJQY4T8F649IYK76NKJDYEERXHQB2Y62WJYPJJ8KDQTDZX6FUCXXPF373JNTND2D67VC9REEMCSI2ZHQV6FXAKPU2AHVGWENNNYDTMVS2VWR7J459UEQ454SMQINFZ4Y5EMKFGQ5HREFWXR8DMZZFKT3F67DIIYY8U68&destination=https%3A//pozemky.ekonomicke-stavby.cz/frantisek_14.php%3Futm_source%3DSreality%26utm_campaign%3DFrantisek14%282-2026%29%26utm_term%3Dpromoballoon%26utm_content%3Dpaymentnotshown%26utm_medium%3DNativniInzerat",
+    "id": "frantisek_14.php%3Futm_source%3DSreality%26utm_campaign%3DFrantisek14%282-2026%29%26utm_term%3Dpromoballoon%26utm_content%3Dpaymentnotshown%26utm_medium%3DNativniInzerat"
   },
   {
     "header": "Pronájem bytu 3+kk 100 m²",
@@ -98,20 +98,6 @@
     "id": "296595532"
   },
   {
-    "header": "Pronájem bytu 2+1 70 m²",
-    "Address": "Panská, Brno - Brno-město",
-    "Price": "26 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-brno-mesto-panska/480481356",
-    "id": "480481356"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 105 m²",
-    "Address": "Cejl, Brno - Zábrdovice",
-    "Price": "21 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zabrdovice-cejl/896368716",
-    "id": "896368716"
-  },
-  {
     "header": "Pronájem bytu 3+1 106 m²",
     "Address": "Došlíkova, Brno - Židenice",
     "Price": "25 000 Kč/měsíc",
@@ -138,5 +124,26 @@
     "Price": "27 990 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-husovice-vranovska/2982445132",
     "id": "2982445132"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 80 m²",
+    "Address": "Masarykova, Brno - Brno-město",
+    "Price": "29 500 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-brno-mesto-masarykova/2398388300",
+    "id": "2398388300"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 66 m²",
+    "Address": "Hlinky, Brno - Pisárky",
+    "Price": "Cena na vyžádání",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-pisarky-hlinky/3807674444",
+    "id": "3807674444"
+  },
+  {
+    "header": "Pronájem bytu 2+1 46 m²",
+    "Address": "Hvězdová, Brno - Zábrdovice",
+    "Price": "18 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-zabrdovice-hvezdova/194555980",
+    "id": "194555980"
   }
 ]
