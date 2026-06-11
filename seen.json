@@ -1,5 +1,33 @@
 [
   {
+    "header": "Pronájem bytu 3+1 136 m²",
+    "Address": "Jiráskova, Brno - Veveří",
+    "Price": "36 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-veveri-jiraskova/3623718988",
+    "id": "3623718988"
+  },
+  {
+    "header": "Pronájem bytu 3+1 136 m²",
+    "Address": "Jiráskova, Brno - Veveří",
+    "Price": "35 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-veveri-jiraskova/1260814412",
+    "id": "1260814412"
+  },
+  {
+    "header": "Pronájem bytu 3+1 65 m²",
+    "Address": "Škrétova, Brno - Řečkovice",
+    "Price": "25 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-reckovice-skretova/3453583436",
+    "id": "3453583436"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 95 m²",
+    "Address": "Grohova, Brno - Veveří",
+    "Price": "39 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-veveri-grohova/1543667788",
+    "id": "1543667788"
+  },
+  {
     "header": "Pronájem bytu 3+kk 83 m²",
     "Address": "Mlýnská, Brno - Trnitá",
     "Price": "27 000 Kč/měsíc",
@@ -77,6 +105,13 @@
     "id": "3861614668"
   },
   {
+    "header": "Luxusní dům František 14",
+    "Address": "Pořiďte si svůj vysněný dům s dispozicí 5+1+G včetně pozemku za 21.696 Kč /měsíčně.",
+    "Price": "Ekonomické stavby",
+    "link": "https://i.imedia.cz/v2/click?spotId=4172140&d=AK627G3Y9BZB3XPERVX4SC2FATFRDJ56GVQS2AS3C7G9SD5K74D69BT8D984I8HW7UFQ4NTFV7XSV6BFIW8443GAIRC9WK3MYTJTRK4YEG4QCR4E6XJUZE6TYTH7AVMAN6V6XG4YBQ5SV5YBC6TU57AXF5YF4DTRURJ8SZNURFKY2K3P3HPBH3AKQ5D2SPDURAFFIMPK3HB2F9NVUDJVH94FB4QCGS9TXIZIRY9S6YXPMYVEMZX2R8WI38Z4XKBZI79CH2J854E22TY7AWYHWYHKNBP9P6QB7H7A2ES93ET2DVFQAIVGMWWVAVE75QUG8M4WIGSW5U45C5WR6KT653WR344UYCZF6Y3JMKZK2JUBJRP7&destination=https%3A//pozemky.ekonomicke-stavby.cz/frantisek_14.php%3Futm_source%3DSreality%26utm_campaign%3DFrantisek14%282-2026%29%26utm_term%3Dpromoballoon%26utm_content%3Dpaymentnotshown%26utm_medium%3DNativniInzerat",
+    "id": "frantisek_14.php%3Futm_source%3DSreality%26utm_campaign%3DFrantisek14%282-2026%29%26utm_term%3Dpromoballoon%26utm_content%3Dpaymentnotshown%26utm_medium%3DNativniInzerat"
+  },
+  {
     "header": "Pronájem bytu 2+1 55 m²",
     "Address": "Ibsenova, Brno - Lesná",
     "Price": "19 000 Kč/měsíc",
@@ -110,33 +145,5 @@
     "Price": "47 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-brno-trida-generala-piky/3868700748",
     "id": "3868700748"
-  },
-  {
-    "header": "Pronájem bytu 2+1 52 m²",
-    "Address": "Křížová, Brno - Staré Brno",
-    "Price": "20 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-stare-brno-krizova/296595532",
-    "id": "296595532"
-  },
-  {
-    "header": "Pronájem bytu 2+1 57 m²",
-    "Address": "Slavkovská, Brno - Slatina",
-    "Price": "19 000 Kč",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-slatina-slavkovska/1179492428",
-    "id": "1179492428"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 122 m²",
-    "Address": "Nové sady, Brno - Staré Brno",
-    "Price": "28 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-stare-brno-nove-sady/24936524",
-    "id": "24936524"
-  },
-  {
-    "header": "Pronájem bytu 3+1 77 m²",
-    "Address": "náměstí SNP, Brno - Černá Pole",
-    "Price": "25 990 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-cerna-pole-namesti-snp/167936076",
-    "id": "167936076"
   }
 ]
