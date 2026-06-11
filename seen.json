@@ -1,5 +1,19 @@
 [
   {
+    "header": "Pronájem bytu 2+1 85 m²",
+    "Address": "Františky Stránecké, Brno - Stránice",
+    "Price": "29 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-stranice-frantisky-stranecke/3720581196",
+    "id": "3720581196"
+  },
+  {
+    "header": "Pronájem bytu 3+1 76 m²",
+    "Address": "Chytilova, Brno - Komín",
+    "Price": "26 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-komin-chytilova/1931182156",
+    "id": "1931182156"
+  },
+  {
     "header": "Pronájem bytu 2+1 46 m²",
     "Address": "Hlávkova, Brno - Stránice",
     "Price": "14 000 Kč/měsíc",
@@ -124,19 +138,5 @@
     "Price": "27 990 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-husovice-vranovska/2982445132",
     "id": "2982445132"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 80 m²",
-    "Address": "Masarykova, Brno - Brno-město",
-    "Price": "29 500 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-brno-mesto-masarykova/2398388300",
-    "id": "2398388300"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 66 m²",
-    "Address": "Hlinky, Brno - Pisárky",
-    "Price": "Cena na vyžádání",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-pisarky-hlinky/3807674444",
-    "id": "3807674444"
   }
 ]
