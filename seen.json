@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+1 97 m²",
+    "Address": "Ptašínského, Brno - Ponava",
+    "Price": "25 600 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-ponava-ptasinskeho/2305486924",
+    "id": "2305486924"
+  },
+  {
     "header": "Pronájem bytu 3+kk 73 m²",
     "Address": "Říčanská, Brno - Bystrc",
     "Price": "23 990 Kč/měsíc",
@@ -131,12 +138,5 @@
     "Price": "23 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-reckovice-skretova/3861614668",
     "id": "3861614668"
-  },
-  {
-    "header": "Pronájem bytu 2+1 55 m²",
-    "Address": "Ibsenova, Brno - Lesná",
-    "Price": "19 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-lesna-ibsenova/1462472780",
-    "id": "1462472780"
   }
 ]
