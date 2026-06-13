@@ -1,17 +1,24 @@
 [
   {
-    "header": "Pronájem bytu 3+kk 79 m²",
-    "Address": "Placzkova, Brno - Trnitá",
-    "Price": "32 990 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-trnita-placzkova/2207285324",
-    "id": "2207285324"
-  },
-  {
     "header": "Pronájem bytu 3+kk 66 m²",
     "Address": "Stavební, Brno - Trnitá",
     "Price": "21 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-trnita-stavebni/782598220",
     "id": "782598220"
+  },
+  {
+    "header": "Pronájem bytu 2+1 53 m²",
+    "Address": "Krásného, Brno - Židenice",
+    "Price": "17 500 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-zidenice-krasneho/1161859148",
+    "id": "1161859148"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 79 m²",
+    "Address": "Placzkova, Brno - Trnitá",
+    "Price": "32 990 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-trnita-placzkova/2207285324",
+    "id": "2207285324"
   },
   {
     "header": "Pronájem bytu 3+kk 57 m²",
@@ -47,13 +54,6 @@
     "Price": "25 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-zidenice-doslikova/3186393164",
     "id": "3186393164"
-  },
-  {
-    "header": "Luxusní dům František 14",
-    "Address": "Pořiďte si svůj vysněný dům s dispozicí 5+1+G včetně pozemku za 21.696 Kč /měsíčně.",
-    "Price": "Ekonomické stavby",
-    "link": "https://i.imedia.cz/v2/click?spotId=4172135&d=74TZ75KM6TASGWV9T6AX34AZ5UN5EXEAJT5H32FH9FKDDWR6D8NKK2FC45ENX7ZNAYNI84Z53TN4BU945DV6NE4MC8TUK3FNPZX8JWMYZMTPJF9HK3A99MRW8GKBVQ7BN99XW6N8EZPNWMJ4FCJ47SSM72SA5UTTX96BU5WH8MDTRM8R4F9FCDGBK2Q6XDDQ2UGQ7VVTJB6JCGS4UK4I73G36XR4V7FUVVXFEWH6AUSMK8B3QHMVFJRCJGXBQDIYIA5FPJ8HW7X3BIJ2U4B8CSH5AMQTBFXP3GNF369VFENRVIZW6BPH774XRFRUNUTY3FVFMRD5CQXXY98X8F8TH9PP5VKR4HCMRDN5ZB8BWD833FXK&destination=https%3A//pozemky.ekonomicke-stavby.cz/frantisek_14.php%3Futm_source%3DSreality%26utm_campaign%3DFrantisek14%282-2026%29%26utm_term%3Dpromoballoon%26utm_content%3Dpaymentnotshown%26utm_medium%3DNativniInzerat",
-    "id": "frantisek_14.php%3Futm_source%3DSreality%26utm_campaign%3DFrantisek14%282-2026%29%26utm_term%3Dpromoballoon%26utm_content%3Dpaymentnotshown%26utm_medium%3DNativniInzerat"
   },
   {
     "header": "Pronájem bytu 2+1 68 m²",
@@ -138,12 +138,5 @@
     "Price": "22 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-lesna-jurkovicova/2043322444",
     "id": "2043322444"
-  },
-  {
-    "header": "Pronájem bytu 3+1 62 m²",
-    "Address": "Dunajská, Brno - Starý Lískovec",
-    "Price": "22 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-stary-liskovec-dunajska/1622909004",
-    "id": "1622909004"
   }
 ]
