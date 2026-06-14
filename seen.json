@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+1 73 m²",
+    "Address": "Merhautova, Brno - Černá Pole",
+    "Price": "25 990 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-cerna-pole-merhautova/1808089932",
+    "id": "1808089932"
+  },
+  {
     "header": "Pronájem bytu 3+1 75 m²",
     "Address": "Záhřebská, Brno - Žabovřesky",
     "Price": "27 000 Kč/měsíc",
@@ -131,12 +138,5 @@
     "Price": "32 990 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-trnita-placzkova/2207285324",
     "id": "2207285324"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 97 m²",
-    "Address": "U Červeného mlýna, Brno - Ponava",
-    "Price": "30 200 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-ponava-u-cerveneho-mlyna/1649078348",
-    "id": "1649078348"
   }
 ]
