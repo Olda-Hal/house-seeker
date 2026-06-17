@@ -1,5 +1,26 @@
 [
   {
+    "header": "Pronájem bytu 2+1 28 m²",
+    "Address": "Hybešova, Brno - Staré Brno",
+    "Price": "19 900 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-stare-brno-hybesova/878280780",
+    "id": "878280780"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 66 m²",
+    "Address": "Stavební, Brno - Trnitá",
+    "Price": "21 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-trnita-stavebni/782598220",
+    "id": "782598220"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 57 m²",
+    "Address": "Stavební, Brno - Trnitá",
+    "Price": "21 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-trnita-stavebni/1743556684",
+    "id": "1743556684"
+  },
+  {
     "header": "Pronájem bytu 3+1 103 m²",
     "Address": "Jakubské náměstí, Brno - Brno-město",
     "Price": "32 000 Kč/měsíc",
@@ -37,7 +58,7 @@
   {
     "header": "Pronájem bytu 3+1 62 m²",
     "Address": "Dunajská, Brno - Starý Lískovec",
-    "Price": "22 000 Kč/měsíc",
+    "Price": "21 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-stary-liskovec-dunajska/1622909004",
     "id": "1622909004"
   },
@@ -117,26 +138,5 @@
     "Price": "17 500 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-bohunice-spodni/2748313676",
     "id": "2748313676"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 60 m²",
-    "Address": "Veselá, Brno - Brno-město",
-    "Price": "25 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-brno-mesto-vesela/2671812684",
-    "id": "2671812684"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 80 m²",
-    "Address": "Masarykova, Brno - Brno-město",
-    "Price": "29 500 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-brno-mesto-masarykova/2356761420",
-    "id": "2356761420"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 94 m²",
-    "Address": "Kopečná, Brno - Staré Brno",
-    "Price": "36 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-stare-brno-kopecna/756125772",
-    "id": "756125772"
   }
 ]
