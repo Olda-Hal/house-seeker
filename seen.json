@@ -1,5 +1,68 @@
 [
   {
+    "header": "Pronájem bytu 2+1 64 m²",
+    "Address": "Jakuba Obrovského, Brno - Bystrc",
+    "Price": "25 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-bystrc-jakuba-obrovskeho/1280110668",
+    "id": "1280110668"
+  },
+  {
+    "header": "Pronájem bytu 3+1 103 m²",
+    "Address": "Jakubské náměstí, Brno - Brno-město",
+    "Price": "32 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-brno-mesto-jakubske-namesti/3797192780",
+    "id": "3797192780"
+  },
+  {
+    "header": "Pronájem bytu 3+1 80 m²",
+    "Address": "Škrétova, Brno - Řečkovice",
+    "Price": "22 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-reckovice-skretova/3861614668",
+    "id": "3861614668"
+  },
+  {
+    "header": "Pronájem bytu 2+1 55 m²",
+    "Address": "Ibsenova, Brno - Lesná",
+    "Price": "19 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-lesna-ibsenova/1462472780",
+    "id": "1462472780"
+  },
+  {
+    "header": "Pronájem bytu 3+1 72 m²",
+    "Address": "Milady Horákové, Brno - Zábrdovice",
+    "Price": "24 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-zabrdovice-milady-horakove/3637157964",
+    "id": "3637157964"
+  },
+  {
+    "header": "Pronájem bytu 3+1 70 m²",
+    "Address": "Jurkovičova, Brno - Lesná",
+    "Price": "22 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-lesna-jurkovicova/2043322444",
+    "id": "2043322444"
+  },
+  {
+    "header": "Pronájem bytu 3+1 62 m²",
+    "Address": "Dunajská, Brno - Starý Lískovec",
+    "Price": "21 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-stary-liskovec-dunajska/1622909004",
+    "id": "1622909004"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 91 m²",
+    "Address": "třída Generála Píky, Brno",
+    "Price": "47 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-brno-trida-generala-piky/3868700748",
+    "id": "3868700748"
+  },
+  {
+    "header": "Pronájem bytu 2+1 52 m²",
+    "Address": "Křížová, Brno - Staré Brno",
+    "Price": "20 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-stare-brno-krizova/296595532",
+    "id": "296595532"
+  },
+  {
     "header": "Pronájem bytu 3+kk 73 m²",
     "Address": "Říčanská, Brno - Bystrc",
     "Price": "23 990 Kč/měsíc",
@@ -49,13 +112,6 @@
     "id": "1116975180"
   },
   {
-    "header": "Luxusní dům František 14",
-    "Address": "Pořiďte si svůj vysněný dům s dispozicí 5+1+G včetně pozemku za 21.696 Kč /měsíčně.",
-    "Price": "Ekonomické stavby",
-    "link": "https://i.imedia.cz/v2/click?spotId=4172140&d=38EVYAW7Y3H3JFUZPDKBEQHRSSKMY73IFM9Y79ZKEZIARSPRUW2IC32DB385GX4KZ7AGQ796MQGZAEZT7EK5XTXGXAAGUVFIZX8CHHTWP3C783BF7N5F564FBC3P9NF47XNJZ9W9382CVUZFFVPUYJT55H72PVEBNQBGZRP8UEXRH2H8MTNS8ACRDH55KICSAB48IYA9CCDHYY5Y2H2VRUPZSF46R7SW9YSD2MMMF2GRRVTIYD8Q5S9QSTUPAHVF8EG3VPNWGUS8S7TKVF7GI2SKTB83DIM8SD5YVQR6VI7NAM4S9CEUGJAAM4IXU8TCIDFDWIU8R5UY5XZDFH2XXYGJZWBSGCXBSAVAC5345P4NRJQXTA&destination=https%3A//pozemky.ekonomicke-stavby.cz/frantisek_14.php%3Futm_source%3DSreality%26utm_campaign%3DFrantisek14%282-2026%29%26utm_term%3Dpromoballoon%26utm_content%3Dpaymentnotshown%26utm_medium%3DNativniInzerat",
-    "id": "frantisek_14.php%3Futm_source%3DSreality%26utm_campaign%3DFrantisek14%282-2026%29%26utm_term%3Dpromoballoon%26utm_content%3Dpaymentnotshown%26utm_medium%3DNativniInzerat"
-  },
-  {
     "header": "Pronájem bytu 3+1 77 m²",
     "Address": "náměstí SNP, Brno - Černá Pole",
     "Price": "25 990 Kč/měsíc",
@@ -82,68 +138,5 @@
     "Price": "21 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-trnita-stavebni/1743556684",
     "id": "1743556684"
-  },
-  {
-    "header": "Pronájem bytu 3+1 73 m²",
-    "Address": "Merhautova, Brno - Černá Pole",
-    "Price": "25 990 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-cerna-pole-merhautova/1808089932",
-    "id": "1808089932"
-  },
-  {
-    "header": "Pronájem bytu 3+1 64 m²",
-    "Address": "Labská, Brno - Starý Lískovec",
-    "Price": "20 900 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-stary-liskovec-labska/884863052",
-    "id": "884863052"
-  },
-  {
-    "header": "Pronájem bytu 3+1 80 m²",
-    "Address": "Škrétova, Brno - Řečkovice",
-    "Price": "22 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-reckovice-skretova/3861614668",
-    "id": "3861614668"
-  },
-  {
-    "header": "Pronájem bytu 2+1 55 m²",
-    "Address": "Ibsenova, Brno - Lesná",
-    "Price": "19 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-lesna-ibsenova/1462472780",
-    "id": "1462472780"
-  },
-  {
-    "header": "Pronájem bytu 3+1 103 m²",
-    "Address": "Jakubské náměstí, Brno - Brno-město",
-    "Price": "32 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-brno-mesto-jakubske-namesti/3797192780",
-    "id": "3797192780"
-  },
-  {
-    "header": "Pronájem bytu 2+1 56 m²",
-    "Address": "Hlinky, Brno - Staré Brno",
-    "Price": "20 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-stare-brno-hlinky/3158868044",
-    "id": "3158868044"
-  },
-  {
-    "header": "Pronájem bytu 3+1 74 m²",
-    "Address": "Fryčajova, Brno - Obřany",
-    "Price": "21 800 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-obrany-frycajova/4149719116",
-    "id": "4149719116"
-  },
-  {
-    "header": "Pronájem bytu 3+1 72 m²",
-    "Address": "Milady Horákové, Brno - Zábrdovice",
-    "Price": "24 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-zabrdovice-milady-horakove/3637157964",
-    "id": "3637157964"
-  },
-  {
-    "header": "Pronájem bytu 3+1 70 m²",
-    "Address": "Jurkovičova, Brno - Lesná",
-    "Price": "22 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-lesna-jurkovicova/2043322444",
-    "id": "2043322444"
   }
 ]
