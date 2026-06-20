@@ -1,17 +1,17 @@
 [
   {
-    "header": "Pronájem bytu 3+1 65 m²",
-    "Address": "Šmahova, Brno - Slatina",
-    "Price": "25 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-slatina-smahova/2588748",
-    "id": "2588748"
-  },
-  {
     "header": "Pronájem bytu 3+kk 66 m²",
     "Address": "Stavební, Brno - Trnitá",
     "Price": "21 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-trnita-stavebni/782598220",
     "id": "782598220"
+  },
+  {
+    "header": "Pronájem bytu 3+1 65 m²",
+    "Address": "Šmahova, Brno - Slatina",
+    "Price": "25 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-slatina-smahova/2588748",
+    "id": "2588748"
   },
   {
     "header": "Pronájem bytu 3+kk 57 m²",
@@ -103,6 +103,13 @@
     "Price": "20 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-stare-brno-krizova/296595532",
     "id": "296595532"
+  },
+  {
+    "header": "Luxusní dům František 14",
+    "Address": "Pořiďte si svůj vysněný dům s dispozicí 5+1+G včetně pozemku za 21.696 Kč /měsíčně.",
+    "Price": "Ekonomické stavby",
+    "link": "https://i.imedia.cz/v2/click?spotId=4172135&d=NX3GVPPCZNDKXMHVSW477WY6WN6XBX8CGWGMS9GXIQ5UQ7DJXB6P4UICSURCAHHZIUINTXE77APJJDEDY7A55AXZF7S97TIEVM6TZRR4MDYFTAJRCCNXGACZA85MFP4URNDNXGC4PRUX3MUPEM6G5NQIF2UZRCA5RBS7HFM7NZZQ8W2Q69K82JV3HABN7YA9Z6ZV5IG9P7ZQNDV5I49Q6Y5CNG6XKKCM4ERHFM8KGN7WPBSFZP4CCG7SR6WBM4V27NDGWV8U5B758YAWGBR6A87H3MESEWVVQAX4IXCBT45QCH4VFV9EP93MEZERK8IW5FVXBVPDQ76CAQBCP8HVKZR72CTM6VJ2KNSDS8CYDIICGUA&destination=https%3A//pozemky.ekonomicke-stavby.cz/frantisek_14.php%3Futm_source%3DSreality%26utm_campaign%3DFrantisek14%282-2026%29%26utm_term%3Dpromoballoon%26utm_content%3Dpaymentnotshown%26utm_medium%3DNativniInzerat",
+    "id": "frantisek_14.php%3Futm_source%3DSreality%26utm_campaign%3DFrantisek14%282-2026%29%26utm_term%3Dpromoballoon%26utm_content%3Dpaymentnotshown%26utm_medium%3DNativniInzerat"
   },
   {
     "header": "Pronájem bytu 3+1 72 m²",
