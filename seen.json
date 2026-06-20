@@ -49,13 +49,6 @@
     "id": "1116975180"
   },
   {
-    "header": "Pronájem bytu 3+kk 97 m²",
-    "Address": "U Červeného mlýna, Brno - Ponava",
-    "Price": "30 200 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-ponava-u-cerveneho-mlyna/1649078348",
-    "id": "1649078348"
-  },
-  {
     "header": "Pronájem bytu 3+1 77 m²",
     "Address": "náměstí SNP, Brno - Černá Pole",
     "Price": "25 990 Kč/měsíc",
@@ -138,5 +131,12 @@
     "Price": "24 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-zabrdovice-milady-horakove/3637157964",
     "id": "3637157964"
+  },
+  {
+    "header": "Pronájem bytu 3+1 70 m²",
+    "Address": "Jurkovičova, Brno - Lesná",
+    "Price": "22 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-lesna-jurkovicova/2043322444",
+    "id": "2043322444"
   }
 ]
