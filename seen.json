@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+1 75 m²",
+    "Address": "Jožky Jabůrkové, Brno - Komín",
+    "Price": "27 990 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-komin-jozky-jaburkove/2662047820",
+    "id": "2662047820"
+  },
+  {
     "header": "Pronájem bytu 3+1 78 m²",
     "Address": "Šrámkova, Brno - Lesná",
     "Price": "28 800 Kč/měsíc",
@@ -47,13 +54,6 @@
     "Price": "22 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-chrlice-sromova/432439372",
     "id": "432439372"
-  },
-  {
-    "header": "Luxusní dům František 14",
-    "Address": "Pořiďte si svůj vysněný dům s dispozicí 5+1+G včetně pozemku za 21.696 Kč /měsíčně.",
-    "Price": "Ekonomické stavby",
-    "link": "https://i.imedia.cz/v2/click?spotId=4172140&d=P3F3ETGPSUZSQ3WZKTHA5T4UXQ9BZYRW6RC88Y4EQUC9QZPG8UXPYQ9C7EX4TDQX56XAFDE3CAZIHTTESJEXMW3R8AFHWS24S9XN99QIYCSC7GM5ETJ6W24MTUAANPWZD9THNAX858DH2GK8D27IU6IJY6RN4VD5ISJRAWJZ75J9KUKDIIYZ8Q5NA6DB43CV3R8643C3WZUE4MA9VVIAX9YWCF852RQX7MJDYXYCPKZCGG7T6X3DNIKKAKCXBS786JIVDBZQJ2CK3VRWRNNC6EHHTGK5NQV6UECI2GBEMKTW389XA8994N4A2NSQSC7SESCFFAAM2BF9QWHCJWJIFI2WCIZ3TYXSJQTNSGMZW879HE2&destination=https%3A//pozemky.ekonomicke-stavby.cz/frantisek_14.php%3Futm_source%3DSreality%26utm_campaign%3DFrantisek14%282-2026%29%26utm_term%3Dpromoballoon%26utm_content%3Dpaymentnotshown%26utm_medium%3DNativniInzerat",
-    "id": "frantisek_14.php%3Futm_source%3DSreality%26utm_campaign%3DFrantisek14%282-2026%29%26utm_term%3Dpromoballoon%26utm_content%3Dpaymentnotshown%26utm_medium%3DNativniInzerat"
   },
   {
     "header": "Pronájem bytu 3+1 77 m²",
@@ -138,12 +138,5 @@
     "Price": "25 990 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-cerna-pole-merhautova/1808089932",
     "id": "1808089932"
-  },
-  {
-    "header": "Pronájem bytu 2+1 76 m²",
-    "Address": "Výpravní, Brno - Horní Heršpice",
-    "Price": "28 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-horni-herspice-vypravni/1681715276",
-    "id": "1681715276"
   }
 ]
