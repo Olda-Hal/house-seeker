@@ -1,5 +1,89 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 93 m²",
+    "Address": "Kopečná, Brno - Staré Brno",
+    "Price": "36 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-stare-brno-kopecna/252203852",
+    "id": "252203852"
+  },
+  {
+    "header": "Pronájem bytu 3+1 143 m²",
+    "Address": "Schodová, Brno - Černá Pole",
+    "Price": "38 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-cerna-pole-schodova/937078860",
+    "id": "937078860"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 77 m²",
+    "Address": "Vinařská, Brno - Pisárky",
+    "Price": "31 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-pisarky-vinarska/405008460",
+    "id": "405008460"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 94 m²",
+    "Address": "Kopečná, Brno - Staré Brno",
+    "Price": "36 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-stare-brno-kopecna/756125772",
+    "id": "756125772"
+  },
+  {
+    "header": "Pronájem bytu 3+1 71 m²",
+    "Address": "Synkova, Brno - Líšeň",
+    "Price": "28 500 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-lisen-synkova/2646339660",
+    "id": "2646339660"
+  },
+  {
+    "header": "Pronájem bytu 2+1 83 m²",
+    "Address": "Vlhká, Brno - Brno-střed",
+    "Price": "33 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-brno-stred-vlhka/80605260",
+    "id": "80605260"
+  },
+  {
+    "header": "Pronájem bytu 2+1 70 m²",
+    "Address": "Hansmannova, Brno - Černá Pole",
+    "Price": "19 900 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-cerna-pole-hansmannova/939389004",
+    "id": "939389004"
+  },
+  {
+    "header": "Luxusní dům František 14",
+    "Address": "Pořiďte si svůj vysněný dům s dispozicí 5+1+G včetně pozemku za 21.696 Kč /měsíčně.",
+    "Price": "Ekonomické stavby",
+    "link": "https://i.imedia.cz/v2/click?spotId=4172140&d=VFY7PJE4K74DEDCXYSJ8GBEM6RC5UFEWRX2UCSJYRB4RP4C8M58EN6SE94TB6K9UNHNV87AAQDA3H9WSUH2TKBXBNECVRVGP3P93D2H4N3C8JVFR5JAT4CKGHSUEFXF5KR59DCBMECMPAI6CVZTKSA8D2WSRVRRJYGJW2KTVXHWEQABPR6MTKP6PBVQ369VE96Q2PPJAPIFI46R2DEY88G7R4X5TASDTSBZMBTPZIT8S8SZASWJ5YTJT9SPS5PEZI53STQ8M5ECMRZN26J5M9JIJ5EV6RFCQ84TX4ZA5X2BQ8REZAEBQ9SJB9CF6CBHZ6F6WFWTIFJEP7RKNJNPE4SAI3GDK4I2I7B6DW5E9MTMA&destination=https%3A//pozemky.ekonomicke-stavby.cz/frantisek_14.php%3Futm_source%3DSreality%26utm_campaign%3DFrantisek14%282-2026%29%26utm_term%3Dpromoballoon%26utm_content%3Dpaymentnotshown%26utm_medium%3DNativniInzerat",
+    "id": "frantisek_14.php%3Futm_source%3DSreality%26utm_campaign%3DFrantisek14%282-2026%29%26utm_term%3Dpromoballoon%26utm_content%3Dpaymentnotshown%26utm_medium%3DNativniInzerat"
+  },
+  {
+    "header": "Pronájem bytu 2+1 80 m²",
+    "Address": "Sladová, Brno - Staré Brno",
+    "Price": "22 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-stare-brno-sladova/4282642508",
+    "id": "4282642508"
+  },
+  {
+    "header": "Pronájem bytu 2+1 64 m²",
+    "Address": "Prokofjevova, Brno - Kohoutovice",
+    "Price": "21 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-kohoutovice-prokofjevova/2638475340",
+    "id": "2638475340"
+  },
+  {
+    "header": "Pronájem bytu 2+1 56 m²",
+    "Address": "Strážnická, Brno - Slatina",
+    "Price": "19 500 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-slatina-straznicka/2442625100",
+    "id": "2442625100"
+  },
+  {
+    "header": "Pronájem bytu 2+1 43 m²",
+    "Address": "Vídeňská, Brno - Štýřice",
+    "Price": "16 200 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-styrice-videnska/712241228",
+    "id": "712241228"
+  },
+  {
     "header": "Pronájem bytu 3+kk 65 m²",
     "Address": "Jaselská, Brno - Veveří",
     "Price": "37 000 Kč/měsíc",
@@ -61,82 +145,5 @@
     "Price": "25 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-husovice-sobesicka/3856461900",
     "id": "3856461900"
-  },
-  {
-    "header": "Pronájem bytu 3+1 63 m²",
-    "Address": "Brožíkova, Brno - Lesná",
-    "Price": "20 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-lesna-brozikova/3435982924",
-    "id": "3435982924"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 88 m²",
-    "Address": "Kumpoštova, Brno - Sadová",
-    "Price": "31 523 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-sadova-kumpostova/2247860300",
-    "id": "2247860300"
-  },
-  {
-    "header": "Pronájem bytu 3+1 136 m²",
-    "Address": "Jiráskova, Brno - Veveří",
-    "Price": "36 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-veveri-jiraskova/3623718988",
-    "id": "3623718988"
-  },
-  {
-    "header": "Pronájem bytu 2+1 95 m²",
-    "Address": "Cihlářská, Brno - Veveří",
-    "Price": "24 500 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-veveri-cihlarska/3783241804",
-    "id": "3783241804"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 74 m²",
-    "Address": "Kneslova, Brno - Černovice",
-    "Price": "23 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-cernovice-kneslova/3763044428",
-    "id": "3763044428"
-  },
-  {
-    "header": "Pronájem bytu 2+1 61 m²",
-    "Address": "Tůmova, Brno",
-    "Price": "19 500 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-brno-tumova/3334624076",
-    "id": "3334624076"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 66 m²",
-    "Address": "Stavební, Brno - Trnitá",
-    "Price": "21 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-trnita-stavebni/782598220",
-    "id": "782598220"
-  },
-  {
-    "header": "Pronájem bytu 3+1 78 m²",
-    "Address": "Šrámkova, Brno - Lesná",
-    "Price": "28 800 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-lesna-sramkova/317030476",
-    "id": "317030476"
-  },
-  {
-    "header": "Pronájem bytu 3+1 77 m²",
-    "Address": "náměstí SNP, Brno - Černá Pole",
-    "Price": "25 990 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-cerna-pole-namesti-snp/167936076",
-    "id": "167936076"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 69 m²",
-    "Address": "Sibiřská, Brno - Řečkovice",
-    "Price": "26 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-reckovice-sibirska/1431740492",
-    "id": "1431740492"
-  },
-  {
-    "header": "Pronájem bytu 2+1 61 m²",
-    "Address": "Kobližná, Brno - Brno-město",
-    "Price": "18 500 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-brno-mesto-koblizna/2016211020",
-    "id": "2016211020"
   }
 ]
