@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 57 m²",
+    "Address": "Stavební, Brno - Trnitá",
+    "Price": "21 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-trnita-stavebni/1743556684",
+    "id": "1743556684"
+  },
+  {
     "header": "Pronájem bytu 3+1 103 m²",
     "Address": "Jakubské náměstí, Brno - Brno-město",
     "Price": "32 000 Kč/měsíc",
@@ -98,6 +105,13 @@
     "id": "3374444620"
   },
   {
+    "header": "Luxusní dům František 14",
+    "Address": "Pořiďte si svůj vysněný dům s dispozicí 5+1+G včetně pozemku za 21.696 Kč /měsíčně.",
+    "Price": "Ekonomické stavby",
+    "link": "https://i.imedia.cz/v2/click?spotId=4172135&d=6HRAMNHHTTMYS5ZZ7TH667VFQSNEMC9DH45X4WK5WND3E5JBV9RNEQPTBYS7KD4C8YTYQJPD3MR8C3DRRQSFN3HE4BEWIQEEHQSUCJM8W8WRWC9N4WQKYUVRPHZW75E7CXAJ4T7WRANX5D7J5Q69HQZ6DPJT89YDYYEYRDUKVDDMHR3RHWHY66VXVHY7KEJVD4V672SI8N6AUGH72M7DA23D8URKD96CV4GF334I7QXP7Z84GDD38ZTHI2MD6DQ4VRJJDG38WPK75DVHGRQIVIDS3UX7KBVACI789M4X8ATC9ZHQAASY7GSGKN3YZ4QVBEN9V58I52DVNKSBZH4P8RWWM5TXFRJ524QYRAUTGQDINYS&destination=https%3A//pozemky.ekonomicke-stavby.cz/frantisek_14.php%3Futm_source%3DSreality%26utm_campaign%3DFrantisek14%282-2026%29%26utm_term%3Dpromoballoon%26utm_content%3Dpaymentnotshown%26utm_medium%3DNativniInzerat",
+    "id": "frantisek_14.php%3Futm_source%3DSreality%26utm_campaign%3DFrantisek14%282-2026%29%26utm_term%3Dpromoballoon%26utm_content%3Dpaymentnotshown%26utm_medium%3DNativniInzerat"
+  },
+  {
     "header": "Pronájem bytu 3+1 64 m²",
     "Address": "Labská, Brno - Starý Lískovec",
     "Price": "20 900 Kč/měsíc",
@@ -131,12 +145,5 @@
     "Price": "26 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-veveri-jaselska/4248957004",
     "id": "4248957004"
-  },
-  {
-    "header": "Pronájem bytu 2+1 26 m²",
-    "Address": "Václavská, Brno - Staré Brno",
-    "Price": "25 900 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-stare-brno-vaclavska/3561091148",
-    "id": "3561091148"
   }
 ]
