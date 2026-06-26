@@ -1,5 +1,26 @@
 [
   {
+    "header": "Pronájem bytu 2+1 55 m²",
+    "Address": "Hromádkova, Brno - Židenice",
+    "Price": "14 300 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-zidenice-hromadkova/2477846604",
+    "id": "2477846604"
+  },
+  {
+    "header": "Pronájem bytu 2+1 40 m²",
+    "Address": "Rudišova, Brno - Stránice",
+    "Price": "22 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-stranice-rudisova/24113228",
+    "id": "24113228"
+  },
+  {
+    "header": "Pronájem bytu 2+1 49 m²",
+    "Address": "Kroftova, Brno - Žabovřesky",
+    "Price": "19 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-zabovresky-kroftova/2912481356",
+    "id": "2912481356"
+  },
+  {
     "header": "Pronájem bytu 3+kk 76 m²",
     "Address": "Nad Přehradou, Brno - Bystrc",
     "Price": "17 900 Kč/měsíc",
@@ -40,6 +61,13 @@
     "Price": "17 900 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-cerna-pole-jugoslavska/1805709388",
     "id": "1805709388"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 76 m²",
+    "Address": "Nad Přehradou, Brno - Bystrc",
+    "Price": "17 900 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-bystrc-nad-prehradou/1186000972",
+    "id": "1186000972"
   },
   {
     "header": "Pronájem bytu 3+kk 75 m²",
@@ -110,33 +138,5 @@
     "Price": "24 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-zabrdovice-milady-horakove/3637157964",
     "id": "3637157964"
-  },
-  {
-    "header": "Pronájem bytu 3+1 62 m²",
-    "Address": "Dunajská, Brno - Starý Lískovec",
-    "Price": "21 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-stary-liskovec-dunajska/1622909004",
-    "id": "1622909004"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 91 m²",
-    "Address": "třída Generála Píky, Brno",
-    "Price": "45 500 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-brno-trida-generala-piky/3868700748",
-    "id": "3868700748"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 81 m²",
-    "Address": "Čajkovského, Brno - Žabovřesky",
-    "Price": "27 900 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zabovresky-cajkovskeho/2903568460",
-    "id": "2903568460"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 92 m²",
-    "Address": "V Újezdech, Brno - Medlánky",
-    "Price": "17 900 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-medlanky-v-ujezdech/588312652",
-    "id": "588312652"
   }
 ]
