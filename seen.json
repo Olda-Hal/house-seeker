@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+1 62 m²",
+    "Address": "Švermova, Brno - Bohunice",
+    "Price": "22 990 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-bohunice-svermova/4024074316",
+    "id": "4024074316"
+  },
+  {
     "header": "Pronájem bytu 3+kk 105 m²",
     "Address": "Anenská, Brno - Staré Brno",
     "Price": "36 000 Kč/měsíc",
@@ -131,12 +138,5 @@
     "Price": "26 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-brno-mesto-panska/480481356",
     "id": "480481356"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 70 m²",
-    "Address": "Svitavská, Brno - Husovice",
-    "Price": "17 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-husovice-svitavska/2866344012",
-    "id": "2866344012"
   }
 ]
