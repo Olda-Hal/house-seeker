@@ -1,5 +1,19 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 76 m²",
+    "Address": "Hrázka, Brno - Medlánky",
+    "Price": "27 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-medlanky-hrazka/2440163404",
+    "id": "2440163404"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 73 m²",
+    "Address": "Říčanská, Brno - Bystrc",
+    "Price": "22 990 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-bystrc-ricanska/4094575436",
+    "id": "4094575436"
+  },
+  {
     "header": "Pronájem bytu 3+1 68 m²",
     "Address": "Horní, Brno - Štýřice",
     "Price": "25 000 Kč/měsíc",
@@ -47,13 +61,6 @@
     "Price": "37 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-brno-mesto-biskupska/1594315596",
     "id": "1594315596"
-  },
-  {
-    "header": "Luxusní dům František 14",
-    "Address": "Pořiďte si svůj vysněný dům s dispozicí 5+1+G včetně pozemku za 21.696 Kč /měsíčně.",
-    "Price": "Ekonomické stavby",
-    "link": "https://i.imedia.cz/v2/click?spotId=4172140&d=5YSFUDMYDVRRRC6ZZADEPMJMIFP8BWS5PWH3KWV23SIWPUZVUGW28A3NF65BPJYFAPZEWZZDW7E85EBXQ3679I7CJJR3DE4JR4AIIGW84H8KBTIWAAEWDBXF7FIZRQ4UBQKW3PAKZDBA99ZAYM3BHVYI2C7QKYF4FCHG7PWS38XRTBS69KYU8YTITXAGE2S3Q8DA7VBTY4K9TYSAG9YV9SH87XMZ3BUFNWFWUW82Q66FHGTNNSNPACUEKTW3XBRWGQICHCBPGGW8S4C3A3F554UUA3CX6WYR2XR2Q3858JQSX86YZPBCN2YA8T6G7PKIWFCR9NPZVB8DFHHD4JJW3F292SQKNCFNNP8QG5K65TG3NFI&destination=https%3A//pozemky.ekonomicke-stavby.cz/frantisek_14.php%3Futm_source%3DSreality%26utm_campaign%3DFrantisek14%282-2026%29%26utm_term%3Dpromoballoon%26utm_content%3Dpaymentnotshown%26utm_medium%3DNativniInzerat",
-    "id": "frantisek_14.php%3Futm_source%3DSreality%26utm_campaign%3DFrantisek14%282-2026%29%26utm_term%3Dpromoballoon%26utm_content%3Dpaymentnotshown%26utm_medium%3DNativniInzerat"
   },
   {
     "header": "Pronájem bytu 3+1 103 m²",
@@ -131,19 +138,5 @@
     "Price": "45 500 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-brno-trida-generala-piky/3868700748",
     "id": "3868700748"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 79 m²",
-    "Address": "Vranovská, Brno - Husovice",
-    "Price": "24 990 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-husovice-vranovska/2982445132",
-    "id": "2982445132"
-  },
-  {
-    "header": "Pronájem bytu 2+1 46 m²",
-    "Address": "Čápkova, Brno - Veveří",
-    "Price": "18 990 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-veveri-capkova/973570124",
-    "id": "973570124"
   }
 ]
