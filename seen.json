@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 57 m²",
+    "Address": "Stavební, Brno - Trnitá",
+    "Price": "21 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-trnita-stavebni/1743556684",
+    "id": "1743556684"
+  },
+  {
     "header": "Pronájem bytu 3+1 77 m²",
     "Address": "náměstí SNP, Brno - Černá Pole",
     "Price": "24 990 Kč/měsíc",
@@ -40,6 +47,13 @@
     "Price": "29 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zabrdovice-merhautova/630714444",
     "id": "630714444"
+  },
+  {
+    "header": "Luxusní dům František 14",
+    "Address": "Pořiďte si svůj vysněný dům s dispozicí 5+1+G včetně pozemku za 21.696 Kč /měsíčně.",
+    "Price": "Ekonomické stavby",
+    "link": "https://i.imedia.cz/v2/click?spotId=4172135&d=3R9S9Z66CU3EV5EBYYUE49B4FIUHZXYJ5UDHXGAJB8JR7H2U6VNKR6TTTBQ8XVCGBD9PHVTP5CHGN5F9H59PPN5MRCFVR3SY3WVJCMSCYCXSUCM8DVMNTTSA3XBT7QF4I8JGHH6X89TWDIWIRDYDKVW3JUKJ3Z3XMJZ5T3DM36S8FESXFWENC8FBYD7TR6YJ3WCGT5Q42KJD2MEDRDASA95FWM24PAQV9CG62EZW5GTNEZADPWCFZ5S4MECRXVGVE47WGDT6KDRY69FN4QEF5J23FYADXAEG77TJRK54AQXWQPDRK2MW4F39272NKPEPEEY75FDAZCAJQXYX4UMTAY6H4454AFT46W5QF42U39IYB8ZKXN&destination=https%3A//pozemky.ekonomicke-stavby.cz/frantisek_14.php%3Futm_source%3DSreality%26utm_campaign%3DFrantisek14%282-2026%29%26utm_term%3Dpromoballoon%26utm_content%3Dpaymentnotshown%26utm_medium%3DNativniInzerat",
+    "id": "frantisek_14.php%3Futm_source%3DSreality%26utm_campaign%3DFrantisek14%282-2026%29%26utm_term%3Dpromoballoon%26utm_content%3Dpaymentnotshown%26utm_medium%3DNativniInzerat"
   },
   {
     "header": "Pronájem bytu 3+1 80 m²",
@@ -131,12 +145,5 @@
     "Price": "22 990 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-bystrc-ricanska/4094575436",
     "id": "4094575436"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 79 m²",
-    "Address": "Vranovská, Brno - Husovice",
-    "Price": "24 990 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-husovice-vranovska/2982445132",
-    "id": "2982445132"
   }
 ]
