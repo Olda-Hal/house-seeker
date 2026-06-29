@@ -7,6 +7,13 @@
     "id": "2207285324"
   },
   {
+    "header": "Pronájem bytu 2+1 59 m²",
+    "Address": "Šromova, Brno - Chrlice",
+    "Price": "22 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-chrlice-sromova/432439372",
+    "id": "432439372"
+  },
+  {
     "header": "Pronájem bytu 2+1 58 m²",
     "Address": "Tyršova, Brno - Královo Pole",
     "Price": "20 000 Kč/měsíc",
@@ -91,6 +98,13 @@
     "id": "3868700748"
   },
   {
+    "header": "Pronájem bytu 3+kk 80 m²",
+    "Address": "Přemyslovo náměstí, Brno - Slatina",
+    "Price": "23 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-slatina-premyslovo-namesti/2974216268",
+    "id": "2974216268"
+  },
+  {
     "header": "Pronájem bytu 3+1 73 m²",
     "Address": "Merhautova, Brno - Černá Pole",
     "Price": "24 490 Kč/měsíc",
@@ -124,19 +138,5 @@
     "Price": "24 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-veveri-stefanikova/3949391948",
     "id": "3949391948"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 76 m²",
-    "Address": "Hrázka, Brno - Medlánky",
-    "Price": "27 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-medlanky-hrazka/2440163404",
-    "id": "2440163404"
-  },
-  {
-    "header": "Pronájem bytu 3+1 68 m²",
-    "Address": "Horní, Brno - Štýřice",
-    "Price": "25 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-styrice-horni/1116975180",
-    "id": "1116975180"
   }
 ]
