@@ -35,13 +35,6 @@
     "id": "2207285324"
   },
   {
-    "header": "Pronájem bytu 3+kk 70 m²",
-    "Address": "Svitavská, Brno - Husovice",
-    "Price": "17 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-husovice-svitavska/2866344012",
-    "id": "2866344012"
-  },
-  {
     "header": "Pronájem bytu 2+1 56 m²",
     "Address": "Úvoz, Brno - Staré Brno",
     "Price": "17 000 Kč/měsíc",
@@ -138,5 +131,12 @@
     "Price": "29 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-brno-schodova/1882161228",
     "id": "1882161228"
+  },
+  {
+    "header": "Pronájem bytu 3+1 65 m²",
+    "Address": "Čejkovická, Brno - Židenice",
+    "Price": "23 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-zidenice-cejkovicka/1055322188",
+    "id": "1055322188"
   }
 ]
