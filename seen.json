@@ -56,27 +56,6 @@
     "id": "480481356"
   },
   {
-    "header": "Pronájem bytu 3+1 80 m²",
-    "Address": "Škrétova, Brno - Řečkovice",
-    "Price": "22 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-reckovice-skretova/3861614668",
-    "id": "3861614668"
-  },
-  {
-    "header": "Pronájem bytu 3+1 72 m²",
-    "Address": "Milady Horákové, Brno - Zábrdovice",
-    "Price": "24 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-zabrdovice-milady-horakove/3637157964",
-    "id": "3637157964"
-  },
-  {
-    "header": "Pronájem bytu 3+1 62 m²",
-    "Address": "Dunajská, Brno - Starý Lískovec",
-    "Price": "21 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-stary-liskovec-dunajska/1622909004",
-    "id": "1622909004"
-  },
-  {
     "header": "Pronájem bytu 3+1 77 m²",
     "Address": "náměstí SNP, Brno - Černá Pole",
     "Price": "24 990 Kč/měsíc",
@@ -138,5 +117,26 @@
     "Price": "23 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-veveri-veveri/2008346700",
     "id": "2008346700"
+  },
+  {
+    "header": "Pronájem bytu 2+1 70 m²",
+    "Address": "Hansmannova, Brno - Černá Pole",
+    "Price": "19 900 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-cerna-pole-hansmannova/939389004",
+    "id": "939389004"
+  },
+  {
+    "header": "Pronájem bytu 2+1 39 m²",
+    "Address": "Veveří, Brno - Veveří",
+    "Price": "20 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-veveri-veveri/2577723468",
+    "id": "2577723468"
+  },
+  {
+    "header": "Pronájem bytu 3+1 73 m²",
+    "Address": "Svážná, Brno - Nový Lískovec",
+    "Price": "22 500 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-novy-liskovec-svazna/1285877836",
+    "id": "1285877836"
   }
 ]
