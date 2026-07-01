@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 100 m²",
+    "Address": "Dalimilova, Brno - Královo Pole",
+    "Price": "25 500 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-kralovo-pole-dalimilova/4113887308",
+    "id": "4113887308"
+  },
+  {
     "header": "Pronájem bytu 2+1 51 m²",
     "Address": "Ječná, Brno - Řečkovice",
     "Price": "15 000 Kč/měsíc",
@@ -131,12 +138,5 @@
     "Price": "24 990 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-husovice-vranovska/2982445132",
     "id": "2982445132"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 47 m²",
-    "Address": "Pellicova, Brno - Staré Brno",
-    "Price": "21 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-stare-brno-pellicova/3323326540",
-    "id": "3323326540"
   }
 ]
