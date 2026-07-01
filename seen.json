@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+1 75 m²",
+    "Address": "Spodní, Brno - Bohunice",
+    "Price": "23 990 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-bohunice-spodni/1546379340",
+    "id": "1546379340"
+  },
+  {
     "header": "Pronájem bytu 2+1 55 m²",
     "Address": "Plovdivská, Brno - Žabovřesky",
     "Price": "17 000 Kč/měsíc",
@@ -131,12 +138,5 @@
     "Price": "23 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-veveri-veveri/2008346700",
     "id": "2008346700"
-  },
-  {
-    "header": "Pronájem bytu 2+1 70 m²",
-    "Address": "Hansmannova, Brno - Černá Pole",
-    "Price": "19 900 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-cerna-pole-hansmannova/939389004",
-    "id": "939389004"
   }
 ]
