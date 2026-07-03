@@ -1,5 +1,19 @@
 [
   {
+    "header": "Pronájem bytu 2+1 58 m²",
+    "Address": "Bráfova, Brno - Žabovřesky",
+    "Price": "21 900 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-zabovresky-brafova/1657139276",
+    "id": "1657139276"
+  },
+  {
+    "header": "Pronájem bytu 2+1 70 m²",
+    "Address": "Řezáčova, Brno - Komín",
+    "Price": "23 990 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-komin-rezacova/4032421964",
+    "id": "4032421964"
+  },
+  {
     "header": "Pronájem bytu 2+1 75 m²",
     "Address": "Medlánecká, Brno - Řečkovice",
     "Price": "23 200 Kč/měsíc",
@@ -124,19 +138,5 @@
     "Price": "21 990 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-bystrc-ricanska/4094575436",
     "id": "4094575436"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 91 m²",
-    "Address": "Příkop, Brno - Zábrdovice",
-    "Price": "38 300 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zabrdovice-prikop/2213208140",
-    "id": "2213208140"
-  },
-  {
-    "header": "Pronájem bytu 2+1 52 m²",
-    "Address": "Škrochova, Brno - Židenice",
-    "Price": "18 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-zidenice-skrochova/3757240396",
-    "id": "3757240396"
   }
 ]
