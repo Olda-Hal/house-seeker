@@ -1,5 +1,54 @@
 [
   {
+    "header": "Pronájem bytu 3+1 90 m²",
+    "Address": "Březová, Brno - Jundrov",
+    "Price": "18 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-jundrov-brezova/4024533068",
+    "id": "4024533068"
+  },
+  {
+    "header": "Pronájem bytu 3+1 75 m²",
+    "Address": "Spodní, Brno - Bohunice",
+    "Price": "23 990 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-bohunice-spodni/1546379340",
+    "id": "1546379340"
+  },
+  {
+    "header": "Pronájem bytu 2+1 70 m²",
+    "Address": "Řezáčova, Brno - Komín",
+    "Price": "23 990 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-komin-rezacova/4032421964",
+    "id": "4032421964"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 100 m²",
+    "Address": "Křenová, Brno",
+    "Price": "29 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-brno-krenova/472506444",
+    "id": "472506444"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 0 m²",
+    "Address": "Opuštěná, Brno - Trnitá",
+    "Price": "29 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-trnita-opustena/757719116",
+    "id": "757719116"
+  },
+  {
+    "header": "Pronájem bytu 2+1 93 m²",
+    "Address": "Kudelova, Brno - Černá Pole",
+    "Price": "22 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-cerna-pole-kudelova/1378476108",
+    "id": "1378476108"
+  },
+  {
+    "header": "Pronájem bytu 3+1 77 m²",
+    "Address": "náměstí SNP, Brno - Černá Pole",
+    "Price": "24 990 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-cerna-pole-namesti-snp/167936076",
+    "id": "167936076"
+  },
+  {
     "header": "Pronájem bytu 3+kk 84 m²",
     "Address": "Durďákova, Brno - Černá Pole",
     "Price": "18 900 Kč/měsíc",
@@ -33,13 +82,6 @@
     "Price": "21 900 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-zabovresky-brafova/1657139276",
     "id": "1657139276"
-  },
-  {
-    "header": "Pronájem bytu 2+1 70 m²",
-    "Address": "Řezáčova, Brno - Komín",
-    "Price": "23 990 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-komin-rezacova/4032421964",
-    "id": "4032421964"
   },
   {
     "header": "Pronájem bytu 2+1 75 m²",
@@ -96,47 +138,5 @@
     "Price": "16 500 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-zidenice-slatinska/124379212",
     "id": "124379212"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 79 m²",
-    "Address": "Vranovská, Brno - Husovice",
-    "Price": "24 990 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-husovice-vranovska/2982445132",
-    "id": "2982445132"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 194 m²",
-    "Address": "Hrozňatova, Brno - Židenice",
-    "Price": "39 900 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zidenice-hroznatova/1520099404",
-    "id": "1520099404"
-  },
-  {
-    "header": "Pronájem bytu 3+1 75 m²",
-    "Address": "Spodní, Brno - Bohunice",
-    "Price": "23 990 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-bohunice-spodni/1546379340",
-    "id": "1546379340"
-  },
-  {
-    "header": "Pronájem bytu 2+1 53 m²",
-    "Address": "Koniklecová, Brno - Nový Lískovec",
-    "Price": "13 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-novy-liskovec-koniklecova/2947870796",
-    "id": "2947870796"
-  },
-  {
-    "header": "Pronájem bytu 3+1 75 m²",
-    "Address": "Okrouhlá, Brno - Bohunice",
-    "Price": "26 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-bohunice-okrouhla/74022988",
-    "id": "74022988"
-  },
-  {
-    "header": "Pronájem bytu 3+1 77 m²",
-    "Address": "náměstí SNP, Brno - Černá Pole",
-    "Price": "24 990 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-cerna-pole-namesti-snp/167936076",
-    "id": "167936076"
   }
 ]
