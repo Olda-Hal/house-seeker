@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 73 m²",
+    "Address": "Sokolova, Brno - Horní Heršpice",
+    "Price": "29 500 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-horni-herspice-sokolova/1304526924",
+    "id": "1304526924"
+  },
+  {
     "header": "Pronájem bytu 3+kk 100 m²",
     "Address": "U Leskavy, Brno - Brno-Starý Lískovec",
     "Price": "30 500 Kč/měsíc",
@@ -131,12 +138,5 @@
     "Price": "24 990 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-cerna-pole-namesti-snp/167936076",
     "id": "167936076"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 69 m²",
-    "Address": "Sibiřská, Brno - Řečkovice",
-    "Price": "Cena na vyžádání",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-reckovice-sibirska/1431740492",
-    "id": "1431740492"
   }
 ]
