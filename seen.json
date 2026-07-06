@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 69 m²",
+    "Address": "Sibiřská, Brno - Řečkovice",
+    "Price": "Cena na vyžádání",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-reckovice-sibirska/1431740492",
+    "id": "1431740492"
+  },
+  {
     "header": "Pronájem bytu 3+1 78 m²",
     "Address": "Šrámkova, Brno - Lesná",
     "Price": "28 800 Kč/měsíc",
@@ -131,12 +138,5 @@
     "Price": "26 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-medlanky-hrazka/2440163404",
     "id": "2440163404"
-  },
-  {
-    "header": "Pronájem bytu 2+1 42 m²",
-    "Address": "Skorkovského, Brno - Židenice",
-    "Price": "17 900 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-zidenice-skorkovskeho/3909738572",
-    "id": "3909738572"
   }
 ]
