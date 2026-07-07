@@ -1,5 +1,19 @@
 [
   {
+    "header": "Pronájem bytu 2+1 55 m²",
+    "Address": "Štefánikova, Brno - Veveří",
+    "Price": "20 900 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-veveri-stefanikova/288350284",
+    "id": "288350284"
+  },
+  {
+    "header": "Pronájem bytu 2+1 54 m²",
+    "Address": "Fričova, Brno - Žabovřesky",
+    "Price": "18 500 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-zabovresky-fricova/2556420172",
+    "id": "2556420172"
+  },
+  {
     "header": "Pronájem bytu 2+1 57 m²",
     "Address": "Medlánecká, Brno - Řečkovice",
     "Price": "20 900 Kč/měsíc",
@@ -112,13 +126,6 @@
     "id": "2207285324"
   },
   {
-    "header": "Kuchyně snů od profíků",
-    "Address": "Rezervujte termín a naplánujte si s námi kuchyni německé kvality se zárukou až 25 let.",
-    "Price": "XXXLutz Česká republika",
-    "link": "https://i.imedia.cz/v2/click?spotId=4191955&d=6EB4YINHBPGZR222QKZYB8CDZRPNSVD7C58EAX6BKA6PXYHZJX8JF4DYYWYZMQXKDC7SEYD3WBXTBD7XS7GNVKQ9DR2HJKQCZHMPCZRZ7SQSXEC3JQ9EEIJYXMZ768RGB56BM4EG93ERE2ZXY3WBYUBKUCXCY72R48UMSEBNNPG6JKCWMQYZBA8PQG3A7754FCV7WHVVH26H8ZZMMI82AV9NT8AMKJC93NGGA3V47AIG5EXTEGZ79D56ZW6MPMEEH8HDDSARWJI3BR35XZRCCUPVWKQ2S972RKW7JKJAD4ZNSNWS8YSDNT9V7K83VHFKK4JITE9FISN5F7NWSSXYTMIXDYC3XBU6472QCAEYH4AJSNA&destination=https%3A//ad.doubleclick.net/ddm/trackclk/N510405.5083943MUP-SEZNAM-NATIVE/B34999881.439057698%3Bdc_trk_aid%3D631994391%3Bdc_trk_cid%3D247725133%3Bdc_lat%3D%3Bdc_rdid%3D%3Btag_for_child_directed_treatment%3D%3Btfua%3D%3Bgdpr%3D$%7BGDPR%7D%3Bgdpr_consent%3D$%7BGDPR_CONSENT_755%7D%3Bltd%3D%3Bdc_tdv%3D1",
-    "id": "B34999881.439057698%3Bdc_trk_aid%3D631994391%3Bdc_trk_cid%3D247725133%3Bdc_lat%3D%3Bdc_rdid%3D%3Btag_for_child_directed_treatment%3D%3Btfua%3D%3Bgdpr%3D$%7BGDPR%7D%3Bgdpr_consent%3D$%7BGDPR_CONSENT_755%7D%3Bltd%3D%3Bdc_tdv%3D1"
-  },
-  {
     "header": "Pronájem bytu 2+1 54 m²",
     "Address": "Chodská, Brno - Královo Pole",
     "Price": "19 000 Kč/měsíc",
@@ -138,19 +145,5 @@
     "Price": "29 900 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-styrice-prazakova/2394480716",
     "id": "2394480716"
-  },
-  {
-    "header": "Pronájem bytu 3+1 75 m²",
-    "Address": "Ševčenkova, Brno - Bosonohy",
-    "Price": "19 500 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-bosonohy-sevcenkova/2108219468",
-    "id": "2108219468"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 76 m²",
-    "Address": "Hrázka, Brno - Medlánky",
-    "Price": "26 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-medlanky-hrazka/2440163404",
-    "id": "2440163404"
   }
 ]
