@@ -21,32 +21,11 @@
     "id": "2021515340"
   },
   {
-    "header": "Pronájem bytu 3+1 80 m²",
-    "Address": "Vážného, Brno - Řečkovice",
-    "Price": "25 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-reckovice-vazneho/2843598924",
-    "id": "2843598924"
-  },
-  {
     "header": "Pronájem bytu 3+1 67 m²",
     "Address": "Vltavská, Brno - Starý Lískovec",
     "Price": "27 990 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-stary-liskovec-vltavska/2086592588",
     "id": "2086592588"
-  },
-  {
-    "header": "Pronájem bytu 3+1 72 m²",
-    "Address": "Milady Horákové, Brno - Zábrdovice",
-    "Price": "24 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-zabrdovice-milady-horakove/3637157964",
-    "id": "3637157964"
-  },
-  {
-    "header": "Pronájem bytu 3+1 62 m²",
-    "Address": "Dunajská, Brno - Starý Lískovec",
-    "Price": "21 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-stary-liskovec-dunajska/1622909004",
-    "id": "1622909004"
   },
   {
     "header": "Pronájem bytu 3+kk 95 m²",
@@ -145,5 +124,19 @@
     "Price": "15 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-zidenice-nopova/508485708",
     "id": "508485708"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 71 m²",
+    "Address": "Placzkova, Brno - Trnitá",
+    "Price": "25 900 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-trnita-placzkova/1095688268",
+    "id": "1095688268"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 76 m²",
+    "Address": "Spálená, Brno - Trnitá",
+    "Price": "24 900 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-trnita-spalena/3971711052",
+    "id": "3971711052"
   }
 ]
