@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+1 90 m²",
+    "Address": "Březová, Brno - Jundrov",
+    "Price": "26 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-jundrov-brezova/4024533068",
+    "id": "4024533068"
+  },
+  {
     "header": "Pronájem bytu 3+1 72 m²",
     "Address": "Milady Horákové, Brno - Zábrdovice",
     "Price": "24 000 Kč/měsíc",
@@ -131,12 +138,5 @@
     "Price": "23 900 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-veveri-kounicova/2163273804",
     "id": "2163273804"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 93 m²",
-    "Address": "Kopečná, Brno - Staré Brno",
-    "Price": "36 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-stare-brno-kopecna/252203852",
-    "id": "252203852"
   }
 ]
