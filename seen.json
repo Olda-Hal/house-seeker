@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 2+1 75 m²",
+    "Address": "Tábor, Brno - Žabovřesky",
+    "Price": "22 500 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-zabovresky-tabor/540729420",
+    "id": "540729420"
+  },
+  {
     "header": "Pronájem bytu 3+1 86 m²",
     "Address": "Kounicova, Brno - Veveří",
     "Price": "27 000 Kč/měsíc",
@@ -131,12 +138,5 @@
     "Price": "26 900 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-cerna-pole-cernopolni/3808682060",
     "id": "3808682060"
-  },
-  {
-    "header": "Pronájem bytu 2+1 50 m²",
-    "Address": "Bratislavská, Brno - Zábrdovice",
-    "Price": "21 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-zabrdovice-bratislavska/1730442828",
-    "id": "1730442828"
   }
 ]
