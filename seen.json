@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 96 m²",
+    "Address": "Koláčkova, Brno - Řečkovice",
+    "Price": "29 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-reckovice-kolackova/3701661772",
+    "id": "3701661772"
+  },
+  {
     "header": "Pronájem bytu 3+kk 91 m²",
     "Address": "Jugoslávská, Brno - Černá Pole",
     "Price": "28 500 Kč/měsíc",
@@ -131,12 +138,5 @@
     "Price": "24 900 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-trnita-spalena/3971711052",
     "id": "3971711052"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 66 m²",
-    "Address": "Hlinky, Brno - Pisárky",
-    "Price": "28 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-pisarky-hlinky/3807674444",
-    "id": "3807674444"
   }
 ]
