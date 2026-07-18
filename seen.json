@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 84 m²",
+    "Address": "Wágnerova, Brno - Maloměřice",
+    "Price": "25 500 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-malomerice-wagnerova/795271244",
+    "id": "795271244"
+  },
+  {
     "header": "Pronájem bytu 2+1 50 m²",
     "Address": "Bratislavská, Brno - Zábrdovice",
     "Price": "21 000 Kč/měsíc",
@@ -131,12 +138,5 @@
     "Price": "31 900 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-brno-mesto-jakubska/1668145228",
     "id": "1668145228"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 79 m²",
-    "Address": "Vranovská, Brno - Husovice",
-    "Price": "24 990 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-husovice-vranovska/2982445132",
-    "id": "2982445132"
   }
 ]
