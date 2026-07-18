@@ -1,17 +1,24 @@
 [
   {
+    "header": "Pronájem bytu 2+1 50 m²",
+    "Address": "Bratislavská, Brno - Zábrdovice",
+    "Price": "21 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-zabrdovice-bratislavska/1730442828",
+    "id": "1730442828"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 76 m²",
+    "Address": "Hrázka, Brno - Medlánky",
+    "Price": "25 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-medlanky-hrazka/2440163404",
+    "id": "2440163404"
+  },
+  {
     "header": "Pronájem bytu 3+1 64 m²",
     "Address": "Labská, Brno - Starý Lískovec",
     "Price": "20 900 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-stary-liskovec-labska/884863052",
     "id": "884863052"
-  },
-  {
-    "header": "Pronájem bytu 2+1 54 m²",
-    "Address": "Trýbova, Brno - Staré Brno",
-    "Price": "20 900 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-stare-brno-trybova/2761416780",
-    "id": "2761416780"
   },
   {
     "header": "Pronájem bytu 3+1 76 m²",
@@ -131,12 +138,5 @@
     "Price": "24 990 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-husovice-vranovska/2982445132",
     "id": "2982445132"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 194 m²",
-    "Address": "Hrozňatova, Brno - Židenice",
-    "Price": "39 900 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zidenice-hroznatova/1520099404",
-    "id": "1520099404"
   }
 ]
