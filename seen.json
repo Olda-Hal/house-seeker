@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+1 76 m²",
+    "Address": "Suzova, Brno - Medlánky",
+    "Price": "23 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-medlanky-suzova/2055725132",
+    "id": "2055725132"
+  },
+  {
     "header": "Pronájem bytu 3+kk 79 m²",
     "Address": "Placzkova, Brno - Trnitá",
     "Price": "32 990 Kč/měsíc",
@@ -75,13 +82,6 @@
     "Price": "20 900 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-stary-liskovec-labska/884863052",
     "id": "884863052"
-  },
-  {
-    "header": "Pronájem bytu 3+1 76 m²",
-    "Address": "Suzova, Brno - Medlánky",
-    "Price": "23 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-medlanky-suzova/2055725132",
-    "id": "2055725132"
   },
   {
     "header": "Pronájem bytu 3+kk 81 m²",
