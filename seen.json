@@ -35,20 +35,6 @@
     "id": "657907788"
   },
   {
-    "header": "Pronájem bytu 3+kk 84 m²",
-    "Address": "Kumpoštova, Brno",
-    "Price": "29 500 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-brno-kumpostova/1881010252",
-    "id": "1881010252"
-  },
-  {
-    "header": "Pronájem bytu 3+1 72 m²",
-    "Address": "Milady Horákové, Brno - Zábrdovice",
-    "Price": "24 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-zabrdovice-milady-horakove/3637157964",
-    "id": "3637157964"
-  },
-  {
     "header": "Pronájem bytu 3+1 77 m²",
     "Address": "Bzenecká, Brno - Židenice",
     "Price": "23 000 Kč/měsíc",
@@ -138,5 +124,19 @@
     "Price": "38 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-brno-trida-generala-piky/3351638092",
     "id": "3351638092"
+  },
+  {
+    "header": "Pronájem bytu 3+1 62 m²",
+    "Address": "Švermova, Brno - Bohunice",
+    "Price": "22 990 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-bohunice-svermova/4024074316",
+    "id": "4024074316"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 84 m²",
+    "Address": "Wágnerova, Brno - Maloměřice",
+    "Price": "25 500 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-malomerice-wagnerova/795271244",
+    "id": "795271244"
   }
 ]
