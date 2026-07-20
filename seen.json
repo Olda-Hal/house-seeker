@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 2+1 60 m²",
+    "Address": "Bayerova, Brno - Veveří",
+    "Price": "21 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-veveri-bayerova/2096488524",
+    "id": "2096488524"
+  },
+  {
     "header": "Pronájem bytu 2+1 52 m²",
     "Address": "Nové sady, Brno - Staré Brno",
     "Price": "23 400 Kč/měsíc",
@@ -131,12 +138,5 @@
     "Price": "25 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-medlanky-hrazka/2440163404",
     "id": "2440163404"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 65 m²",
-    "Address": "Údolní, Brno - Stránice",
-    "Price": "31 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-stranice-udolni/2957369420",
-    "id": "2957369420"
   }
 ]
