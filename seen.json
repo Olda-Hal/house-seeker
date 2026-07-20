@@ -1,5 +1,19 @@
 [
   {
+    "header": "Pronájem bytu 2+1 52 m²",
+    "Address": "Nové sady, Brno - Staré Brno",
+    "Price": "23 400 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-stare-brno-nove-sady/3036012620",
+    "id": "3036012620"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 128 m²",
+    "Address": "Brno",
+    "Price": "Cena na vyžádání",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-brno-/902357068",
+    "id": "902357068"
+  },
+  {
     "header": "Pronájem bytu 3+kk 98 m²",
     "Address": "Šmahova, Brno - Slatina",
     "Price": "26 000 Kč/měsíc",
@@ -54,13 +68,6 @@
     "Price": "29 500 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-brno-kumpostova/1881010252",
     "id": "1881010252"
-  },
-  {
-    "header": "Pronájem bytu 3+1 72 m²",
-    "Address": "Milady Horákové, Brno - Zábrdovice",
-    "Price": "24 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-zabrdovice-milady-horakove/3637157964",
-    "id": "3637157964"
   },
   {
     "header": "Pronájem bytu 3+kk 82 m²",
@@ -131,12 +138,5 @@
     "Price": "31 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-stranice-udolni/2957369420",
     "id": "2957369420"
-  },
-  {
-    "header": "Pronájem bytu 2+1 75 m²",
-    "Address": "Medlánecká, Brno - Řečkovice",
-    "Price": "23 200 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-reckovice-medlanecka/2739527756",
-    "id": "2739527756"
   }
 ]
