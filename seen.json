@@ -1,5 +1,19 @@
 [
   {
+    "header": "Pronájem bytu 3+1 67 m²",
+    "Address": "Vltavská, Brno - Starý Lískovec",
+    "Price": "27 990 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-stary-liskovec-vltavska/2086592588",
+    "id": "2086592588"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 76 m²",
+    "Address": "Hrázka, Brno - Medlánky",
+    "Price": "Cena na vyžádání",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-medlanky-hrazka/2440163404",
+    "id": "2440163404"
+  },
+  {
     "header": "Pronájem bytu 3+1 75 m²",
     "Address": "Teyschlova, Brno - Bystrc",
     "Price": "24 000 Kč/měsíc",
@@ -98,13 +112,6 @@
     "id": "117370956"
   },
   {
-    "header": "Pronájem bytu 3+kk 76 m²",
-    "Address": "Hrázka, Brno - Medlánky",
-    "Price": "25 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-medlanky-hrazka/2440163404",
-    "id": "2440163404"
-  },
-  {
     "header": "Pronájem bytu 3+kk 79 m²",
     "Address": "Vranovská, Brno - Husovice",
     "Price": "24 990 Kč/měsíc",
@@ -131,12 +138,5 @@
     "Price": "22 990 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-bystrc-cerneho/2950987852",
     "id": "2950987852"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 74 m²",
-    "Address": "Kleštínek, Brno - Jehnice",
-    "Price": "27 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-jehnice-klestinek/3783516236",
-    "id": "3783516236"
   }
 ]
