@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+1 76 m²",
+    "Address": "Suzova, Brno - Medlánky",
+    "Price": "23 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-medlanky-suzova/2055725132",
+    "id": "2055725132"
+  },
+  {
     "header": "Pronájem bytu 2+1 32 m²",
     "Address": "Hybešova, Brno - Staré Brno",
     "Price": "25 900 Kč/měsíc",
@@ -131,12 +138,5 @@
     "Price": "31 900 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-brno-mesto-jakubska/2210652236",
     "id": "2210652236"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 74 m²",
-    "Address": "Kleštínek, Brno - Jehnice",
-    "Price": "27 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-jehnice-klestinek/3783516236",
-    "id": "3783516236"
   }
 ]
