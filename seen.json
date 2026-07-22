@@ -1,5 +1,19 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 71 m²",
+    "Address": "Stará, Brno - Zábrdovice",
+    "Price": "27 500 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zabrdovice-stara/1254871116",
+    "id": "1254871116"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 74 m²",
+    "Address": "Kleštínek, Brno - Jehnice",
+    "Price": "27 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-jehnice-klestinek/3783516236",
+    "id": "3783516236"
+  },
+  {
     "header": "Pronájem bytu 3+kk 94 m²",
     "Address": "Kopečná, Brno - Staré Brno",
     "Price": "36 000 Kč/měsíc",
@@ -124,19 +138,5 @@
     "Price": "21 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-zabrdovice-bratislavska/1730442828",
     "id": "1730442828"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 76 m²",
-    "Address": "Jánošíkova, Brno - Chrlice",
-    "Price": "23 500 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-chrlice-janosikova/1606803532",
-    "id": "1606803532"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 87 m²",
-    "Address": "Černopolní, Brno - Černá Pole",
-    "Price": "29 200 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-cerna-pole-cernopolni/2780094540",
-    "id": "2780094540"
   }
 ]
