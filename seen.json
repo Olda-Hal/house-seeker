@@ -1,10 +1,10 @@
 [
   {
-    "header": "Pronájem bytu 3+1 67 m²",
-    "Address": "Vltavská, Brno - Starý Lískovec",
-    "Price": "27 990 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-stary-liskovec-vltavska/2086592588",
-    "id": "2086592588"
+    "header": "Pronájem bytu 2+1 50 m²",
+    "Address": "Bratislavská, Brno - Zábrdovice",
+    "Price": "21 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-zabrdovice-bratislavska/1730442828",
+    "id": "1730442828"
   },
   {
     "header": "Pronájem bytu 3+kk 76 m²",
@@ -14,18 +14,32 @@
     "id": "2440163404"
   },
   {
+    "header": "Pronájem bytu 3+kk 76 m²",
+    "Address": "Jánošíkova, Brno - Chrlice",
+    "Price": "23 500 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-chrlice-janosikova/1606803532",
+    "id": "1606803532"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 87 m²",
+    "Address": "Černopolní, Brno - Černá Pole",
+    "Price": "29 200 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-cerna-pole-cernopolni/2780094540",
+    "id": "2780094540"
+  },
+  {
+    "header": "Pronájem bytu 3+1 67 m²",
+    "Address": "Vltavská, Brno - Starý Lískovec",
+    "Price": "27 990 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-stary-liskovec-vltavska/2086592588",
+    "id": "2086592588"
+  },
+  {
     "header": "Pronájem bytu 3+1 75 m²",
     "Address": "Teyschlova, Brno - Bystrc",
     "Price": "24 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-bystrc-teyschlova/2989002828",
     "id": "2989002828"
-  },
-  {
-    "header": "Pronájem bytu 2+1 58 m²",
-    "Address": "Haškova, Brno - Lesná",
-    "Price": "10 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-lesna-haskova/2434064460",
-    "id": "2434064460"
   },
   {
     "header": "Pronájem bytu 3+kk 60 m²",
@@ -70,7 +84,7 @@
     "id": "1668145228"
   },
   {
-    "header": "Pronájem bytu 2+1 58 m²",
+    "header": "Pronájem bytu 2+1 53 m²",
     "Address": "Tábor, Brno - Žabovřesky",
     "Price": "19 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-zabovresky-tabor/2570379340",
@@ -119,24 +133,10 @@
     "id": "2982445132"
   },
   {
-    "header": "Pronájem bytu 2+1 50 m²",
-    "Address": "Bratislavská, Brno - Zábrdovice",
-    "Price": "21 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-zabrdovice-bratislavska/1730442828",
-    "id": "1730442828"
-  },
-  {
     "header": "Pronájem bytu 3+1 78 m²",
     "Address": "Čermákova, Brno - Starý Lískovec",
     "Price": "30 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-stary-liskovec-cermakova/4221952076",
     "id": "4221952076"
-  },
-  {
-    "header": "Pronájem bytu 2+1 64 m²",
-    "Address": "Černého, Brno - Bystrc",
-    "Price": "22 990 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-bystrc-cerneho/2950987852",
-    "id": "2950987852"
   }
 ]
