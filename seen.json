@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 2+1 90 m²",
+    "Address": "náměstí Svobody, Brno - Brno-město",
+    "Price": "30 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-brno-mesto-namesti-svobody/2328547404",
+    "id": "2328547404"
+  },
+  {
     "header": "Pronájem bytu 3+kk 91 m²",
     "Address": "Jugoslávská, Brno - Černá Pole",
     "Price": "28 500 Kč/měsíc",
@@ -131,12 +138,5 @@
     "Price": "18 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-brno-merhautova/2665205836",
     "id": "2665205836"
-  },
-  {
-    "header": "Pronájem bytu 2+1 75 m²",
-    "Address": "Medlánecká, Brno - Řečkovice",
-    "Price": "23 200 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-reckovice-medlanecka/2739527756",
-    "id": "2739527756"
   }
 ]
