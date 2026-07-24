@@ -1,5 +1,33 @@
 [
   {
+    "header": "Pronájem bytu 2+1 50 m²",
+    "Address": "Bratislavská, Brno - Zábrdovice",
+    "Price": "21 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-zabrdovice-bratislavska/1730442828",
+    "id": "1730442828"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 76 m²",
+    "Address": "Hrázka, Brno - Medlánky",
+    "Price": "Cena na vyžádání",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-medlanky-hrazka/2440163404",
+    "id": "2440163404"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 76 m²",
+    "Address": "Jánošíkova, Brno - Chrlice",
+    "Price": "23 500 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-chrlice-janosikova/1606803532",
+    "id": "1606803532"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 100 m²",
+    "Address": "Křenová, Brno",
+    "Price": "29 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-brno-krenova/472506444",
+    "id": "472506444"
+  },
+  {
     "header": "Pronájem bytu 3+kk 65 m²",
     "Address": "Údolní, Brno - Stránice",
     "Price": "29 000 Kč/měsíc",
@@ -19,13 +47,6 @@
     "Price": "28 500 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-cerna-pole-jugoslavska/2631065676",
     "id": "2631065676"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 76 m²",
-    "Address": "Hrázka, Brno - Medlánky",
-    "Price": "Cena na vyžádání",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-medlanky-hrazka/2440163404",
-    "id": "2440163404"
   },
   {
     "header": "Pronájem bytu 3+1 67 m²",
@@ -112,31 +133,10 @@
     "id": "3642089548"
   },
   {
-    "header": "Pronájem bytu 2+1 50 m²",
-    "Address": "Bratislavská, Brno - Zábrdovice",
-    "Price": "21 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-zabrdovice-bratislavska/1730442828",
-    "id": "1730442828"
-  },
-  {
     "header": "Pronájem bytu 3+1 136 m²",
     "Address": "Jiráskova, Brno - Veveří",
     "Price": "36 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-veveri-jiraskova/3623718988",
     "id": "3623718988"
-  },
-  {
-    "header": "Pronájem bytu 2+1 56 m²",
-    "Address": "Jiráskova, Brno - Veveří",
-    "Price": "22 900 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-veveri-jiraskova/1152110668",
-    "id": "1152110668"
-  },
-  {
-    "header": "Pronájem bytu 2+1 62 m²",
-    "Address": "Merhautova, Brno",
-    "Price": "18 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-brno-merhautova/2665205836",
-    "id": "2665205836"
   }
 ]
