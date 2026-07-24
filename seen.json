@@ -1,5 +1,33 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 194 m²",
+    "Address": "Hrozňatova, Brno - Židenice",
+    "Price": "39 900 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zidenice-hroznatova/1520099404",
+    "id": "1520099404"
+  },
+  {
+    "header": "Pronájem bytu 3+1 56 m²",
+    "Address": "Václavská, Brno - Staré Brno",
+    "Price": "29 900 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-stare-brno-vaclavska/2254032972",
+    "id": "2254032972"
+  },
+  {
+    "header": "Pronájem bytu 2+1 41 m²",
+    "Address": "Hybešova, Brno - Staré Brno",
+    "Price": "25 900 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-stare-brno-hybesova/175755340",
+    "id": "175755340"
+  },
+  {
+    "header": "Pronájem bytu 3+1 76 m²",
+    "Address": "Suzova, Brno - Medlánky",
+    "Price": "23 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-medlanky-suzova/2055725132",
+    "id": "2055725132"
+  },
+  {
     "header": "Pronájem bytu 3+1 78 m²",
     "Address": "Vyšehradská, Brno - Brněnské Ivanovice",
     "Price": "23 900 Kč/měsíc",
@@ -110,33 +138,5 @@
     "Price": "23 500 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-chrlice-janosikova/1606803532",
     "id": "1606803532"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 100 m²",
-    "Address": "Křenová, Brno",
-    "Price": "29 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-brno-krenova/472506444",
-    "id": "472506444"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 65 m²",
-    "Address": "Údolní, Brno - Stránice",
-    "Price": "29 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-stranice-udolni/2957369420",
-    "id": "2957369420"
-  },
-  {
-    "header": "Pronájem bytu 2+1 90 m²",
-    "Address": "náměstí Svobody, Brno - Brno-město",
-    "Price": "30 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-brno-mesto-namesti-svobody/2328547404",
-    "id": "2328547404"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 91 m²",
-    "Address": "Jugoslávská, Brno - Černá Pole",
-    "Price": "28 500 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-cerna-pole-jugoslavska/2631065676",
-    "id": "2631065676"
   }
 ]
