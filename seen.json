@@ -1,5 +1,19 @@
 [
   {
+    "header": "Pronájem bytu 3+1 76 m²",
+    "Address": "Suzova, Brno - Medlánky",
+    "Price": "23 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-medlanky-suzova/2055725132",
+    "id": "2055725132"
+  },
+  {
+    "header": "Pronájem bytu 3+1 67 m²",
+    "Address": "Labská, Brno - Starý Lískovec",
+    "Price": "27 990 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-stary-liskovec-labska/4275687500",
+    "id": "4275687500"
+  },
+  {
     "header": "Pronájem bytu 3+kk 76 m²",
     "Address": "Hrázka, Brno - Medlánky",
     "Price": "24 000 Kč/měsíc",
@@ -112,13 +126,6 @@
     "id": "175755340"
   },
   {
-    "header": "Pronájem bytu 3+1 76 m²",
-    "Address": "Suzova, Brno - Medlánky",
-    "Price": "23 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-medlanky-suzova/2055725132",
-    "id": "2055725132"
-  },
-  {
     "header": "Pronájem bytu 3+1 78 m²",
     "Address": "Vyšehradská, Brno - Brněnské Ivanovice",
     "Price": "23 900 Kč/měsíc",
@@ -131,12 +138,5 @@
     "Price": "20 200 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-jundrov-serikova/652730444",
     "id": "652730444"
-  },
-  {
-    "header": "Pronájem bytu 2+1 38 m²",
-    "Address": "Brno - Staré Brno",
-    "Price": "25 900 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-stare-brno-/3362377804",
-    "id": "3362377804"
   }
 ]
