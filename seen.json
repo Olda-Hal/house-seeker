@@ -7,6 +7,13 @@
     "id": "2086592588"
   },
   {
+    "header": "Pronájem bytu 2+1 55 m²",
+    "Address": "Dělnická, Brno - Komín",
+    "Price": "15 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-komin-delnicka/997773388",
+    "id": "997773388"
+  },
+  {
     "header": "Pronájem bytu 3+kk 91 m²",
     "Address": "Jugoslávská, Brno - Černá Pole",
     "Price": "28 500 Kč/měsíc",
@@ -131,12 +138,5 @@
     "Price": "26 900 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-cerna-pole-cernopolni/1021567052",
     "id": "1021567052"
-  },
-  {
-    "header": "Pronájem bytu 2+1 64 m²",
-    "Address": "Prokofjevova, Brno - Kohoutovice",
-    "Price": "21 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-kohoutovice-prokofjevova/2638475340",
-    "id": "2638475340"
   }
 ]
