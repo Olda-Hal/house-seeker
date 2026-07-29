@@ -126,17 +126,17 @@
     "id": "2432618572"
   },
   {
-    "header": "Pronájem bytu 3+1 74 m²",
-    "Address": "Horníkova, Brno - Líšeň",
-    "Price": "24 900 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-lisen-hornikova/2895892556",
-    "id": "2895892556"
-  },
-  {
     "header": "SLEVA: Pronájem bytu 3+1 90 m²",
     "Address": "Jeřabinová, Brno - Staré Brno",
     "Price": "30 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-stare-brno-jerabinova/1464328268",
     "id": "1464328268"
+  },
+  {
+    "header": "Pronájem bytu 2+1 78 m²",
+    "Address": "Černopolní, Brno - Černá Pole",
+    "Price": "26 400 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-cerna-pole-cernopolni/3538866252",
+    "id": "3538866252"
   }
 ]
