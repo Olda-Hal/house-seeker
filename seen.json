@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 2+1 47 m²",
+    "Address": "Brno - Brno-Komín",
+    "Price": "7 850 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-brno-komin-/474861644",
+    "id": "474861644"
+  },
+  {
     "header": "Pronájem bytu 3+kk 94 m²",
     "Address": "Kopečná, Brno - Staré Brno",
     "Price": "36 000 Kč/měsíc",
@@ -131,12 +138,5 @@
     "Price": "24 900 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-lisen-hornikova/2895892556",
     "id": "2895892556"
-  },
-  {
-    "header": "SLEVA: Pronájem bytu 3+1 90 m²",
-    "Address": "Jeřabinová, Brno - Staré Brno",
-    "Price": "30 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-stare-brno-jerabinova/1464328268",
-    "id": "1464328268"
   }
 ]
