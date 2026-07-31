@@ -1,5 +1,19 @@
 [
   {
+    "header": "Pronájem bytu 2+1 55 m²",
+    "Address": "Vídeňská, Brno",
+    "Price": "22 500 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-brno-videnska/2337067084",
+    "id": "2337067084"
+  },
+  {
+    "header": "Pronájem bytu 3+1 70 m²",
+    "Address": "Okrouhlá, Brno",
+    "Price": "26 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-brno-okrouhla/2454507596",
+    "id": "2454507596"
+  },
+  {
     "header": "Pronájem bytu 3+1 77 m²",
     "Address": "Bzenecká, Brno - Židenice",
     "Price": "23 000 Kč/měsíc",
@@ -124,19 +138,5 @@
     "Price": "7 850 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-brno-komin-/474861644",
     "id": "474861644"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 94 m²",
-    "Address": "Kopečná, Brno - Staré Brno",
-    "Price": "36 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-stare-brno-kopecna/252203852",
-    "id": "252203852"
-  },
-  {
-    "header": "Pronájem bytu 3+1 143 m²",
-    "Address": "Schodová, Brno - Černá Pole",
-    "Price": "38 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-cerna-pole-schodova/937078860",
-    "id": "937078860"
   }
 ]
