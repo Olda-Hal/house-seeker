@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 2+1 63 m²",
+    "Address": "Kounicova, Brno - Veveří",
+    "Price": "23 900 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-veveri-kounicova/2163273804",
+    "id": "2163273804"
+  },
+  {
     "header": "Pronájem bytu 3+1 71 m²",
     "Address": "Studená, Brno - Lesná",
     "Price": "17 900 Kč/měsíc",
@@ -47,13 +54,6 @@
     "Price": "7 850 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-brno-komin-/474861644",
     "id": "474861644"
-  },
-  {
-    "header": "Inspirace, XXXL výběr",
-    "Address": "Navštivte naše obchodní domy – rádi vám pomůžeme splnit váš sen o krásném bydlení.",
-    "Price": "XXXLutz Česká republika",
-    "link": "https://i.imedia.cz/v2/click?spotId=4203647&d=3YM2HNFKMV2RCXC3EQGKMS2M2DRDZU7FSP238XU78VBIBNB67SFSHDBNE5HQ2IUK8A2MAZ2BTH4N82R2KMQREWYT5HXM9P89RRI93557WMUKZ8CAVKKGNBAB49ES8FJHXVMHNGC6JW2JRYFFMQEM6VRTH9J579HXQUU3DZDS7FEFMG4BARXGVFM9CT8C5HZC5UG6KK2BV3E6WI4R34T5N26BHT5MGGSRBW9UXWB46F5EXJY3KQFJSWH3UHMSKNXYDKPUMH4DHJ7735F6NAXGPSJ446B9KZ4BKZ2JEKFMG3XFB5BUPYR7WDBAMCUHTV3WQESIPK3Y4CB9EISYXC6Y6FDMGXRV6B29HZDR6QXP98GBN5WS&destination=https%3A//ad.doubleclick.net/ddm/trackclk/N510405.5083943MUP-SEZNAM-NATIVE/B34999881.439049166%3Bdc_trk_aid%3D632127340%3Bdc_trk_cid%3D247725133%3Bdc_lat%3D%3Bdc_rdid%3D%3Btag_for_child_directed_treatment%3D%3Btfua%3D%3Bgdpr%3D$%7BGDPR%7D%3Bgdpr_consent%3D$%7BGDPR_CONSENT_755%7D%3Bltd%3D%3Bdc_tdv%3D1",
-    "id": "B34999881.439049166%3Bdc_trk_aid%3D632127340%3Bdc_trk_cid%3D247725133%3Bdc_lat%3D%3Bdc_rdid%3D%3Btag_for_child_directed_treatment%3D%3Btfua%3D%3Bgdpr%3D$%7BGDPR%7D%3Bgdpr_consent%3D$%7BGDPR_CONSENT_755%7D%3Bltd%3D%3Bdc_tdv%3D1"
   },
   {
     "header": "Pronájem bytu 2+1 58 m²",
@@ -138,12 +138,5 @@
     "Price": "24 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-stranice-mahenova/550293580",
     "id": "550293580"
-  },
-  {
-    "header": "Pronájem bytu 3+1 68 m²",
-    "Address": "Nezamyslova, Brno - Židenice",
-    "Price": "22 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-zidenice-nezamyslova/80531532",
-    "id": "80531532"
   }
 ]
