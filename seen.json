@@ -49,6 +49,13 @@
     "id": "2780094540"
   },
   {
+    "header": "Pronájem bytu 2+1 47 m²",
+    "Address": "Brno - Brno-Komín",
+    "Price": "7 850 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-brno-komin-/474861644",
+    "id": "474861644"
+  },
+  {
     "header": "Pronájem bytu 2+1 58 m²",
     "Address": "Tyršova, Brno - Královo Pole",
     "Price": "20 000 Kč/měsíc",
@@ -131,12 +138,5 @@
     "Price": "24 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-stranice-mahenova/550293580",
     "id": "550293580"
-  },
-  {
-    "header": "Pronájem bytu 3+1 68 m²",
-    "Address": "Nezamyslova, Brno - Židenice",
-    "Price": "22 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-zidenice-nezamyslova/80531532",
-    "id": "80531532"
   }
 ]
