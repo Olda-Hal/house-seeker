@@ -1,5 +1,33 @@
 [
   {
+    "header": "Pronájem bytu 2+1 70 m²",
+    "Address": "Hansmannova, Brno - Černá Pole",
+    "Price": "19 500 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-cerna-pole-hansmannova/939389004",
+    "id": "939389004"
+  },
+  {
+    "header": "Pronájem bytu 3+1 70 m²",
+    "Address": "Bzenecká, Brno - Židenice",
+    "Price": "24 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-zidenice-bzenecka/2317471820",
+    "id": "2317471820"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 65 m²",
+    "Address": "Jaselská, Brno - Veveří",
+    "Price": "37 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-veveri-jaselska/1540587596",
+    "id": "1540587596"
+  },
+  {
+    "header": "Pronájem bytu 3+1 76 m²",
+    "Address": "Rerychova, Brno - Bystrc",
+    "Price": "23 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-bystrc-rerychova/2602684492",
+    "id": "2602684492"
+  },
+  {
     "header": "Pronájem bytu 2+1 54 m²",
     "Address": "Křídlovická, Brno - Staré Brno",
     "Price": "22 900 Kč/měsíc",
@@ -51,7 +79,7 @@
   {
     "header": "Pronájem bytu 3+kk 68 m²",
     "Address": "Oderská, Brno - Starý Lískovec",
-    "Price": "Cena na vyžádání",
+    "Price": "26 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-stary-liskovec-oderska/327340108",
     "id": "327340108"
   },
@@ -110,33 +138,5 @@
     "Price": "24 900 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-lisen-hornikova/2895892556",
     "id": "2895892556"
-  },
-  {
-    "header": "Pronájem bytu 2+1 57 m²",
-    "Address": "Galandauerova, Brno - Královo Pole",
-    "Price": "23 990 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-kralovo-pole-galandauerova/1638715468",
-    "id": "1638715468"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 106 m²",
-    "Address": "Gorkého, Brno - Veveří",
-    "Price": "30 900 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-veveri-gorkeho/671273036",
-    "id": "671273036"
-  },
-  {
-    "header": "Pronájem bytu 3+1 71 m²",
-    "Address": "Studená, Brno - Lesná",
-    "Price": "17 900 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-lesna-studena/1998184524",
-    "id": "1998184524"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 72 m²",
-    "Address": "Bačovského, Brno - Líšeň",
-    "Price": "20 900 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-lisen-bacovskeho/965509196",
-    "id": "965509196"
   }
 ]
