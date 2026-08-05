@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 2+1 61 m²",
+    "Address": "Vavřinecká, Brno - Komín",
+    "Price": "18 900 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-komin-vavrinecka/1102106700",
+    "id": "1102106700"
+  },
+  {
     "header": "Pronájem bytu 2+1 59 m²",
     "Address": "Kunštátská, Brno - Řečkovice",
     "Price": "21 000 Kč/měsíc",
@@ -131,12 +138,5 @@
     "Price": "22 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-kohoutovice-jirovcova/2971848780",
     "id": "2971848780"
-  },
-  {
-    "header": "Pronájem bytu 3+1 83 m²",
-    "Address": "Koniklecová, Brno - Nový Lískovec",
-    "Price": "23 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-novy-liskovec-koniklecova/3733049420",
-    "id": "3733049420"
   }
 ]
