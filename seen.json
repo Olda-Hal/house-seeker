@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 2+1 59 m²",
+    "Address": "Kunštátská, Brno - Řečkovice",
+    "Price": "21 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-reckovice-kunstatska/4249411660",
+    "id": "4249411660"
+  },
+  {
     "header": "Pronájem bytu 3+1 102 m²",
     "Address": "Biskupská, Brno - Brno-město",
     "Price": "37 000 Kč/měsíc",
@@ -131,12 +138,5 @@
     "Price": "23 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-novy-liskovec-koniklecova/3733049420",
     "id": "3733049420"
-  },
-  {
-    "header": "Pronájem bytu 2+1 75 m²",
-    "Address": "Břenkova, Brno - Černá Pole",
-    "Price": "21 500 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-cerna-pole-brenkova/1779355724",
-    "id": "1779355724"
   }
 ]
