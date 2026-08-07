@@ -1,5 +1,26 @@
 [
   {
+    "header": "Pronájem bytu 2+1 78 m²",
+    "Address": "Černopolní, Brno - Černá Pole",
+    "Price": "25 900 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-cerna-pole-cernopolni/3808682060",
+    "id": "3808682060"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 71 m²",
+    "Address": "Hybešova, Brno - Staré Brno",
+    "Price": "27 990 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-stare-brno-hybesova/2832130124",
+    "id": "2832130124"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 60 m²",
+    "Address": "Kuldova, Brno - Zábrdovice",
+    "Price": "26 590 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zabrdovice-kuldova/1392042060",
+    "id": "1392042060"
+  },
+  {
     "header": "Pronájem bytu 2+1 67 m²",
     "Address": "Merhautova, Brno - Zábrdovice",
     "Price": "26 990 Kč/měsíc",
@@ -105,13 +126,6 @@
     "id": "3270037580"
   },
   {
-    "header": "Plánování kuchyně ZDARMA",
-    "Address": "Rezervujte termín a naplánujte si s námi kuchyni německé kvality se zárukou až 25 let.",
-    "Price": "XXXLutz Česká republika",
-    "link": "https://i.imedia.cz/v2/click?spotId=4203646&d=YI9MSYE3AJNXQGFV3KI95TNZPT4Y86BESKRKTUK9BGI5YFMDHXHAYXC6XGTPFWCZN7X5GPESY3VKG4F8CRQVVYT5SCKGDEMSH4Z58IV4IE74DHFA45T9QWBWN8MNHQYTE54U7SIN3ZWQD7DN2DKQN3NNNW4QMRS3KNTM5QCAJ9A6HMQWCZUBKF3HYZB8UT8Y8HHUAQWF7AGCIK5I3TCDJYYAJMS82FDUPYSXYNT44MD4Y6WHRM56B9WH6E99UC5TQBVHGKSWQ5P7T2BN2H6KFFCIGG4MZV923N99KIH4UV42ANGC8SKERZZHMKC42URQ9GQS6DNSI9KXSFZFJM6EQZ7WQZ64XVQMCXUZJYMUMXVG84I&destination=https%3A//ad.doubleclick.net/ddm/trackclk/N510405.5083943MUP-SEZNAM-NATIVE/B34999881.438741785%3Bdc_trk_aid%3D632129215%3Bdc_trk_cid%3D247725133%3Bdc_lat%3D%3Bdc_rdid%3D%3Btag_for_child_directed_treatment%3D%3Btfua%3D%3Bgdpr%3D$%7BGDPR%7D%3Bgdpr_consent%3D$%7BGDPR_CONSENT_755%7D%3Bltd%3D%3Bdc_tdv%3D1",
-    "id": "B34999881.438741785%3Bdc_trk_aid%3D632129215%3Bdc_trk_cid%3D247725133%3Bdc_lat%3D%3Bdc_rdid%3D%3Btag_for_child_directed_treatment%3D%3Btfua%3D%3Bgdpr%3D$%7BGDPR%7D%3Bgdpr_consent%3D$%7BGDPR_CONSENT_755%7D%3Bltd%3D%3Bdc_tdv%3D1"
-  },
-  {
     "header": "Pronájem bytu 3+1 90 m²",
     "Address": "Zeiberlichova, Brno - Soběšice",
     "Price": "18 800 Kč/měsíc",
@@ -124,26 +138,5 @@
     "Price": "18 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-stary-liskovec-u-hriste/3779514444",
     "id": "3779514444"
-  },
-  {
-    "header": "Pronájem bytu 2+1 50 m²",
-    "Address": "Bratislavská, Brno - Zábrdovice",
-    "Price": "21 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-zabrdovice-bratislavska/1730442828",
-    "id": "1730442828"
-  },
-  {
-    "header": "Pronájem bytu 2+1 45 m²",
-    "Address": "Cejl, Brno - Zábrdovice",
-    "Price": "20 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-zabrdovice-cejl/2366885964",
-    "id": "2366885964"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 60 m²",
-    "Address": "Mikuláškovo náměstí, Brno - Starý Lískovec",
-    "Price": "24 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-stary-liskovec-mikulaskovo-namesti/3547779148",
-    "id": "3547779148"
   }
 ]
