@@ -1,5 +1,19 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 112 m²",
+    "Address": "Mezírka, Brno - Veveří",
+    "Price": "38 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-veveri-mezirka/623366220",
+    "id": "623366220"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 65 m²",
+    "Address": "Údolní, Brno - Stránice",
+    "Price": "29 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-stranice-udolni/2957369420",
+    "id": "2957369420"
+  },
+  {
     "header": "Pronájem bytu 2+1 52 m²",
     "Address": "Dědická, Brno - Slatina",
     "Price": "18 000 Kč/měsíc",
@@ -112,13 +126,6 @@
     "id": "2401751116"
   },
   {
-    "header": "Pronájem bytu 3+kk 112 m²",
-    "Address": "Mezírka, Brno - Veveří",
-    "Price": "38 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-veveri-mezirka/623366220",
-    "id": "623366220"
-  },
-  {
     "header": "Pronájem bytu 3+1 115 m²",
     "Address": "Kunzova, Brno - Černá Pole",
     "Price": "32 900 Kč/měsíc",
@@ -131,12 +138,5 @@
     "Price": "29 200 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-cerna-pole-cernopolni/2780094540",
     "id": "2780094540"
-  },
-  {
-    "header": "Pronájem bytu 2+1 78 m²",
-    "Address": "Černopolní, Brno - Černá Pole",
-    "Price": "26 400 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-cerna-pole-cernopolni/1021567052",
-    "id": "1021567052"
   }
 ]
