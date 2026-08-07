@@ -21,13 +21,6 @@
     "id": "2366885964"
   },
   {
-    "header": "Pronájem bytu 3+1 81 m²",
-    "Address": "Merhautova, Brno - Zábrdovice",
-    "Price": "23 900 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-zabrdovice-merhautova/427216972",
-    "id": "427216972"
-  },
-  {
     "header": "Pronájem bytu 3+kk 60 m²",
     "Address": "Mikuláškovo náměstí, Brno - Starý Lískovec",
     "Price": "24 000 Kč/měsíc",
@@ -58,7 +51,7 @@
   {
     "header": "Pronájem bytu 2+1 60 m²",
     "Address": "Nováčkova, Brno - Husovice",
-    "Price": "Cena na vyžádání",
+    "Price": "16 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-husovice-novackova/2827472972",
     "id": "2827472972"
   },
@@ -138,5 +131,12 @@
     "Price": "36 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-stare-brno-kopecna/252203852",
     "id": "252203852"
+  },
+  {
+    "header": "Pronájem bytu 3+1 143 m²",
+    "Address": "Schodová, Brno - Černá Pole",
+    "Price": "38 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-cerna-pole-schodova/937078860",
+    "id": "937078860"
   }
 ]
