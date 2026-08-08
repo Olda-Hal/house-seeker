@@ -7,6 +7,13 @@
     "id": "3688288332"
   },
   {
+    "header": "Pronájem bytu 3+kk 58 m²",
+    "Address": "Jílkova, Brno - Židenice",
+    "Price": "39 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zidenice-jilkova/2396442700",
+    "id": "2396442700"
+  },
+  {
     "header": "Pronájem bytu 3+kk 112 m²",
     "Address": "Mezírka, Brno - Veveří",
     "Price": "38 000 Kč/měsíc",
@@ -131,12 +138,5 @@
     "Price": "26 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-veveri-sokolska/2317799500",
     "id": "2317799500"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 194 m²",
-    "Address": "Hrozňatova, Brno - Židenice",
-    "Price": "39 900 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zidenice-hroznatova/1520099404",
-    "id": "1520099404"
   }
 ]
