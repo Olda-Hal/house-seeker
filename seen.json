@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 2+1 66 m²",
+    "Address": "Kladivova, Brno - Černá Pole",
+    "Price": "29 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-cerna-pole-kladivova/3688288332",
+    "id": "3688288332"
+  },
+  {
     "header": "Pronájem bytu 3+kk 112 m²",
     "Address": "Mezírka, Brno - Veveří",
     "Price": "38 000 Kč/měsíc",
@@ -131,12 +138,5 @@
     "Price": "39 900 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zidenice-hroznatova/1520099404",
     "id": "1520099404"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 73 m²",
-    "Address": "Bratislavská, Brno - Zábrdovice",
-    "Price": "33 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zabrdovice-bratislavska/3270037580",
-    "id": "3270037580"
   }
 ]
