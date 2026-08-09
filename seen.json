@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 2+1 54 m²",
+    "Address": "Šumavská, Brno - Žabovřesky",
+    "Price": "23 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-zabovresky-sumavska/991416396",
+    "id": "991416396"
+  },
+  {
     "header": "Pronájem bytu 2+1 50 m²",
     "Address": "Bratislavská, Brno - Zábrdovice",
     "Price": "21 000 Kč/měsíc",
@@ -131,12 +138,5 @@
     "Price": "42 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-pisarky-neumannova/4067020876",
     "id": "4067020876"
-  },
-  {
-    "header": "Pronájem bytu 2+1 63 m²",
-    "Address": "Pod Cestou, Brno - Líšeň",
-    "Price": "15 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-lisen-pod-cestou/456577100",
-    "id": "456577100"
   }
 ]
