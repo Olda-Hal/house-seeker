@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 85 m²",
+    "Address": "Kigginsova, Brno - Slatina",
+    "Price": "29 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-slatina-kigginsova/806670412",
+    "id": "806670412"
+  },
+  {
     "header": "Pronájem bytu 3+1 90 m²",
     "Address": "Slovanské náměstí, Brno - Královo Pole",
     "Price": "23 000 Kč/měsíc",
@@ -131,12 +138,5 @@
     "Price": "43 900 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zabrdovice-bratislavska/2630526284",
     "id": "2630526284"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 141 m²",
-    "Address": "Bratislavská, Brno - Zábrdovice",
-    "Price": "36 050 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zabrdovice-bratislavska/3302663500",
-    "id": "3302663500"
   }
 ]
