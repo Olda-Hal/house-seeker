@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+1 74 m²",
+    "Address": "Spodní, Brno - Bohunice",
+    "Price": "27 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-bohunice-spodni/2081144908",
+    "id": "2081144908"
+  },
+  {
     "header": "Pronájem bytu 3+kk 94 m²",
     "Address": "Kopečná, Brno - Staré Brno",
     "Price": "36 000 Kč/měsíc",
@@ -131,12 +138,5 @@
     "Price": "24 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-malomerice-obranska/3920941132",
     "id": "3920941132"
-  },
-  {
-    "header": "Pronájem bytu 3+1 73 m²",
-    "Address": "Bednaříkova, Brno - Líšeň",
-    "Price": "22 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-lisen-bednarikova/735367244",
-    "id": "735367244"
   }
 ]
