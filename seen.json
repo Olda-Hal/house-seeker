@@ -7,11 +7,11 @@
     "id": "2166935628"
   },
   {
-    "header": "Pronájem bytu 2+1 90 m²",
-    "Address": "Údolní, Brno - Stránice",
-    "Price": "22 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-stranice-udolni/1756680268",
-    "id": "1756680268"
+    "header": "Pronájem bytu 3+1 74 m²",
+    "Address": "Loosova, Brno - Lesná",
+    "Price": "21 300 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-lesna-loosova/3937718348",
+    "id": "3937718348"
   },
   {
     "header": "Pronájem bytu 3+1 75 m²",
@@ -84,13 +84,6 @@
     "id": "3287797836"
   },
   {
-    "header": "Pronájem bytu 3+kk 73 m²",
-    "Address": "Jílkova, Brno - Židenice",
-    "Price": "25 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zidenice-jilkova/1698816076",
-    "id": "1698816076"
-  },
-  {
     "header": "Pronájem bytu 3+kk 112 m²",
     "Address": "Mezírka, Brno - Veveří",
     "Price": "38 000 Kč/měsíc",
@@ -138,5 +131,12 @@
     "Price": "25 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-bystrc-opalkova/3565539404",
     "id": "3565539404"
+  },
+  {
+    "header": "Pronájem bytu 3+1 90 m²",
+    "Address": "Zeiberlichova, Brno - Soběšice",
+    "Price": "18 800 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-sobesice-zeiberlichova/1280757836",
+    "id": "1280757836"
   }
 ]
