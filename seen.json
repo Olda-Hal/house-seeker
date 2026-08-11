@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+1 98 m²",
+    "Address": "náměstí Svobody, Brno - Brno-město",
+    "Price": "24 960 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-brno-mesto-namesti-svobody/1075560524",
+    "id": "1075560524"
+  },
+  {
     "header": "Pronájem bytu 3+1 74 m²",
     "Address": "Spodní, Brno - Bohunice",
     "Price": "27 000 Kč/měsíc",
@@ -131,12 +138,5 @@
     "Price": "21 300 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-lesna-loosova/3937718348",
     "id": "3937718348"
-  },
-  {
-    "header": "Pronájem bytu 3+1 75 m²",
-    "Address": "Obřanská, Brno - Maloměřice",
-    "Price": "24 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-malomerice-obranska/3920941132",
-    "id": "3920941132"
   }
 ]
