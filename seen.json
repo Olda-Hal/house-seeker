@@ -14,6 +14,13 @@
     "id": "4038053964"
   },
   {
+    "header": "Pronájem bytu 3+1 71 m²",
+    "Address": "Studená, Brno - Lesná",
+    "Price": "17 900 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-lesna-studena/1998184524",
+    "id": "1998184524"
+  },
+  {
     "header": "Pronájem bytu 2+1 34 m²",
     "Address": "Hybešova, Brno - Staré Brno",
     "Price": "25 900 Kč/měsíc",
@@ -131,12 +138,5 @@
     "Price": "43 900 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zabrdovice-bratislavska/2630526284",
     "id": "2630526284"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 141 m²",
-    "Address": "Bratislavská, Brno - Zábrdovice",
-    "Price": "36 050 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zabrdovice-bratislavska/3302663500",
-    "id": "3302663500"
   }
 ]
