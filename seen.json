@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 2+1 61 m²",
+    "Address": "Vavřinecká, Brno - Komín",
+    "Price": "18 900 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-komin-vavrinecka/1102106700",
+    "id": "1102106700"
+  },
+  {
     "header": "Pronájem bytu 3+kk 93 m²",
     "Address": "Kopečná, Brno - Staré Brno",
     "Price": "36 000 Kč/měsíc",
@@ -72,7 +79,7 @@
   {
     "header": "Pronájem bytu 2+1 50 m²",
     "Address": "Leitnerova, Brno - Staré Brno",
-    "Price": "20 000 Kč/měsíc",
+    "Price": "22 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-stare-brno-leitnerova/1643888716",
     "id": "1643888716"
   },
@@ -131,12 +138,5 @@
     "Price": "31 900 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-brno-mesto-jakubska/1668145228",
     "id": "1668145228"
-  },
-  {
-    "header": "Pronájem bytu 2+1 78 m²",
-    "Address": "Černopolní, Brno - Černá Pole",
-    "Price": "25 900 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-cerna-pole-cernopolni/1021567052",
-    "id": "1021567052"
   }
 ]
