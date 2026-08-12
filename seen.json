@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 2+1 53 m²",
+    "Address": "Srbská, Brno - Královo Pole",
+    "Price": "20 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-kralovo-pole-srbska/270188620",
+    "id": "270188620"
+  },
+  {
     "header": "Pronájem bytu 3+kk 87 m²",
     "Address": "Černopolní, Brno - Černá Pole",
     "Price": "29 200 Kč/měsíc",
@@ -131,12 +138,5 @@
     "Price": "31 900 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-brno-mesto-jakubska/2210652236",
     "id": "2210652236"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 73 m²",
-    "Address": "Hybešova, Brno - Staré Brno",
-    "Price": "26 900 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-stare-brno-hybesova/1940635724",
-    "id": "1940635724"
   }
 ]
