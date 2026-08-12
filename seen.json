@@ -1,5 +1,19 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 94 m²",
+    "Address": "Kopečná, Brno - Staré Brno",
+    "Price": "36 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-stare-brno-kopecna/252203852",
+    "id": "252203852"
+  },
+  {
+    "header": "Pronájem bytu 3+1 143 m²",
+    "Address": "Schodová, Brno - Černá Pole",
+    "Price": "38 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-cerna-pole-schodova/937078860",
+    "id": "937078860"
+  },
+  {
     "header": "Pronájem bytu 3+1 108 m²",
     "Address": "Čápkova, Brno - Veveří",
     "Price": "28 000 Kč/měsíc",
@@ -124,19 +138,5 @@
     "Price": "25 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-cerna-pole-provaznikova/3120812108",
     "id": "3120812108"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 96 m²",
-    "Address": "Koláčkova, Brno - Řečkovice",
-    "Price": "27 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-reckovice-kolackova/3701661772",
-    "id": "3701661772"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 80 m²",
-    "Address": "Mášova, Brno - Veveří",
-    "Price": "32 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-veveri-masova/3757817932",
-    "id": "3757817932"
   }
 ]
