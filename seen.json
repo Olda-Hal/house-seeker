@@ -1,5 +1,19 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 65 m²",
+    "Address": "Údolní, Brno - Stránice",
+    "Price": "29 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-stranice-udolni/2957369420",
+    "id": "2957369420"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 120 m²",
+    "Address": "náměstí Svobody, Brno - Brno-město",
+    "Price": "55 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-brno-mesto-namesti-svobody/3714695244",
+    "id": "3714695244"
+  },
+  {
     "header": "Pronájem bytu 2+1 50 m²",
     "Address": "Bratislavská, Brno - Zábrdovice",
     "Price": "21 000 Kč/měsíc",
@@ -49,13 +63,6 @@
     "id": "262848588"
   },
   {
-    "header": "Inspirace, XXXL výběr",
-    "Address": "Navštivte naše obchodní domy – rádi vám pomůžeme splnit váš sen o krásném bydlení.",
-    "Price": "XXXLutz Česká republika",
-    "link": "https://i.imedia.cz/v2/click?spotId=4203647&d=R7J2MB5UYGP36FRJZIH6SGN26XVCV3MCSH44E6CSBSFD7HJVIBMN3PCZX8M42FWK7QUW8ZT5RKPBQ9SVKM9MY7KPSKZSH5RJ2FDPFH73KTJE8VCS8YRRJI8MFH54EGKQ6I2SNQJMAN69UVBAAJJCFC62B6Y7WMDUCKBH54I59W8FK3IMQD5RPN3GTWTSWXP4FKVI8N9X926CVQAXFU9ABDFS2DT5JPNRCK78EMNEH8C9KW5S6WRT5TJTE98CHHYISX9EUGPYUKRVWNGZFKRATXHB3DZB27EVSKP6WH3PAPSR6RDA2P79YTNF46YD6PI423CSZWTX4DQXQKVAQJZGMPHK9MJK5JTH4CXAQGAU4V5GW&destination=https%3A//ad.doubleclick.net/ddm/trackclk/N510405.5083943MUP-SEZNAM-NATIVE/B34999881.439049166%3Bdc_trk_aid%3D632127340%3Bdc_trk_cid%3D247725133%3Bdc_lat%3D%3Bdc_rdid%3D%3Btag_for_child_directed_treatment%3D%3Btfua%3D%3Bgdpr%3D$%7BGDPR%7D%3Bgdpr_consent%3D$%7BGDPR_CONSENT_755%7D%3Bltd%3D%3Bdc_tdv%3D1",
-    "id": "B34999881.439049166%3Bdc_trk_aid%3D632127340%3Bdc_trk_cid%3D247725133%3Bdc_lat%3D%3Bdc_rdid%3D%3Btag_for_child_directed_treatment%3D%3Btfua%3D%3Bgdpr%3D$%7BGDPR%7D%3Bgdpr_consent%3D$%7BGDPR_CONSENT_755%7D%3Bltd%3D%3Bdc_tdv%3D1"
-  },
-  {
     "header": "Pronájem bytu 2+1 70 m²",
     "Address": "Jana Uhra, Brno - Veveří",
     "Price": "23 000 Kč/měsíc",
@@ -77,27 +84,6 @@
     "id": "4157329484"
   },
   {
-    "header": "Pronájem bytu 2+1 76 m²",
-    "Address": "Vranovská, Brno",
-    "Price": "22 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-brno-vranovska/553304140",
-    "id": "553304140"
-  },
-  {
-    "header": "Pronájem bytu 2+1 54 m²",
-    "Address": "Šumavská, Brno - Žabovřesky",
-    "Price": "23 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-zabovresky-sumavska/991416396",
-    "id": "991416396"
-  },
-  {
-    "header": "Pronájem bytu 2+1 53 m²",
-    "Address": "Srbská, Brno - Královo Pole",
-    "Price": "20 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-kralovo-pole-srbska/270188620",
-    "id": "270188620"
-  },
-  {
     "header": "Pronájem bytu 3+kk 87 m²",
     "Address": "Černopolní, Brno - Černá Pole",
     "Price": "29 200 Kč/měsíc",
@@ -117,6 +103,13 @@
     "Price": "28 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-veveri-capkova/406503500",
     "id": "406503500"
+  },
+  {
+    "header": "Plánování kuchyně ZDARMA",
+    "Address": "Rezervujte termín a naplánujte si s námi kuchyni německé kvality se zárukou až 25 let.",
+    "Price": "XXXLutz Česká republika",
+    "link": "https://i.imedia.cz/v2/click?spotId=4203646&d=Q4PMF97FK2HEZWV5VCGS7WJHXX83U4MRHG5UMDMRSV9V4JAKEE6NCH5S3DS4WBZJCM7PUFM6R4PV9APTVRC7HECFPANMIFRGBHGJTV6DY42RJ39WAE6RCRHJRS622R86WVHJDMAZCB3KTYPSNW5JYXWJQ3JMSE47AFXF8QT7KDNMFSEUEUFIY95C5UPZUN2KAEVVIAMBWMH2IHWZVMK3CMQSSCU727I3D6NWHSS5VHTEE7IJ3Q2VVQDM3A529BWCFC7FHRJBYRQWSHN955EUWRTHV8XUNZK9FJSNAVKGTIUXP8N6BUWEEEVZSHKFKID8VIBWTKU325RTXAVQVW23DAPUTZCK36MNYQ9ABCMKPJ37U&destination=https%3A//ad.doubleclick.net/ddm/trackclk/N510405.5083943MUP-SEZNAM-NATIVE/B34999881.438741785%3Bdc_trk_aid%3D632129215%3Bdc_trk_cid%3D247725133%3Bdc_lat%3D%3Bdc_rdid%3D%3Btag_for_child_directed_treatment%3D%3Btfua%3D%3Bgdpr%3D$%7BGDPR%7D%3Bgdpr_consent%3D$%7BGDPR_CONSENT_755%7D%3Bltd%3D%3Bdc_tdv%3D1",
+    "id": "B34999881.438741785%3Bdc_trk_aid%3D632129215%3Bdc_trk_cid%3D247725133%3Bdc_lat%3D%3Bdc_rdid%3D%3Btag_for_child_directed_treatment%3D%3Btfua%3D%3Bgdpr%3D$%7BGDPR%7D%3Bgdpr_consent%3D$%7BGDPR_CONSENT_755%7D%3Bltd%3D%3Bdc_tdv%3D1"
   },
   {
     "header": "Pronájem bytu 3+kk 77 m²",
@@ -145,5 +138,12 @@
     "Price": "42 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-pisarky-neumannova/4067020876",
     "id": "4067020876"
+  },
+  {
+    "header": "Pronájem bytu 3+1 112 m²",
+    "Address": "Gorkého, Brno - Veveří",
+    "Price": "30 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-veveri-gorkeho/2016067660",
+    "id": "2016067660"
   }
 ]
