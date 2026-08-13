@@ -49,6 +49,13 @@
     "id": "262848588"
   },
   {
+    "header": "Inspirace, XXXL výběr",
+    "Address": "Navštivte naše obchodní domy – rádi vám pomůžeme splnit váš sen o krásném bydlení.",
+    "Price": "XXXLutz Česká republika",
+    "link": "https://i.imedia.cz/v2/click?spotId=4203647&d=R7J2MB5UYGP36FRJZIH6SGN26XVCV3MCSH44E6CSBSFD7HJVIBMN3PCZX8M42FWK7QUW8ZT5RKPBQ9SVKM9MY7KPSKZSH5RJ2FDPFH73KTJE8VCS8YRRJI8MFH54EGKQ6I2SNQJMAN69UVBAAJJCFC62B6Y7WMDUCKBH54I59W8FK3IMQD5RPN3GTWTSWXP4FKVI8N9X926CVQAXFU9ABDFS2DT5JPNRCK78EMNEH8C9KW5S6WRT5TJTE98CHHYISX9EUGPYUKRVWNGZFKRATXHB3DZB27EVSKP6WH3PAPSR6RDA2P79YTNF46YD6PI423CSZWTX4DQXQKVAQJZGMPHK9MJK5JTH4CXAQGAU4V5GW&destination=https%3A//ad.doubleclick.net/ddm/trackclk/N510405.5083943MUP-SEZNAM-NATIVE/B34999881.439049166%3Bdc_trk_aid%3D632127340%3Bdc_trk_cid%3D247725133%3Bdc_lat%3D%3Bdc_rdid%3D%3Btag_for_child_directed_treatment%3D%3Btfua%3D%3Bgdpr%3D$%7BGDPR%7D%3Bgdpr_consent%3D$%7BGDPR_CONSENT_755%7D%3Bltd%3D%3Bdc_tdv%3D1",
+    "id": "B34999881.439049166%3Bdc_trk_aid%3D632127340%3Bdc_trk_cid%3D247725133%3Bdc_lat%3D%3Bdc_rdid%3D%3Btag_for_child_directed_treatment%3D%3Btfua%3D%3Bgdpr%3D$%7BGDPR%7D%3Bgdpr_consent%3D$%7BGDPR_CONSENT_755%7D%3Bltd%3D%3Bdc_tdv%3D1"
+  },
+  {
     "header": "Pronájem bytu 2+1 70 m²",
     "Address": "Jana Uhra, Brno - Veveří",
     "Price": "23 000 Kč/měsíc",
@@ -126,17 +133,17 @@
     "id": "1594315596"
   },
   {
-    "header": "Pronájem bytu 3+1 74 m²",
-    "Address": "Kuršova, Brno - Bystrc",
-    "Price": "19 900 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-bystrc-kursova/1147654220",
-    "id": "1147654220"
-  },
-  {
     "header": "Pronájem bytu 3+1 71 m²",
     "Address": "Studená, Brno - Lesná",
     "Price": "17 900 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-lesna-studena/1998184524",
     "id": "1998184524"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 70 m²",
+    "Address": "Neumannova, Brno - Pisárky",
+    "Price": "42 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-pisarky-neumannova/4067020876",
+    "id": "4067020876"
   }
 ]
