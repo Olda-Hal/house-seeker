@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 2+1 59 m²",
+    "Address": "Richtrova, Brno - Kohoutovice",
+    "Price": "20 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-kohoutovice-richtrova/1548271692",
+    "id": "1548271692"
+  },
+  {
     "header": "Pronájem bytu 3+kk 71 m²",
     "Address": "Hybešova, Brno - Staré Brno",
     "Price": "27 990 Kč/měsíc",
@@ -131,12 +138,5 @@
     "Price": "19 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-cernovice-huskova/433700940",
     "id": "433700940"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 96 m²",
-    "Address": "Koláčkova, Brno - Řečkovice",
-    "Price": "27 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-reckovice-kolackova/3701661772",
-    "id": "3701661772"
   }
 ]
