@@ -1,5 +1,19 @@
 [
   {
+    "header": "Pronájem bytu 2+1 67 m²",
+    "Address": "Merhautova, Brno - Zábrdovice",
+    "Price": "25 990 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-zabrdovice-merhautova/3451048012",
+    "id": "3451048012"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 77 m²",
+    "Address": "Bučovická, Brno - Slatina",
+    "Price": "27 500 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-slatina-bucovicka/326680652",
+    "id": "326680652"
+  },
+  {
     "header": "Pronájem bytu 2+1 64 m²",
     "Address": "Černého, Brno - Bystrc",
     "Price": "20 990 Kč/měsíc",
@@ -124,19 +138,5 @@
     "Price": "38 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-veveri-mezirka/623366220",
     "id": "623366220"
-  },
-  {
-    "header": "Pronájem bytu 3+1 98 m²",
-    "Address": "Bosonožské náměstí, Brno - Bosonohy",
-    "Price": "29 500 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-bosonohy-bosonozske-namesti/1981399116",
-    "id": "1981399116"
-  },
-  {
-    "header": "Pronájem bytu 3+1 72 m²",
-    "Address": "Spodní, Brno - Bohunice",
-    "Price": "23 500 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-bohunice-spodni/2100936780",
-    "id": "2100936780"
   }
 ]
