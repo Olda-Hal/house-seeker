@@ -35,13 +35,6 @@
     "id": "1668145228"
   },
   {
-    "header": "Pronájem bytu 3+kk 78 m²",
-    "Address": "Molákova, Brno - Líšeň",
-    "Price": "25 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-lisen-molakova/441040972",
-    "id": "441040972"
-  },
-  {
     "header": "Pronájem bytu 3+kk 81 m²",
     "Address": "Francouzská, Brno - Zábrdovice",
     "Price": "29 000 Kč/měsíc",
@@ -138,5 +131,12 @@
     "Price": "35 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-veveri-jana-uhra/4157329484",
     "id": "4157329484"
+  },
+  {
+    "header": "Pronájem bytu 3+1 108 m²",
+    "Address": "Čápkova, Brno - Veveří",
+    "Price": "28 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-veveri-capkova/406503500",
+    "id": "406503500"
   }
 ]
