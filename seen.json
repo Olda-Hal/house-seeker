@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 73 m²",
+    "Address": "Bratislavská, Brno - Zábrdovice",
+    "Price": "33 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zabrdovice-bratislavska/3270037580",
+    "id": "3270037580"
+  },
+  {
     "header": "Pronájem bytu 3+kk 77 m²",
     "Address": "Podveská, Brno - Komín",
     "Price": "31 990 Kč/měsíc",
@@ -105,13 +112,6 @@
     "id": "1651032140"
   },
   {
-    "header": "Stabilní financování",
-    "Address": "Až 30 mil. Kč na 30 let pro vaše podnikání.",
-    "Price": "MONETA Bank",
-    "link": "https://i.imedia.cz/v2/click?spotId=4205800&d=2WCPFAY4U8V7U2BRB6JFAIY6TJD8BA7MBKQIXMTC9Y7GFSRT4QVY6I2N2FAKWFQZW97HGUPC2U7B274NN2YFKQ5UDMM8M8A7KYFTFVI84B3FH3HCMVAIJ5PZKR7A82VMQYM3VVWXSBBF7BJRQU3PN3UQJVXHDI6U68VAPS42E8IX2NTRXZFFFU4EBQ8H66647M4J9SSQRVDW2U64MAJ9QPJ7CQQ39EARWW3QYRJBNXPBGD7NW5CSYZ4V9J485R82KP6IEIHTVV5I8D3FTUZ3UGJXS7UG53K5KJ8R88WEBEESD62D3WE9EVTWSEMQNZD6ZATWD4Z9BAW4F3KTDY2UZ9XC3C9IZZBFF5URS83PPUDI8DWE&destination=https%3A//ad.doubleclick.net/ddm/trackclk/N2657615.285881SEZNAM/B34999902.445520433%3Bdc_trk_aid%3D644077280%3Bdc_trk_cid%3D254741090%3Bdc_lat%3D%3Bdc_rdid%3D%3Btag_for_child_directed_treatment%3D%3Btfua%3D%3Bgdpr%3D$%7BGDPR%7D%3Bgdpr_consent%3D$%7BGDPR_CONSENT_755%7D%3Bltd%3D%3Bdc_tdv%3D1",
-    "id": "B34999902.445520433%3Bdc_trk_aid%3D644077280%3Bdc_trk_cid%3D254741090%3Bdc_lat%3D%3Bdc_rdid%3D%3Btag_for_child_directed_treatment%3D%3Btfua%3D%3Bgdpr%3D$%7BGDPR%7D%3Bgdpr_consent%3D$%7BGDPR_CONSENT_755%7D%3Bltd%3D%3Bdc_tdv%3D1"
-  },
-  {
     "header": "Pronájem bytu 3+kk 70 m²",
     "Address": "Neumannova, Brno - Pisárky",
     "Price": "42 000 Kč/měsíc",
@@ -138,12 +138,5 @@
     "Price": "39 900 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zidenice-hroznatova/1520099404",
     "id": "1520099404"
-  },
-  {
-    "header": "Pronájem bytu 2+1 72 m²",
-    "Address": "Veveří, Brno - Veveří",
-    "Price": "24 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-veveri-veveri/2846474316",
-    "id": "2846474316"
   }
 ]
