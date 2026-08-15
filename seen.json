@@ -1,5 +1,19 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 63 m²",
+    "Address": "Štefáčkova, Brno - Líšeň",
+    "Price": "25 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-lisen-stefackova/757645388",
+    "id": "757645388"
+  },
+  {
+    "header": "Pronájem bytu 3+1 75 m²",
+    "Address": "Letovická, Brno - Řečkovice",
+    "Price": "42 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-reckovice-letovicka/36225100",
+    "id": "36225100"
+  },
+  {
     "header": "Pronájem bytu 3+kk 73 m²",
     "Address": "Bratislavská, Brno - Zábrdovice",
     "Price": "33 000 Kč/měsíc",
@@ -124,19 +138,5 @@
     "Price": "30 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-stare-brno-hlinky/2696527948",
     "id": "2696527948"
-  },
-  {
-    "header": "Pronájem bytu 3+1 72 m²",
-    "Address": "Souběžná, Brno - Židenice",
-    "Price": "21 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-zidenice-soubezna/178896972",
-    "id": "178896972"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 194 m²",
-    "Address": "Hrozňatova, Brno - Židenice",
-    "Price": "39 900 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zidenice-hroznatova/1520099404",
-    "id": "1520099404"
   }
 ]
