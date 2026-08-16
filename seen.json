@@ -7,6 +7,20 @@
     "id": "1998184524"
   },
   {
+    "header": "Pronájem bytu 3+1 106 m²",
+    "Address": "Bratislavská, Brno - Zábrdovice",
+    "Price": "28 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-zabrdovice-bratislavska/3491886412",
+    "id": "3491886412"
+  },
+  {
+    "header": "Pronájem bytu 2+1 45 m²",
+    "Address": "Cejl, Brno - Zábrdovice",
+    "Price": "20 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-zabrdovice-cejl/2366885964",
+    "id": "2366885964"
+  },
+  {
     "header": "Pronájem bytu 3+kk 63 m²",
     "Address": "Štefáčkova, Brno - Líšeň",
     "Price": "25 000 Kč/měsíc",
@@ -124,19 +138,5 @@
     "Price": "22 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-kralovo-pole-dobrovskeho/1651032140",
     "id": "1651032140"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 70 m²",
-    "Address": "Neumannova, Brno - Pisárky",
-    "Price": "42 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-pisarky-neumannova/4067020876",
-    "id": "4067020876"
-  },
-  {
-    "header": "Pronájem bytu 3+1 100 m²",
-    "Address": "Hlinky, Brno - Staré Brno",
-    "Price": "30 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-stare-brno-hlinky/2696527948",
-    "id": "2696527948"
   }
 ]
