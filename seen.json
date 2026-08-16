@@ -1,5 +1,19 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 78 m²",
+    "Address": "třída Generála Píky, Brno",
+    "Price": "38 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-brno-trida-generala-piky/4187279436",
+    "id": "4187279436"
+  },
+  {
+    "header": "Pronájem bytu 3+1 75 m²",
+    "Address": "Lipská, Brno - Žabovřesky",
+    "Price": "22 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-zabovresky-lipska/3573071948",
+    "id": "3573071948"
+  },
+  {
     "header": "Pronájem bytu 2+1 61 m²",
     "Address": "Vavřinecká, Brno - Komín",
     "Price": "18 900 Kč/měsíc",
@@ -124,19 +138,5 @@
     "Price": "26 590 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zabrdovice-kuldova/1392042060",
     "id": "1392042060"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 77 m²",
-    "Address": "Bučovická, Brno - Slatina",
-    "Price": "27 500 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-slatina-bucovicka/326680652",
-    "id": "326680652"
-  },
-  {
-    "header": "Pronájem bytu 2+1 66 m²",
-    "Address": "Dobrovského, Brno - Královo Pole",
-    "Price": "22 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-kralovo-pole-dobrovskeho/1651032140",
-    "id": "1651032140"
   }
 ]
