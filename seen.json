@@ -1,5 +1,19 @@
 [
   {
+    "header": "Pronájem bytu 2+1 49 m²",
+    "Address": "Došlíkova, Brno - Židenice",
+    "Price": "22 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-zidenice-doslikova/2041102412",
+    "id": "2041102412"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 80 m²",
+    "Address": "Přemyslovo náměstí, Brno - Slatina",
+    "Price": "23 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-slatina-premyslovo-namesti/2974216268",
+    "id": "2974216268"
+  },
+  {
     "header": "Pronájem bytu 3+1 106 m²",
     "Address": "Bratislavská, Brno - Zábrdovice",
     "Price": "28 000 Kč/měsíc",
@@ -124,19 +138,5 @@
     "Price": "27 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-veveri-gorkeho/2186854476",
     "id": "2186854476"
-  },
-  {
-    "header": "Pronájem bytu 2+1 22 m²",
-    "Address": "Branka, Brno - Komín",
-    "Price": "5 850 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-komin-branka/2404958284",
-    "id": "2404958284"
-  },
-  {
-    "header": "Pronájem bytu 3+1 70 m²",
-    "Address": "Měřičkova, Brno - Řečkovice",
-    "Price": "22 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-reckovice-merickova/3025715276",
-    "id": "3025715276"
   }
 ]
