@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+1 79 m²",
+    "Address": "Mezírka, Brno - Veveří",
+    "Price": "29 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-veveri-mezirka/536395852",
+    "id": "536395852"
+  },
+  {
     "header": "Pronájem bytu 3+kk 78 m²",
     "Address": "třída Generála Píky, Brno",
     "Price": "38 000 Kč/měsíc",
@@ -131,12 +138,5 @@
     "Price": "24 900 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-cerna-pole-cernopolni/1021567052",
     "id": "1021567052"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 60 m²",
-    "Address": "Kuldova, Brno - Zábrdovice",
-    "Price": "26 590 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zabrdovice-kuldova/1392042060",
-    "id": "1392042060"
   }
 ]
