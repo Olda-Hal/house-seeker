@@ -1,5 +1,19 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 65 m²",
+    "Address": "Údolní, Brno - Stránice",
+    "Price": "29 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-stranice-udolni/2957369420",
+    "id": "2957369420"
+  },
+  {
+    "header": "Pronájem bytu 3+1 75 m²",
+    "Address": "Souhrady, Brno - Bohunice",
+    "Price": "25 900 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-bohunice-souhrady/3287797836",
+    "id": "3287797836"
+  },
+  {
     "header": "Pronájem bytu 3+kk 80 m²",
     "Address": "Mášova, Brno - Veveří",
     "Price": "32 000 Kč/měsíc",
@@ -105,13 +119,6 @@
     "id": "2849554508"
   },
   {
-    "header": "Inspirace, XXXL výběr",
-    "Address": "Navštivte naše obchodní domy – rádi vám pomůžeme splnit váš sen o krásném bydlení.",
-    "Price": "XXXLutz Česká republika",
-    "link": "https://i.imedia.cz/v2/click?spotId=4203647&d=C6PV6Q2UFCIJSGM779MTHANC2XAQYM3NYM5SD2BJMCTANKY5TSZU7GFNSHFHUHVUGZ2929SY6VFRWFPFVTPGDW8S3YCEF8JMS4NSUIY9VWFP7PTHT5W26JDSFRBKRR29SMI7VE5WT2F4I37Z4QZWHZMRAS6VRD2D87ZN78AX273EEZNBNX7DEX5G2NHKJMWYAZMSY75N96YKHZDE6EPTW7YQ3V34HZRMZV3PBWIR7SHP9CDXK2FQDZ77CRR2U87P3W6AJE735KH7FJHSZKU9VI85YAXK47IHMGI3J7TCDWX2GQBD6GW67CNRH4DPYNZH542AUTFUWW6HPSEK687RCMIESDYSGN27Q8F95IMRKDDAS&destination=https%3A//ad.doubleclick.net/ddm/trackclk/N510405.5083943MUP-SEZNAM-NATIVE/B34999881.439049166%3Bdc_trk_aid%3D632127340%3Bdc_trk_cid%3D247725133%3Bdc_lat%3D%3Bdc_rdid%3D%3Btag_for_child_directed_treatment%3D%3Btfua%3D%3Bgdpr%3D$%7BGDPR%7D%3Bgdpr_consent%3D$%7BGDPR_CONSENT_755%7D%3Bltd%3D%3Bdc_tdv%3D1",
-    "id": "B34999881.439049166%3Bdc_trk_aid%3D632127340%3Bdc_trk_cid%3D247725133%3Bdc_lat%3D%3Bdc_rdid%3D%3Btag_for_child_directed_treatment%3D%3Btfua%3D%3Bgdpr%3D$%7BGDPR%7D%3Bgdpr_consent%3D$%7BGDPR_CONSENT_755%7D%3Bltd%3D%3Bdc_tdv%3D1"
-  },
-  {
     "header": "Pronájem bytu 2+1 61 m²",
     "Address": "Vavřinecká, Brno - Komín",
     "Price": "18 900 Kč/měsíc",
@@ -131,19 +138,5 @@
     "Price": "17 900 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-lesna-studena/1998184524",
     "id": "1998184524"
-  },
-  {
-    "header": "Pronájem bytu 2+1 75 m²",
-    "Address": "Slovanské náměstí, Brno - Královo Pole",
-    "Price": "20 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-kralovo-pole-slovanske-namesti/4095856716",
-    "id": "4095856716"
-  },
-  {
-    "header": "Pronájem bytu 3+1 79 m²",
-    "Address": "Mezírka, Brno - Veveří",
-    "Price": "29 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-veveri-mezirka/536395852",
-    "id": "536395852"
   }
 ]
