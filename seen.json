@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+1 62 m²",
+    "Address": "Strnadova, Brno - Líšeň",
+    "Price": "21 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-lisen-strnadova/3482239052",
+    "id": "3482239052"
+  },
+  {
     "header": "Pronájem bytu 3+kk 36 m²",
     "Address": "Šimáčkova, Brno - Líšeň",
     "Price": "16 500 Kč/měsíc",
@@ -131,12 +138,5 @@
     "Price": "30 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-lesna-dusikova/363057228",
     "id": "363057228"
-  },
-  {
-    "header": "Pronájem bytu 2+1 54 m²",
-    "Address": "Křídlovická, Brno - Staré Brno",
-    "Price": "22 900 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-stare-brno-kridlovicka/1532088396",
-    "id": "1532088396"
   }
 ]
