@@ -49,13 +49,6 @@
     "id": "1668145228"
   },
   {
-    "header": "Pronájem bytu 3+1 76 m²",
-    "Address": "Urxova, Brno - Komín",
-    "Price": "16 900 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-komin-urxova/4060069964",
-    "id": "4060069964"
-  },
-  {
     "header": "Pronájem bytu 3+1 106 m²",
     "Address": "Bratislavská, Brno - Zábrdovice",
     "Price": "28 000 Kč/měsíc",
@@ -138,5 +131,12 @@
     "Price": "37 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-veveri-jaselska/1540587596",
     "id": "1540587596"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 81 m²",
+    "Address": "Francouzská, Brno - Zábrdovice",
+    "Price": "29 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zabrdovice-francouzska/2546266188",
+    "id": "2546266188"
   }
 ]
