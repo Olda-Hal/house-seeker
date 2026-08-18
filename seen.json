@@ -1,5 +1,26 @@
 [
   {
+    "header": "Pronájem bytu 2+1 26 m²",
+    "Address": "Václavská, Brno - Staré Brno",
+    "Price": "25 900 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-stare-brno-vaclavska/3561091148",
+    "id": "3561091148"
+  },
+  {
+    "header": "Pronájem bytu 2+1 59 m²",
+    "Address": "Václavská, Brno - Staré Brno",
+    "Price": "25 900 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-stare-brno-vaclavska/4079603788",
+    "id": "4079603788"
+  },
+  {
+    "header": "Pronájem bytu 3+1 48 m²",
+    "Address": "Hybešova, Brno - Staré Brno",
+    "Price": "29 900 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-stare-brno-hybesova/1828638796",
+    "id": "1828638796"
+  },
+  {
     "header": "Pronájem bytu 2+1 58 m²",
     "Address": "Tyršova, Brno - Královo Pole",
     "Price": "20 000 Kč/měsíc",
@@ -105,13 +126,6 @@
     "id": "1668145228"
   },
   {
-    "header": "Plánování kuchyně ZDARMA",
-    "Address": "Rezervujte termín a naplánujte si s námi kuchyni německé kvality se zárukou až 25 let.",
-    "Price": "XXXLutz Česká republika",
-    "link": "https://i.imedia.cz/v2/click?spotId=4203646&d=WZCVCV9IZ8U3GF3ADGWC8RNIWKAR7NUTZZMTIHNAUBN5W3VEPNI8W6CYYG3WEUG6FJVRUICJEEACTJU5R4X4WYIKVC992BVMNRT5928H778QSHRCBPTBCTMAVZPBWMQ3SXFNWVQ7528FCVXDYYUWBVNZV5TP3WI47U9UUYMPNG2HKYWQQ7SVWJN5MVHRPDUJEMI7V3M2RH3Q8A29RAUGX7VHGFZUZGY2MP3X28MNQRG4PWVAY9YWYKZRD7IXNJJGVP4WIKHQEY2EPBKDXR343T96MAETP7FT8JBSJ3KVSENGVFV5B8M3AGUNVVPCGAFZEUG9WRHY799RSF3FMF9K5JIKBTXBY7ENGFEHU3UABN7GPEA&destination=https%3A//ad.doubleclick.net/ddm/trackclk/N510405.5083943MUP-SEZNAM-NATIVE/B34999881.438741785%3Bdc_trk_aid%3D632129215%3Bdc_trk_cid%3D247725133%3Bdc_lat%3D%3Bdc_rdid%3D%3Btag_for_child_directed_treatment%3D%3Btfua%3D%3Bgdpr%3D$%7BGDPR%7D%3Bgdpr_consent%3D$%7BGDPR_CONSENT_755%7D%3Bltd%3D%3Bdc_tdv%3D1",
-    "id": "B34999881.438741785%3Bdc_trk_aid%3D632129215%3Bdc_trk_cid%3D247725133%3Bdc_lat%3D%3Bdc_rdid%3D%3Btag_for_child_directed_treatment%3D%3Btfua%3D%3Bgdpr%3D$%7BGDPR%7D%3Bgdpr_consent%3D$%7BGDPR_CONSENT_755%7D%3Bltd%3D%3Bdc_tdv%3D1"
-  },
-  {
     "header": "Pronájem bytu 3+1 106 m²",
     "Address": "Bratislavská, Brno - Zábrdovice",
     "Price": "28 000 Kč/měsíc",
@@ -124,26 +138,5 @@
     "Price": "20 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-zabrdovice-cejl/2366885964",
     "id": "2366885964"
-  },
-  {
-    "header": "Pronájem bytu 3+1 90 m²",
-    "Address": "Zeiberlichova, Brno - Soběšice",
-    "Price": "18 800 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-sobesice-zeiberlichova/1280757836",
-    "id": "1280757836"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 90 m²",
-    "Address": "Kosmova, Brno - Královo Pole",
-    "Price": "40 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-kralovo-pole-kosmova/510320716",
-    "id": "510320716"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 65 m²",
-    "Address": "Údolní, Brno - Stránice",
-    "Price": "29 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-stranice-udolni/2957369420",
-    "id": "2957369420"
   }
 ]
