@@ -1,5 +1,19 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 111 m²",
+    "Address": "Majdalenky, Brno - Lesná",
+    "Price": "34 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-lesna-majdalenky/4227711052",
+    "id": "4227711052"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 89 m²",
+    "Address": "Dusíkova, Brno - Lesná",
+    "Price": "26 500 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-lesna-dusikova/2818424908",
+    "id": "2818424908"
+  },
+  {
     "header": "Pronájem bytu 3+1 93 m²",
     "Address": "Tábor, Brno - Ponava",
     "Price": "24 000 Kč/měsíc",
@@ -124,19 +138,5 @@
     "Price": "16 500 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-lisen-simackova/946847820",
     "id": "946847820"
-  },
-  {
-    "header": "Pronájem bytu 3+1 65 m²",
-    "Address": "Hlaváčkova, Brno - Královo Pole",
-    "Price": "21 500 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-kralovo-pole-hlavackova/129941580",
-    "id": "129941580"
-  },
-  {
-    "header": "Pronájem bytu 3+1 74 m²",
-    "Address": "Loosova, Brno - Lesná",
-    "Price": "21 300 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-lesna-loosova/3937718348",
-    "id": "3937718348"
   }
 ]
