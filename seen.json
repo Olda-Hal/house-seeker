@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 2+1 70 m²",
+    "Address": "Klobásova, Brno - Starý Lískovec",
+    "Price": "18 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-stary-liskovec-klobasova/608026700",
+    "id": "608026700"
+  },
+  {
     "header": "Pronájem bytu 3+kk 70 m²",
     "Address": "Nachová, Brno - Řečkovice",
     "Price": "24 900 Kč/měsíc",
@@ -49,7 +56,7 @@
     "id": "623366220"
   },
   {
-    "header": "Pronájem bytu 2+1 49 m²",
+    "header": "Pronájem bytu 2+1 47 m²",
     "Address": "Kroftova, Brno - Žabovřesky",
     "Price": "19 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-zabovresky-kroftova/2912481356",
@@ -131,12 +138,5 @@
     "Price": "28 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-zabrdovice-bratislavska/3491886412",
     "id": "3491886412"
-  },
-  {
-    "header": "Pronájem bytu 2+1 45 m²",
-    "Address": "Cejl, Brno - Zábrdovice",
-    "Price": "20 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-zabrdovice-cejl/2366885964",
-    "id": "2366885964"
   }
 ]
