@@ -1,5 +1,19 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 61 m²",
+    "Address": "Chmelnice, Brno - Líšeň",
+    "Price": "26 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-lisen-chmelnice/2698833996",
+    "id": "2698833996"
+  },
+  {
+    "header": "Pronájem bytu 3+1 75 m²",
+    "Address": "Souhrady, Brno - Bohunice",
+    "Price": "25 900 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-bohunice-souhrady/3287797836",
+    "id": "3287797836"
+  },
+  {
     "header": "Pronájem bytu 3+1 75 m²",
     "Address": "Merhautova, Brno - Zábrdovice",
     "Price": "26 000 Kč/měsíc",
@@ -105,13 +119,6 @@
     "id": "3491886412"
   },
   {
-    "header": "Plánování kuchyně ZDARMA",
-    "Address": "Rezervujte termín a naplánujte si s námi kuchyni německé kvality se zárukou až 25 let.",
-    "Price": "XXXLutz Česká republika",
-    "link": "https://i.imedia.cz/v2/click?spotId=4203646&d=VTD6E9GKBPGY7PKEYQHD5SC7ZSKZS4DQXQAZCN42N33IN5X84YTDSRZ9X7EJMD89QIK8A9SVN2AJ78BVSH5RD2485ER9ZPSV6IZIBJTBETIMKNKGT5V5WA427RIH6YJM9TAH7KGF6SP3K8FWD5ZW7GE7NU5CQYDCVASX2YE3QSJM58NDRM3VEFDQ5RR9WSKDBEES5K3TPUY8ABAV9FUAA8A6ISCPAQTYS53EGMJ4TC4KH5UVXX6M6IUNSSK5CN4TBAQMJA5RPY7GPACQGS6Z6J8C5QZ9AGY3HDFX852CACS2P3M5XJAUZDHBM88WPWV6GWFEWEE9DPN9IREUER88G2TT47PQUNFJSDUMU44PPM7KE3A&destination=https%3A//ad.doubleclick.net/ddm/trackclk/N510405.5083943MUP-SEZNAM-NATIVE/B34999881.438741785%3Bdc_trk_aid%3D632129215%3Bdc_trk_cid%3D247725133%3Bdc_lat%3D%3Bdc_rdid%3D%3Btag_for_child_directed_treatment%3D%3Btfua%3D%3Bgdpr%3D$%7BGDPR%7D%3Bgdpr_consent%3D$%7BGDPR_CONSENT_755%7D%3Bltd%3D%3Bdc_tdv%3D1",
-    "id": "B34999881.438741785%3Bdc_trk_aid%3D632129215%3Bdc_trk_cid%3D247725133%3Bdc_lat%3D%3Bdc_rdid%3D%3Btag_for_child_directed_treatment%3D%3Btfua%3D%3Bgdpr%3D$%7BGDPR%7D%3Bgdpr_consent%3D$%7BGDPR_CONSENT_755%7D%3Bltd%3D%3Bdc_tdv%3D1"
-  },
-  {
     "header": "Pronájem bytu 2+1 45 m²",
     "Address": "Cejl, Brno - Zábrdovice",
     "Price": "20 000 Kč/měsíc",
@@ -131,19 +138,5 @@
     "Price": "25 900 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-stare-brno-vaclavska/3561091148",
     "id": "3561091148"
-  },
-  {
-    "header": "Pronájem bytu 2+1 59 m²",
-    "Address": "Václavská, Brno - Staré Brno",
-    "Price": "25 900 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-stare-brno-vaclavska/4079603788",
-    "id": "4079603788"
-  },
-  {
-    "header": "Pronájem bytu 3+1 48 m²",
-    "Address": "Hybešova, Brno - Staré Brno",
-    "Price": "29 900 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-stare-brno-hybesova/1828638796",
-    "id": "1828638796"
   }
 ]
