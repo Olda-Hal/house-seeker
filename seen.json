@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 66 m²",
+    "Address": "Podbělová, Brno - Líšeň",
+    "Price": "23 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-lisen-podbelova/1755168844",
+    "id": "1755168844"
+  },
+  {
     "header": "Pronájem bytu 3+kk 82 m²",
     "Address": "Jakubská, Brno - Brno-město",
     "Price": "31 900 Kč/měsíc",
@@ -131,12 +138,5 @@
     "Price": "25 900 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-bohunice-souhrady/3287797836",
     "id": "3287797836"
-  },
-  {
-    "header": "Pronájem bytu 3+1 75 m²",
-    "Address": "Merhautova, Brno - Zábrdovice",
-    "Price": "26 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-zabrdovice-merhautova/1850589260",
-    "id": "1850589260"
   }
 ]
