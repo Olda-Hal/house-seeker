@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 65 m²",
+    "Address": "Údolní, Brno - Stránice",
+    "Price": "29 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-stranice-udolni/2957369420",
+    "id": "2957369420"
+  },
+  {
     "header": "Pronájem bytu 3+kk 66 m²",
     "Address": "Podbělová, Brno - Líšeň",
     "Price": "23 000 Kč/měsíc",
@@ -68,13 +75,6 @@
     "Price": "26 500 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-lesna-dusikova/2818424908",
     "id": "2818424908"
-  },
-  {
-    "header": "Pronájem bytu 3+1 93 m²",
-    "Address": "Tábor, Brno - Ponava",
-    "Price": "24 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-ponava-tabor/1861075020",
-    "id": "1861075020"
   },
   {
     "header": "Pronájem bytu 3+kk 80 m²",
