@@ -91,13 +91,6 @@
     "id": "2233319500"
   },
   {
-    "header": "Pronájem bytu 2+1 45 m²",
-    "Address": "Cejl, Brno - Zábrdovice",
-    "Price": "20 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-zabrdovice-cejl/2366885964",
-    "id": "2366885964"
-  },
-  {
     "header": "Pronájem bytu 3+kk 60 m²",
     "Address": "Kuldova, Brno - Zábrdovice",
     "Price": "25 990 Kč/měsíc",
@@ -110,6 +103,13 @@
     "Price": "27 990 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-komin-podveska/4091469900",
     "id": "4091469900"
+  },
+  {
+    "header": "Plánování kuchyně ZDARMA",
+    "Address": "Rezervujte termín a naplánujte si s námi kuchyni německé kvality se zárukou až 25 let.",
+    "Price": "XXXLutz Česká republika",
+    "link": "https://i.imedia.cz/v2/click?spotId=4203646&d=84JWW2PQGU6IHKMVMBFDN52F8AMET8NTJ3URA8M9KGYCFZWRTK347UUJ8E8J7UUPIP8E9IIVT6WQRMUPEWVMCJI7753EVQISFC9C8H93C2NYGPZFNABKYV5IZ8I2SGKTTMFFXS4Y6XKIT6YYF66SH9QR5K82HPYZVZRFEEW58ZY9GA52VBFHMU2PRY9J978E4R9CDHC8TBU7TI22KE49QTB78G87YKCJUUYZHHHR2M9CK5FH6CIK334QAU4RIWDFNVBN39NYMPCE88IU8EM6BBWDK7SHVNR7R83TTRWMEBJS6WM3Y2JMFINSTPCCN2V9325I5JY3AIJG5WKN82CKEPW4ZF8P49C5IFRF6SSWPWG54DRK&destination=https%3A//ad.doubleclick.net/ddm/trackclk/N510405.5083943MUP-SEZNAM-NATIVE/B34999881.438741785%3Bdc_trk_aid%3D632129215%3Bdc_trk_cid%3D247725133%3Bdc_lat%3D%3Bdc_rdid%3D%3Btag_for_child_directed_treatment%3D%3Btfua%3D%3Bgdpr%3D$%7BGDPR%7D%3Bgdpr_consent%3D$%7BGDPR_CONSENT_755%7D%3Bltd%3D%3Bdc_tdv%3D1",
+    "id": "B34999881.438741785%3Bdc_trk_aid%3D632129215%3Bdc_trk_cid%3D247725133%3Bdc_lat%3D%3Bdc_rdid%3D%3Btag_for_child_directed_treatment%3D%3Btfua%3D%3Bgdpr%3D$%7BGDPR%7D%3Bgdpr_consent%3D$%7BGDPR_CONSENT_755%7D%3Bltd%3D%3Bdc_tdv%3D1"
   },
   {
     "header": "Pronájem bytu 3+kk 65 m²",
@@ -138,5 +138,12 @@
     "Price": "30 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-brno-mesto-vesela/1150140492",
     "id": "1150140492"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 120 m²",
+    "Address": "náměstí Svobody, Brno - Brno-město",
+    "Price": "55 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-brno-mesto-namesti-svobody/3714695244",
+    "id": "3714695244"
   }
 ]
