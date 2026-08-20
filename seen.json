@@ -1,5 +1,19 @@
 [
   {
+    "header": "Pronájem bytu 3+1 71 m²",
+    "Address": "Brno - Žabovřesky",
+    "Price": "23 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-zabovresky-/515686476",
+    "id": "515686476"
+  },
+  {
+    "header": "Pronájem bytu 2+1 78 m²",
+    "Address": "Černopolní, Brno - Černá Pole",
+    "Price": "24 900 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-cerna-pole-cernopolni/1021567052",
+    "id": "1021567052"
+  },
+  {
     "header": "Pronájem bytu 2+1 58 m²",
     "Address": "Cihlářská, Brno - Veveří",
     "Price": "24 900 Kč/měsíc",
@@ -124,19 +138,5 @@
     "Price": "33 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-kralovo-pole-skacelova/3030372428",
     "id": "3030372428"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 75 m²",
-    "Address": "Červinkova, Brno - Královo Pole",
-    "Price": "30 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-kralovo-pole-cervinkova/2852880460",
-    "id": "2852880460"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 94 m²",
-    "Address": "Nálepkova, Brno - Jundrov",
-    "Price": "29 990 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-jundrov-nalepkova/870170700",
-    "id": "870170700"
   }
 ]
