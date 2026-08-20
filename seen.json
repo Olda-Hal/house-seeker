@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+1 68 m²",
+    "Address": "Dunajská, Brno - Starý Lískovec",
+    "Price": "25 990 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-stary-liskovec-dunajska/2408366156",
+    "id": "2408366156"
+  },
+  {
     "header": "Pronájem bytu 3+1 71 m²",
     "Address": "Brno - Žabovřesky",
     "Price": "23 000 Kč/měsíc",
@@ -131,12 +138,5 @@
     "Price": "55 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-brno-mesto-namesti-svobody/3714695244",
     "id": "3714695244"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 100 m²",
-    "Address": "Skácelova, Brno - Královo Pole",
-    "Price": "33 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-kralovo-pole-skacelova/3030372428",
-    "id": "3030372428"
   }
 ]
