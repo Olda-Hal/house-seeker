@@ -1,5 +1,19 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 79 m²",
+    "Address": "Placzkova, Brno - Trnitá",
+    "Price": "32 990 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-trnita-placzkova/2207285324",
+    "id": "2207285324"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 67 m²",
+    "Address": "U Zoologické zahrady, Brno - Bystrc",
+    "Price": "29 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-bystrc-u-zoologicke-zahrady/2697060428",
+    "id": "2697060428"
+  },
+  {
     "header": "Pronájem bytu 2+1 61 m²",
     "Address": "Vavřinecká, Brno - Komín",
     "Price": "18 900 Kč/měsíc",
@@ -47,13 +61,6 @@
     "Price": "24 900 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-cerna-pole-cernopolni/1021567052",
     "id": "1021567052"
-  },
-  {
-    "header": "Plánování kuchyně ZDARMA",
-    "Address": "Rezervujte termín a naplánujte si s námi kuchyni německé kvality se zárukou až 25 let.",
-    "Price": "XXXLutz Česká republika",
-    "link": "https://i.imedia.cz/v2/click?spotId=4203646&d=52VG6CKNE4CRI5JD5F3CBRG8GKGJANIUHIMTUCZUQEBM6VXGGN7P6RPYX9JIB7F8GPICWTFWRI5MCGV59BSA3RW32PK54NXH58UZRMM276VDJYMENGARS2FK2NB246NIFXURSJ9ERYEBUBUQ9H2VRSN2QJX988D7EJE87WSKZ5I246BHRXGHJ8JZHVCHIIX2NU5IKEATVQMNU3VFMPQMWCEM2Q852BQQEW9835JPEKECUWISWGMP3NJFKQTGDNNA9B7HE285WVGWGSR8UU89W33RIE94G7WVIXUKNGPB3AHIZWZAMDFHI3BXNQAQDQ5ERRBN9SHWZ4MJ7X8N9V7KVWM7J7JX4SMVEE4JIJ3QINZ3862&destination=https%3A//ad.doubleclick.net/ddm/trackclk/N510405.5083943MUP-SEZNAM-NATIVE/B34999881.438741785%3Bdc_trk_aid%3D632129215%3Bdc_trk_cid%3D247725133%3Bdc_lat%3D%3Bdc_rdid%3D%3Btag_for_child_directed_treatment%3D%3Btfua%3D%3Bgdpr%3D$%7BGDPR%7D%3Bgdpr_consent%3D$%7BGDPR_CONSENT_755%7D%3Bltd%3D%3Bdc_tdv%3D1",
-    "id": "B34999881.438741785%3Bdc_trk_aid%3D632129215%3Bdc_trk_cid%3D247725133%3Bdc_lat%3D%3Bdc_rdid%3D%3Btag_for_child_directed_treatment%3D%3Btfua%3D%3Bgdpr%3D$%7BGDPR%7D%3Bgdpr_consent%3D$%7BGDPR_CONSENT_755%7D%3Bltd%3D%3Bdc_tdv%3D1"
   },
   {
     "header": "Pronájem bytu 2+1 58 m²",
@@ -131,19 +138,5 @@
     "Price": "25 990 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zabrdovice-kuldova/1392042060",
     "id": "1392042060"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 77 m²",
-    "Address": "Podveská, Brno - Komín",
-    "Price": "27 990 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-komin-podveska/4091469900",
-    "id": "4091469900"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 65 m²",
-    "Address": "Údolní, Brno - Stránice",
-    "Price": "29 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-stranice-udolni/2957369420",
-    "id": "2957369420"
   }
 ]
