@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 194 m²",
+    "Address": "Hrozňatova, Brno - Židenice",
+    "Price": "39 900 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zidenice-hroznatova/1520099404",
+    "id": "1520099404"
+  },
+  {
     "header": "Pronájem bytu 3+kk 79 m²",
     "Address": "Placzkova, Brno - Trnitá",
     "Price": "32 990 Kč/měsíc",
@@ -131,12 +138,5 @@
     "Price": "20 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-zabrdovice-cejl/2366885964",
     "id": "2366885964"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 60 m²",
-    "Address": "Kuldova, Brno - Zábrdovice",
-    "Price": "25 990 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zabrdovice-kuldova/1392042060",
-    "id": "1392042060"
   }
 ]
