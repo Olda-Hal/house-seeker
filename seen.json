@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 2+1 62 m²",
+    "Address": "Kuršova, Brno - Bystrc",
+    "Price": "18 400 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-bystrc-kursova/4158636108",
+    "id": "4158636108"
+  },
+  {
     "header": "Pronájem bytu 3+1 102 m²",
     "Address": "Biskupská, Brno - Brno-město",
     "Price": "37 000 Kč/měsíc",
@@ -47,13 +54,6 @@
     "Price": "32 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-brno-bayerova/1839448140",
     "id": "1839448140"
-  },
-  {
-    "header": "Inspirace, XXXL výběr",
-    "Address": "Navštivte naše obchodní domy – rádi vám pomůžeme splnit váš sen o krásném bydlení.",
-    "Price": "XXXLutz Česká republika",
-    "link": "https://i.imedia.cz/v2/click?spotId=4203647&d=J246ZWU5DX5DBCZAZT6SETIYQ22AYXBXPECVECQT2H4MJ45Z9JSX7AAEPYWIAW7GNNYMPZ4ESTJI9HZQSJF7YRGKQ3TKEGCGT69TQA2GWIQW9FMUEFYTGZRKAC23Q5VD2VZVPDEE7DZFHCM6SSWJFM7UQM7XMGB59SY38FZHUDVXPYW6MPMMM87R4CD4BR5XSAJPACTC45XYXADK8AZTBGEPJJZQZUFC7E8XU4EZQJUDJ994RBW3RW2ND3KHJJJZWR8W4PNHD2XXMYSUGZVPHQS9AW9K4WV3AV4H8QE7744MS8KEQXU2B7VM98ZB6WQH6E33884T2XSM9EV23GZMFC9E4AJKHJHPJ8XQ3JGC9MMPFZMPAS&destination=https%3A//ad.doubleclick.net/ddm/trackclk/N510405.5083943MUP-SEZNAM-NATIVE/B34999881.439049166%3Bdc_trk_aid%3D632127340%3Bdc_trk_cid%3D247725133%3Bdc_lat%3D%3Bdc_rdid%3D%3Btag_for_child_directed_treatment%3D%3Btfua%3D%3Bgdpr%3D$%7BGDPR%7D%3Bgdpr_consent%3D$%7BGDPR_CONSENT_755%7D%3Bltd%3D%3Bdc_tdv%3D1",
-    "id": "B34999881.439049166%3Bdc_trk_aid%3D632127340%3Bdc_trk_cid%3D247725133%3Bdc_lat%3D%3Bdc_rdid%3D%3Btag_for_child_directed_treatment%3D%3Btfua%3D%3Bgdpr%3D$%7BGDPR%7D%3Bgdpr_consent%3D$%7BGDPR_CONSENT_755%7D%3Bltd%3D%3Bdc_tdv%3D1"
   },
   {
     "header": "Pronájem bytu 3+1 98 m²",
@@ -138,12 +138,5 @@
     "Price": "17 900 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-lesna-studena/1998184524",
     "id": "1998184524"
-  },
-  {
-    "header": "Pronájem bytu 3+1 16 m²",
-    "Address": "Příkop, Brno - Zábrdovice",
-    "Price": "9 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-zabrdovice-prikop/3404972108",
-    "id": "3404972108"
   }
 ]
