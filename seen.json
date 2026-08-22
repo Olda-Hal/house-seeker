@@ -21,6 +21,13 @@
     "id": "1075560524"
   },
   {
+    "header": "Pronájem bytu 3+kk 80 m²",
+    "Address": "Přemyslovo náměstí, Brno - Slatina",
+    "Price": "22 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-slatina-premyslovo-namesti/2974216268",
+    "id": "2974216268"
+  },
+  {
     "header": "Pronájem bytu 3+1 65 m²",
     "Address": "Štefáčkova, Brno - Líšeň",
     "Price": "21 000 Kč/měsíc",
@@ -131,12 +138,5 @@
     "Price": "32 990 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-trnita-placzkova/2207285324",
     "id": "2207285324"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 67 m²",
-    "Address": "U Zoologické zahrady, Brno - Bystrc",
-    "Price": "29 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-bystrc-u-zoologicke-zahrady/2697060428",
-    "id": "2697060428"
   }
 ]
