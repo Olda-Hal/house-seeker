@@ -1,5 +1,19 @@
 [
   {
+    "header": "Pronájem bytu 3+1 72 m²",
+    "Address": "Ruská, Brno - Královo Pole",
+    "Price": "26 990 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-kralovo-pole-ruska/3298607180",
+    "id": "3298607180"
+  },
+  {
+    "header": "Pronájem bytu 2+1 52 m²",
+    "Address": "Milady Horákové, Brno - Černá Pole",
+    "Price": "19 900 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-cerna-pole-milady-horakove/1135853644",
+    "id": "1135853644"
+  },
+  {
     "header": "Pronájem bytu 2+1 47 m²",
     "Address": "Kroftova, Brno - Žabovřesky",
     "Price": "19 000 Kč/měsíc",
@@ -98,13 +112,6 @@
     "id": "1998184524"
   },
   {
-    "header": "Pronájem bytu 3+1 72 m²",
-    "Address": "Ruská, Brno - Královo Pole",
-    "Price": "26 990 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-kralovo-pole-ruska/3298607180",
-    "id": "3298607180"
-  },
-  {
     "header": "Pronájem bytu 3+1 16 m²",
     "Address": "Příkop, Brno - Zábrdovice",
     "Price": "9 000 Kč/měsíc",
@@ -131,12 +138,5 @@
     "Price": "39 900 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zidenice-hroznatova/1520099404",
     "id": "1520099404"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 79 m²",
-    "Address": "Placzkova, Brno - Trnitá",
-    "Price": "32 990 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-trnita-placzkova/2207285324",
-    "id": "2207285324"
   }
 ]
