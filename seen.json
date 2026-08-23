@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 85 m²",
+    "Address": "Kigginsova, Brno - Slatina",
+    "Price": "29 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-slatina-kigginsova/806670412",
+    "id": "806670412"
+  },
+  {
     "header": "Pronájem bytu 3+kk 70 m²",
     "Address": "Nachová, Brno - Řečkovice",
     "Price": "24 900 Kč/měsíc",
@@ -105,13 +112,6 @@
     "id": "2950987852"
   },
   {
-    "header": "Inspirace, XXXL výběr",
-    "Address": "Navštivte naše obchodní domy – rádi vám pomůžeme splnit váš sen o krásném bydlení.",
-    "Price": "XXXLutz Česká republika",
-    "link": "https://i.imedia.cz/v2/click?spotId=4203647&d=EEWA2ITGRSQD6U8M24H38DAPJXYF2QQDPAAE8T7BS8S963KNDVW5YQ7QBBXS8P4858WYCK8PNE9K7UZGRTNMN7KJPCD2H7IWNW8E33ZM4CP6A7XP73FQC78MNESSRDUAXW3XHWMA2HSCUE7G5SEIGD53UNUJ4S5M2AVEQ2IZZHDIX39ZT949B8X422BFKCJAEJDRV2CA8MA8AM88WGS5CD5YAM3UT888WU3P5V76WTH6FFK5A6GFU6ACKAP3D6839QGINS3PAANNTSINU8Q3MXZ45794XB8GCDSX2JSGKEBSQTPS5J2QN3HUDCHTW4VC3MVT9VJW8E4AIYS7XUBZQCUIE73HQTXX48QVNMABG6ECGRI&destination=https%3A//ad.doubleclick.net/ddm/trackclk/N510405.5083943MUP-SEZNAM-NATIVE/B34999881.439049166%3Bdc_trk_aid%3D632127340%3Bdc_trk_cid%3D247725133%3Bdc_lat%3D%3Bdc_rdid%3D%3Btag_for_child_directed_treatment%3D%3Btfua%3D%3Bgdpr%3D$%7BGDPR%7D%3Bgdpr_consent%3D$%7BGDPR_CONSENT_755%7D%3Bltd%3D%3Bdc_tdv%3D1",
-    "id": "B34999881.439049166%3Bdc_trk_aid%3D632127340%3Bdc_trk_cid%3D247725133%3Bdc_lat%3D%3Bdc_rdid%3D%3Btag_for_child_directed_treatment%3D%3Btfua%3D%3Bgdpr%3D$%7BGDPR%7D%3Bgdpr_consent%3D$%7BGDPR_CONSENT_755%7D%3Bltd%3D%3Bdc_tdv%3D1"
-  },
-  {
     "header": "Pronájem bytu 3+1 80 m²",
     "Address": "Preslova, Brno - Pisárky",
     "Price": "Cena na vyžádání",
@@ -138,12 +138,5 @@
     "Price": "29 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zabrdovice-francouzska/2546266188",
     "id": "2546266188"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 120 m²",
-    "Address": "náměstí Svobody, Brno - Brno-město",
-    "Price": "55 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-brno-mesto-namesti-svobody/3714695244",
-    "id": "3714695244"
   }
 ]
