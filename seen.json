@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+1 98 m²",
+    "Address": "Bosonožské náměstí, Brno - Bosonohy",
+    "Price": "29 500 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-bosonohy-bosonozske-namesti/1981399116",
+    "id": "1981399116"
+  },
+  {
     "header": "Pronájem bytu 2+1 81 m²",
     "Address": "Bayerova, Brno",
     "Price": "32 000 Kč/měsíc",
@@ -131,12 +138,5 @@
     "Price": "25 990 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-stary-liskovec-dunajska/2408366156",
     "id": "2408366156"
-  },
-  {
-    "header": "Pronájem bytu 3+1 72 m²",
-    "Address": "Ruská, Brno - Královo Pole",
-    "Price": "26 990 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-kralovo-pole-ruska/3298607180",
-    "id": "3298607180"
   }
 ]
