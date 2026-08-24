@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 61 m²",
+    "Address": "Gebauerova, Brno - Židenice",
+    "Price": "24 500 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zidenice-gebauerova/2913783884",
+    "id": "2913783884"
+  },
+  {
     "header": "Pronájem bytu 2+1 60 m²",
     "Address": "Jílkova, Brno - Židenice",
     "Price": "22 000 Kč/měsíc",
@@ -131,12 +138,5 @@
     "Price": "26 990 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-kralovo-pole-ruska/3298607180",
     "id": "3298607180"
-  },
-  {
-    "header": "Pronájem bytu 3+1 68 m²",
-    "Address": "Dunajská, Brno - Starý Lískovec",
-    "Price": "25 990 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-stary-liskovec-dunajska/2408366156",
-    "id": "2408366156"
   }
 ]
