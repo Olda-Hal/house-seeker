@@ -1,5 +1,19 @@
 [
   {
+    "header": "Pronájem bytu 2+1 55 m²",
+    "Address": "U Velké ceny, Brno - Kohoutovice",
+    "Price": "23 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-kohoutovice-u-velke-ceny/1342357580",
+    "id": "1342357580"
+  },
+  {
+    "header": "Pronájem bytu 2+1 47 m²",
+    "Address": "Kroftova, Brno - Žabovřesky",
+    "Price": "19 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-zabovresky-kroftova/2912481356",
+    "id": "2912481356"
+  },
+  {
     "header": "Pronájem bytu 3+kk 85 m²",
     "Address": "Kigginsova, Brno - Slatina",
     "Price": "29 000 Kč/měsíc",
@@ -124,19 +138,5 @@
     "Price": "25 990 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zabrdovice-kuldova/1392042060",
     "id": "1392042060"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 77 m²",
-    "Address": "Podveská, Brno - Komín",
-    "Price": "27 990 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-komin-podveska/4091469900",
-    "id": "4091469900"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 81 m²",
-    "Address": "Francouzská, Brno - Zábrdovice",
-    "Price": "29 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zabrdovice-francouzska/2546266188",
-    "id": "2546266188"
   }
 ]
