@@ -1,5 +1,19 @@
 [
   {
+    "header": "Pronájem bytu 3+1 98 m²",
+    "Address": "náměstí Svobody, Brno - Brno-město",
+    "Price": "24 960 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-brno-mesto-namesti-svobody/1075560524",
+    "id": "1075560524"
+  },
+  {
+    "header": "Pronájem bytu 3+1 100 m²",
+    "Address": "Hlinky, Brno - Staré Brno",
+    "Price": "30 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-stare-brno-hlinky/2696527948",
+    "id": "2696527948"
+  },
+  {
     "header": "Pronájem bytu 3+1 102 m²",
     "Address": "Biskupská, Brno - Brno-město",
     "Price": "37 000 Kč/měsíc",
@@ -124,19 +138,5 @@
     "Price": "27 500 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-brno-mesto-rooseveltova/281133132",
     "id": "281133132"
-  },
-  {
-    "header": "Pronájem bytu 2+1 40 m²",
-    "Address": "Brno - Brno-Komín",
-    "Price": "6 350 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-brno-komin-/682737740",
-    "id": "682737740"
-  },
-  {
-    "header": "Pronájem bytu 2+1 60 m²",
-    "Address": "Novoměstská, Brno - Řečkovice",
-    "Price": "18 500 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-reckovice-novomestska/202489932",
-    "id": "202489932"
   }
 ]
