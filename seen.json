@@ -1,5 +1,19 @@
 [
   {
+    "header": "Pronájem bytu 3+1 80 m²",
+    "Address": "Preslova, Brno - Pisárky",
+    "Price": "Cena na vyžádání",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-pisarky-preslova/4059873356",
+    "id": "4059873356"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 85 m²",
+    "Address": "Rooseveltova, Brno - Brno-město",
+    "Price": "27 500 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-brno-mesto-rooseveltova/281133132",
+    "id": "281133132"
+  },
+  {
     "header": "Pronájem bytu 2+1 60 m²",
     "Address": "Novoměstská, Brno - Řečkovice",
     "Price": "18 500 Kč/měsíc",
@@ -124,19 +138,5 @@
     "Price": "19 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-zabovresky-zahrebska/3653419084",
     "id": "3653419084"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 79 m²",
-    "Address": "Placzkova, Brno - Trnitá",
-    "Price": "32 990 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-trnita-placzkova/2207285324",
-    "id": "2207285324"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 82 m²",
-    "Address": "Jakubská, Brno - Brno-město",
-    "Price": "31 900 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-brno-mesto-jakubska/2210652236",
-    "id": "2210652236"
   }
 ]
