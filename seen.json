@@ -1,5 +1,19 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 78 m²",
+    "Address": "třída Generála Píky, Brno",
+    "Price": "38 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-brno-trida-generala-piky/4187279436",
+    "id": "4187279436"
+  },
+  {
+    "header": "Pronájem bytu 3+1 76 m²",
+    "Address": "Neumannova, Brno - Pisárky",
+    "Price": "26 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-pisarky-neumannova/2233319500",
+    "id": "2233319500"
+  },
+  {
     "header": "Pronájem bytu 3+1 65 m²",
     "Address": "Herčíkova, Brno - Královo Pole",
     "Price": "24 000 Kč/měsíc",
@@ -105,13 +119,6 @@
     "id": "1594315596"
   },
   {
-    "header": "Pronájem bytu 3+1 76 m²",
-    "Address": "Neumannova, Brno - Pisárky",
-    "Price": "26 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-pisarky-neumannova/2233319500",
-    "id": "2233319500"
-  },
-  {
     "header": "Pronájem bytu 3+kk 65 m²",
     "Address": "Žabí, Brno - Žebětín",
     "Price": "25 900 Kč/měsíc",
@@ -131,12 +138,5 @@
     "Price": "42 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-pisarky-neumannova/4067020876",
     "id": "4067020876"
-  },
-  {
-    "header": "Pronájem bytu 3+1 75 m²",
-    "Address": "Hrnčířská, Brno - Veveří",
-    "Price": "25 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-veveri-hrncirska/1672400972",
-    "id": "1672400972"
   }
 ]
