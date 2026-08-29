@@ -105,13 +105,6 @@
     "id": "1520099404"
   },
   {
-    "header": "Kuchyně snů od profíků",
-    "Address": "Rezervujte termín a naplánujte si s námi kuchyni německé kvality se zárukou až 25 let.",
-    "Price": "XXXLutz Česká republika",
-    "link": "https://i.imedia.cz/v2/click?spotId=4203645&d=A4I3S74Z6GJCCHYGZZYW676MNTH8WPCXZ3QPMJZ7RMVVD98JP49C2MA8QBPQ3HUUZTXSG2SFSCNJJ7G3YM75K7UUPC3EWV6DAR73QRK7PBPN2FYASZJJJTDVQ69AP63YVSVV6N58WIJM6PYY7JJZY7K35W2CTMD9NTWZEXRFKMBQQSHRB4Z22XEXEFKIBTIMYZBUBH88KBB3JXPH8AJRVB9NSQR9FIMEGZP3KJUSUHAISDCEDM56MYPQJISDZRJVHA6VSQNNTTYTH87E578ZWHM6B6WQH6FNPXGWJUVIVYKKYNFB55VQCSA3JMNWWK5RKVG46E6KSEENGQN88U5Q8PIDS4J9AZU2J7MWGAEU6FGBT9A&destination=https%3A//ad.doubleclick.net/ddm/trackclk/N510405.5083943MUP-SEZNAM-NATIVE/B34999881.439057698%3Bdc_trk_aid%3D631994391%3Bdc_trk_cid%3D247725133%3Bdc_lat%3D%3Bdc_rdid%3D%3Btag_for_child_directed_treatment%3D%3Btfua%3D%3Bgdpr%3D$%7BGDPR%7D%3Bgdpr_consent%3D$%7BGDPR_CONSENT_755%7D%3Bltd%3D%3Bdc_tdv%3D1",
-    "id": "B34999881.439057698%3Bdc_trk_aid%3D631994391%3Bdc_trk_cid%3D247725133%3Bdc_lat%3D%3Bdc_rdid%3D%3Btag_for_child_directed_treatment%3D%3Btfua%3D%3Bgdpr%3D$%7BGDPR%7D%3Bgdpr_consent%3D$%7BGDPR_CONSENT_755%7D%3Bltd%3D%3Bdc_tdv%3D1"
-  },
-  {
     "header": "Pronájem bytu 3+kk 73 m²",
     "Address": "Bratislavská, Brno - Zábrdovice",
     "Price": "33 000 Kč/měsíc",
@@ -126,13 +119,6 @@
     "id": "3815817292"
   },
   {
-    "header": "Pronájem bytu 2+1 58 m²",
-    "Address": "Cihlářská, Brno - Veveří",
-    "Price": "24 900 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-veveri-cihlarska/2445066316",
-    "id": "2445066316"
-  },
-  {
     "header": "Pronájem bytu 2+1 79 m²",
     "Address": "Veveří, Brno - Veveří",
     "Price": "20 000 Kč/měsíc",
@@ -145,5 +131,12 @@
     "Price": "29 500 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-bosonohy-bosonozske-namesti/1981399116",
     "id": "1981399116"
+  },
+  {
+    "header": "Pronájem bytu 2+1 37 m²",
+    "Address": "Václavská, Brno - Staré Brno",
+    "Price": "25 900 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-stare-brno-vaclavska/3482374220",
+    "id": "3482374220"
   }
 ]
