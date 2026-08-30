@@ -1,5 +1,19 @@
 [
   {
+    "header": "Pronájem bytu 3+1 75 m²",
+    "Address": "Hrnčířská, Brno - Veveří",
+    "Price": "25 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-veveri-hrncirska/1672400972",
+    "id": "1672400972"
+  },
+  {
+    "header": "Pronájem bytu 2+1 60 m²",
+    "Address": "Novoměstská, Brno - Řečkovice",
+    "Price": "18 500 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-reckovice-novomestska/202489932",
+    "id": "202489932"
+  },
+  {
     "header": "Pronájem bytu 3+1 76 m²",
     "Address": "U Pošty, Brno - Starý Lískovec",
     "Price": "29 000 Kč/měsíc",
@@ -124,19 +138,5 @@
     "Price": "24 900 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-bohunice-souhrady/3287797836",
     "id": "3287797836"
-  },
-  {
-    "header": "Pronájem bytu 3+1 80 m²",
-    "Address": "Preslova, Brno - Pisárky",
-    "Price": "30 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-pisarky-preslova/4059873356",
-    "id": "4059873356"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 69 m²",
-    "Address": "Gorkého, Brno - Veveří",
-    "Price": "25 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-veveri-gorkeho/3937452108",
-    "id": "3937452108"
   }
 ]
