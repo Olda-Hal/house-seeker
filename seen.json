@@ -1,5 +1,19 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 95 m²",
+    "Address": "Šmahova, Brno - Slatina",
+    "Price": "33 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-slatina-smahova/1708798028",
+    "id": "1708798028"
+  },
+  {
+    "header": "Pronájem bytu 3+1 76 m²",
+    "Address": "Neumannova, Brno - Pisárky",
+    "Price": "26 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-pisarky-neumannova/2233319500",
+    "id": "2233319500"
+  },
+  {
     "header": "Pronájem bytu 3+kk 36 m²",
     "Address": "Šimáčkova, Brno - Líšeň",
     "Price": "16 500 Kč/měsíc",
@@ -19,13 +33,6 @@
     "Price": "23 900 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-slatina-blazovicka/1480208460",
     "id": "1480208460"
-  },
-  {
-    "header": "Pronájem bytu 3+1 76 m²",
-    "Address": "Neumannova, Brno - Pisárky",
-    "Price": "26 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-pisarky-neumannova/2233319500",
-    "id": "2233319500"
   },
   {
     "header": "Pronájem bytu 3+1 106 m²",
@@ -131,12 +138,5 @@
     "Price": "21 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-styrice-videnska/709570636",
     "id": "709570636"
-  },
-  {
-    "header": "Pronájem bytu 3+1 68 m²",
-    "Address": "Dunajská, Brno - Starý Lískovec",
-    "Price": "25 990 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-stary-liskovec-dunajska/2408366156",
-    "id": "2408366156"
   }
 ]
