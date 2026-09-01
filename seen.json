@@ -35,20 +35,6 @@
     "id": "1136705612"
   },
   {
-    "header": "Pronájem bytu 3+kk 36 m²",
-    "Address": "Šimáčkova, Brno - Líšeň",
-    "Price": "16 500 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-lisen-simackova/946847820",
-    "id": "946847820"
-  },
-  {
-    "header": "Pronájem bytu 2+1 72 m²",
-    "Address": "Úvoz, Brno - Brno-střed",
-    "Price": "21 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-brno-stred-uvoz/1685438540",
-    "id": "1685438540"
-  },
-  {
     "header": "Pronájem bytu 3+kk 82 m²",
     "Address": "Jakubská, Brno - Brno-město",
     "Price": "31 900 Kč/měsíc",
@@ -133,10 +119,24 @@
     "id": "4091469900"
   },
   {
-    "header": "Pronájem bytu 3+kk 82 m²",
-    "Address": "Jakubská, Brno - Brno-město",
-    "Price": "31 900 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-brno-mesto-jakubska/2210652236",
-    "id": "2210652236"
+    "header": "Pronájem bytu 2+1 70 m²",
+    "Address": "Jana Uhra, Brno - Veveří",
+    "Price": "23 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-veveri-jana-uhra/2365755468",
+    "id": "2365755468"
+  },
+  {
+    "header": "Pronájem bytu 3+1 64 m²",
+    "Address": "Prušánecká, Brno - Židenice",
+    "Price": "25 990 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-zidenice-prusanecka/1129627724",
+    "id": "1129627724"
+  },
+  {
+    "header": "Pronájem bytu 3+1 76 m²",
+    "Address": "Neumannova, Brno - Pisárky",
+    "Price": "26 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-pisarky-neumannova/2233319500",
+    "id": "2233319500"
   }
 ]
