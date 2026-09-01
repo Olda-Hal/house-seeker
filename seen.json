@@ -28,18 +28,18 @@
     "id": "1014706252"
   },
   {
-    "header": "Pronájem bytu 3+1 83 m²",
-    "Address": "Botanická, Brno - Veveří",
-    "Price": "24 600 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-veveri-botanicka/1136705612",
-    "id": "1136705612"
+    "header": "Pronájem bytu 3+kk 36 m²",
+    "Address": "Šimáčkova, Brno - Líšeň",
+    "Price": "16 500 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-lisen-simackova/946847820",
+    "id": "946847820"
   },
   {
-    "header": "Pronájem bytu 3+kk 82 m²",
-    "Address": "Jakubská, Brno - Brno-město",
-    "Price": "31 900 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-brno-mesto-jakubska/1668145228",
-    "id": "1668145228"
+    "header": "Pronájem bytu 2+1 72 m²",
+    "Address": "Úvoz, Brno - Brno-střed",
+    "Price": "21 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-brno-stred-uvoz/1685438540",
+    "id": "1685438540"
   },
   {
     "header": "Pronájem bytu 3+kk 79 m²",
@@ -61,13 +61,6 @@
     "Price": "22 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-veveri-gorkeho/1586806860",
     "id": "1586806860"
-  },
-  {
-    "header": "Pronájem bytu 3+1 60 m²",
-    "Address": "U Pošty, Brno - Starý Lískovec",
-    "Price": "22 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-stary-liskovec-u-posty/4271161420",
-    "id": "4271161420"
   },
   {
     "header": "Pronájem bytu 3+kk 73 m²",
@@ -96,13 +89,6 @@
     "Price": "20 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-veveri-kotlarska/1576321100",
     "id": "1576321100"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 89 m²",
-    "Address": "Česká, Brno - Brno-město",
-    "Price": "34 500 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-brno-mesto-ceska/133480524",
-    "id": "133480524"
   },
   {
     "header": "Pronájem bytu 2+1 50 m²",
@@ -138,5 +124,19 @@
     "Price": "26 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-pisarky-neumannova/2233319500",
     "id": "2233319500"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 53 m²",
+    "Address": "Vinohradská, Brno - Černovice",
+    "Price": "23 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-cernovice-vinohradska/526237772",
+    "id": "526237772"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 162 m²",
+    "Address": "Bratislavská, Brno - Zábrdovice",
+    "Price": "43 900 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zabrdovice-bratislavska/2630526284",
+    "id": "2630526284"
   }
 ]
