@@ -1,5 +1,19 @@
 [
   {
+    "header": "Pronájem bytu 2+1 90 m²",
+    "Address": "náměstí Svobody, Brno - Brno-město",
+    "Price": "30 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-brno-mesto-namesti-svobody/2328547404",
+    "id": "2328547404"
+  },
+  {
+    "header": "Pronájem bytu 3+1 67 m²",
+    "Address": "Haškova, Brno - Lesná",
+    "Price": "22 500 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-lesna-haskova/576663628",
+    "id": "576663628"
+  },
+  {
     "header": "Pronájem bytu 3+kk 120 m²",
     "Address": "náměstí Svobody, Brno - Brno-město",
     "Price": "55 000 Kč/měsíc",
@@ -124,19 +138,5 @@
     "Price": "32 990 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-trnita-placzkova/2207285324",
     "id": "2207285324"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 53 m²",
-    "Address": "Vinohradská, Brno - Černovice",
-    "Price": "23 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-cernovice-vinohradska/526237772",
-    "id": "526237772"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 80 m²",
-    "Address": "Přemyslovo náměstí, Brno - Slatina",
-    "Price": "22 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-slatina-premyslovo-namesti/2974216268",
-    "id": "2974216268"
   }
 ]
