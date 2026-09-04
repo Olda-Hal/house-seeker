@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+1 74 m²",
+    "Address": "Dubová, Brno - Jundrov",
+    "Price": "22 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-jundrov-dubova/2336108620",
+    "id": "2336108620"
+  },
+  {
     "header": "Pronájem bytu 3+1 64 m²",
     "Address": "Prušánecká, Brno - Židenice",
     "Price": "25 990 Kč/měsíc",
@@ -131,12 +138,5 @@
     "Price": "25 900 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-stare-brno-hybesova/973025356",
     "id": "973025356"
-  },
-  {
-    "header": "Pronájem bytu 2+1 45 m²",
-    "Address": "Václavská, Brno - Staré Brno",
-    "Price": "18 900 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-stare-brno-vaclavska/167718988",
-    "id": "167718988"
   }
 ]
