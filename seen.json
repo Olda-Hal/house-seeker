@@ -1,5 +1,33 @@
 [
   {
+    "header": "Pronájem bytu 3+1 64 m²",
+    "Address": "Prušánecká, Brno - Židenice",
+    "Price": "25 990 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-zidenice-prusanecka/1129627724",
+    "id": "1129627724"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 36 m²",
+    "Address": "Šimáčkova, Brno - Líšeň",
+    "Price": "16 500 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-lisen-simackova/946847820",
+    "id": "946847820"
+  },
+  {
+    "header": "Pronájem bytu 2+1 72 m²",
+    "Address": "Úvoz, Brno - Brno-střed",
+    "Price": "21 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-brno-stred-uvoz/1685438540",
+    "id": "1685438540"
+  },
+  {
+    "header": "Pronájem bytu 2+1 64 m²",
+    "Address": "Černého, Brno - Bystrc",
+    "Price": "20 990 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-bystrc-cerneho/2950987852",
+    "id": "2950987852"
+  },
+  {
     "header": "Pronájem bytu 2+1 59 m²",
     "Address": "Richtrova, Brno - Kohoutovice",
     "Price": "20 000 Kč/měsíc",
@@ -44,7 +72,7 @@
   {
     "header": "Pronájem bytu 3+1 68 m²",
     "Address": "Dunajská, Brno - Starý Lískovec",
-    "Price": "25 990 Kč/měsíc",
+    "Price": "24 590 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-stary-liskovec-dunajska/2408366156",
     "id": "2408366156"
   },
@@ -110,33 +138,5 @@
     "Price": "18 900 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-stare-brno-vaclavska/167718988",
     "id": "167718988"
-  },
-  {
-    "header": "Pronájem bytu 2+1 60 m²",
-    "Address": "Novoměstská, Brno - Řečkovice",
-    "Price": "18 500 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-reckovice-novomestska/32452684",
-    "id": "32452684"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 70 m²",
-    "Address": "Kotkova, Brno - Černovice",
-    "Price": "27 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-cernovice-kotkova/2527670348",
-    "id": "2527670348"
-  },
-  {
-    "header": "Pronájem bytu 3+1 100 m²",
-    "Address": "Hlinky, Brno - Staré Brno",
-    "Price": "30 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-stare-brno-hlinky/2696527948",
-    "id": "2696527948"
-  },
-  {
-    "header": "Pronájem bytu 3+1 70 m²",
-    "Address": "Vlasty Pittnerové, Brno - Řečkovice",
-    "Price": "24 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-reckovice-vlasty-pittnerove/4283351116",
-    "id": "4283351116"
   }
 ]
