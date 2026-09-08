@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+1 80 m²",
+    "Address": "ulice Kosmonautů, Brno - Starý Lískovec",
+    "Price": "30 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-stary-liskovec-ulice-kosmonautu/1645097036",
+    "id": "1645097036"
+  },
+  {
     "header": "Pronájem bytu 3+1 76 m²",
     "Address": "Neumannova, Brno - Pisárky",
     "Price": "26 000 Kč/měsíc",
@@ -40,6 +47,13 @@
     "Price": "30 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-stare-brno-hlinky/2696527948",
     "id": "2696527948"
+  },
+  {
+    "header": "Kuchyně snů od profíků",
+    "Address": "Rezervujte termín a naplánujte si s námi kuchyni německé kvality se zárukou až 25 let.",
+    "Price": "XXXLutz Česká republika",
+    "link": "https://i.imedia.cz/v2/click?spotId=4215463&d=WT8NXCH3CSAWV8N35SQ2GMN5HMRX7XBJDGUWGHDE3GBEF6AGP68MHG7GD6HBB9MQ5W4SEPE24UQKCRWTKCRTRDZBRJZZEGUGMCWTB4RIC32IPHVFUIWYD5QWYEVNQNNYF9HD5QVC43PRUBU3K2VIJARSZC8AC4HUDN2QCHBYZPE9NA3CYNY4MB864TAGPHP2I8BQPNWTTJWRJJ2D49FQKGWDJAYTS9B7AXTS92ZDE5YUS7HGUHA8TR2VSXJWZDC8RZP4I5QI94H6P3ESQXCXISHJKMR89ZARZYHWF9YFCQY7H7MUB376U48USM58H2EADJYSVZFNGXPM2Z5NRR42D66U42K9FAHSJE7ZN55U3D4EN&destination=https%3A//ad.doubleclick.net/ddm/trackclk/N510405.5083943MUP-SEZNAM-NATIVE/B34999881.439057698%3Bdc_trk_aid%3D631994391%3Bdc_trk_cid%3D247725133%3Bdc_lat%3D%3Bdc_rdid%3D%3Btag_for_child_directed_treatment%3D%3Btfua%3D%3Bgdpr%3D$%7BGDPR%7D%3Bgdpr_consent%3D$%7BGDPR_CONSENT_755%7D%3Bltd%3D%3Bdc_tdv%3D1",
+    "id": "B34999881.439057698%3Bdc_trk_aid%3D631994391%3Bdc_trk_cid%3D247725133%3Bdc_lat%3D%3Bdc_rdid%3D%3Btag_for_child_directed_treatment%3D%3Btfua%3D%3Bgdpr%3D$%7BGDPR%7D%3Bgdpr_consent%3D$%7BGDPR_CONSENT_755%7D%3Bltd%3D%3Bdc_tdv%3D1"
   },
   {
     "header": "Pronájem bytu 2+1 51 m²",
@@ -131,12 +145,5 @@
     "Price": "20 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-zabrdovice-cejl/2366885964",
     "id": "2366885964"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 123 m²",
-    "Address": "Jeřábkova, Brno - Černá Pole",
-    "Price": "34 500 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-cerna-pole-jerabkova/3001757772",
-    "id": "3001757772"
   }
 ]
