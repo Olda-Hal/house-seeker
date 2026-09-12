@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+1 118 m²",
+    "Address": "Antonínská, Brno - Veveří",
+    "Price": "35 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-veveri-antoninska/605499468",
+    "id": "605499468"
+  },
+  {
     "header": "Pronájem bytu 2+1 56 m²",
     "Address": "Jožky Jabůrkové, Brno - Komín",
     "Price": "20 990 Kč/měsíc",
@@ -47,13 +54,6 @@
     "Price": "24 990 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-zidenice-prusanecka/1129627724",
     "id": "1129627724"
-  },
-  {
-    "header": "Cena na doživotí",
-    "Address": "Nejlepší nákup vašeho života? Telka od 216 Kč a cena, která se vám už nezvedne",
-    "Price": "Telly",
-    "link": "https://i.imedia.cz/v2/click?spotId=4220265&d=BSI4PUXBCBFT33D92VZZC9X3KRJBGAP53VP9IQN3HPN7BAZYCGAT3PGIJ7GDRK6ZB4RM4RPC3XI2234D28H7SNDBU3BNPJEA6R3HDKCADEWCSPYPS4WKIY8XV5HRSQGG6MRJCPZF6J52DYD5IS6GPPHTNHMBINEKQDBBTGW84KJ7PZZNFQG2SYGZEUJKUC9DKDHECBVHV5VK9G82TEUR8NJ2DSTX8JV6T9YN8R5TC32FTA78QVWRI6KRRZXHPUWAWIV2TRB6QYKRXGDQW62CJ6UM5U6X9CBHEW5M7A5NNCZ83HIJ8938QFCI45NIS3TFT3AKHDFTVSD5YC2TBH4XGYJNVYDPI4ZGVKXRIP5JJUGBUQ2&destination=https%3A//telly.cz/akcni-nabidka/%3Futm_source%3Dseznam-primo%26utm_medium%3Dsreality%26utm_campaign%3Dsreality2609_nativni-inzerat%26utm_content%3Ddozivoti_native02_v2%26utm_id%3D8121127669",
-    "id": "%3Futm_source%3Dseznam-primo%26utm_medium%3Dsreality%26utm_campaign%3Dsreality2609_nativni-inzerat%26utm_content%3Ddozivoti_native02_v2%26utm_id%3D8121127669"
   },
   {
     "header": "Pronájem bytu 3+kk 104 m²",
@@ -138,12 +138,5 @@
     "Price": "20 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-zabrdovice-cejl/2366885964",
     "id": "2366885964"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 94 m²",
-    "Address": "U Leskavy, Brno - Starý Lískovec",
-    "Price": "28 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-stary-liskovec-u-leskavy/1664168012",
-    "id": "1664168012"
   }
 ]
