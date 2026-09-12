@@ -1,10 +1,31 @@
 [
   {
+    "header": "Pronájem bytu 2+1 56 m²",
+    "Address": "Jožky Jabůrkové, Brno - Komín",
+    "Price": "20 990 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-komin-jozky-jaburkove/3355914316",
+    "id": "3355914316"
+  },
+  {
+    "header": "Pronájem bytu 2+1 45 m²",
+    "Address": "Cejl, Brno - Zábrdovice",
+    "Price": "20 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-zabrdovice-cejl/2366885964",
+    "id": "2366885964"
+  },
+  {
     "header": "Pronájem bytu 3+1 97 m²",
     "Address": "Výstavní, Brno - Staré Brno",
     "Price": "32 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-stare-brno-vystavni/2432118860",
     "id": "2432118860"
+  },
+  {
+    "header": "Pronájem bytu 3+1 68 m²",
+    "Address": "Vltavská, Brno - Starý Lískovec",
+    "Price": "23 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-stary-liskovec-vltavska/838283340",
+    "id": "838283340"
   },
   {
     "header": "Pronájem bytu 2+1 60 m²",
@@ -49,25 +70,11 @@
     "id": "2752524364"
   },
   {
-    "header": "Apartmány v Praze 5",
-    "Address": "Bydlení pro mladé se vším, co potřebujete. Vybavené apartmány ihned k nastěhování.",
-    "Price": "Campus Park",
-    "link": "https://i.imedia.cz/v2/click?spotId=4223245&d=IF8CQJKNQD6T6E6M7YI2A6CWAKRU2VIX7AMYE2YFQ4FKE3ZKDR38P59N8JT24I2A5DKDUSUCYHHB27T2BG6IQKUIQ699WGB8ETAF7CC3VRAIU54JNMNP55BDUFNX83VWJSYUVRXKENNCETQ5624KXG4DIWC5Y3BAHFUQ5TEJ7GEYWB462DHFV2AREBVIF2ATKCDINEST8WEPZ65R68J7IEH4UN364E3223GPDVCJSNT86UM4RN86YKB98PPQZIQHC4SUT52ZBPY5AC8CB5I7E4ARDSQXQG8TED4BRW5SA2WAJAG5XX2QH6NC9YTS8WY3N4MUPWUUNUY35GIWF48ZZXQ2ENPPU6FX8KX98Q5DM26V2&destination=https%3A//www.campusvsem.cz/%3Futm_source%3Dsreality%26utm_medium%3Dnativni%26utm_campaign%3Dvsem26%26utm_content%3D3",
-    "id": "%3Futm_source%3Dsreality%26utm_medium%3Dnativni%26utm_campaign%3Dvsem26%26utm_content%3D3"
-  },
-  {
     "header": "Pronájem bytu 3+1 118 m²",
     "Address": "Antonínská, Brno - Veveří",
     "Price": "35 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-veveri-antoninska/605499468",
     "id": "605499468"
-  },
-  {
-    "header": "Pronájem bytu 2+1 56 m²",
-    "Address": "Jožky Jabůrkové, Brno - Komín",
-    "Price": "20 990 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-komin-jozky-jaburkove/3355914316",
-    "id": "3355914316"
   },
   {
     "header": "Pronájem bytu 2+1 78 m²",
@@ -131,19 +138,5 @@
     "Price": "21 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-brno-stred-uvoz/1685438540",
     "id": "1685438540"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 70 m²",
-    "Address": "Neumannova, Brno - Pisárky",
-    "Price": "42 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-pisarky-neumannova/4067020876",
-    "id": "4067020876"
-  },
-  {
-    "header": "Pronájem bytu 2+1 52 m²",
-    "Address": "Družstevní, Brno - Řečkovice",
-    "Price": "17 500 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-reckovice-druzstevni/4031197260",
-    "id": "4031197260"
   }
 ]
