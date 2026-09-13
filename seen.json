@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 2+1 45 m²",
+    "Address": "Cejl, Brno - Zábrdovice",
+    "Price": "20 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-zabrdovice-cejl/2366885964",
+    "id": "2366885964"
+  },
+  {
     "header": "Pronájem bytu 2+1 44 m²",
     "Address": "Václavská, Brno - Staré Brno",
     "Price": "19 900 Kč/měsíc",
@@ -112,13 +119,6 @@
     "id": "3355914316"
   },
   {
-    "header": "Pronájem bytu 2+1 45 m²",
-    "Address": "Cejl, Brno - Zábrdovice",
-    "Price": "20 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-zabrdovice-cejl/2366885964",
-    "id": "2366885964"
-  },
-  {
     "header": "Pronájem bytu 3+1 97 m²",
     "Address": "Výstavní, Brno - Staré Brno",
     "Price": "32 000 Kč/měsíc",
@@ -128,7 +128,7 @@
   {
     "header": "Pronájem bytu 3+1 68 m²",
     "Address": "Vltavská, Brno - Starý Lískovec",
-    "Price": "23 000 Kč/měsíc",
+    "Price": "22 400 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-stary-liskovec-vltavska/838283340",
     "id": "838283340"
   },
