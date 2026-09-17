@@ -1,5 +1,68 @@
 [
   {
+    "header": "Pronájem bytu 2+1 43 m²",
+    "Address": "Hybešova, Brno - Staré Brno",
+    "Price": "25 900 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-stare-brno-hybesova/1061236812",
+    "id": "1061236812"
+  },
+  {
+    "header": "Pronájem bytu 2+1 40 m²",
+    "Address": "Hybešova, Brno - Staré Brno",
+    "Price": "25 900 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-stare-brno-hybesova/2353082444",
+    "id": "2353082444"
+  },
+  {
+    "header": "Pronájem bytu 2+1 33 m²",
+    "Address": "Václavská, Brno - Staré Brno",
+    "Price": "19 900 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-stare-brno-vaclavska/2822844492",
+    "id": "2822844492"
+  },
+  {
+    "header": "Pronájem bytu 2+1 44 m²",
+    "Address": "Václavská, Brno - Staré Brno",
+    "Price": "19 900 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-stare-brno-vaclavska/3108057164",
+    "id": "3108057164"
+  },
+  {
+    "header": "Pronájem bytu 2+1 31 m²",
+    "Address": "Hybešova, Brno - Staré Brno",
+    "Price": "25 900 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-stare-brno-hybesova/2638295116",
+    "id": "2638295116"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 95 m²",
+    "Address": "Šmahova, Brno - Slatina",
+    "Price": "27 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-slatina-smahova/4087427148",
+    "id": "4087427148"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 104 m²",
+    "Address": "Kopečná, Brno - Staré Brno",
+    "Price": "35 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-stare-brno-kopecna/737067084",
+    "id": "737067084"
+  },
+  {
+    "header": "Pronájem bytu 3+1 77 m²",
+    "Address": "Polní, Brno - Štýřice",
+    "Price": "30 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-styrice-polni/373211212",
+    "id": "373211212"
+  },
+  {
+    "header": "Pronájem bytu 2+1 72 m²",
+    "Address": "Úvoz, Brno - Brno-střed",
+    "Price": "21 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-brno-stred-uvoz/1685438540",
+    "id": "1685438540"
+  },
+  {
     "header": "Pronájem bytu 2+1 57 m²",
     "Address": "Mathonova, Brno - Černá Pole",
     "Price": "21 500 Kč/měsíc",
@@ -49,13 +112,6 @@
     "id": "3196723276"
   },
   {
-    "header": "Plánování kuchyně ZDARMA",
-    "Address": "Rezervujte termín a naplánujte si s námi kuchyni německé kvality se zárukou až 25 let.",
-    "Price": "XXXLutz Česká republika",
-    "link": "https://i.imedia.cz/v2/click?spotId=4215464&d=IF3BUEVW98I37GPS34BG833VFITTICWNI8VU8CVXFGVY7GNX7CFR98TNZTPGEIZE55VCTBF4YY7EY6VE5KUQREP6MWGUVPKSV8IYS7QMHZ6HABU5M2JIGB62UF6HQA9AARFY5NV5FZVYJQH8SSQMN8G9JDKKTF9N383DJ2R8Y9WRS2I7VKTGFRB6CTK83T2NA7HSK4S93D9WUEJR84P4TMMXY7TGB69H4IBDRMR93NEISX7QEJ44KCF7QH77GNRWP8FE8BK56TD5BTTDEYP5I5GF3ZP4ZICRD3YTP2PHANUVWCTYHYWZJGFBKMMS9N2ANK7FCNDXR7KTW6FFGPHGSUXRS38W9QZM2DPAP9ZVHHQFN&destination=https%3A//ad.doubleclick.net/ddm/trackclk/N510405.5083943MUP-SEZNAM-NATIVE/B34999881.438741785%3Bdc_trk_aid%3D632129215%3Bdc_trk_cid%3D247725133%3Bdc_lat%3D%3Bdc_rdid%3D%3Btag_for_child_directed_treatment%3D%3Btfua%3D%3Bgdpr%3D$%7BGDPR%7D%3Bgdpr_consent%3D$%7BGDPR_CONSENT_755%7D%3Bltd%3D%3Bdc_tdv%3D1",
-    "id": "B34999881.438741785%3Bdc_trk_aid%3D632129215%3Bdc_trk_cid%3D247725133%3Bdc_lat%3D%3Bdc_rdid%3D%3Btag_for_child_directed_treatment%3D%3Btfua%3D%3Bgdpr%3D$%7BGDPR%7D%3Bgdpr_consent%3D$%7BGDPR_CONSENT_755%7D%3Bltd%3D%3Bdc_tdv%3D1"
-  },
-  {
     "header": "Pronájem bytu 2+1 72 m²",
     "Address": "Cihlářská, Brno - Veveří",
     "Price": "22 900 Kč/měsíc",
@@ -82,68 +138,5 @@
     "Price": "26 500 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-slatina-buckova/898183244",
     "id": "898183244"
-  },
-  {
-    "header": "Pronájem bytu 2+1 56 m²",
-    "Address": "Ježkova, Brno - Lesná",
-    "Price": "17 500 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-lesna-jezkova/2218209356",
-    "id": "2218209356"
-  },
-  {
-    "header": "Pronájem bytu 2+1 54 m²",
-    "Address": "Šumavská, Brno - Ponava",
-    "Price": "23 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-ponava-sumavska/657072204",
-    "id": "657072204"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 76 m²",
-    "Address": "Rolencova, Brno - Brno-Tuřany",
-    "Price": "26 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-brno-turany-rolencova/1412046924",
-    "id": "1412046924"
-  },
-  {
-    "header": "Pronájem bytu 2+1 75 m²",
-    "Address": "Údolní, Brno - Veveří",
-    "Price": "19 900 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-veveri-udolni/3183751244",
-    "id": "3183751244"
-  },
-  {
-    "header": "Pronájem bytu 3+1 97 m²",
-    "Address": "Antonína Procházky, Brno - Pisárky",
-    "Price": "27 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-pisarky-antonina-prochazky/4238024780",
-    "id": "4238024780"
-  },
-  {
-    "header": "Pronájem bytu 3+1 68 m²",
-    "Address": "Dunajská, Brno - Starý Lískovec",
-    "Price": "24 590 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-stary-liskovec-dunajska/2408366156",
-    "id": "2408366156"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 89 m²",
-    "Address": "Česká, Brno - Brno-město",
-    "Price": "34 500 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-brno-mesto-ceska/133480524",
-    "id": "133480524"
-  },
-  {
-    "header": "Pronájem bytu 2+1 56 m²",
-    "Address": "Jožky Jabůrkové, Brno - Komín",
-    "Price": "20 990 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-komin-jozky-jaburkove/3355914316",
-    "id": "3355914316"
-  },
-  {
-    "header": "Pronájem bytu 2+1 72 m²",
-    "Address": "Úvoz, Brno - Brno-střed",
-    "Price": "21 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-brno-stred-uvoz/1685438540",
-    "id": "1685438540"
   }
 ]
