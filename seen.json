@@ -63,13 +63,6 @@
     "id": "373211212"
   },
   {
-    "header": "Pronájem bytu 2+1 72 m²",
-    "Address": "Úvoz, Brno - Brno-střed",
-    "Price": "21 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-brno-stred-uvoz/1685438540",
-    "id": "1685438540"
-  },
-  {
     "header": "Pronájem bytu 2+1 75 m²",
     "Address": "Skřivanova, Brno - Ponava",
     "Price": "21 000 Kč/měsíc",
@@ -105,13 +98,6 @@
     "id": "2408366156"
   },
   {
-    "header": "Nájemní byty ve Slavkově",
-    "Address": "Poslední volné byty pro seniory ihned k nastěhování. Moderní a bezpečné bydlení.",
-    "Price": "Anvete senior",
-    "link": "https://i.imedia.cz/v2/click?spotId=4231333&d=BURCGYCTIXV3NTRMJCUY8BTYB6CN6G9NC33USJN3FQ5VFQYI3W6PNTIRRWIH6APNTP6S26ZHRZEV5T9S799N9SF3F53PPGAJCG2MF4JBFQ74HNIEP5Q37AQGVNNHYPCJS9BHTA7X6WF8H4RN59MQUIINBDWFYDRAQIBMHR3XA3VBIPR7DTUD5BIMUP2FJPTTIUVGJ79Q5449BQWRM2PFIDEYYIRZY2PESCA5Z4ZW4IEM78DIYHZTJB7BUNDX4U2B6KX2QUA2BUHCFYPDNJNAFG5VST7AIVQKU9Z8QKSDNCZ39YF78CYZD9Y9CCYM4US4Q7NK6VIGA42MZ49MANBQXRXFCQMSP8C7SZIR2B43GUUA&destination=https%3A//slavkov.anvete-senior.cz/",
-    "id": ""
-  },
-  {
     "header": "Pronájem bytu 3+kk 95 m²",
     "Address": "Šmahova, Brno - Slatina",
     "Price": "27 000 Kč/měsíc",
@@ -145,5 +131,12 @@
     "Price": "22 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-bystrc-teyschlova/1351163980",
     "id": "1351163980"
+  },
+  {
+    "header": "Pronájem bytu 2+1 82 m²",
+    "Address": "Havlíčkova, Brno - Stránice",
+    "Price": "26 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-stranice-havlickova/2810781772",
+    "id": "2810781772"
   }
 ]
