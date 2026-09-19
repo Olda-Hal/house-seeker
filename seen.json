@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 70 m²",
+    "Address": "Chudobova, Brno - Židenice",
+    "Price": "Cena na vyžádání",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zidenice-chudobova/4020772940",
+    "id": "4020772940"
+  },
+  {
     "header": "Pronájem bytu 3+kk 73 m²",
     "Address": "Hvozdecká, Brno - Bystrc",
     "Price": "26 500 Kč/měsíc",
@@ -105,13 +112,6 @@
     "id": "2251825228"
   },
   {
-    "header": "Nájemní byty ve Slavkově",
-    "Address": "Poslední volné byty pro seniory ihned k nastěhování. Moderní a bezpečné bydlení.",
-    "Price": "Anvete senior",
-    "link": "https://i.imedia.cz/v2/click?spotId=4231331&d=D92EC53YUANIF5CYEB87DBNZ7C64JZWAEU396MUWQVU437RAZ8P7RACEMTFCVYQ3ZNR48972XA96YQ3AN7NECQTK3XEWAAUU2YRMWQ75NYPMFJZQQ7654W9XI5ZST6KC239CIZP6GSIDX95ZRJI7N25AJT36RA7Q3CRZC8II9I58PVUSYS2ASW8CZW4VY8QEAPTG866JTMYIVRGQ3WXNAZ33B4QM5BPGFKMQTECW7CUMYUNMNDKSUZESDDJJQ84F4QNAF7NKBDM7GFGMQYMK9B9ZHBUZRXI8BARAI9A7756VRX3SDI92GBGXT9HM36VSET9KHAPJ4J8GSR8RE4IRRJZJ6HIX5DS8B6Q44E3XWFSVS&destination=https%3A//slavkov.anvete-senior.cz/",
-    "id": ""
-  },
-  {
     "header": "Pronájem bytu 2+1 55 m²",
     "Address": "Záhumenice, Brno - Horní Heršpice",
     "Price": "20 800 Kč/měsíc",
@@ -138,12 +138,5 @@
     "Price": "21 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-ponava-skrivanova/2804424780",
     "id": "2804424780"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 70 m²",
-    "Address": "Neumannova, Brno - Pisárky",
-    "Price": "42 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-pisarky-neumannova/4067020876",
-    "id": "4067020876"
   }
 ]
