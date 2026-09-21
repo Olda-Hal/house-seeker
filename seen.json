@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+1 80 m²",
+    "Address": "ulice Kosmonautů, Brno - Starý Lískovec",
+    "Price": "30 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-stary-liskovec-ulice-kosmonautu/1645097036",
+    "id": "1645097036"
+  },
+  {
     "header": "Pronájem bytu 3+kk 80 m²",
     "Address": "Mášova, Brno - Veveří",
     "Price": "30 500 Kč/měsíc",
@@ -37,7 +44,7 @@
   {
     "header": "Pronájem bytu 3+1 77 m²",
     "Address": "Polní, Brno - Štýřice",
-    "Price": "30 000 Kč/měsíc",
+    "Price": "28 500 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-styrice-polni/373211212",
     "id": "373211212"
   },
@@ -47,13 +54,6 @@
     "Price": "35 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-stare-brno-kopecna/737067084",
     "id": "737067084"
-  },
-  {
-    "header": "Nájemní byty ve Slavkově",
-    "Address": "Poslední volné byty pro seniory ihned k nastěhování. Moderní a bezpečné bydlení.",
-    "Price": "Anvete senior",
-    "link": "https://i.imedia.cz/v2/click?spotId=4231333&d=PUN34XZJIN96GKNFW6Q7QRP239RE4IVZRDFU2XU9EDX9CPQIXEBDNR2Y2477NVY8D5XTIF3RQ5HBSRTZS5CCNQMJVX2M8J8JRA3SNYD7F248JBUD34MYVMYNRQXP2K8BI72NHZQJIEZURQTHABH7XQNQNSE52PDMQ65JEX3YJD4G2ETQV43MMN89TR78TS9V3ZR28JRJSHSKFG7I2N7A2V26IGEITAMMWVHKJN2R9IUU27AW885YIF3PSU79X45UC4ACE6X69T5ND4C9SJB4GQB25FR2ENE85WMWXVEYKEIMJ6QVA596YAV3HQCJP3MPIARVHB3FHIYYMARBCNM9FHG34NUK87AVASKZXWKMKDHX4GS&destination=https%3A//slavkov.anvete-senior.cz/",
-    "id": ""
   },
   {
     "header": "Pronájem bytu 3+kk 95 m²",
@@ -68,13 +68,6 @@
     "Price": "30 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zidenice-krasneho/4101972044",
     "id": "4101972044"
-  },
-  {
-    "header": "Pronájem bytu 3+1 80 m²",
-    "Address": "ulice Kosmonautů, Brno - Starý Lískovec",
-    "Price": "30 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-stary-liskovec-ulice-kosmonautu/1645097036",
-    "id": "1645097036"
   },
   {
     "header": "Pronájem bytu 3+1 70 m²",
