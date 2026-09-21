@@ -52,8 +52,15 @@
     "header": "Nájemní byty ve Slavkově",
     "Address": "Poslední volné byty pro seniory ihned k nastěhování. Moderní a bezpečné bydlení.",
     "Price": "Anvete senior",
-    "link": "https://i.imedia.cz/v2/click?spotId=4231333&d=VIQ6TIC459QMRU7653QAEFQSEF5HNPP9X6HEAGFKMRSVCGWXRPV4MVJT2P6VCUD8FN7RWMNDZESWQN5T2K8ARXUXSETRXS89JI2GQFXVKXNJPY97T5IB32AC7IXTK2TVBK5XFVMPCTGUSAR8ANHHM4SG6AWCPQERD6IMB6WJY7CTTE76CTQHCUMM4EKZIC9G5TSCSI9TEU9J3NKR3GQ4ATYD7DBJHA3B59X7VR28VXAFSS4HQMQ3BZ4QG4W76WBVVWWP87SAE6DCQGQMWQQNR7XQWXVBKM6HK2ES2PIGC3BVNXMTFSRNTADVQ9XG4CUG3V353S28K7WDV4WKPA54YT4VGN2MNRWMDNBHNDI36V8SQDZAGE&destination=https%3A//slavkov.anvete-senior.cz/",
+    "link": "https://i.imedia.cz/v2/click?spotId=4231331&d=55ATW44IGRYZH6GEJHQRN23CNDZ8IFBVEGMI7QAZC8FQCF88FBIHDWGDUHNE483PTN9TMEGP6HMP8TPJRU3CZ3PHQK4YNFQGM7MCR2HIJ49B3NSPZ9YSFZ4YSQZ2XPTGKTGF6XXITUXSPATZGW3556FHWPX9BB8IMUYY4CI74QGWNM87ISYM2CSM2U7FJH9VR3RRA2EVWZASC7IAJW2DYWWRQGH6XX7K6MKPW6P7NE3KQKB6DQH5JX9I8ECQQGXAMN7FYJZAIWK2952CNWKE97CFUUQ9MYQPVKFDSI2MTIWXBHSUCITFBMEYFUQV6JNBYPG3BA377RH8GEBNARBP3F5H6GQ448WFWUZMQEKWAF8B3PS&destination=https%3A//slavkov.anvete-senior.cz/",
     "id": ""
+  },
+  {
+    "header": "Pronájem bytu 3+kk 95 m²",
+    "Address": "Šmahova, Brno - Slatina",
+    "Price": "27 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-slatina-smahova/4087427148",
+    "id": "4087427148"
   },
   {
     "header": "Pronájem bytu 3+kk 80 m²",
@@ -138,12 +145,5 @@
     "Price": "22 900 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-zabovresky-kubanska/2833784908",
     "id": "2833784908"
-  },
-  {
-    "header": "Pronájem bytu 3+1 71 m²",
-    "Address": "Moldavská, Brno - Bohunice",
-    "Price": "23 800 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-bohunice-moldavska/4218499148",
-    "id": "4218499148"
   }
 ]
