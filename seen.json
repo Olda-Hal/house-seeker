@@ -1,5 +1,19 @@
 [
   {
+    "header": "Pronájem bytu 2+1 58 m²",
+    "Address": "Boskovická, Brno - Řečkovice",
+    "Price": "19 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-reckovice-boskovicka/3754762316",
+    "id": "3754762316"
+  },
+  {
+    "header": "Pronájem bytu 2+1 53 m²",
+    "Address": "Hálkova, Brno - Husovice",
+    "Price": "17 500 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-husovice-halkova/1640833100",
+    "id": "1640833100"
+  },
+  {
     "header": "Pronájem bytu 3+kk 73 m²",
     "Address": "Hvozdecká, Brno - Bystrc",
     "Price": "26 500 Kč/měsíc",
@@ -124,19 +138,5 @@
     "Price": "25 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-slatina-langrova/2727223372",
     "id": "2727223372"
-  },
-  {
-    "header": "Pronájem bytu 3+1 68 m²",
-    "Address": "Kubánská, Brno - Žabovřesky",
-    "Price": "25 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-zabovresky-kubanska/4086378572",
-    "id": "4086378572"
-  },
-  {
-    "header": "Pronájem bytu 2+1 55 m²",
-    "Address": "Ptašínského, Brno - Ponava",
-    "Price": "22 500 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-ponava-ptasinskeho/2326667340",
-    "id": "2326667340"
   }
 ]
