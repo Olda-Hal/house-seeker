@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+1 80 m²",
+    "Address": "Soběšická, Brno - Husovice",
+    "Price": "24 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-husovice-sobesicka/4023263308",
+    "id": "4023263308"
+  },
+  {
     "header": "Pronájem bytu 3+1 72 m²",
     "Address": "Oderská, Brno - Starý Lískovec",
     "Price": "25 000 Kč/měsíc",
@@ -47,13 +54,6 @@
     "Price": "30 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-stary-liskovec-ulice-kosmonautu/1645097036",
     "id": "1645097036"
-  },
-  {
-    "header": "Nájemní byty ve Slavkově",
-    "Address": "Poslední volné byty pro seniory ihned k nastěhování. Moderní a bezpečné bydlení.",
-    "Price": "Anvete senior",
-    "link": "https://i.imedia.cz/v2/click?spotId=4231332&d=HEVK6TGNU2Y5ZTTZRMR54CRVFCWPJANHCWP2PNYQ7MEKW8SD4SGRS8IZYWIE4U5HI4IAYJ2F9FPWTS7W2K3DI73GFMA8EHX8NXZCYBPEZ9YN9DJBD7GUZUSU32RJRYJIG5G8Q3Z3MMFDYY5GFND46VKPP2A6I4CBBH9FF32KWDS5DT99NTI2PSC2M3C8U4KMS5Q7URV53G3WA7UQNRSAEW59HUJHVRHMTJVSCDCG4CKT78XUACM96NH6CNAPRRF5RH36FXRNAC2AQG6FHYVD4SIAXMAG68KVZF7R7MDJWINRRWNWY49CDW5RYSBTUGSD3N74FC4X4UVME4BT7Y5YVPS4TG84FCZZ8HVTEEGNP22XRWI&destination=https%3A//slavkov.anvete-senior.cz/",
-    "id": ""
   },
   {
     "header": "Pronájem bytu 3+kk 65 m²",
@@ -138,12 +138,5 @@
     "Price": "24 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-styrice-kamenna/733945932",
     "id": "733945932"
-  },
-  {
-    "header": "Pronájem bytu 2+1 55 m²",
-    "Address": "Krásného, Brno - Židenice",
-    "Price": "18 900 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-zidenice-krasneho/264183884",
-    "id": "264183884"
   }
 ]
