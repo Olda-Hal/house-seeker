@@ -56,13 +56,6 @@
     "id": "737067084"
   },
   {
-    "header": "Nájemní byty ve Slavkově",
-    "Address": "Poslední volné byty pro seniory ihned k nastěhování. Moderní a bezpečné bydlení.",
-    "Price": "Anvete senior",
-    "link": "https://i.imedia.cz/v2/click?spotId=4231333&d=X63E37J45IW5H55DUY33BDKFW3QWPXDBX4463M7JYVWEMVKJPMNP5DW77I63RK3DPR7BQHVZCNHI9C7AISRJAZMU8BVIKP8VBSJTI8FI8N28I4K7QKM5GWEDDTYNSVG8TQ2G39E3ZTRCRC2BFD5RKVRGZUX743A6VND8RYA2R7D2B8892UXBFJMMD8D3VM7V9P6A35QZ3RKPYKEI9DM2C7XHRFFBX8EQS6XBVT7MQCDUQ6HMN3IVXS4UKCDAA45VGXWFS73UHRK3MHDG52BKZK4B3NIE98CDBMTHKHS8VVX7K3BEFRZSKT4UYWCCB22G6RXKZC8SF57DJEQ4FWTMKNMBY4UNUJZ9Q8T5XDQ73DGEAK2&destination=https%3A//slavkov.anvete-senior.cz/",
-    "id": ""
-  },
-  {
     "header": "Pronájem bytu 3+1 77 m²",
     "Address": "Polní, Brno - Štýřice",
     "Price": "30 000 Kč/měsíc",
@@ -112,6 +105,13 @@
     "id": "3250959180"
   },
   {
+    "header": "Nájemní byty ve Slavkově",
+    "Address": "Poslední volné byty pro seniory ihned k nastěhování. Moderní a bezpečné bydlení.",
+    "Price": "Anvete senior",
+    "link": "https://i.imedia.cz/v2/click?spotId=4231333&d=I7KDI8TZXF77F5UGSKJ2FEAWFE83V5V2V7M2ZER53AWBERGNTQMN43FN23I5QFP9A94I5IXMXCJXUHGBVA3M4MTDV5WKV2KGAFDTKGUJGMBXU54YBPG85GF365ARCFWCNMN9JCH4YXVUZFNG4Q8QAE5Q4S4UXRCPRJCY2Z4QJAE7KNEVSVYP8Q6CTHARW9Z32FWK94CK7Q8A9JRUYPIC3E24QPV9XYMVPGUWZNQKFT6Z7DC4CBR4XCJ3XZKESAYCXQP4KNQI7ZDBJ6MYUMMCUYAAYWA37J8G48NBPAQFH58XKSKGRH36CMEYNT5MCWBENGVNUU3Z3M3IHUCUFQ36DD52E6Y8M7JZHIZXP8J82V36RHPN&destination=https%3A//slavkov.anvete-senior.cz/",
+    "id": ""
+  },
+  {
     "header": "Pronájem bytu 3+kk 119 m²",
     "Address": "Petra Křivky, Brno - Nový Lískovec",
     "Price": "33 000 Kč/měsíc",
@@ -145,12 +145,5 @@
     "Price": "27 900 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-zabovresky-minska/2398498892",
     "id": "2398498892"
-  },
-  {
-    "header": "Pronájem bytu 2+1 45 m²",
-    "Address": "Cejl, Brno - Zábrdovice",
-    "Price": "20 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-zabrdovice-cejl/2366885964",
-    "id": "2366885964"
   }
 ]
