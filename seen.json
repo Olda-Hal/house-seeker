@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 2+1 60 m²",
+    "Address": "Olbrachtovo náměstí, Brno - Komín",
+    "Price": "16 900 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-komin-olbrachtovo-namesti/2952929356",
+    "id": "2952929356"
+  },
+  {
     "header": "Pronájem bytu 3+kk 82 m²",
     "Address": "Údolní, Brno - Veveří",
     "Price": "26 000 Kč/měsíc",
@@ -131,13 +138,6 @@
     "Price": "21 990 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-stare-brno-kridlovicka/2846564428",
     "id": "2846564428"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 79 m²",
-    "Address": "Placzkova, Brno - Trnitá",
-    "Price": "32 990 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-trnita-placzkova/2207285324",
-    "id": "2207285324"
   },
   {
     "header": "Pronájem bytu 3+1 62 m²",
