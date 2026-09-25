@@ -56,13 +56,6 @@
     "id": "4087427148"
   },
   {
-    "header": "Nájemní byty ve Slavkově",
-    "Address": "Poslední volné byty pro seniory ihned k nastěhování. Moderní a bezpečné bydlení.",
-    "Price": "Anvete senior",
-    "link": "https://i.imedia.cz/v2/click?spotId=4231331&d=TQVPY68JN62KQZVUMM2JXBK7GK9IJVVAJXU7RAESY5RI7BW7RGZFMJABGG9F3AQ6KRQFR5AN9YXHAVTH7N3SKIA2M2A9NGH28UNRGES2WIJ4JXY68QX82T26Q5P43KECQAX8647X8MCK5MKXRFI8CYZVJTCHMJYW55JKVBNTYVWQGNG44HGIK96KBVQEY3PFK2IP6655JF55TWT8PXBDC84VS2MFMGPB2TXFCUYMGH8BFCTZ8AE4USUGYH4ZKF7IMKU7NTQ2ZUHFSG9YNG3NATBTZS3KT6I2A7YZDBG9EEWCM4YAHVMCX9HTQT4WSD6KZMJETIAI4EYP6IEU9VUZ87HQ2Z3JA3SPXDZQX4D75VBS&destination=https%3A//slavkov.anvete-senior.cz/",
-    "id": ""
-  },
-  {
     "header": "Pronájem bytu 2+1 72 m²",
     "Address": "Libušina třída, Brno - Kohoutovice",
     "Price": "22 900 Kč/měsíc",
@@ -89,13 +82,6 @@
     "Price": "26 500 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-bystrc-hvozdecka/144388172",
     "id": "144388172"
-  },
-  {
-    "header": "Pronájem bytu 3+1 77 m²",
-    "Address": "Polní, Brno - Štýřice",
-    "Price": "30 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-styrice-polni/373211212",
-    "id": "373211212"
   },
   {
     "header": "Pronájem bytu 3+kk 104 m²",
@@ -152,5 +138,12 @@
     "Price": "32 990 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-trnita-placzkova/2207285324",
     "id": "2207285324"
+  },
+  {
+    "header": "Pronájem bytu 3+1 62 m²",
+    "Address": "Josefy Faimonové, Brno - Líšeň",
+    "Price": "23 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-lisen-josefy-faimonove/2218991692",
+    "id": "2218991692"
   }
 ]
