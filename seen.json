@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+1 70 m²",
+    "Address": "Soběšická, Brno",
+    "Price": "20 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-brno-sobesicka/4157284428",
+    "id": "4157284428"
+  },
+  {
     "header": "Pronájem bytu 2+1 56 m²",
     "Address": "Jožky Jabůrkové, Brno - Komín",
     "Price": "19 490 Kč/měsíc",
@@ -54,13 +61,6 @@
     "Price": "24 990 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-lisen-stefackova/2151620684",
     "id": "2151620684"
-  },
-  {
-    "header": "Jedna cena na celý život",
-    "Address": "Nové bydlení, nová telka. Od 216 Kč, bez technika a bez krabičky, aktivace do dvou minut",
-    "Price": "Telly",
-    "link": "https://i.imedia.cz/v2/click?spotId=4220261&d=XH3S38IR4A29W4K33J7G2B77VY2J7YWKXFNED5ISHV33DKSR5N9AFQB8FGYRTVEWBEZJ8CRQICC2ZVZCQQNTU8UKBGNSX9KZQ33UN27UV6MSN27C8EUZPIMBQDZJIUJHJZEU33WGITGJWBGGBWF6VIVME5ZSV5V2ADXXBAINXISXAKABBSZQFKRQWWRKGPYI7WAN43GX2SGHXKTWP8F7T6372BWDJXU7X3RAAVSJG6EJM5UJ8WA7CF94IBE27TDDZSF4535FYCPHHVKZW2G4EW59CBG44MNRKBSVGKMMDQU8BHA2A2JN5JRHM62CMZ8ESHTGSKSE5HPYXAGREHI4PJIEQMZ8SWWKQAMEB3F9IKGW4&destination=https%3A//telly.cz/akcni-nabidka/%3Futm_source%3Dseznam-primo%26utm_medium%3Dsreality%26utm_campaign%3Dsreality2609_nativni-inzerat%26utm_content%3Djedna-cena_native01_v1%26utm_id%3D8121127669",
-    "id": "%3Futm_source%3Dseznam-primo%26utm_medium%3Dsreality%26utm_campaign%3Dsreality2609_nativni-inzerat%26utm_content%3Djedna-cena_native01_v1%26utm_id%3D8121127669"
   },
   {
     "header": "Pronájem bytu 3+1 80 m²",
@@ -119,13 +119,6 @@
     "id": "2688692300"
   },
   {
-    "header": "Nájemní byty ve Slavkově",
-    "Address": "Poslední volné byty pro seniory ihned k nastěhování. Moderní a bezpečné bydlení.",
-    "Price": "Anvete senior",
-    "link": "https://i.imedia.cz/v2/click?spotId=4231333&d=7X9DD2VY8XYAVR8KENU8HZ3HHAHWJ94E2KXKEZ6SHIGN8B7RYYHR252QBDVWI33C9HUT44ECTQVBK6A82JVJW7IE88RQYM294FNZP2YQ5WYFWMNFUKM9RNNSD96TEMSGCGCYT6ZKPWQRDMXP9AAGXF8ZGU43INACSHYEINAZC4TPHYS7DMWQCHYS89XYUQ7JV6AY7UYW5ZDTCWV9E5T6HACSFIMMJTNM4CJ8X3JIKB26PV2VIXQ7GQWWZRK52KXRSVJTJ23QBFGT4UAHMP7SD8TRXU5HN3XYXHFZHWYCCIX5EGGPZ54U7PJ535HJMIBVWEKTYAEU8RQYFGRYI3WN2A7NY9ISPNV4BJHSDN6AWCM7A&destination=https%3A//slavkov.anvete-senior.cz/",
-    "id": ""
-  },
-  {
     "header": "Pronájem bytu 2+1 45 m²",
     "Address": "Cejl, Brno - Zábrdovice",
     "Price": "20 000 Kč/měsíc",
@@ -152,12 +145,5 @@
     "Price": "23 800 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-bohunice-moldavska/4218499148",
     "id": "4218499148"
-  },
-  {
-    "header": "Pronájem bytu 2+1 78 m²",
-    "Address": "Černopolní, Brno - Černá Pole",
-    "Price": "22 900 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-cerna-pole-cernopolni/3538866252",
-    "id": "3538866252"
   }
 ]
