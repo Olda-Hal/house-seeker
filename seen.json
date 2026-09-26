@@ -1,12 +1,5 @@
 [
   {
-    "header": "Pronájem bytu 3+1 76 m²",
-    "Address": "Čtvrtě, Brno - Nový Lískovec",
-    "Price": "23 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-novy-liskovec-ctvrte/697905228",
-    "id": "697905228"
-  },
-  {
     "header": "Pronájem bytu 2+1 78 m²",
     "Address": "Běhounská, Brno - Brno-město",
     "Price": "22 900 Kč/měsíc",
@@ -26,20 +19,6 @@
     "Price": "35 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-stare-brno-kopecna/737067084",
     "id": "737067084"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 80 m²",
-    "Address": "Přemyslovo náměstí, Brno - Slatina",
-    "Price": "22 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-slatina-premyslovo-namesti/2974216268",
-    "id": "2974216268"
-  },
-  {
-    "header": "Pronájem bytu 2+1 58 m²",
-    "Address": "Boskovická, Brno - Řečkovice",
-    "Price": "19 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-reckovice-boskovicka/3754762316",
-    "id": "3754762316"
   },
   {
     "header": "Pronájem bytu 2+1 56 m²",
@@ -105,13 +84,6 @@
     "id": "4157284428"
   },
   {
-    "header": "Nájemní byty ve Slavkově",
-    "Address": "Poslední volné byty pro seniory ihned k nastěhování. Moderní a bezpečné bydlení.",
-    "Price": "Anvete senior",
-    "link": "https://i.imedia.cz/v2/click?spotId=4231333&d=J323CDHVYNRCPAVVIJWXXSUH5J6TGVW5STAQ7AAMC2S6U49GNCP2U2759TKDVIV8XMVPV567U27UWVVWYVWT8852WHEJCWWV5UBP8M2HJ2C2KS5V4MJTBERGRXSA2Z82C7V4MKCA2783PPZ4CDN7Z7YKIWWTXRF55YH48AMHRWK2N58WS8EJWQ5QTEQEPRBSYRAPYNCK92P7C5FWK5MEBUIAI3CI5UZCQYTDARGDDYUYS568KS4PKN24JIXRP8WHWFPX3B32H7MTXBMT4E93TDBMQURY8WPYN3QVX4G5W5ATHNKZYNW8ZBSJ4CSHVN9DPTAYSDP33XEHSK6EUMR2XW2Z9A7PR6YJI5N283PZK3UA&destination=https%3A//slavkov.anvete-senior.cz/",
-    "id": ""
-  },
-  {
     "header": "Pronájem bytu 3+1 67 m²",
     "Address": "Haškova, Brno - Lesná",
     "Price": "22 500 Kč/měsíc",
@@ -133,6 +105,13 @@
     "id": "2398498892"
   },
   {
+    "header": "Nikdo nepozná rozdíl",
+    "Address": "Zvenku jednotný design, uvnitř chytrá kombinace materiálů a nižší rozpočet.",
+    "Price": "ELK WINDOWS",
+    "link": "https://i.imedia.cz/v2/click?spotId=4214958&d=BWB8USWI5YEQ6VQFKQYU7ZU79XR97K5KPGS5HSSSF36VN7856KHNZAWY3B425KZZCFEJCYVGMM8VAW35I98EBGHMWAPZMAXBAW78GZZPM9KERBBMN2KGBEEQDJ2II8TRBNYXIUB9SF5385WVM5NY22GM3PG4KCZHQZI4PZNIR7H9MWK634247EJ9TXYZX4JZDGBS7NDH3C6R795U8FUAI6A3RF5NK82RKQXAT7UC6NX8DHT7389S54P7GPX3UGMPBX39ZEW8FJQ8RMFTP7ED3KPKBYZET3WNAS59C628XHT8MIR9HEZPIJKV2F3J378K4DBVBWHRTQVVENRHVZEY2F5EBDETIS7VD8KPG32QKR2A&destination=https%3A//www.elkwindows.com/cz/lp-hlinik/",
+    "id": ""
+  },
+  {
     "header": "Pronájem bytu 3+1 73 m²",
     "Address": "Štefáčkova, Brno - Líšeň",
     "Price": "24 990 Kč/měsíc",
@@ -145,5 +124,26 @@
     "Price": "29 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-novy-liskovec-obla/2832343116",
     "id": "2832343116"
+  },
+  {
+    "header": "Pronájem bytu 2+1 44 m²",
+    "Address": "Hlinky, Brno - Staré Brno",
+    "Price": "18 500 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-stare-brno-hlinky/3250959180",
+    "id": "3250959180"
+  },
+  {
+    "header": "Pronájem bytu 3+1 100 m²",
+    "Address": "Hlinky, Brno - Staré Brno",
+    "Price": "30 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-stare-brno-hlinky/2696527948",
+    "id": "2696527948"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 61 m²",
+    "Address": "Trýbova, Brno - Staré Brno",
+    "Price": "32 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-stare-brno-trybova/2450333772",
+    "id": "2450333772"
   }
 ]
