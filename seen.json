@@ -21,6 +21,20 @@
     "id": "737067084"
   },
   {
+    "header": "Pronájem bytu 3+kk 80 m²",
+    "Address": "Přemyslovo náměstí, Brno - Slatina",
+    "Price": "22 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-slatina-premyslovo-namesti/2974216268",
+    "id": "2974216268"
+  },
+  {
+    "header": "Pronájem bytu 2+1 58 m²",
+    "Address": "Boskovická, Brno - Řečkovice",
+    "Price": "19 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-reckovice-boskovicka/3754762316",
+    "id": "3754762316"
+  },
+  {
     "header": "Pronájem bytu 2+1 56 m²",
     "Address": "Jožky Jabůrkové, Brno - Komín",
     "Price": "19 490 Kč/měsíc",
@@ -91,6 +105,13 @@
     "id": "576663628"
   },
   {
+    "header": "Nájemní byty ve Slavkově",
+    "Address": "Poslední volné byty pro seniory ihned k nastěhování. Moderní a bezpečné bydlení.",
+    "Price": "Anvete senior",
+    "link": "https://i.imedia.cz/v2/click?spotId=4231332&d=Z2GICB2H4PN92R7VZGUYTITE2V3TTKYI8W5NATPW6DKCR9359KSIXYUZ3CTW9UD9276SGJPSFVCWFEJHAJUTXUKCAHD3QHN6N2MPPQN4TYY5APSSKSYJ8AUVAD3CC824MM8Y4PUBD3VQ6M5266GAABAFSVKV38CPQM6KKM37TF332GXH6736R2FYRFKNR85CF8R8NP2USVSRP6ZIBAE9INFXAV82PF8ANDEMJ982KUHXN6MVIC5NHCQGVWX98YZP2WZYVQMYQAEWXHHKMNJ8GVDUVSP3RXATTUM9EJ67KXKKYKSVCTE6GDBI3TETHH7Z94IZ8NRW8T3T74UFJS8NGBNRN6BHSD876A9GJU544TNS&destination=https%3A//slavkov.anvete-senior.cz/",
+    "id": ""
+  },
+  {
     "header": "Pronájem bytu 2+1 58 m²",
     "Address": "Jasanová, Brno - Jundrov",
     "Price": "22 800 Kč/měsíc",
@@ -103,13 +124,6 @@
     "Price": "27 900 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-zabovresky-minska/2398498892",
     "id": "2398498892"
-  },
-  {
-    "header": "Nikdo nepozná rozdíl",
-    "Address": "Zvenku jednotný design, uvnitř chytrá kombinace materiálů a nižší rozpočet.",
-    "Price": "ELK WINDOWS",
-    "link": "https://i.imedia.cz/v2/click?spotId=4214958&d=BWB8USWI5YEQ6VQFKQYU7ZU79XR97K5KPGS5HSSSF36VN7856KHNZAWY3B425KZZCFEJCYVGMM8VAW35I98EBGHMWAPZMAXBAW78GZZPM9KERBBMN2KGBEEQDJ2II8TRBNYXIUB9SF5385WVM5NY22GM3PG4KCZHQZI4PZNIR7H9MWK634247EJ9TXYZX4JZDGBS7NDH3C6R795U8FUAI6A3RF5NK82RKQXAT7UC6NX8DHT7389S54P7GPX3UGMPBX39ZEW8FJQ8RMFTP7ED3KPKBYZET3WNAS59C628XHT8MIR9HEZPIJKV2F3J378K4DBVBWHRTQVVENRHVZEY2F5EBDETIS7VD8KPG32QKR2A&destination=https%3A//www.elkwindows.com/cz/lp-hlinik/",
-    "id": ""
   },
   {
     "header": "Pronájem bytu 3+1 73 m²",
@@ -131,19 +145,5 @@
     "Price": "18 500 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-stare-brno-hlinky/3250959180",
     "id": "3250959180"
-  },
-  {
-    "header": "Pronájem bytu 3+1 100 m²",
-    "Address": "Hlinky, Brno - Staré Brno",
-    "Price": "30 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-stare-brno-hlinky/2696527948",
-    "id": "2696527948"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 61 m²",
-    "Address": "Trýbova, Brno - Staré Brno",
-    "Price": "32 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-stare-brno-trybova/2450333772",
-    "id": "2450333772"
   }
 ]
