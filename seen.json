@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 56 m²",
+    "Address": "Palackého třída, Brno - Královo Pole",
+    "Price": "25 500 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-kralovo-pole-palackeho-trida/3408404556",
+    "id": "3408404556"
+  },
+  {
     "header": "Pronájem bytu 2+1 73 m²",
     "Address": "Minská, Brno - Žabovřesky",
     "Price": "27 900 Kč/měsíc",
@@ -131,12 +138,5 @@
     "Price": "18 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-styrice-vsetinska/3191939148",
     "id": "3191939148"
-  },
-  {
-    "header": "Pronájem bytu 3+1 80 m²",
-    "Address": "Teyschlova, Brno - Bystrc",
-    "Price": "22 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-bystrc-teyschlova/1351163980",
-    "id": "1351163980"
   }
 ]
