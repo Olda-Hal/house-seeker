@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 2+1 73 m²",
+    "Address": "Minská, Brno - Žabovřesky",
+    "Price": "27 900 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-zabovresky-minska/2398498892",
+    "id": "2398498892"
+  },
+  {
     "header": "Pronájem bytu 2+1 62 m²",
     "Address": "Opálkova, Brno - Bystrc",
     "Price": "21 000 Kč/měsíc",
@@ -131,12 +138,5 @@
     "Price": "22 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-bystrc-teyschlova/1351163980",
     "id": "1351163980"
-  },
-  {
-    "header": "Pronájem bytu 2+1 60 m²",
-    "Address": "Opálkova, Brno - Bystrc",
-    "Price": "19 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-bystrc-opalkova/3455852620",
-    "id": "3455852620"
   }
 ]
