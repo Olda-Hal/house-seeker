@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+1 72 m²",
+    "Address": "Hochmanova, Brno - Líšeň",
+    "Price": "24 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-lisen-hochmanova/3919650892",
+    "id": "3919650892"
+  },
+  {
     "header": "Pronájem bytu 3+kk 95 m²",
     "Address": "Šmahova, Brno - Slatina",
     "Price": "27 000 Kč/měsíc",
@@ -131,12 +138,5 @@
     "Price": "22 900 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-brno-mesto-behounska/4249997388",
     "id": "4249997388"
-  },
-  {
-    "header": "Pronájem bytu 2+1 58 m²",
-    "Address": "Boskovická, Brno - Řečkovice",
-    "Price": "19 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-reckovice-boskovicka/3754762316",
-    "id": "3754762316"
   }
 ]
