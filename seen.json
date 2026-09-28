@@ -1,5 +1,26 @@
 [
   {
+    "header": "Pronájem bytu 2+1 83 m²",
+    "Address": "Šumavská, Brno - Ponava",
+    "Price": "24 900 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-ponava-sumavska/3213959244",
+    "id": "3213959244"
+  },
+  {
+    "header": "Pronájem bytu 2+1 53 m²",
+    "Address": "Křídlovická, Brno - Staré Brno",
+    "Price": "21 990 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-stare-brno-kridlovicka/2846564428",
+    "id": "2846564428"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 126 m²",
+    "Address": "Mácova, Brno - Ivanovice",
+    "Price": "29 990 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-ivanovice-macova/2190549068",
+    "id": "2190549068"
+  },
+  {
     "header": "Pronájem bytu 3+kk 94 m²",
     "Address": "U Leskavy, Brno - Starý Lískovec",
     "Price": "28 000 Kč/měsíc",
@@ -117,26 +138,5 @@
     "Price": "23 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-reckovice-horacke-namesti/3064410188",
     "id": "3064410188"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 80 m²",
-    "Address": "Mášova, Brno - Veveří",
-    "Price": "30 500 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-veveri-masova/3757817932",
-    "id": "3757817932"
-  },
-  {
-    "header": "SLEVA: Pronájem bytu 3+1 97 m²",
-    "Address": "Antonína Procházky, Brno - Pisárky",
-    "Price": "24 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-pisarky-antonina-prochazky/4238024780",
-    "id": "4238024780"
-  },
-  {
-    "header": "Pronájem bytu 3+1 76 m²",
-    "Address": "Čtvrtě, Brno - Nový Lískovec",
-    "Price": "23 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-novy-liskovec-ctvrte/697905228",
-    "id": "697905228"
   }
 ]
