@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 81 m²",
+    "Address": "Poděbradova, Brno - Královo Pole",
+    "Price": "27 990 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-kralovo-pole-podebradova/1896292428",
+    "id": "1896292428"
+  },
+  {
     "header": "Pronájem bytu 3+kk 73 m²",
     "Address": "Hvozdecká, Brno - Bystrc",
     "Price": "26 500 Kč/měsíc",
@@ -138,12 +145,5 @@
     "Price": "19 900 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-stare-brno-vaclavska/2822844492",
     "id": "2822844492"
-  },
-  {
-    "header": "Pronájem bytu 2+1 45 m²",
-    "Address": "Cejl, Brno - Zábrdovice",
-    "Price": "20 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-zabrdovice-cejl/2366885964",
-    "id": "2366885964"
   }
 ]
