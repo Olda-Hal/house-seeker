@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 2+1 73 m²",
+    "Address": "Minská, Brno - Žabovřesky",
+    "Price": "27 900 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-zabovresky-minska/2398498892",
+    "id": "2398498892"
+  },
+  {
     "header": "Pronájem bytu 2+1 62 m²",
     "Address": "Opálkova, Brno - Bystrc",
     "Price": "21 000 Kč/měsíc",
@@ -105,13 +112,6 @@
     "id": "894902348"
   },
   {
-    "header": "Nájemní byty ve Slavkově",
-    "Address": "Poslední volné byty pro seniory ihned k nastěhování. Moderní a bezpečné bydlení.",
-    "Price": "Anvete senior",
-    "link": "https://i.imedia.cz/v2/click?spotId=4238413&d=GZ9HPQWMDQ2YQ7K4DTV7R2IW6EYAY74X8NKA9UQGZBQICGRVVCGD2WGWZDVE873QSNZ734P7VYWTUS7PBAA8RJGM7MY7452C3JKA3V3SDQ4QSW8IZD3F6VVNJMKGRQXIRFUMF25F4Y2A6R4G2UM3NR2DFKJ69VBFBBZ5EGF8C2DNEX98BIQ9GAWDWEGUT36IWRV2MGSH9K6FKK9V5TDI6GAKY4MQVNAKUXHMGF8UXN7QHY44IE6MUSN75Y5VFVZ42TDI58XNFGWFRERKCB79UV5DGKQF4XRV3QTHQZFKBYW2WEFBGJW7C3RBWP4HFQF9CKDMUEIRNU6P2U4PZ93YUM8YHQ7C6F34N9DF94PH2FKSI&destination=https%3A//slavkov.anvete-senior.cz/",
-    "id": ""
-  },
-  {
     "header": "Pronájem bytu 3+kk 118 m²",
     "Address": "Vychodilova, Brno - Žabovřesky",
     "Price": "29 000 Kč/měsíc",
@@ -138,12 +138,5 @@
     "Price": "30 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-stary-liskovec-ulice-kosmonautu/1645097036",
     "id": "1645097036"
-  },
-  {
-    "header": "Pronájem bytu 2+1 54 m²",
-    "Address": "Výstavní, Brno - Staré Brno",
-    "Price": "21 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-stare-brno-vystavni/2945458252",
-    "id": "2945458252"
   }
 ]
