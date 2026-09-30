@@ -105,13 +105,6 @@
     "id": "2398498892"
   },
   {
-    "header": "Nájemní byty ve Slavkově",
-    "Address": "Poslední volné byty pro seniory ihned k nastěhování. Moderní a bezpečné bydlení.",
-    "Price": "Anvete senior",
-    "link": "https://i.imedia.cz/v2/click?spotId=4238414&d=PN4WVJ3GS76K48NZD644FCEJ6DKFHNEUPZ5KZIPYRD2SYGV6ZEEP7I72P8NUTRGZ2R2PF3ZICK8T82K2DMBM575VU9456UJYNSVKRYM32QYCY52M8H3KT3RCSGIJ7R5R59ATT8C9RXEDJPEJJ4DGYUNG3CWUAW6K5WI5CMWYJIVQPGWY4MJR8JQ8JTGCR4NPC58FTCG72F8P6F2ZXWJ9KIVZWWFHXIHNAF958IDDWS8KYGDHUNKRKIYIMT5DD4NZBSR99XEEPSZCHWAVQXYHKM8BUTESEM8M8GH7F4SMF2CEQJTTDRXXDEATSDU37IARXBDEAIGQ5JZ6CD2385DTRR6GEYT6RUWIAVB7U2897STRW23VJI&destination=https%3A//slavkov.anvete-senior.cz/",
-    "id": ""
-  },
-  {
     "header": "Pronájem bytu 2+1 62 m²",
     "Address": "Opálkova, Brno - Bystrc",
     "Price": "21 000 Kč/měsíc",
@@ -145,5 +138,12 @@
     "Price": "24 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-styrice-kamenna/733945932",
     "id": "733945932"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 60 m²",
+    "Address": "Tuřanka, Brno - Slatina",
+    "Price": "19 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-slatina-turanka/3554091084",
+    "id": "3554091084"
   }
 ]
