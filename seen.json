@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 2+1 45 m²",
+    "Address": "Cejl, Brno - Zábrdovice",
+    "Price": "20 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-zabrdovice-cejl/2366885964",
+    "id": "2366885964"
+  },
+  {
     "header": "Pronájem bytu 3+kk 73 m²",
     "Address": "Šrámkova, Brno - Lesná",
     "Price": "25 000 Kč/měsíc",
@@ -112,13 +119,6 @@
     "id": "3202752588"
   },
   {
-    "header": "Nájemní byty ve Slavkově",
-    "Address": "Poslední volné byty pro seniory ihned k nastěhování. Moderní a bezpečné bydlení.",
-    "Price": "Anvete senior",
-    "link": "https://i.imedia.cz/v2/click?spotId=4238414&d=87BPIGFE486AXY4CJ6F2I3NYAMGXAHT3JI3CCDHHR9KJYEA9VW3993I4WZ246KX9KUQGUCR85P4BITKUWMSS7ID9CBNN2PU68B7ZCPF4KRHFGKSWC4MFT72BCZEFFVFGWYRIWKG4SPS7YERSGZGHY2NKVYABI9SHG9TYC97TAQPR4R563IWH64G9V65GZBJTDHPJQG8JS4U8466DMG5KENQW66MXJDX6HBRHD7WKFWGK5TXGPFXSBNDHX3P5NHKCXAGPJGFV2G4QQ8C489JZEGEVUH6V9JH7XH6CQN74TXVAFHZ5D8XM7PJMBYCBAE5XQJY83W2ED76CB8R3J9KN5UKQAQ3ZD2HIPYSG7SJ4H5WVV3GA&destination=https%3A//slavkov.anvete-senior.cz/",
-    "id": ""
-  },
-  {
     "header": "Pronájem bytu 3+1 109 m²",
     "Address": "Veveří, Brno - Veveří",
     "Price": "33 000 Kč/měsíc",
@@ -145,12 +145,5 @@
     "Price": "19 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-bystrc-vondrakova/3710726220",
     "id": "3710726220"
-  },
-  {
-    "header": "Pronájem bytu 3+1 73 m²",
-    "Address": "Oblá, Brno - Nový Lískovec",
-    "Price": "23 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-novy-liskovec-obla/3938132044",
-    "id": "3938132044"
   }
 ]
