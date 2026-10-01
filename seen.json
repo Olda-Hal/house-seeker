@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 2+1 66 m²",
+    "Address": "Skořepka, Brno - Trnitá",
+    "Price": "25 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-trnita-skorepka/3943243852",
+    "id": "3943243852"
+  },
+  {
     "header": "Pronájem bytu 2+1 62 m²",
     "Address": "Opálkova, Brno - Bystrc",
     "Price": "21 000 Kč/měsíc",
@@ -54,13 +61,6 @@
     "Price": "22 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-cernovice-olomoucka/1644961868",
     "id": "1644961868"
-  },
-  {
-    "header": "Nájemní byty ve Slavkově",
-    "Address": "Poslední volné byty pro seniory ihned k nastěhování. Moderní a bezpečné bydlení.",
-    "Price": "Anvete senior",
-    "link": "https://i.imedia.cz/v2/click?spotId=4238414&d=IRXN4DYWGRN6YKA4WECCRQQFV5MY8APXYTPE4R9ZEVXSACDVT3R8XSEZ9YKCYSTMJDTZRSA8J6HP97TMXMXJ92RT727NHGSY3AAREMJ26VJSXKX2WTWAP2V88BJVIAEJ83UF6ZX8FM8M38NQ3DB99R994ECBP9MNEHKRX8SHZJH6VXDCWBM8BQ7XWPGI2Q96GKNR7JEI6UNK2WNGE6ED8WKJZQ2IRGPXEBPWJD535AG65K5FVMN58I9GW6KVGAMTIYTIRZ4UI389T4WV9PQ3FR39IGKNQQ3DKSY2N8FAW64HTC8JSBU7RP5FNAQD67NRSFSJPXKIZDPP56PVYN5RDMYXN9648486V63II4VMZ6&destination=https%3A//slavkov.anvete-senior.cz/",
-    "id": ""
   },
   {
     "header": "Pronájem bytu 3+kk 91 m²",
@@ -145,12 +145,5 @@
     "Price": "18 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-slatina-turanka/3907395660",
     "id": "3907395660"
-  },
-  {
-    "header": "Pronájem bytu 2+1 60 m²",
-    "Address": "Kroftova, Brno - Žabovřesky",
-    "Price": "20 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-zabovresky-kroftova/3202752588",
-    "id": "3202752588"
   }
 ]
