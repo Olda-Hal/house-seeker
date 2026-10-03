@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 2+1 52 m²",
+    "Address": "Brno - Brno-střed",
+    "Price": "19 500 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-brno-stred-/326832204",
+    "id": "326832204"
+  },
+  {
     "header": "Pronájem bytu 3+1 69 m²",
     "Address": "Horácké náměstí, Brno - Řečkovice",
     "Price": "23 000 Kč/měsíc",
@@ -105,13 +112,6 @@
     "id": "384835660"
   },
   {
-    "header": "Nájemní byty ve Slavkově",
-    "Address": "Poslední volné byty pro seniory ihned k nastěhování. Moderní a bezpečné bydlení.",
-    "Price": "Anvete senior",
-    "link": "https://i.imedia.cz/v2/click?spotId=4238414&d=FK826UI5RX84JCH6NWINJ6TD2853XMIUZEKHJFTDC2NT7PM56T3C6S5MBA2TGM57ZXHWYZ3DMFERBAX74NHRNEHG93DX9QDCBV2P8QDF2K9W4BBS9ATHZJP4GMEGFKF2DCVTSANIEVFFTPYQJ4ZUUJ47ERDPKCSQDVREYRWBH9GUSV9M2R2QAXBNEKAGPUDJ2AZXXVNR6E5699HDQKHY4DMIXYR78QSQ6ITYM88UBI5RVQPDXXQ8URVQQR5YIP97HSRTAKXGFR25TU88VJG4YGVHD2HYIG9T4I753G9XNP5QWZ82I39REHHPCSN2GGXE446KKX4VMXCGHJ74F3DXR62MMRFCGKUU2HIJ6TBK85T7PG2&destination=https%3A//slavkov.anvete-senior.cz/",
-    "id": ""
-  },
-  {
     "header": "Pronájem bytu 3+1 73 m²",
     "Address": "Štefáčkova, Brno - Líšeň",
     "Price": "24 990 Kč/měsíc",
@@ -138,12 +138,5 @@
     "Price": "30 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-stare-brno-hlinky/2696527948",
     "id": "2696527948"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 61 m²",
-    "Address": "Trýbova, Brno - Staré Brno",
-    "Price": "32 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-stare-brno-trybova/2450333772",
-    "id": "2450333772"
   }
 ]
