@@ -1,5 +1,19 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 70 m²",
+    "Address": "Kotkova, Brno - Černovice",
+    "Price": "27 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-cernovice-kotkova/2527670348",
+    "id": "2527670348"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 95 m²",
+    "Address": "Šmahova, Brno - Slatina",
+    "Price": "27 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-slatina-smahova/4087427148",
+    "id": "4087427148"
+  },
+  {
     "header": "Pronájem bytu 3+kk 73 m²",
     "Address": "Hvozdecká, Brno - Bystrc",
     "Price": "26 500 Kč/měsíc",
@@ -105,13 +119,6 @@
     "id": "2677284940"
   },
   {
-    "header": "Nájemní byty ve Slavkově",
-    "Address": "Poslední volné byty pro seniory ihned k nastěhování. Moderní a bezpečné bydlení.",
-    "Price": "Anvete senior",
-    "link": "https://i.imedia.cz/v2/click?spotId=4238414&d=7KHHKIAVW9R6T2MGSFKUG4GRWM23H8JVYJXQ4R4AR2QGUZXPE8G2AASMG2S8G3DKJXCYZA9FA9EMFIKUPEYCJR4WAJYQV28PK2NK27E98YRFP8ZX9NQKTS2BIPCIDDVFV36PJR8579RXU6EDY8SF5FRVIPQ7RKDXAXDIUS7CE9VB8H95HSQTW495WBDJVDER68CPET86KTRMIKPNBMM8H9GWNBUATK7NCKIWF972T4C2SAWRJIUITYT7SNYVW8V2D8RY74327EIQTNAF6QFVDM9DFW54HV385R33FVQ6F36YQFCFWHVKZ57VPJ6WS33XWMZ8MMM9SW7ZTYI6NX2J3B9MNZET897HPIPAWCDHR6Z89UA&destination=https%3A//slavkov.anvete-senior.cz/",
-    "id": ""
-  },
-  {
     "header": "Pronájem bytu 3+1 67 m²",
     "Address": "Haškova, Brno - Lesná",
     "Price": "22 500 Kč/měsíc",
@@ -131,19 +138,5 @@
     "Price": "23 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-komin-olbrachtovo-namesti/53878860",
     "id": "53878860"
-  },
-  {
-    "header": "Pronájem bytu 3+1 71 m²",
-    "Address": "Moldavská, Brno - Bohunice",
-    "Price": "23 800 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-bohunice-moldavska/4218499148",
-    "id": "4218499148"
-  },
-  {
-    "header": "Pronájem bytu 2+1 44 m²",
-    "Address": "Václavská, Brno - Staré Brno",
-    "Price": "19 900 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-stare-brno-vaclavska/3108057164",
-    "id": "3108057164"
   }
 ]
