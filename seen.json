@@ -1,5 +1,40 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 58 m²",
+    "Address": "Milady Horákové, Brno - Černá Pole",
+    "Price": "24 990 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-cerna-pole-milady-horakove/544739404",
+    "id": "544739404"
+  },
+  {
+    "header": "Pronájem bytu 3+1 73 m²",
+    "Address": "Oblá, Brno - Nový Lískovec",
+    "Price": "23 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-novy-liskovec-obla/3938132044",
+    "id": "3938132044"
+  },
+  {
+    "header": "Pronájem bytu 2+1 50 m²",
+    "Address": "Vondrákova, Brno - Bystrc",
+    "Price": "19 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-bystrc-vondrakova/3710726220",
+    "id": "3710726220"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 73 m²",
+    "Address": "Hvozdecká, Brno - Bystrc",
+    "Price": "26 500 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-bystrc-hvozdecka/144388172",
+    "id": "144388172"
+  },
+  {
+    "header": "Pronájem bytu 2+1 52 m²",
+    "Address": "Voříškova, Brno - Kohoutovice",
+    "Price": "19 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-kohoutovice-voriskova/462303308",
+    "id": "462303308"
+  },
+  {
     "header": "Pronájem bytu 2+1 78 m²",
     "Address": "Běhounská, Brno - Brno-město",
     "Price": "22 900 Kč/měsíc",
@@ -56,13 +91,6 @@
     "id": "2151620684"
   },
   {
-    "header": "Kuchyně snů od profíků",
-    "Address": "Rezervujte termín a naplánujte si s námi kuchyni německé kvality se zárukou až 25 let.",
-    "Price": "XXXLutz Česká republika",
-    "link": "https://i.imedia.cz/v2/click?spotId=4232234&d=ESZKXKG6GY2YUYETVGITER2DK9CZPIVVBQWK9ZRHQGXZPPIQZ39P9VSBSTWY2X39YYIFMYX98GKEGSNHSBT3SRJ2ATKMWAYYRWIVV4ARCRYE4YPYNGEFDEYE9KCJ9VPY65PY2W78D55FM46JIPDJH2S6D4F4WB92XDTBGJ5IKQH2SR6CW8I2P59TM5PYDUKHA939PP56C8DSH2E59F3Q6K8ECNRQW7VDCSNX55EA9UQ78AQPD353ZKY3TXUPWVHU876NASZCSYJGJ5QB8WWUTWMIEMN4Q52UA5V58ATYF8FPZAV7CDN2U6KJNUMGURVTC88PPQMR8HGGD5652WTNCE7UZYWE33G8AQ9RNMI4MJP87VS&destination=https%3A//ad.doubleclick.net/ddm/trackclk/N510405.5083943MUP-SEZNAM-NATIVE/B34999881.439057698%3Bdc_trk_aid%3D631994391%3Bdc_trk_cid%3D247725133%3Bdc_lat%3D%3Bdc_rdid%3D%3Btag_for_child_directed_treatment%3D%3Btfua%3D%3Bgdpr%3D$%7BGDPR%7D%3Bgdpr_consent%3D$%7BGDPR_CONSENT_755%7D%3Bltd%3D%3Bdc_tdv%3D1",
-    "id": "B34999881.439057698%3Bdc_trk_aid%3D631994391%3Bdc_trk_cid%3D247725133%3Bdc_lat%3D%3Bdc_rdid%3D%3Btag_for_child_directed_treatment%3D%3Btfua%3D%3Bgdpr%3D$%7BGDPR%7D%3Bgdpr_consent%3D$%7BGDPR_CONSENT_755%7D%3Bltd%3D%3Bdc_tdv%3D1"
-  },
-  {
     "header": "Pronájem bytu 3+1 80 m²",
     "Address": "Teyschlova, Brno - Bystrc",
     "Price": "20 000 Kč/měsíc",
@@ -79,7 +107,7 @@
   {
     "header": "Pronájem bytu 3+1 72 m²",
     "Address": "Zikova, Brno - Líšeň",
-    "Price": "22 500 Kč/měsíc",
+    "Price": "24 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-lisen-zikova/2697531468",
     "id": "2697531468"
   },
@@ -117,40 +145,5 @@
     "Price": "30 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-stary-liskovec-ulice-kosmonautu/1645097036",
     "id": "1645097036"
-  },
-  {
-    "header": "Pronájem bytu 2+1 45 m²",
-    "Address": "Cejl, Brno - Zábrdovice",
-    "Price": "20 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-zabrdovice-cejl/2366885964",
-    "id": "2366885964"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 67 m²",
-    "Address": "Fryčajova, Brno - Obřany",
-    "Price": "19 900 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-obrany-frycajova/48046156",
-    "id": "48046156"
-  },
-  {
-    "header": "Pronájem bytu 3+1 67 m²",
-    "Address": "ulice Kosmonautů, Brno - Starý Lískovec",
-    "Price": "20 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-stary-liskovec-ulice-kosmonautu/2587430988",
-    "id": "2587430988"
-  },
-  {
-    "header": "Pronájem bytu 2+1 55 m²",
-    "Address": "Poříčí, Brno - Staré Brno",
-    "Price": "23 800 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-stare-brno-porici/3644395596",
-    "id": "3644395596"
-  },
-  {
-    "header": "Pronájem bytu 3+1 74 m²",
-    "Address": "Olbrachtovo náměstí, Brno - Komín",
-    "Price": "23 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-komin-olbrachtovo-namesti/53878860",
-    "id": "53878860"
   }
 ]
