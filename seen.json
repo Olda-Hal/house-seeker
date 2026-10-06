@@ -1,12 +1,5 @@
 [
   {
-    "header": "Pronájem bytu 3+kk 95 m²",
-    "Address": "Šmahova, Brno - Slatina",
-    "Price": "27 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-slatina-smahova/4087427148",
-    "id": "4087427148"
-  },
-  {
     "header": "Pronájem bytu 2+1 54 m²",
     "Address": "Leitnerova, Brno - Staré Brno",
     "Price": "17 500 Kč/měsíc",
@@ -145,5 +138,12 @@
     "Price": "20 500 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-malomerice-pod-kavkami/1889783884",
     "id": "1889783884"
+  },
+  {
+    "header": "Pronájem bytu 2+1 33 m²",
+    "Address": "Václavská, Brno - Staré Brno",
+    "Price": "19 900 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-stare-brno-vaclavska/2822844492",
+    "id": "2822844492"
   }
 ]
