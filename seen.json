@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+1 67 m²",
+    "Address": "ulice Kosmonautů, Brno - Starý Lískovec",
+    "Price": "20 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-stary-liskovec-ulice-kosmonautu/2587430988",
+    "id": "2587430988"
+  },
+  {
     "header": "Pronájem bytu 2+1 55 m²",
     "Address": "Poříčí, Brno - Staré Brno",
     "Price": "23 800 Kč/měsíc",
@@ -112,13 +119,6 @@
     "id": "3014266956"
   },
   {
-    "header": "Pronájem bytu 2+1 48 m²",
-    "Address": "Náplavka, Brno - Staré Brno",
-    "Price": "14 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-stare-brno-naplavka/1692409932",
-    "id": "1692409932"
-  },
-  {
     "header": "Pronájem bytu 3+kk 74 m²",
     "Address": "Marie Majerové, Brno - Lesná",
     "Price": "25 900 Kč/měsíc",
@@ -142,7 +142,7 @@
   {
     "header": "Pronájem bytu 3+kk 93 m²",
     "Address": "Kopečná, Brno - Staré Brno",
-    "Price": "36 000 Kč/měsíc",
+    "Price": "37 500 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-stare-brno-kopecna/49942604",
     "id": "49942604"
   }
