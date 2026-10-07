@@ -1,5 +1,19 @@
 [
   {
+    "header": "Pronájem bytu 2+1 60 m²",
+    "Address": "Uzbecká, Brno - Bohunice",
+    "Price": "17 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-bohunice-uzbecka/1051201612",
+    "id": "1051201612"
+  },
+  {
+    "header": "Pronájem bytu 2+1 56 m²",
+    "Address": "Souběžná, Brno - Židenice",
+    "Price": "16 800 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-zidenice-soubezna/1168642124",
+    "id": "1168642124"
+  },
+  {
     "header": "Pronájem bytu 2+1 73 m²",
     "Address": "Minská, Brno - Žabovřesky",
     "Price": "27 900 Kč/měsíc",
@@ -131,19 +145,5 @@
     "Price": "22 900 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-brno-mesto-behounska/4249997388",
     "id": "4249997388"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 74 m²",
-    "Address": "Marie Majerové, Brno - Lesná",
-    "Price": "25 900 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-lesna-marie-majerove/1356468300",
-    "id": "1356468300"
-  },
-  {
-    "header": "Pronájem bytu 2+1 69 m²",
-    "Address": "Pekařská, Brno - Staré Brno",
-    "Price": "13 500 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-stare-brno-pekarska/1986531404",
-    "id": "1986531404"
   }
 ]
