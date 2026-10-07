@@ -1,5 +1,26 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 68 m²",
+    "Address": "Spolková, Brno - Zábrdovice",
+    "Price": "29 500 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zabrdovice-spolkova/159912012",
+    "id": "159912012"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 139 m²",
+    "Address": "Slovákova, Brno - Veveří",
+    "Price": "Cena na vyžádání",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-veveri-slovakova/783814732",
+    "id": "783814732"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 71 m²",
+    "Address": "Domažlická, Brno",
+    "Price": "21 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-brno-domazlicka/2427981900",
+    "id": "2427981900"
+  },
+  {
     "header": "Pronájem bytu 2+1 60 m²",
     "Address": "Uzbecká, Brno - Bohunice",
     "Price": "17 000 Kč/měsíc",
@@ -33,6 +54,13 @@
     "Price": "28 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zebetin-prirodni/1204293708",
     "id": "1204293708"
+  },
+  {
+    "header": "Stabilní financování",
+    "Address": "Až 30 mil. Kč na 30 let pro vaše podnikání.",
+    "Price": "MONETA Bank",
+    "link": "https://i.imedia.cz/v2/click?spotId=4242551&d=C5YJ2QD6ZIC9PGKX3XMSNY47PJUUDSZ5BKEMCQ2AAWHSMA87TIMX3EHSXB22JHI8NDCCMMWRDKMECG8VSNSUHITKYVCW8N55GU5GCII78GGY4RNGBKEHQZDN9C2S4QMAU24QC865XC652DZR94VFIB4BXCH6ME6HE3JU6GBMPADTTTPQS4BUAKDQUMFQGNUACCE8PB7VAYWXI85XITP79689RA4S3JZ6EKTFQTJSB9P2XVWX9RWVKPQQFX5RRNJSAVTT4UAGASF5SWQVK3FEDYJ42HQPRCHG7CYS6ZRH9A9656YEDFMDX4X5Y6D9VJCWW83QBIKFPSWN3797DY5KCP25Q7EMVFZIVGYFAV3AAE7AEDBQ9N&destination=https%3A//ad.doubleclick.net/ddm/trackclk/N2657615.285881SEZNAM/B34999902.445520436%3Bdc_trk_aid%3D644077283%3Bdc_trk_cid%3D254741093%3Bdc_lat%3D%3Bdc_rdid%3D%3Btag_for_child_directed_treatment%3D%3Btfua%3D%3Bgdpr%3D$%7BGDPR%7D%3Bgdpr_consent%3D$%7BGDPR_CONSENT_755%7D%3Bltd%3D%3Bdc_tdv%3D1",
+    "id": "B34999902.445520436%3Bdc_trk_aid%3D644077283%3Bdc_trk_cid%3D254741093%3Bdc_lat%3D%3Bdc_rdid%3D%3Btag_for_child_directed_treatment%3D%3Btfua%3D%3Bgdpr%3D$%7BGDPR%7D%3Bgdpr_consent%3D$%7BGDPR_CONSENT_755%7D%3Bltd%3D%3Bdc_tdv%3D1"
   },
   {
     "header": "Pronájem bytu 3+kk 95 m²",
@@ -124,26 +152,5 @@
     "Price": "19 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-bystrc-vondrakova/3710726220",
     "id": "3710726220"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 73 m²",
-    "Address": "Hvozdecká, Brno - Bystrc",
-    "Price": "26 500 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-bystrc-hvozdecka/144388172",
-    "id": "144388172"
-  },
-  {
-    "header": "Pronájem bytu 2+1 52 m²",
-    "Address": "Voříškova, Brno - Kohoutovice",
-    "Price": "19 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-kohoutovice-voriskova/462303308",
-    "id": "462303308"
-  },
-  {
-    "header": "Pronájem bytu 2+1 78 m²",
-    "Address": "Běhounská, Brno - Brno-město",
-    "Price": "22 900 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-brno-mesto-behounska/4249997388",
-    "id": "4249997388"
   }
 ]
