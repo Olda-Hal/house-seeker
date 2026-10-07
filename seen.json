@@ -112,13 +112,6 @@
     "id": "3759870028"
   },
   {
-    "header": "Pronájem bytu 3+kk 57 m²",
-    "Address": "Přírodní, Brno - Žebětín",
-    "Price": "28 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zebetin-prirodni/1204293708",
-    "id": "1204293708"
-  },
-  {
     "header": "Pronájem bytu 3+kk 95 m²",
     "Address": "Šmahova, Brno - Slatina",
     "Price": "27 000 Kč/měsíc",
@@ -138,5 +131,12 @@
     "Price": "25 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-husovice-lozibky/1223168076",
     "id": "1223168076"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 61 m²",
+    "Address": "Trýbova, Brno - Staré Brno",
+    "Price": "32 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-stare-brno-trybova/2450333772",
+    "id": "2450333772"
   }
 ]
