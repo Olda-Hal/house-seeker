@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 2+1 52 m²",
+    "Address": "Zborovská, Brno - Žabovřesky",
+    "Price": "21 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-zabovresky-zborovska/45027404",
+    "id": "45027404"
+  },
+  {
     "header": "Pronájem bytu 2+1 54 m²",
     "Address": "Renneská třída, Brno - Štýřice",
     "Price": "22 000 Kč/měsíc",
@@ -131,12 +138,5 @@
     "Price": "17 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-bohunice-uzbecka/1051201612",
     "id": "1051201612"
-  },
-  {
-    "header": "Pronájem bytu 2+1 56 m²",
-    "Address": "Souběžná, Brno - Židenice",
-    "Price": "16 800 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-zidenice-soubezna/1168642124",
-    "id": "1168642124"
   }
 ]
