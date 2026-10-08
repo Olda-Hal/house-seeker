@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+1 72 m²",
+    "Address": "Polní, Brno - Štýřice",
+    "Price": "29 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-styrice-polni/3464368204",
+    "id": "3464368204"
+  },
+  {
     "header": "Pronájem bytu 2+1 45 m²",
     "Address": "Cejl, Brno - Zábrdovice",
     "Price": "20 000 Kč/měsíc",
@@ -131,12 +138,5 @@
     "Price": "21 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-brno-domazlicka/2427981900",
     "id": "2427981900"
-  },
-  {
-    "header": "Pronájem bytu 2+1 60 m²",
-    "Address": "Uzbecká, Brno - Bohunice",
-    "Price": "17 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-bohunice-uzbecka/1051201612",
-    "id": "1051201612"
   }
 ]
