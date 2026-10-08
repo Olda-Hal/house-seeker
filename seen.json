@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 53 m²",
+    "Address": "Vinohradská, Brno - Černovice",
+    "Price": "23 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-cernovice-vinohradska/526237772",
+    "id": "526237772"
+  },
+  {
     "header": "Pronájem bytu 2+1 74 m²",
     "Address": "Skořepka, Brno - Trnitá",
     "Price": "25 000 Kč/měsíc",
@@ -131,12 +138,5 @@
     "Price": "24 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-brno-sever-merhautova/956350540",
     "id": "956350540"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 78 m²",
-    "Address": "Lozíbky, Brno - Husovice",
-    "Price": "25 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-husovice-lozibky/1223168076",
-    "id": "1223168076"
   }
 ]
