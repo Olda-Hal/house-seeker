@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 2+1 74 m²",
+    "Address": "Skořepka, Brno - Trnitá",
+    "Price": "25 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-trnita-skorepka/3374256204",
+    "id": "3374256204"
+  },
+  {
     "header": "Pronájem bytu 3+1 68 m²",
     "Address": "Elplova, Brno - Líšeň",
     "Price": "27 900 Kč/měsíc",
@@ -68,13 +75,6 @@
     "Price": "29 500 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zabrdovice-spolkova/159912012",
     "id": "159912012"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 139 m²",
-    "Address": "Slovákova, Brno - Veveří",
-    "Price": "Cena na vyžádání",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-veveri-slovakova/783814732",
-    "id": "783814732"
   },
   {
     "header": "Pronájem bytu 3+kk 71 m²",
