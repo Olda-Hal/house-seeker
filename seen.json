@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 70 m²",
+    "Address": "Kotkova, Brno - Černovice",
+    "Price": "27 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-cernovice-kotkova/2527670348",
+    "id": "2527670348"
+  },
+  {
     "header": "Pronájem bytu 3+1 60 m²",
     "Address": "Strnadova, Brno - Líšeň",
     "Price": "22 000 Kč/měsíc",
@@ -138,12 +145,5 @@
     "Price": "19 900 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-stare-brno-vaclavska/2822844492",
     "id": "2822844492"
-  },
-  {
-    "header": "Pronájem bytu 2+1 44 m²",
-    "Address": "Václavská, Brno - Staré Brno",
-    "Price": "19 900 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-stare-brno-vaclavska/3108057164",
-    "id": "3108057164"
   }
 ]
