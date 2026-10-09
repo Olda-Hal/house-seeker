@@ -1,5 +1,19 @@
 [
   {
+    "header": "Pronájem bytu 3+1 74 m²",
+    "Address": "Olbrachtovo náměstí, Brno - Komín",
+    "Price": "23 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-komin-olbrachtovo-namesti/53878860",
+    "id": "53878860"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 74 m²",
+    "Address": "Marie Majerové, Brno - Lesná",
+    "Price": "25 900 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-lesna-marie-majerove/1356468300",
+    "id": "1356468300"
+  },
+  {
     "header": "Pronájem bytu 3+1 67 m²",
     "Address": "Haškova, Brno - Lesná",
     "Price": "22 500 Kč/měsíc",
@@ -131,19 +145,5 @@
     "Price": "28 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-stare-brno-vystavni/1111298124",
     "id": "1111298124"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 65 m²",
-    "Address": "Ponětovická, Brno - Slatina",
-    "Price": "23 900 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-slatina-ponetovicka/3309113420",
-    "id": "3309113420"
-  },
-  {
-    "header": "Pronájem bytu 3+1 104 m²",
-    "Address": "Veselá, Brno - Brno-město",
-    "Price": "29 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-brno-mesto-vesela/3995930700",
-    "id": "3995930700"
   }
 ]
