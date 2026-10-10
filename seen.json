@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+1 69 m²",
+    "Address": "Kubánská, Brno - Žabovřesky",
+    "Price": "33 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-zabovresky-kubanska/2862882892",
+    "id": "2862882892"
+  },
+  {
     "header": "Pronájem bytu 3+1 71 m²",
     "Address": "Brno - Štýřice",
     "Price": "29 000 Kč/měsíc",
@@ -131,12 +138,5 @@
     "Price": "20 400 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-kralovo-pole-svatopluka-cecha/2671124556",
     "id": "2671124556"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 68 m²",
-    "Address": "Bučkova, Brno - Slatina",
-    "Price": "24 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-slatina-buckova/2703036492",
-    "id": "2703036492"
   }
 ]
