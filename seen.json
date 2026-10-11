@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+1 68 m²",
+    "Address": "Elplova, Brno - Líšeň",
+    "Price": "27 900 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-lisen-elplova/674173004",
+    "id": "674173004"
+  },
+  {
     "header": "Pronájem bytu 3+1 80 m²",
     "Address": "ulice Kosmonautů, Brno - Starý Lískovec",
     "Price": "30 000 Kč/měsíc",
@@ -138,12 +145,5 @@
     "Price": "25 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-lesna-sramkova/2494836812",
     "id": "2494836812"
-  },
-  {
-    "header": "Pronájem bytu 3+1 91 m²",
-    "Address": "Palackého třída, Brno - Královo Pole",
-    "Price": "25 990 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-kralovo-pole-palackeho-trida/2752524364",
-    "id": "2752524364"
   }
 ]
