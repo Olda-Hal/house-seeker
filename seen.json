@@ -1,5 +1,19 @@
 [
   {
+    "header": "Pronájem bytu 3+1 69 m²",
+    "Address": "Horácké náměstí, Brno - Řečkovice",
+    "Price": "23 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-reckovice-horacke-namesti/3064410188",
+    "id": "3064410188"
+  },
+  {
+    "header": "Pronájem bytu 3+1 60 m²",
+    "Address": "Strnadova, Brno - Líšeň",
+    "Price": "22 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-lisen-strnadova/2479755340",
+    "id": "2479755340"
+  },
+  {
     "header": "Pronájem bytu 3+kk 81 m²",
     "Address": "Poděbradova, Brno - Královo Pole",
     "Price": "27 990 Kč/měsíc",
@@ -131,19 +145,5 @@
     "Price": "23 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-komin-olbrachtovo-namesti/53878860",
     "id": "53878860"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 74 m²",
-    "Address": "Marie Majerové, Brno - Lesná",
-    "Price": "25 900 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-lesna-marie-majerove/1356468300",
-    "id": "1356468300"
-  },
-  {
-    "header": "Pronájem bytu 3+1 67 m²",
-    "Address": "Haškova, Brno - Lesná",
-    "Price": "22 500 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-lesna-haskova/576663628",
-    "id": "576663628"
   }
 ]
