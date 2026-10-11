@@ -49,6 +49,20 @@
     "id": "3710726220"
   },
   {
+    "header": "Pronájem bytu 2+1 52 m²",
+    "Address": "Mozolky, Brno - Žabovřesky",
+    "Price": "23 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-zabovresky-mozolky/1464471628",
+    "id": "1464471628"
+  },
+  {
+    "header": "Pronájem bytu 2+1 58 m²",
+    "Address": "Boskovická, Brno - Řečkovice",
+    "Price": "19 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-reckovice-boskovicka/3754762316",
+    "id": "3754762316"
+  },
+  {
     "header": "Pronájem bytu 2+1 58 m²",
     "Address": "Merhautova, Brno - Zábrdovice",
     "Price": "20 000 Kč/měsíc",
@@ -131,19 +145,5 @@
     "Price": "22 800 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-jundrov-jasanova/3560386636",
     "id": "3560386636"
-  },
-  {
-    "header": "Pronájem bytu 2+1 51 m²",
-    "Address": "Dřevařská, Brno - Veveří",
-    "Price": "20 900 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-veveri-drevarska/1692340300",
-    "id": "1692340300"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 63 m²",
-    "Address": "Rybnická, Brno - Nový Lískovec",
-    "Price": "35 500 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-novy-liskovec-rybnicka/3987345484",
-    "id": "3987345484"
   }
 ]
