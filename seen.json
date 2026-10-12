@@ -1,5 +1,19 @@
 [
   {
+    "header": "Pronájem bytu 2+1 52 m²",
+    "Address": "Březová, Brno - Jundrov",
+    "Price": "18 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-jundrov-brezova/3937603660",
+    "id": "3937603660"
+  },
+  {
+    "header": "Pronájem bytu 3+1 80 m²",
+    "Address": "ulice Kosmonautů, Brno - Starý Lískovec",
+    "Price": "30 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-stary-liskovec-ulice-kosmonautu/1587220556",
+    "id": "1587220556"
+  },
+  {
     "header": "SLEVA: Pronájem bytu 3+kk 58 m²",
     "Address": "Jílkova, Brno - Židenice",
     "Price": "35 000 Kč/měsíc",
@@ -131,19 +145,5 @@
     "Price": "17 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-medlanky-oburky/3007516748",
     "id": "3007516748"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 65 m²",
-    "Address": "Jaselská, Brno - Veveří",
-    "Price": "37 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-veveri-jaselska/1540587596",
-    "id": "1540587596"
-  },
-  {
-    "header": "Pronájem bytu 3+1 69 m²",
-    "Address": "Horácké náměstí, Brno - Řečkovice",
-    "Price": "23 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-reckovice-horacke-namesti/3064410188",
-    "id": "3064410188"
   }
 ]
