@@ -14,13 +14,6 @@
     "id": "3937603660"
   },
   {
-    "header": "Pronájem bytu 3+1 80 m²",
-    "Address": "ulice Kosmonautů, Brno - Starý Lískovec",
-    "Price": "30 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-stary-liskovec-ulice-kosmonautu/1587220556",
-    "id": "1587220556"
-  },
-  {
     "header": "SLEVA: Pronájem bytu 3+kk 58 m²",
     "Address": "Jílkova, Brno - Židenice",
     "Price": "35 000 Kč/měsíc",
@@ -145,5 +138,12 @@
     "Price": "20 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-lesna-ibsenova/55775308",
     "id": "55775308"
+  },
+  {
+    "header": "Pronájem bytu 2+1 61 m²",
+    "Address": "Obůrky, Brno - Medlánky",
+    "Price": "17 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-medlanky-oburky/3007516748",
+    "id": "3007516748"
   }
 ]
