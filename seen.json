@@ -1,5 +1,19 @@
 [
   {
+    "header": "Pronájem bytu 3+1 80 m²",
+    "Address": "ulice Kosmonautů, Brno - Starý Lískovec",
+    "Price": "30 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-stary-liskovec-ulice-kosmonautu/1645097036",
+    "id": "1645097036"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 83 m²",
+    "Address": "Vinohrady, Brno - Štýřice",
+    "Price": "33 500 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-styrice-vinohrady/956043340",
+    "id": "956043340"
+  },
+  {
     "header": "Pronájem bytu 2+1 55 m²",
     "Address": "Družstevní, Brno - Řečkovice",
     "Price": "21 945 Kč/měsíc",
@@ -54,13 +68,6 @@
     "Price": "19 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-bystrc-vondrakova/3710726220",
     "id": "3710726220"
-  },
-  {
-    "header": "Pronájem bytu 3+1 80 m²",
-    "Address": "ulice Kosmonautů, Brno - Starý Lískovec",
-    "Price": "30 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-stary-liskovec-ulice-kosmonautu/1645097036",
-    "id": "1645097036"
   },
   {
     "header": "Pronájem bytu 3+kk 58 m²",
@@ -138,12 +145,5 @@
     "Price": "19 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-reckovice-boskovicka/3754762316",
     "id": "3754762316"
-  },
-  {
-    "header": "Pronájem bytu 2+1 58 m²",
-    "Address": "Merhautova, Brno - Zábrdovice",
-    "Price": "20 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-zabrdovice-merhautova/2341277772",
-    "id": "2341277772"
   }
 ]
