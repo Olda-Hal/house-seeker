@@ -1,5 +1,12 @@
 [
   {
+    "header": "SLEVA: Pronájem bytu 3+kk 58 m²",
+    "Address": "Jílkova, Brno - Židenice",
+    "Price": "35 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zidenice-jilkova/2396442700",
+    "id": "2396442700"
+  },
+  {
     "header": "Pronájem bytu 3+1 73 m²",
     "Address": "Oblá, Brno - Nový Lískovec",
     "Price": "23 000 Kč/měsíc",
@@ -138,12 +145,5 @@
     "Price": "23 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-reckovice-horacke-namesti/3064410188",
     "id": "3064410188"
-  },
-  {
-    "header": "Pronájem bytu 3+1 60 m²",
-    "Address": "Strnadova, Brno - Líšeň",
-    "Price": "22 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-lisen-strnadova/2479755340",
-    "id": "2479755340"
   }
 ]
