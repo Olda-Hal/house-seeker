@@ -1,5 +1,19 @@
 [
   {
+    "header": "Pronájem bytu 2+1 61 m²",
+    "Address": "Obůrky, Brno - Medlánky",
+    "Price": "17 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-medlanky-oburky/3007516748",
+    "id": "3007516748"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 65 m²",
+    "Address": "Jaselská, Brno - Veveří",
+    "Price": "37 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-veveri-jaselska/1540587596",
+    "id": "1540587596"
+  },
+  {
     "header": "Pronájem bytu 3+1 69 m²",
     "Address": "Horácké náměstí, Brno - Řečkovice",
     "Price": "23 000 Kč/měsíc",
@@ -131,19 +145,5 @@
     "Price": "17 500 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-stare-brno-leitnerova/1457197132",
     "id": "1457197132"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 70 m²",
-    "Address": "Kotkova, Brno - Černovice",
-    "Price": "27 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-cernovice-kotkova/2527670348",
-    "id": "2527670348"
-  },
-  {
-    "header": "Pronájem bytu 3+1 73 m²",
-    "Address": "Oblá, Brno - Nový Lískovec",
-    "Price": "23 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-novy-liskovec-obla/3938132044",
-    "id": "3938132044"
   }
 ]
