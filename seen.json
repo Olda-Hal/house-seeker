@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 2+1 55 m²",
+    "Address": "náměstí SNP, Brno - Černá Pole",
+    "Price": "19 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-cerna-pole-namesti-snp/2694320204",
+    "id": "2694320204"
+  },
+  {
     "header": "Pronájem bytu 2+1 52 m²",
     "Address": "Březová, Brno - Jundrov",
     "Price": "18 000 Kč/měsíc",
@@ -138,12 +145,5 @@
     "Price": "20 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-lesna-ibsenova/55775308",
     "id": "55775308"
-  },
-  {
-    "header": "Pronájem bytu 2+1 61 m²",
-    "Address": "Obůrky, Brno - Medlánky",
-    "Price": "17 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-medlanky-oburky/3007516748",
-    "id": "3007516748"
   }
 ]
