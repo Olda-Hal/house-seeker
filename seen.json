@@ -1,5 +1,26 @@
 [
   {
+    "header": "Pronájem bytu 3+1 72 m²",
+    "Address": "Polní, Brno - Štýřice",
+    "Price": "29 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-styrice-polni/3464368204",
+    "id": "3464368204"
+  },
+  {
+    "header": "Pronájem bytu 2+1 68 m²",
+    "Address": "Zahradnická, Brno - Staré Brno",
+    "Price": "32 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-stare-brno-zahradnicka/3877425228",
+    "id": "3877425228"
+  },
+  {
+    "header": "Pronájem bytu 3+1 75 m²",
+    "Address": "Hrnčířská, Brno - Veveří",
+    "Price": "24 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-veveri-hrncirska/1672400972",
+    "id": "1672400972"
+  },
+  {
     "header": "Pronájem bytu 3+kk 56 m²",
     "Address": "Palackého třída, Brno - Královo Pole",
     "Price": "24 900 Kč/měsíc",
@@ -47,13 +68,6 @@
     "Price": "21 945 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-reckovice-druzstevni/35004492",
     "id": "35004492"
-  },
-  {
-    "header": "Pronájem bytu 3+1 103 m²",
-    "Address": "Středova, Brno - Brno-město",
-    "Price": "29 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-brno-mesto-stredova/4226551884",
-    "id": "4226551884"
   },
   {
     "header": "Pronájem bytu 3+1 78 m²",
@@ -131,19 +145,5 @@
     "Price": "22 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-lisen-strnadova/2479755340",
     "id": "2479755340"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 81 m²",
-    "Address": "Poděbradova, Brno - Královo Pole",
-    "Price": "27 990 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-kralovo-pole-podebradova/1896292428",
-    "id": "1896292428"
-  },
-  {
-    "header": "Pronájem bytu 2+1 81 m²",
-    "Address": "Bayerova, Brno",
-    "Price": "29 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-brno-bayerova/1839448140",
-    "id": "1839448140"
   }
 ]
