@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 70 m²",
+    "Address": "Kotkova, Brno - Černovice",
+    "Price": "27 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-cernovice-kotkova/2527670348",
+    "id": "2527670348"
+  },
+  {
     "header": "Pronájem bytu 2+1 55 m²",
     "Address": "náměstí SNP, Brno - Černá Pole",
     "Price": "19 000 Kč/měsíc",
@@ -112,13 +119,6 @@
     "id": "1061236812"
   },
   {
-    "header": "Inspirace, XXXL výběr",
-    "Address": "Navštivte naše obchodní domy – rádi vám pomůžeme splnit váš sen o krásném bydlení.",
-    "Price": "XXXLutz Česká republika",
-    "link": "https://i.imedia.cz/v2/click?spotId=4232237&d=RPTJ82NHFG9MW7EGJYGX2XSJZFVNAN7TBAEEVJEBUWYB62JICRX7798ARCGGWUVCY39ZYB7MGKFWT4SU4QKZYG6K3CZHKD9BEC89ZNWTI8U68FJ9WT6GHR834QTZEB48C8THRQZENY5YTVGDTQ83P6A7XVV84HVPS7JAB897J7BUZTMAIRVDYYHG6BXIICE3B4G8NJ6H285DDCKK2UBBTU8IZR6AVIT6KBUJDBJV47SE78SSCD2HTVQ2HHYRHI3XNZPSVRPUAPCZVTC5XYDNGQ7EQ92NRAT6M4UUBD7THIFWSWPU5D7N39SKFCG7C9Z5CAB525RSU9CHEZU99Z5QV3NGXNWBINKNWUUVC673TGUADMI&destination=https%3A//ad.doubleclick.net/ddm/trackclk/N510405.5083943MUP-SEZNAM-NATIVE/B34999881.439049166%3Bdc_trk_aid%3D632127340%3Bdc_trk_cid%3D247725133%3Bdc_lat%3D%3Bdc_rdid%3D%3Btag_for_child_directed_treatment%3D%3Btfua%3D%3Bgdpr%3D$%7BGDPR%7D%3Bgdpr_consent%3D$%7BGDPR_CONSENT_755%7D%3Bltd%3D%3Bdc_tdv%3D1",
-    "id": "B34999881.439049166%3Bdc_trk_aid%3D632127340%3Bdc_trk_cid%3D247725133%3Bdc_lat%3D%3Bdc_rdid%3D%3Btag_for_child_directed_treatment%3D%3Btfua%3D%3Bgdpr%3D$%7BGDPR%7D%3Bgdpr_consent%3D$%7BGDPR_CONSENT_755%7D%3Bltd%3D%3Bdc_tdv%3D1"
-  },
-  {
     "header": "Pronájem bytu 2+1 40 m²",
     "Address": "Hybešova, Brno - Staré Brno",
     "Price": "25 900 Kč/měsíc",
@@ -145,12 +145,5 @@
     "Price": "20 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-zabrdovice-cejl/2366885964",
     "id": "2366885964"
-  },
-  {
-    "header": "Pronájem bytu 2+1 55 m²",
-    "Address": "Ibsenova, Brno - Lesná",
-    "Price": "20 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-lesna-ibsenova/55775308",
-    "id": "55775308"
   }
 ]
