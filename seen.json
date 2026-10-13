@@ -1,5 +1,47 @@
 [
   {
+    "header": "Pronájem bytu 3+1 74 m²",
+    "Address": "Olbrachtovo náměstí, Brno - Komín",
+    "Price": "23 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-komin-olbrachtovo-namesti/53878860",
+    "id": "53878860"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 74 m²",
+    "Address": "Marie Majerové, Brno - Lesná",
+    "Price": "23 900 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-lesna-marie-majerove/1356468300",
+    "id": "1356468300"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 93 m²",
+    "Address": "Kopečná, Brno - Staré Brno",
+    "Price": "37 500 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-stare-brno-kopecna/49942604",
+    "id": "49942604"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 63 m²",
+    "Address": "Rybnická, Brno - Nový Lískovec",
+    "Price": "35 500 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-novy-liskovec-rybnicka/3987345484",
+    "id": "3987345484"
+  },
+  {
+    "header": "Pronájem bytu 3+1 73 m²",
+    "Address": "Oblá, Brno - Nový Lískovec",
+    "Price": "23 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-novy-liskovec-obla/3938132044",
+    "id": "3938132044"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 73 m²",
+    "Address": "Hvozdecká, Brno - Bystrc",
+    "Price": "26 500 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-bystrc-hvozdecka/144388172",
+    "id": "144388172"
+  },
+  {
     "header": "Pronájem bytu 3+1 80 m²",
     "Address": "ulice Kosmonautů, Brno - Starý Lískovec",
     "Price": "30 000 Kč/měsíc",
@@ -103,47 +145,5 @@
     "Price": "20 400 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-kralovo-pole-svatopluka-cecha/2671124556",
     "id": "2671124556"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 70 m²",
-    "Address": "Kotkova, Brno - Černovice",
-    "Price": "27 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-cernovice-kotkova/2527670348",
-    "id": "2527670348"
-  },
-  {
-    "header": "Pronájem bytu 2+1 55 m²",
-    "Address": "náměstí SNP, Brno - Černá Pole",
-    "Price": "19 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-cerna-pole-namesti-snp/2694320204",
-    "id": "2694320204"
-  },
-  {
-    "header": "Pronájem bytu 2+1 52 m²",
-    "Address": "Březová, Brno - Jundrov",
-    "Price": "18 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-jundrov-brezova/3937603660",
-    "id": "3937603660"
-  },
-  {
-    "header": "Pronájem bytu 3+1 80 m²",
-    "Address": "ulice Kosmonautů, Brno - Starý Lískovec",
-    "Price": "30 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-stary-liskovec-ulice-kosmonautu/1587220556",
-    "id": "1587220556"
-  },
-  {
-    "header": "SLEVA: Pronájem bytu 3+kk 58 m²",
-    "Address": "Jílkova, Brno - Židenice",
-    "Price": "35 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zidenice-jilkova/2396442700",
-    "id": "2396442700"
-  },
-  {
-    "header": "Pronájem bytu 3+1 73 m²",
-    "Address": "Oblá, Brno - Nový Lískovec",
-    "Price": "23 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-novy-liskovec-obla/3938132044",
-    "id": "3938132044"
   }
 ]
