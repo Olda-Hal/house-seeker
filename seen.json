@@ -1,5 +1,19 @@
 [
   {
+    "header": "Pronájem bytu 3+1 80 m²",
+    "Address": "ulice Kosmonautů, Brno - Starý Lískovec",
+    "Price": "30 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-stary-liskovec-ulice-kosmonautu/1645097036",
+    "id": "1645097036"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 68 m²",
+    "Address": "Bučkova, Brno - Slatina",
+    "Price": "24 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-slatina-buckova/2703036492",
+    "id": "2703036492"
+  },
+  {
     "header": "Pronájem bytu 3+1 60 m²",
     "Address": "Lomená, Brno - Komárov",
     "Price": "19 500 Kč/měsíc",
@@ -40,13 +54,6 @@
     "Price": "21 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-stare-brno-vystavni/2945458252",
     "id": "2945458252"
-  },
-  {
-    "header": "Pronájem bytu 3+1 80 m²",
-    "Address": "ulice Kosmonautů, Brno - Starý Lískovec",
-    "Price": "30 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-stary-liskovec-ulice-kosmonautu/1645097036",
-    "id": "1645097036"
   },
   {
     "header": "Pronájem bytu 2+1 60 m²",
@@ -138,12 +145,5 @@
     "Price": "23 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-novy-liskovec-obla/3938132044",
     "id": "3938132044"
-  },
-  {
-    "header": "Pronájem bytu 2+1 50 m²",
-    "Address": "Vondrákova, Brno - Bystrc",
-    "Price": "19 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-bystrc-vondrakova/3710726220",
-    "id": "3710726220"
   }
 ]
