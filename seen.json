@@ -1,5 +1,19 @@
 [
   {
+    "header": "Pronájem bytu 2+1 54 m²",
+    "Address": "Výstavní, Brno - Staré Brno",
+    "Price": "21 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-stare-brno-vystavni/2945458252",
+    "id": "2945458252"
+  },
+  {
+    "header": "Pronájem bytu 3+1 80 m²",
+    "Address": "ulice Kosmonautů, Brno - Starý Lískovec",
+    "Price": "30 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-stary-liskovec-ulice-kosmonautu/1645097036",
+    "id": "1645097036"
+  },
+  {
     "header": "Pronájem bytu 2+1 60 m²",
     "Address": "Olomoucká, Brno - Černovice",
     "Price": "22 000 Kč/měsíc",
@@ -47,13 +61,6 @@
     "Price": "20 400 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-kralovo-pole-svatopluka-cecha/2671124556",
     "id": "2671124556"
-  },
-  {
-    "header": "Pronájem bytu 3+1 80 m²",
-    "Address": "ulice Kosmonautů, Brno - Starý Lískovec",
-    "Price": "30 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-stary-liskovec-ulice-kosmonautu/1645097036",
-    "id": "1645097036"
   },
   {
     "header": "Pronájem bytu 3+kk 70 m²",
@@ -138,12 +145,5 @@
     "Price": "25 990 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-kralovo-pole-palackeho-trida/2752524364",
     "id": "2752524364"
-  },
-  {
-    "header": "Pronájem bytu 2+1 70 m²",
-    "Address": "Údolní, Brno - Veveří",
-    "Price": "19 900 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-veveri-udolni/3759870028",
-    "id": "3759870028"
   }
 ]
