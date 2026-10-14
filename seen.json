@@ -1,5 +1,19 @@
 [
   {
+    "header": "Pronájem bytu 2+1 74 m²",
+    "Address": "Skořepka, Brno - Trnitá",
+    "Price": "25 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-trnita-skorepka/3374256204",
+    "id": "3374256204"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 71 m²",
+    "Address": "Grmelova, Brno - Štýřice",
+    "Price": "32 500 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-styrice-grmelova/2301628492",
+    "id": "2301628492"
+  },
+  {
     "header": "Pronájem bytu 2+1 55 m²",
     "Address": "náměstí SNP, Brno - Černá Pole",
     "Price": "19 000 Kč/měsíc",
@@ -124,19 +138,5 @@
     "Price": "20 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-zabrdovice-cejl/2366885964",
     "id": "2366885964"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 50 m²",
-    "Address": "Merhautova, Brno - Brno-sever",
-    "Price": "24 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-brno-sever-merhautova/956350540",
-    "id": "956350540"
-  },
-  {
-    "header": "Pronájem bytu 3+1 78 m²",
-    "Address": "náměstí Svornosti, Brno - Žabovřesky",
-    "Price": "29 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-zabovresky-namesti-svornosti/3334541388",
-    "id": "3334541388"
   }
 ]
