@@ -1,5 +1,19 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 50 m²",
+    "Address": "Merhautova, Brno - Brno-sever",
+    "Price": "24 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-brno-sever-merhautova/956350540",
+    "id": "956350540"
+  },
+  {
+    "header": "Pronájem bytu 3+1 78 m²",
+    "Address": "náměstí Svornosti, Brno - Žabovřesky",
+    "Price": "29 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-zabovresky-namesti-svornosti/3334541388",
+    "id": "3334541388"
+  },
+  {
     "header": "Pronájem bytu 3+1 68 m²",
     "Address": "náměstí Svobody, Brno - Brno-město",
     "Price": "25 000 Kč/měsíc",
@@ -124,19 +138,5 @@
     "Price": "23 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-novy-liskovec-obla/3938132044",
     "id": "3938132044"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 73 m²",
-    "Address": "Hvozdecká, Brno - Bystrc",
-    "Price": "26 500 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-bystrc-hvozdecka/144388172",
-    "id": "144388172"
-  },
-  {
-    "header": "Pronájem bytu 3+1 80 m²",
-    "Address": "ulice Kosmonautů, Brno - Starý Lískovec",
-    "Price": "30 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-stary-liskovec-ulice-kosmonautu/1645097036",
-    "id": "1645097036"
   }
 ]
