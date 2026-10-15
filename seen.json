@@ -1,5 +1,19 @@
 [
   {
+    "header": "Pronájem bytu 3+1 77 m²",
+    "Address": "Teyschlova, Brno - Bystrc",
+    "Price": "21 500 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-bystrc-teyschlova/2585792588",
+    "id": "2585792588"
+  },
+  {
+    "header": "Pronájem bytu 3+1 75 m²",
+    "Address": "Turgeněvova, Brno - Černovice",
+    "Price": "28 900 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-cernovice-turgenevova/2604802124",
+    "id": "2604802124"
+  },
+  {
     "header": "Pronájem bytu 3+kk 56 m²",
     "Address": "Palackého třída, Brno - Královo Pole",
     "Price": "24 900 Kč/měsíc",
@@ -33,13 +47,6 @@
     "Price": "19 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-cerna-pole-namesti-snp/2694320204",
     "id": "2694320204"
-  },
-  {
-    "header": "Pronájem bytu 3+1 77 m²",
-    "Address": "Teyschlova, Brno - Bystrc",
-    "Price": "21 500 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-bystrc-teyschlova/2585792588",
-    "id": "2585792588"
   },
   {
     "header": "Pronájem bytu 3+1 99 m²",
@@ -138,12 +145,5 @@
     "Price": "16 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-trnita-mlynska/2661355596",
     "id": "2661355596"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 58 m²",
-    "Address": "Milady Horákové, Brno - Černá Pole",
-    "Price": "23 590 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-cerna-pole-milady-horakove/544739404",
-    "id": "544739404"
   }
 ]
