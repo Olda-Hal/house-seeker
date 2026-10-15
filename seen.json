@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+1 60 m²",
+    "Address": "Strnadova, Brno - Líšeň",
+    "Price": "22 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-lisen-strnadova/2479755340",
+    "id": "2479755340"
+  },
+  {
     "header": "Pronájem bytu 2+1 74 m²",
     "Address": "Skořepka, Brno - Trnitá",
     "Price": "25 000 Kč/měsíc",
@@ -138,12 +145,5 @@
     "Price": "20 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-zabrdovice-cejl/2366885964",
     "id": "2366885964"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 50 m²",
-    "Address": "Merhautova, Brno - Brno-sever",
-    "Price": "24 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-brno-sever-merhautova/956350540",
-    "id": "956350540"
   }
 ]
