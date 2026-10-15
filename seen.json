@@ -1,5 +1,19 @@
 [
   {
+    "header": "Pronájem bytu 2+1 50 m²",
+    "Address": "Dornych, Brno - Trnitá",
+    "Price": "30 490 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-trnita-dornych/1895436364",
+    "id": "1895436364"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 65 m²",
+    "Address": "Ponětovická, Brno - Slatina",
+    "Price": "23 900 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-slatina-ponetovicka/3309113420",
+    "id": "3309113420"
+  },
+  {
     "header": "Pronájem bytu 3+kk 53 m²",
     "Address": "Stará, Brno - Zábrdovice",
     "Price": "19 000 Kč/měsíc",
@@ -131,19 +145,5 @@
     "Price": "25 259 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-brno-stred-/1159729228",
     "id": "1159729228"
-  },
-  {
-    "header": "Pronájem bytu 3+1 73 m²",
-    "Address": "Oblá, Brno - Nový Lískovec",
-    "Price": "23 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-novy-liskovec-obla/3938132044",
-    "id": "3938132044"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 73 m²",
-    "Address": "Hvozdecká, Brno - Bystrc",
-    "Price": "25 900 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-bystrc-hvozdecka/144388172",
-    "id": "144388172"
   }
 ]
