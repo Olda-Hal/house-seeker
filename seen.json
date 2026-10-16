@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 2+1 72 m²",
+    "Address": "Za Kostelem, Brno - Slatina",
+    "Price": "22 500 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-slatina-za-kostelem/3955691596",
+    "id": "3955691596"
+  },
+  {
     "header": "Pronájem bytu 2+1 55 m²",
     "Address": "náměstí SNP, Brno - Černá Pole",
     "Price": "19 000 Kč/měsíc",
@@ -131,12 +138,5 @@
     "Price": "21 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-kohoutovice-voriskova/3018072140",
     "id": "3018072140"
-  },
-  {
-    "header": "Pronájem bytu 2+1 54 m²",
-    "Address": "Úvoz, Brno - Veveří",
-    "Price": "19 900 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-veveri-uvoz/2544382028",
-    "id": "2544382028"
   }
 ]
