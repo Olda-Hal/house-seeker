@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+1 109 m²",
+    "Address": "Veveří, Brno - Veveří",
+    "Price": "33 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-veveri-veveri/2299928652",
+    "id": "2299928652"
+  },
+  {
     "header": "Pronájem bytu 3+1 91 m²",
     "Address": "Palackého třída, Brno - Královo Pole",
     "Price": "25 990 Kč/měsíc",
@@ -131,12 +138,5 @@
     "Price": "20 400 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-kralovo-pole-svatopluka-cecha/2671124556",
     "id": "2671124556"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 53 m²",
-    "Address": "Stará, Brno - Zábrdovice",
-    "Price": "19 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zabrdovice-stara/2458914892",
-    "id": "2458914892"
   }
 ]
