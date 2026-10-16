@@ -1,5 +1,19 @@
 [
   {
+    "header": "Pronájem bytu 3+1 73 m²",
+    "Address": "Štefáčkova, Brno - Líšeň",
+    "Price": "24 990 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-lisen-stefackova/2151620684",
+    "id": "2151620684"
+  },
+  {
+    "header": "Pronájem bytu 3+1 68 m²",
+    "Address": "Elplova, Brno - Líšeň",
+    "Price": "27 490 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-lisen-elplova/674173004",
+    "id": "674173004"
+  },
+  {
     "header": "Pronájem bytu 3+1 60 m²",
     "Address": "Lomená, Brno - Komárov",
     "Price": "19 500 Kč/měsíc",
@@ -124,19 +138,5 @@
     "Price": "32 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-brno-prirodni/3348566092",
     "id": "3348566092"
-  },
-  {
-    "header": "Pronájem bytu 2+1 65 m²",
-    "Address": "Havlíčkova, Brno - Stránice",
-    "Price": "24 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-stranice-havlickova/3179745356",
-    "id": "3179745356"
-  },
-  {
-    "header": "Pronájem bytu 2+1 44 m²",
-    "Address": "Václavská, Brno - Staré Brno",
-    "Price": "19 900 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-stare-brno-vaclavska/3108057164",
-    "id": "3108057164"
   }
 ]
