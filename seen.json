@@ -1,5 +1,33 @@
 [
   {
+    "header": "Pronájem bytu 3+1 77 m²",
+    "Address": "Teyschlova, Brno - Bystrc",
+    "Price": "19 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-bystrc-teyschlova/2585792588",
+    "id": "2585792588"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 73 m²",
+    "Address": "Brno - Brno-Bystrc",
+    "Price": "25 900 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-brno-bystrc-/144388172",
+    "id": "144388172"
+  },
+  {
+    "header": "Pronájem bytu 3+1 73 m²",
+    "Address": "Oblá, Brno - Nový Lískovec",
+    "Price": "22 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-novy-liskovec-obla/3938132044",
+    "id": "3938132044"
+  },
+  {
+    "header": "Pronájem bytu 3+1 60 m²",
+    "Address": "Strnadova, Brno - Líšeň",
+    "Price": "22 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-lisen-strnadova/2479755340",
+    "id": "2479755340"
+  },
+  {
     "header": "Pronájem bytu 3+kk 58 m²",
     "Address": "Milady Horákové, Brno - Černá Pole",
     "Price": "23 590 Kč/měsíc",
@@ -33,20 +61,6 @@
     "Price": "32 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-veveri-bayerova/1865486412",
     "id": "1865486412"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 73 m²",
-    "Address": "Brno - Brno-Bystrc",
-    "Price": "25 900 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-brno-bystrc-/144388172",
-    "id": "144388172"
-  },
-  {
-    "header": "Pronájem bytu 3+1 73 m²",
-    "Address": "Oblá, Brno - Nový Lískovec",
-    "Price": "22 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-novy-liskovec-obla/3938132044",
-    "id": "3938132044"
   },
   {
     "header": "Pronájem bytu 2+1 45 m²",
@@ -124,19 +138,5 @@
     "Price": "39 900 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zidenice-hroznatova/1520099404",
     "id": "1520099404"
-  },
-  {
-    "header": "Pronájem bytu 3+1 74 m²",
-    "Address": "Olbrachtovo náměstí, Brno - Komín",
-    "Price": "22 500 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-komin-olbrachtovo-namesti/53878860",
-    "id": "53878860"
-  },
-  {
-    "header": "Pronájem bytu 3+1 60 m²",
-    "Address": "Strnadova, Brno - Líšeň",
-    "Price": "22 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-lisen-strnadova/2479755340",
-    "id": "2479755340"
   }
 ]
