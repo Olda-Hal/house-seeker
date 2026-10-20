@@ -1,5 +1,26 @@
 [
   {
+    "header": "Pronájem bytu 3+1 60 m²",
+    "Address": "Lomená, Brno - Komárov",
+    "Price": "19 500 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-komarov-lomena/384835660",
+    "id": "384835660"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 62 m²",
+    "Address": "Brno",
+    "Price": "27 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-brno-/3904569420",
+    "id": "3904569420"
+  },
+  {
+    "header": "Pronájem bytu 2+1 56 m²",
+    "Address": "Sadovského, Brno - Královo Pole",
+    "Price": "15 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-kralovo-pole-sadovskeho/4240113740",
+    "id": "4240113740"
+  },
+  {
     "header": "Pronájem bytu 3+1 90 m²",
     "Address": "Úvoz, Brno - Veveří",
     "Price": "32 500 Kč/měsíc",
@@ -117,26 +138,5 @@
     "Price": "32 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-veveri-bayerova/1865486412",
     "id": "1865486412"
-  },
-  {
-    "header": "Pronájem bytu 3+1 86 m²",
-    "Address": "Podpěrova, Brno - Medlánky",
-    "Price": "22 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-medlanky-podperova/3349418060",
-    "id": "3349418060"
-  },
-  {
-    "header": "Pronájem bytu 2+1 55 m²",
-    "Address": "náměstí SNP, Brno - Černá Pole",
-    "Price": "19 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-cerna-pole-namesti-snp/2694320204",
-    "id": "2694320204"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 95 m²",
-    "Address": "Šmahova, Brno - Slatina",
-    "Price": "27 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-slatina-smahova/4087427148",
-    "id": "4087427148"
   }
 ]
