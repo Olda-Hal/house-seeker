@@ -112,13 +112,6 @@
     "id": "3622506572"
   },
   {
-    "header": "Pronájem bytu 3+kk 101 m²",
-    "Address": "Lísky, Brno - Komín",
-    "Price": "26 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-komin-lisky/102432844",
-    "id": "102432844"
-  },
-  {
     "header": "Pronájem bytu 3+kk 141 m²",
     "Address": "Bratislavská, Brno - Zábrdovice",
     "Price": "36 050 Kč/měsíc",
@@ -138,5 +131,12 @@
     "Price": "32 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-stare-brno-trybova/2450333772",
     "id": "2450333772"
+  },
+  {
+    "header": "Pronájem bytu 2+1 54 m²",
+    "Address": "Svatopluka Čecha, Brno - Královo Pole",
+    "Price": "20 400 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-kralovo-pole-svatopluka-cecha/2671124556",
+    "id": "2671124556"
   }
 ]
