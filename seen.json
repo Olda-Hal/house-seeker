@@ -7,6 +7,27 @@
     "id": "2522091596"
   },
   {
+    "header": "Pronájem bytu 3+kk 79 m²",
+    "Address": "Kyselkova, Brno - Sadová",
+    "Price": "27 400 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-sadova-kyselkova/2122973260",
+    "id": "2122973260"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 85 m²",
+    "Address": "Domažlická, Brno - Ponava",
+    "Price": "35 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-ponava-domazlicka/1066008652",
+    "id": "1066008652"
+  },
+  {
+    "header": "Pronájem bytu 3+1 70 m²",
+    "Address": "Havlenova, Brno - Štýřice",
+    "Price": "22 500 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-styrice-havlenova/1500119116",
+    "id": "1500119116"
+  },
+  {
     "header": "Pronájem bytu 3+kk 50 m²",
     "Address": "Merhautova, Brno - Brno-sever",
     "Price": "24 000 Kč/měsíc",
@@ -70,13 +91,6 @@
     "id": "733945932"
   },
   {
-    "header": "Pronájem bytu 3+1 70 m²",
-    "Address": "Havlenova, Brno - Štýřice",
-    "Price": "22 500 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-styrice-havlenova/1500119116",
-    "id": "1500119116"
-  },
-  {
     "header": "Pronájem bytu 3+1 68 m²",
     "Address": "Elplova, Brno - Líšeň",
     "Price": "26 990 Kč/měsíc",
@@ -89,6 +103,13 @@
     "Price": "21 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-stare-brno-jirchare/949682252",
     "id": "949682252"
+  },
+  {
+    "header": "Plánování kuchyně ZDARMA",
+    "Address": "Rezervujte termín a naplánujte si s námi kuchyni německé kvality se zárukou až 25 let.",
+    "Price": "XXXLutz Česká republika",
+    "link": "https://i.imedia.cz/v2/click?spotId=4232236&d=PZ6U6IT6NQ3QRQUVDK8FJ6H9HEEUYCN4G2TYCFQNABDYAK6JN5CV8H2994WA29NC7Q89C6C4TQSXSY7PSDAUZNCW4WWH8V6VJADHD9P5N8KGYSZAMUXF58WJ5JR7HYZ6QQQPDX64V2AXNIESUPQ62IKKTIJAFA7UIIXUIPEVZ683ZTVRIMYYDS28NS6RRDCUHHWPYFMHBTBNGDXPMEZIIYZRK4TT5GNDXMY753BYKNVU669UN5IPQZUG2DNYDEIDJ4CFCNX9GN8SVYXUDWP7T9TEM4VYVQS54PNYMRFJ4IZ7V5JSWM767AHA7KHMNJYJKW7DXC5AI5IS7Z77AWGTSWSWVKXNVGGNMHY79B3NAAZA&destination=https%3A//ad.doubleclick.net/ddm/trackclk/N510405.5083943MUP-SEZNAM-NATIVE/B34999881.438741785%3Bdc_trk_aid%3D632129215%3Bdc_trk_cid%3D247725133%3Bdc_lat%3D%3Bdc_rdid%3D%3Btag_for_child_directed_treatment%3D%3Btfua%3D%3Bgdpr%3D$%7BGDPR%7D%3Bgdpr_consent%3D$%7BGDPR_CONSENT_755%7D%3Bltd%3D%3Bdc_tdv%3D1",
+    "id": "B34999881.438741785%3Bdc_trk_aid%3D632129215%3Bdc_trk_cid%3D247725133%3Bdc_lat%3D%3Bdc_rdid%3D%3Btag_for_child_directed_treatment%3D%3Btfua%3D%3Bgdpr%3D$%7BGDPR%7D%3Bgdpr_consent%3D$%7BGDPR_CONSENT_755%7D%3Bltd%3D%3Bdc_tdv%3D1"
   },
   {
     "header": "Pronájem bytu 3+kk 69 m²",
@@ -124,19 +145,5 @@
     "Price": "22 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-novy-liskovec-obla/3938132044",
     "id": "3938132044"
-  },
-  {
-    "header": "Pronájem bytu 3+1 80 m²",
-    "Address": "ulice Kosmonautů, Brno - Starý Lískovec",
-    "Price": "30 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-stary-liskovec-ulice-kosmonautu/1645097036",
-    "id": "1645097036"
-  },
-  {
-    "header": "Pronájem bytu 2+1 70 m²",
-    "Address": "Údolní, Brno - Veveří",
-    "Price": "19 900 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-veveri-udolni/3759870028",
-    "id": "3759870028"
   }
 ]
