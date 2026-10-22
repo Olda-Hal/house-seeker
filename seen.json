@@ -1,6 +1,20 @@
 [
   {
     "header": "Pronájem bytu 2+1 45 m²",
+    "Address": "Přízova, Brno - Trnitá",
+    "Price": "20 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-trnita-prizova/2522091596",
+    "id": "2522091596"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 76 m²",
+    "Address": "Zahradnická, Brno - Staré Brno",
+    "Price": "23 900 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-stare-brno-zahradnicka/3449356364",
+    "id": "3449356364"
+  },
+  {
+    "header": "Pronájem bytu 2+1 45 m²",
     "Address": "Cejl, Brno - Zábrdovice",
     "Price": "20 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-zabrdovice-cejl/2366885964",
@@ -84,18 +98,18 @@
     "id": "1173946444"
   },
   {
-    "header": "Pronájem bytu 2+1 45 m²",
-    "Address": "Přízova, Brno - Trnitá",
-    "Price": "20 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-trnita-prizova/2522091596",
-    "id": "2522091596"
-  },
-  {
     "header": "Pronájem bytu 3+1 69 m²",
     "Address": "Horácké náměstí, Brno - Řečkovice",
     "Price": "23 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-reckovice-horacke-namesti/3064410188",
     "id": "3064410188"
+  },
+  {
+    "header": "Rugged Outside. Refined Within.",
+    "Address": "Crafted to perform. The Mazda CX-50 is ready for whatever journey you have planned next.",
+    "Price": "Reklama",
+    "link": "https://zne1-ib.adnxs-simple.com/click2?e=wqT_3QKcAWycAAAAAwDEGQUBCLH659YGEN6hn4q0uMbpJhj_EQFwASCb_fMKKL42MKpLOLsDQABI3J9IUABaA1VTRGIBBXBoAXABeMOLWoAB150GiAEBkAEAmAEFoAECqQGamQEBCOE_sRUKKLkBAAAAQDMz4z_BFRQAyRUKLNgBAOABAPABAPgBAA../s=aab38ebda6f9b89e7def6a4415938e31e5aa8835/bcr=AAAAAAAA8D8=/pp=0.55/bn=102103/dnt=1/clickenc=https%3A%2F%2Fgoogleads.g.doubleclick.net%2Fdbm%2Fclk%3Fsa%3DL%26ai%3DCepbiMf3ZavP1OKv8-eQPsuOm6AqE9q6BigGlnt3c-xWhpvjz0B0QASC35YQhYMme2Ifoo6AVoAGWio6WQcgBBqgDAaoE5gFP0Iy8zGIPmhy9hpgfDzr0UEVKHpgMqNhVA9CotOHtQo92bYsHd3WPIyPwejGYQeZldCXPjLWjrOCFC4SpEDFoPpbfsseR2d3XtH1avbJ9xfmmegg4pdk96xyeGP-XvhkcH8LRRmmFl5VOvScwa5EP4JnSj3nA7FVyBlc8hkPtoOxEvCkKGWNtnY2rn_MGLubrUfVZnQl7nX1Pvy6wrv7XR_plq7d4dRNFXZ5sK01nu7ev0NBMcUu2G5hkZUUn4wb92fWKu2lbHT2CJIqVwDG_29Ohg-LhPFq6avnAgn-EyiCgi9mwlcAEt9XPpu4F4AQDiAWy14-gWZAGAaAGN4AHlsLe9RuoB6fMsQKoB-LYsQKoB6a-G6gHzM6xAqgH89EbqAeW2BuoB6qbsQKoB_7osQKoB47OG6gHk9gbqAfw4BuoB-6WsQKoB_6esQKoB6--sQKoB5_hsQKoB6brsQKoB9XJG6gH2baxAqgHlcWxAqgH_56xAqgH35-xAqgH-MKxAqgH-8KxAtgHANIIMgiAYRABGF8yCIqCgICAgIAIOg-AQIDAgICAgKiAAqiDkBhIvf3BOljWpcz9y82XA2AA8ggOYmlkZGVyLTEzODg1NTSxCRFqWMVHojeXgAoEmAsByAsBgAwBogwDkAEBqg0CVVOIDg6wE9Wi1yXYEw2IFAXYFAHQFQGYFgHKFgIKAPgWAYAXAbIXEBgCKgo0MTE0MTkxMTQzUAayGAkSAqhOGDciAQDQGQQ%26num%3D1%26cid%3DCAQSgQIAQM4h3Jun1X8OjC8mt-5ebSisn3EtAbGBi_kwdLfKOixgoWQeLlZZ80FnnlI_bgoltbZM3Ssp7LWky82EmdwH3nShbcpWWJtUAimHYla5XuEugk71PqT95ttLes-bfKU4xRgRPgZKPzWdWJTC7cihayWlkSMXIXlOAYm4phIl5OX6BxwktMjbY5ytrSCoVugtOAmnWPfWYdZh0gco2j9y3fiWwTYvjU40sp6992iMS9pX4USkCV71v2oVbcb2exem9LDwwFNpXhLuyJPaesW2007-ECVCWWDAm8BTia3CN39eRGqCeTk_Ggmf1khq8e8R-MZKXFRjfsaOmYMX5NfPfhgB%26sig%3DAOD64_14lUK5OJoFYDQxENYInvzY3XEFDw%26dbm_c%3DAKAmf-B-g-HwXKOj2HkUm_KwT7SAMTxXS87dGzBsWKZCPIiXwZ0iP663zfKLGDgGR3roN7aYlS706xF5E9gOM-FuV0YMjLR-uA%26cry%3D1%26dbm_d%3DAKAmf-AzUoK7UnRbGSCaME30men0JgKnPE1JJM0t-DNbalRCQgcDnl2BzDuHUg9sA4O-K_fbk5ZoMDK4Ap6Y9aXPKEYJZPhpPDaOwB4JrNpAdZFsExd0QVE1W2iSW8KoKCbfnlbReZrTlpXivIeZVCTm_U5Zk-S8C4YAL-dBhXBLCxcv_HFc9XWc91iz5OYYbpWH_TF0HUrp5Zu6WhO7sVnOMfHGIcP8QC4fprkOeDwAGKa-Ht4QsUtHzrSlArK0LCNv2qg3XJkZbuCp-Te2FFwH-i1wahU7SBmJ_MkyZKGJ251THCrUr7ll9Bot2WXLEa0fWy9BFzeLBkXZffbN_jD4BTZ1xhVtZrxveUAO9L3C5u6pmIE6pZl4TzJpp1wKLf9DprB8BOSiP3lhyk6nHeipXEMdAIrX9u0XZN4z5p8XsFwHD0oHDkQ1ua4BocZ6tubF9_ixVpfg9bIDfF84p8vgET9frvJen719INLvW79LxxtM61PUqmAmLPRGk_fT9neEcJrFUnWJqWbBJTfRLlJWXP9GEXbBGFAEleWQxDitMYS-HWAXR6g%26dc_exteid%3D33068943624941384069133898195899685%26dc_pubid%3D4%26adurl%3Dhttps%3A%2F%2Fad.doubleclick.net%2Fddm%2Ftrackclk%2FN1171080.3665442DV360%2FB33986889.450733080%253Bdc_trk_aid%253D644103896%253Bdc_trk_cid%253D259389270%253Bdc_lat%253D%253Bdc_rdid%253D%253Btag_for_child_directed_treatment%253D%253Btfua%253D%253Bgdpr%253D%2524%257BGDPR%257D%253Bgdpr_consent%253D%2524%257BGDPR_CONSENT_755%257D%253Bltd%253D%253Bdc_tdv%253D1",
+    "id": "clickenc=https%3A%2F%2Fgoogleads.g.doubleclick.net%2Fdbm%2Fclk%3Fsa%3DL%26ai%3DCepbiMf3ZavP1OKv8-eQPsuOm6AqE9q6BigGlnt3c-xWhpvjz0B0QASC35YQhYMme2Ifoo6AVoAGWio6WQcgBBqgDAaoE5gFP0Iy8zGIPmhy9hpgfDzr0UEVKHpgMqNhVA9CotOHtQo92bYsHd3WPIyPwejGYQeZldCXPjLWjrOCFC4SpEDFoPpbfsseR2d3XtH1avbJ9xfmmegg4pdk96xyeGP-XvhkcH8LRRmmFl5VOvScwa5EP4JnSj3nA7FVyBlc8hkPtoOxEvCkKGWNtnY2rn_MGLubrUfVZnQl7nX1Pvy6wrv7XR_plq7d4dRNFXZ5sK01nu7ev0NBMcUu2G5hkZUUn4wb92fWKu2lbHT2CJIqVwDG_29Ohg-LhPFq6avnAgn-EyiCgi9mwlcAEt9XPpu4F4AQDiAWy14-gWZAGAaAGN4AHlsLe9RuoB6fMsQKoB-LYsQKoB6a-G6gHzM6xAqgH89EbqAeW2BuoB6qbsQKoB_7osQKoB47OG6gHk9gbqAfw4BuoB-6WsQKoB_6esQKoB6--sQKoB5_hsQKoB6brsQKoB9XJG6gH2baxAqgHlcWxAqgH_56xAqgH35-xAqgH-MKxAqgH-8KxAtgHANIIMgiAYRABGF8yCIqCgICAgIAIOg-AQIDAgICAgKiAAqiDkBhIvf3BOljWpcz9y82XA2AA8ggOYmlkZGVyLTEzODg1NTSxCRFqWMVHojeXgAoEmAsByAsBgAwBogwDkAEBqg0CVVOIDg6wE9Wi1yXYEw2IFAXYFAHQFQGYFgHKFgIKAPgWAYAXAbIXEBgCKgo0MTE0MTkxMTQzUAayGAkSAqhOGDciAQDQGQQ%26num%3D1%26cid%3DCAQSgQIAQM4h3Jun1X8OjC8mt-5ebSisn3EtAbGBi_kwdLfKOixgoWQeLlZZ80FnnlI_bgoltbZM3Ssp7LWky82EmdwH3nShbcpWWJtUAimHYla5XuEugk71PqT95ttLes-bfKU4xRgRPgZKPzWdWJTC7cihayWlkSMXIXlOAYm4phIl5OX6BxwktMjbY5ytrSCoVugtOAmnWPfWYdZh0gco2j9y3fiWwTYvjU40sp6992iMS9pX4USkCV71v2oVbcb2exem9LDwwFNpXhLuyJPaesW2007-ECVCWWDAm8BTia3CN39eRGqCeTk_Ggmf1khq8e8R-MZKXFRjfsaOmYMX5NfPfhgB%26sig%3DAOD64_14lUK5OJoFYDQxENYInvzY3XEFDw%26dbm_c%3DAKAmf-B-g-HwXKOj2HkUm_KwT7SAMTxXS87dGzBsWKZCPIiXwZ0iP663zfKLGDgGR3roN7aYlS706xF5E9gOM-FuV0YMjLR-uA%26cry%3D1%26dbm_d%3DAKAmf-AzUoK7UnRbGSCaME30men0JgKnPE1JJM0t-DNbalRCQgcDnl2BzDuHUg9sA4O-K_fbk5ZoMDK4Ap6Y9aXPKEYJZPhpPDaOwB4JrNpAdZFsExd0QVE1W2iSW8KoKCbfnlbReZrTlpXivIeZVCTm_U5Zk-S8C4YAL-dBhXBLCxcv_HFc9XWc91iz5OYYbpWH_TF0HUrp5Zu6WhO7sVnOMfHGIcP8QC4fprkOeDwAGKa-Ht4QsUtHzrSlArK0LCNv2qg3XJkZbuCp-Te2FFwH-i1wahU7SBmJ_MkyZKGJ251THCrUr7ll9Bot2WXLEa0fWy9BFzeLBkXZffbN_jD4BTZ1xhVtZrxveUAO9L3C5u6pmIE6pZl4TzJpp1wKLf9DprB8BOSiP3lhyk6nHeipXEMdAIrX9u0XZN4z5p8XsFwHD0oHDkQ1ua4BocZ6tubF9_ixVpfg9bIDfF84p8vgET9frvJen719INLvW79LxxtM61PUqmAmLPRGk_fT9neEcJrFUnWJqWbBJTfRLlJWXP9GEXbBGFAEleWQxDitMYS-HWAXR6g%26dc_exteid%3D33068943624941384069133898195899685%26dc_pubid%3D4%26adurl%3Dhttps%3A%2F%2Fad.doubleclick.net%2Fddm%2Ftrackclk%2FN1171080.3665442DV360%2FB33986889.450733080%253Bdc_trk_aid%253D644103896%253Bdc_trk_cid%253D259389270%253Bdc_lat%253D%253Bdc_rdid%253D%253Btag_for_child_directed_treatment%253D%253Btfua%253D%253Bgdpr%253D%2524%257BGDPR%257D%253Bgdpr_consent%253D%2524%257BGDPR_CONSENT_755%257D%253Bltd%253D%253Bdc_tdv%253D1"
   },
   {
     "header": "Pronájem bytu 3+1 60 m²",
@@ -131,12 +145,5 @@
     "Price": "25 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-bystrc-markuvky/3914924108",
     "id": "3914924108"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 73 m²",
-    "Address": "Brno - Brno-Bystrc",
-    "Price": "25 900 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-brno-bystrc-/144388172",
-    "id": "144388172"
   }
 ]
