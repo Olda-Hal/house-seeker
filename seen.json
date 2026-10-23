@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 70 m²",
+    "Address": "Kotkova, Brno - Černovice",
+    "Price": "26 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-cernovice-kotkova/2527670348",
+    "id": "2527670348"
+  },
+  {
     "header": "Pronájem bytu 2+1 45 m²",
     "Address": "Cejl, Brno - Zábrdovice",
     "Price": "20 000 Kč/měsíc",
@@ -131,12 +138,5 @@
     "Price": "22 590 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-cerna-pole-milady-horakove/544739404",
     "id": "544739404"
-  },
-  {
-    "header": "Pronájem bytu 2+1 56 m²",
-    "Address": "Voříškova, Brno - Kohoutovice",
-    "Price": "19 900 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-kohoutovice-voriskova/3018072140",
-    "id": "3018072140"
   }
 ]
