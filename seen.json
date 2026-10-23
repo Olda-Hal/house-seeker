@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 2+1 58 m²",
+    "Address": "Černého, Brno - Bystrc",
+    "Price": "20 500 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-bystrc-cerneho/2815361100",
+    "id": "2815361100"
+  },
+  {
     "header": "Pronájem bytu 3+1 109 m²",
     "Address": "Veveří, Brno - Veveří",
     "Price": "29 900 Kč/měsíc",
@@ -131,12 +138,5 @@
     "Price": "32 500 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-veveri-uvoz/3941269580",
     "id": "3941269580"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 194 m²",
-    "Address": "Hrozňatova, Brno - Židenice",
-    "Price": "39 900 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zidenice-hroznatova/1520099404",
-    "id": "1520099404"
   }
 ]
