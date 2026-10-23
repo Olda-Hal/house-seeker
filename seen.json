@@ -1,5 +1,26 @@
 [
   {
+    "header": "Pronájem bytu 2+1 45 m²",
+    "Address": "Cejl, Brno - Zábrdovice",
+    "Price": "20 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-zabrdovice-cejl/2366885964",
+    "id": "2366885964"
+  },
+  {
+    "header": "Pronájem bytu 2+1 45 m²",
+    "Address": "Přízova, Brno - Trnitá",
+    "Price": "20 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-trnita-prizova/2522091596",
+    "id": "2522091596"
+  },
+  {
+    "header": "Pronájem bytu 3+1 72 m²",
+    "Address": "Galandauerova, Brno - Královo Pole",
+    "Price": "27 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-kralovo-pole-galandauerova/474226764",
+    "id": "474226764"
+  },
+  {
     "header": "Pronájem bytu 2+1 33 m²",
     "Address": "Václavská, Brno - Staré Brno",
     "Price": "19 900 Kč/měsíc",
@@ -12,13 +33,6 @@
     "Price": "27 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-slatina-smahova/4087427148",
     "id": "4087427148"
-  },
-  {
-    "header": "Pronájem bytu 2+1 45 m²",
-    "Address": "Přízova, Brno - Trnitá",
-    "Price": "20 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-trnita-prizova/2522091596",
-    "id": "2522091596"
   },
   {
     "header": "Pronájem bytu 2+1 50 m²",
@@ -84,13 +98,6 @@
     "id": "3449356364"
   },
   {
-    "header": "Pronájem bytu 2+1 45 m²",
-    "Address": "Cejl, Brno - Zábrdovice",
-    "Price": "20 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-zabrdovice-cejl/2366885964",
-    "id": "2366885964"
-  },
-  {
     "header": "Pronájem bytu 3+1 73 m²",
     "Address": "Strážnická, Brno - Slatina",
     "Price": "23 000 Kč/měsíc",
@@ -131,12 +138,5 @@
     "Price": "19 900 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-kohoutovice-voriskova/3018072140",
     "id": "3018072140"
-  },
-  {
-    "header": "Pronájem bytu 2+1 64 m²",
-    "Address": "Antonínská, Brno - Veveří",
-    "Price": "21 500 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-veveri-antoninska/1234702412",
-    "id": "1234702412"
   }
 ]
