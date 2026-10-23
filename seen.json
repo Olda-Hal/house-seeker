@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+1 114 m²",
+    "Address": "Marešova, Brno",
+    "Price": "29 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-brno-maresova/3100573772",
+    "id": "3100573772"
+  },
+  {
     "header": "Pronájem bytu 2+1 58 m²",
     "Address": "Černého, Brno - Bystrc",
     "Price": "20 500 Kč/měsíc",
@@ -131,12 +138,5 @@
     "Price": "19 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-styrice-jilova/2088697932",
     "id": "2088697932"
-  },
-  {
-    "header": "Pronájem bytu 3+1 80 m²",
-    "Address": "Úvoz, Brno - Veveří",
-    "Price": "32 500 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-veveri-uvoz/3941269580",
-    "id": "3941269580"
   }
 ]
