@@ -1,6 +1,13 @@
 [
   {
     "header": "Pronájem bytu 2+1 45 m²",
+    "Address": "Přízova, Brno - Trnitá",
+    "Price": "20 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-trnita-prizova/2522091596",
+    "id": "2522091596"
+  },
+  {
+    "header": "Pronájem bytu 2+1 45 m²",
     "Address": "Cejl, Brno - Zábrdovice",
     "Price": "20 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-zabrdovice-cejl/2366885964",
@@ -26,13 +33,6 @@
     "Price": "25 990 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-kralovo-pole-palackeho-trida/2752524364",
     "id": "2752524364"
-  },
-  {
-    "header": "Pronájem bytu 2+1 45 m²",
-    "Address": "Přízova, Brno - Trnitá",
-    "Price": "20 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-trnita-prizova/2522091596",
-    "id": "2522091596"
   },
   {
     "header": "Pronájem bytu 3+1 114 m²",
