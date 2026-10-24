@@ -1,17 +1,31 @@
 [
   {
-    "header": "Pronájem bytu 3+kk 135 m²",
-    "Address": "Výstavní, Brno - Staré Brno",
-    "Price": "36 900 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-stare-brno-vystavni/4069457996",
-    "id": "4069457996"
-  },
-  {
     "header": "Pronájem bytu 2+1 45 m²",
     "Address": "Přízova, Brno - Trnitá",
     "Price": "20 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-trnita-prizova/2522091596",
     "id": "2522091596"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 73 m²",
+    "Address": "Brno - Brno-Bystrc",
+    "Price": "25 900 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-brno-bystrc-/144388172",
+    "id": "144388172"
+  },
+  {
+    "header": "Pronájem bytu 3+1 73 m²",
+    "Address": "Oblá, Brno - Nový Lískovec",
+    "Price": "22 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-novy-liskovec-obla/3938132044",
+    "id": "3938132044"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 135 m²",
+    "Address": "Výstavní, Brno - Staré Brno",
+    "Price": "36 900 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-stare-brno-vystavni/4069457996",
+    "id": "4069457996"
   },
   {
     "header": "Pronájem bytu 2+1 45 m²",
@@ -98,25 +112,11 @@
     "id": "385163340"
   },
   {
-    "header": "Pronájem bytu 3+1 73 m²",
-    "Address": "Oblá, Brno - Nový Lískovec",
-    "Price": "22 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-novy-liskovec-obla/3938132044",
-    "id": "3938132044"
-  },
-  {
     "header": "Pronájem bytu 2+1 58 m²",
     "Address": "Jasanová, Brno - Jundrov",
     "Price": "21 900 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-jundrov-jasanova/3207868492",
     "id": "3207868492"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 73 m²",
-    "Address": "Brno - Brno-Bystrc",
-    "Price": "25 900 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-brno-bystrc-/144388172",
-    "id": "144388172"
   },
   {
     "header": "Pronájem bytu 3+kk 63 m²",
