@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+1 73 m²",
+    "Address": "Strážnická, Brno - Slatina",
+    "Price": "23 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-slatina-straznicka/128516172",
+    "id": "128516172"
+  },
+  {
     "header": "Pronájem bytu 2+1 45 m²",
     "Address": "Přízova, Brno - Trnitá",
     "Price": "20 000 Kč/měsíc",
@@ -131,12 +138,5 @@
     "Price": "22 500 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-styrice-havlenova/1500119116",
     "id": "1500119116"
-  },
-  {
-    "header": "Pronájem bytu 3+1 68 m²",
-    "Address": "Elplova, Brno - Líšeň",
-    "Price": "26 990 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-lisen-elplova/674173004",
-    "id": "674173004"
   }
 ]
