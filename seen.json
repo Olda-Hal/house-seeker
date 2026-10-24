@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 2+1 45 m²",
+    "Address": "Cejl, Brno - Zábrdovice",
+    "Price": "20 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-zabrdovice-cejl/2366885964",
+    "id": "2366885964"
+  },
+  {
     "header": "Pronájem bytu 3+kk 58 m²",
     "Address": "Markůvky, Brno - Bystrc",
     "Price": "25 000 Kč/měsíc",
@@ -105,13 +112,6 @@
     "id": "144388172"
   },
   {
-    "header": "Kuchyně snů od profíků",
-    "Address": "Rezervujte termín a naplánujte si s námi kuchyni německé kvality se zárukou až 25 let.",
-    "Price": "XXXLutz Česká republika",
-    "link": "https://i.imedia.cz/v2/click?spotId=4232234&d=9TAMZSJPW5JDDNE966DRJ5EX5FBWR8IMMACGD78P33VMMVUJMKFUZC27BDBVFCQGMT68NVTJV4M2X4KN2WIWS964CUKIYBA92JYF7UF7Z9ZBT8M8MH3BYXAUEVAQC65AIUMQ2DDZXTJ4IFYGDIA9VZCZ4VNN52EK6KGRXFCM4EV7FPBWG253UUD8JWX7UN9EWGSHVKGBU6MDHBDKK5BYBM3QAT4I5WVZKI2C6FMD3JWBH4KWFCKK7E77HA24W4VPYYHFCM6JVENNNQ76NDMZTH623STKH9H4ZDPGMPA6WA5KSFEUJEJWQH2IJ8PXMGTMVYAVNEYCCSR75XEV5HMAFG9GEXG2Q563WD2ZGVHBXE&destination=https%3A//ad.doubleclick.net/ddm/trackclk/N510405.5083943MUP-SEZNAM-NATIVE/B34999881.439057698%3Bdc_trk_aid%3D631994391%3Bdc_trk_cid%3D247725133%3Bdc_lat%3D%3Bdc_rdid%3D%3Btag_for_child_directed_treatment%3D%3Btfua%3D%3Bgdpr%3D$%7BGDPR%7D%3Bgdpr_consent%3D$%7BGDPR_CONSENT_755%7D%3Bltd%3D%3Bdc_tdv%3D1",
-    "id": "B34999881.439057698%3Bdc_trk_aid%3D631994391%3Bdc_trk_cid%3D247725133%3Bdc_lat%3D%3Bdc_rdid%3D%3Btag_for_child_directed_treatment%3D%3Btfua%3D%3Bgdpr%3D$%7BGDPR%7D%3Bgdpr_consent%3D$%7BGDPR_CONSENT_755%7D%3Bltd%3D%3Bdc_tdv%3D1"
-  },
-  {
     "header": "Pronájem bytu 3+kk 63 m²",
     "Address": "Rybnická, Brno - Nový Lískovec",
     "Price": "35 500 Kč/měsíc",
@@ -138,12 +138,5 @@
     "Price": "34 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-brno-mesto-peroutkova/3138322508",
     "id": "3138322508"
-  },
-  {
-    "header": "Pronájem bytu 3+1 60 m²",
-    "Address": "Lomená, Brno - Komárov",
-    "Price": "19 500 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-komarov-lomena/384835660",
-    "id": "384835660"
   }
 ]
