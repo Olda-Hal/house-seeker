@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 58 m²",
+    "Address": "Krameriova, Brno - Líšeň",
+    "Price": "20 900 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-lisen-krameriova/4101898316",
+    "id": "4101898316"
+  },
+  {
     "header": "Pronájem bytu 3+1 73 m²",
     "Address": "Strážnická, Brno - Slatina",
     "Price": "23 000 Kč/měsíc",
@@ -131,12 +138,5 @@
     "Price": "35 500 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-novy-liskovec-rybnicka/3987345484",
     "id": "3987345484"
-  },
-  {
-    "header": "Pronájem bytu 3+1 70 m²",
-    "Address": "Havlenova, Brno - Štýřice",
-    "Price": "22 500 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-styrice-havlenova/1500119116",
-    "id": "1500119116"
   }
 ]
