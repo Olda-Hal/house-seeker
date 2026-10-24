@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 2+1 54 m²",
+    "Address": "Trýbova, Brno - Staré Brno",
+    "Price": "19 500 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-stare-brno-trybova/2206072908",
+    "id": "2206072908"
+  },
+  {
     "header": "Pronájem bytu 3+kk 58 m²",
     "Address": "Krameriova, Brno - Líšeň",
     "Price": "20 900 Kč/měsíc",
@@ -131,12 +138,5 @@
     "Price": "21 900 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-jundrov-jasanova/3207868492",
     "id": "3207868492"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 63 m²",
-    "Address": "Rybnická, Brno - Nový Lískovec",
-    "Price": "35 500 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-novy-liskovec-rybnicka/3987345484",
-    "id": "3987345484"
   }
 ]
