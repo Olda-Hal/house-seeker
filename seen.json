@@ -119,6 +119,13 @@
     "id": "384835660"
   },
   {
+    "header": "Pronájem bytu 3+kk 85 m²",
+    "Address": "Domažlická, Brno - Ponava",
+    "Price": "35 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-ponava-domazlicka/1066008652",
+    "id": "1066008652"
+  },
+  {
     "header": "Pronájem bytu 3+kk 100 m²",
     "Address": "Výstavní, Brno - Staré Brno",
     "Price": "32 000 Kč/měsíc",
@@ -131,12 +138,5 @@
     "Price": "24 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-zabovresky-brezinova/243204172",
     "id": "243204172"
-  },
-  {
-    "header": "Pronájem bytu 2+1 54 m²",
-    "Address": "Jílová, Brno - Štýřice",
-    "Price": "19 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-styrice-jilova/2088697932",
-    "id": "2088697932"
   }
 ]
