@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+1 70 m²",
+    "Address": "Havlenova, Brno - Štýřice",
+    "Price": "22 500 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-styrice-havlenova/1500119116",
+    "id": "1500119116"
+  },
+  {
     "header": "Pronájem bytu 3+kk 110 m²",
     "Address": "Koliště, Brno - Černá Pole",
     "Price": "29 990 Kč/měsíc",
@@ -131,12 +138,5 @@
     "Price": "29 990 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zebetin-/1833828428",
     "id": "1833828428"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 58 m²",
-    "Address": "Krameriova, Brno - Líšeň",
-    "Price": "20 900 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-lisen-krameriova/4101898316",
-    "id": "4101898316"
   }
 ]
