@@ -1,5 +1,19 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 110 m²",
+    "Address": "Koliště, Brno - Černá Pole",
+    "Price": "29 990 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-cerna-pole-koliste/1881014348",
+    "id": "1881014348"
+  },
+  {
+    "header": "Pronájem bytu 3+1 77 m²",
+    "Address": "Pavlovská, Brno - Kohoutovice",
+    "Price": "24 900 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-kohoutovice-pavlovska/1008799820",
+    "id": "1008799820"
+  },
+  {
     "header": "Pronájem bytu 3+kk 70 m²",
     "Address": "Kotkova, Brno - Černovice",
     "Price": "26 000 Kč/měsíc",
@@ -124,19 +138,5 @@
     "Price": "20 900 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-lisen-krameriova/4101898316",
     "id": "4101898316"
-  },
-  {
-    "header": "Pronájem bytu 3+1 73 m²",
-    "Address": "Strážnická, Brno - Slatina",
-    "Price": "23 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-slatina-straznicka/128516172",
-    "id": "128516172"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 135 m²",
-    "Address": "Výstavní, Brno - Staré Brno",
-    "Price": "36 900 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-stare-brno-vystavni/4069457996",
-    "id": "4069457996"
   }
 ]
