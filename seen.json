@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 62 m²",
+    "Address": "Černého, Brno - Bystrc",
+    "Price": "23 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-bystrc-cerneho/3967549516",
+    "id": "3967549516"
+  },
+  {
     "header": "Pronájem bytu 3+1 77 m²",
     "Address": "Pavlovská, Brno - Kohoutovice",
     "Price": "24 900 Kč/měsíc",
@@ -131,12 +138,5 @@
     "Price": "30 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-brno-tabor/2155221068",
     "id": "2155221068"
-  },
-  {
-    "header": "Pronájem bytu 3+1 70 m²",
-    "Address": "Bučovická, Brno - Slatina",
-    "Price": "22 400 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-slatina-bucovicka/385163340",
-    "id": "385163340"
   }
 ]
