@@ -1,5 +1,26 @@
 [
   {
+    "header": "Pronájem bytu 2+1 45 m²",
+    "Address": "Přízova, Brno - Trnitá",
+    "Price": "19 500 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-trnita-prizova/948699212",
+    "id": "948699212"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 58 m²",
+    "Address": "Milady Horákové, Brno - Černá Pole",
+    "Price": "21 990 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-cerna-pole-milady-horakove/544739404",
+    "id": "544739404"
+  },
+  {
+    "header": "Pronájem bytu 3+1 77 m²",
+    "Address": "Pavlovská, Brno - Kohoutovice",
+    "Price": "24 900 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-kohoutovice-pavlovska/1008799820",
+    "id": "1008799820"
+  },
+  {
     "header": "Pronájem bytu 2+1 52 m²",
     "Address": "Jakuba Obrovského, Brno - Bystrc",
     "Price": "17 748 Kč/měsíc",
@@ -12,13 +33,6 @@
     "Price": "21 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-zabovresky-vychodilova/1390743628",
     "id": "1390743628"
-  },
-  {
-    "header": "Pronájem bytu 2+1 45 m²",
-    "Address": "Přízova, Brno - Trnitá",
-    "Price": "19 500 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-trnita-prizova/948699212",
-    "id": "948699212"
   },
   {
     "header": "Pronájem bytu 3+1 98 m²",
@@ -124,19 +138,5 @@
     "Price": "22 500 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-komin-bely-pazoutove/2014052428",
     "id": "2014052428"
-  },
-  {
-    "header": "Pronájem bytu 2+1 54 m²",
-    "Address": "Trýbova, Brno - Staré Brno",
-    "Price": "19 500 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-stare-brno-trybova/2206072908",
-    "id": "2206072908"
-  },
-  {
-    "header": "Pronájem bytu 2+1 50 m²",
-    "Address": "Pekařská, Brno - Staré Brno",
-    "Price": "18 900 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-stare-brno-pekarska/751566924",
-    "id": "751566924"
   }
 ]
