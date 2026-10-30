@@ -1,6 +1,20 @@
 [
   {
     "header": "Pronájem bytu 2+1 58 m²",
+    "Address": "Bayerova, Brno - Veveří",
+    "Price": "22 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-veveri-bayerova/2054225996",
+    "id": "2054225996"
+  },
+  {
+    "header": "Pronájem bytu 3+1 91 m²",
+    "Address": "Palackého třída, Brno - Královo Pole",
+    "Price": "24 990 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-kralovo-pole-palackeho-trida/2752524364",
+    "id": "2752524364"
+  },
+  {
+    "header": "Pronájem bytu 2+1 58 m²",
     "Address": "Jasanová, Brno - Jundrov",
     "Price": "22 800 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-jundrov-jasanova/1131479116",
@@ -124,19 +138,5 @@
     "Price": "35 900 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-stare-brno-vystavni/4069457996",
     "id": "4069457996"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 85 m²",
-    "Address": "Domažlická, Brno - Ponava",
-    "Price": "35 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-ponava-domazlicka/1066008652",
-    "id": "1066008652"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 74 m²",
-    "Address": "Mučednická, Brno - Žabovřesky",
-    "Price": "25 900 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zabovresky-mucednicka/1784807500",
-    "id": "1784807500"
   }
 ]
