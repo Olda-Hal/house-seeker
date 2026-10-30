@@ -1,5 +1,19 @@
 [
   {
+    "header": "Pronájem bytu 2+1 45 m²",
+    "Address": "Přízova, Brno - Trnitá",
+    "Price": "19 500 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-trnita-prizova/948699212",
+    "id": "948699212"
+  },
+  {
+    "header": "Pronájem bytu 3+1 68 m²",
+    "Address": "Elplova, Brno - Líšeň",
+    "Price": "26 990 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-lisen-elplova/674173004",
+    "id": "674173004"
+  },
+  {
     "header": "Pronájem bytu 2+1 54 m²",
     "Address": "Kvapilova, Brno - Žabovřesky",
     "Price": "21 990 Kč/měsíc",
@@ -63,13 +77,6 @@
     "id": "1784807500"
   },
   {
-    "header": "Pronájem bytu 2+1 45 m²",
-    "Address": "Přízova, Brno - Trnitá",
-    "Price": "19 500 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-trnita-prizova/948699212",
-    "id": "948699212"
-  },
-  {
     "header": "Pronájem bytu 2+1 43 m²",
     "Address": "Renneská třída, Brno - Štýřice",
     "Price": "17 400 Kč/měsíc",
@@ -131,12 +138,5 @@
     "Price": "22 500 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-kohoutovice-zebetinska/3238133836",
     "id": "3238133836"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 95 m²",
-    "Address": "Šmahova, Brno - Slatina",
-    "Price": "27 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-slatina-smahova/4087427148",
-    "id": "4087427148"
   }
 ]
