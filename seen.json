@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 194 m²",
+    "Address": "Hrozňatova, Brno - Židenice",
+    "Price": "39 900 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zidenice-hroznatova/1520099404",
+    "id": "1520099404"
+  },
+  {
     "header": "Pronájem bytu 2+1 57 m²",
     "Address": "Voříškova, Brno - Kohoutovice",
     "Price": "6 893 000 Kč/měsíc",
@@ -131,12 +138,5 @@
     "Price": "27 990 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-stare-brno-soukenicka/3876388940",
     "id": "3876388940"
-  },
-  {
-    "header": "Pronájem bytu 2+1 50 m²",
-    "Address": "Dornych, Brno - Trnitá",
-    "Price": "30 490 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-trnita-dornych/1895436364",
-    "id": "1895436364"
   }
 ]
