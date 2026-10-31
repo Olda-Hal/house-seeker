@@ -1,17 +1,17 @@
 [
   {
-    "header": "Pronájem bytu 3+kk 66 m²",
-    "Address": "Kolískova, Brno - Trnitá",
-    "Price": "25 900 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-trnita-koliskova/930152524",
-    "id": "930152524"
-  },
-  {
     "header": "Pronájem bytu 2+1 45 m²",
     "Address": "Přízova, Brno - Trnitá",
     "Price": "19 500 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-trnita-prizova/948699212",
     "id": "948699212"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 66 m²",
+    "Address": "Kolískova, Brno - Trnitá",
+    "Price": "25 900 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-trnita-koliskova/930152524",
+    "id": "930152524"
   },
   {
     "header": "Pronájem bytu 3+1 75 m²",
