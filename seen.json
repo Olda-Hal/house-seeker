@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 47 m²",
+    "Address": "Pellicova, Brno - Staré Brno",
+    "Price": "25 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-stare-brno-pellicova/2015432780",
+    "id": "2015432780"
+  },
+  {
     "header": "Pronájem bytu 3+1 77 m²",
     "Address": "Pavlovská, Brno - Kohoutovice",
     "Price": "24 900 Kč/měsíc",
@@ -131,12 +138,5 @@
     "Price": "22 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-stare-brno-krizkovskeho/3643867212",
     "id": "3643867212"
-  },
-  {
-    "header": "Pronájem bytu 3+1 80 m²",
-    "Address": "Úvoz, Brno - Veveří",
-    "Price": "31 500 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-veveri-uvoz/3941269580",
-    "id": "3941269580"
   }
 ]
