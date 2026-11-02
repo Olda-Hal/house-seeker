@@ -1,5 +1,19 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 74 m²",
+    "Address": "Mučednická, Brno - Žabovřesky",
+    "Price": "25 900 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zabovresky-mucednicka/1784807500",
+    "id": "1784807500"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 67 m²",
+    "Address": "Moutnická, Brno - Slatina",
+    "Price": "22 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-slatina-moutnicka/960835660",
+    "id": "960835660"
+  },
+  {
     "header": "Pronájem bytu 3+1 80 m²",
     "Address": "Úvoz, Brno - Veveří",
     "Price": "31 500 Kč/měsíc",
@@ -124,19 +138,5 @@
     "Price": "18 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-cernovice-huskova/326107212",
     "id": "326107212"
-  },
-  {
-    "header": "Pronájem bytu 3+1 69 m²",
-    "Address": "Horácké náměstí, Brno - Řečkovice",
-    "Price": "23 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-reckovice-horacke-namesti/3064410188",
-    "id": "3064410188"
-  },
-  {
-    "header": "Pronájem bytu 3+1 60 m²",
-    "Address": "Strnadova, Brno - Líšeň",
-    "Price": "22 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-lisen-strnadova/2479755340",
-    "id": "2479755340"
   }
 ]
