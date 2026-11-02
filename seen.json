@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 55 m²",
+    "Address": "Terezy Novákové, Brno - Řečkovice",
+    "Price": "29 900 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-reckovice-terezy-novakove/408944716",
+    "id": "408944716"
+  },
+  {
     "header": "Pronájem bytu 3+kk 47 m²",
     "Address": "Pellicova, Brno - Staré Brno",
     "Price": "25 000 Kč/měsíc",
@@ -131,12 +138,5 @@
     "Price": "25 900 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-trnita-koliskova/930152524",
     "id": "930152524"
-  },
-  {
-    "header": "Pronájem bytu 3+1 75 m²",
-    "Address": "Křížkovského, Brno - Staré Brno",
-    "Price": "22 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-stare-brno-krizkovskeho/3643867212",
-    "id": "3643867212"
   }
 ]
