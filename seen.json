@@ -1,5 +1,26 @@
 [
   {
+    "header": "Pronájem bytu 2+1 45 m²",
+    "Address": "Přízova, Brno - Trnitá",
+    "Price": "19 500 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-trnita-prizova/948699212",
+    "id": "948699212"
+  },
+  {
+    "header": "Pronájem bytu 2+1 58 m²",
+    "Address": "Jircháře, Brno - Staré Brno",
+    "Price": "21 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-stare-brno-jirchare/949682252",
+    "id": "949682252"
+  },
+  {
+    "header": "Pronájem bytu 2+1 52 m²",
+    "Address": "Húskova, Brno - Černovice",
+    "Price": "18 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-cernovice-huskova/326107212",
+    "id": "326107212"
+  },
+  {
     "header": "Pronájem bytu 3+1 69 m²",
     "Address": "Horácké náměstí, Brno - Řečkovice",
     "Price": "23 000 Kč/měsíc",
@@ -98,13 +119,6 @@
     "id": "4222681164"
   },
   {
-    "header": "Pronájem bytu 2+1 45 m²",
-    "Address": "Přízova, Brno - Trnitá",
-    "Price": "19 500 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-trnita-prizova/948699212",
-    "id": "948699212"
-  },
-  {
     "header": "Pronájem bytu 3+1 68 m²",
     "Address": "Elplova, Brno - Líšeň",
     "Price": "26 990 Kč/měsíc",
@@ -124,19 +138,5 @@
     "Price": "23 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-lisen-hochmanova/3919650892",
     "id": "3919650892"
-  },
-  {
-    "header": "Pronájem bytu 2+1 53 m²",
-    "Address": "Valchařská, Brno - Husovice",
-    "Price": "15 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-husovice-valcharska/1911619660",
-    "id": "1911619660"
-  },
-  {
-    "header": "Pronájem bytu 2+1 62 m²",
-    "Address": "Langrova, Brno - Slatina",
-    "Price": "19 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-slatina-langrova/2665545804",
-    "id": "2665545804"
   }
 ]
