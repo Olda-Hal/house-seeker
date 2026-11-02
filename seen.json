@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 96 m²",
+    "Address": "Březová, Brno - Jundrov",
+    "Price": "32 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-jundrov-brezova/455540812",
+    "id": "455540812"
+  },
+  {
     "header": "Pronájem bytu 3+1 114 m²",
     "Address": "Brno - Brno-střed",
     "Price": "29 000 Kč/měsíc",
@@ -131,12 +138,5 @@
     "Price": "22 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-novy-liskovec-obla/3938132044",
     "id": "3938132044"
-  },
-  {
-    "header": "Pronájem bytu 2+1 58 m²",
-    "Address": "Jasanová, Brno - Jundrov",
-    "Price": "21 900 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-jundrov-jasanova/3207868492",
-    "id": "3207868492"
   }
 ]
