@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 2+1 57 m²",
+    "Address": "Kamenná, Brno - Štýřice",
+    "Price": "24 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-styrice-kamenna/733945932",
+    "id": "733945932"
+  },
+  {
     "header": "Pronájem bytu 3+kk 96 m²",
     "Address": "Březová, Brno - Jundrov",
     "Price": "32 000 Kč/měsíc",
@@ -47,13 +54,6 @@
     "Price": "21 990 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-zabovresky-kvapilova/361889868",
     "id": "361889868"
-  },
-  {
-    "header": "Plánování kuchyně ZDARMA",
-    "Address": "Rezervujte termín a naplánujte si s námi kuchyni německé kvality se zárukou až 25 let.",
-    "Price": "XXXLutz Česká republika",
-    "link": "https://i.imedia.cz/v2/click?spotId=4255232&d=3YACZ8R7BBQYCAFY5G826UB4FTPMB4NHJ2GXFBV7HM7V5FEKNCK59EMGB5359MDXA8KVSK92BK73AUJVF74YZC3R3ZZCS7F7CJ4INPUAC9R6F92BZWT3N8MJKFY48H57RUGPW3NHKZFHZGDJJ3SA9F977Q36FKZKNTVEEMUTIR3CY5CCAM9JNAK3HI7E2NIJZNSB2N2B6HPGDVG5CBAPKMQKVQUA8PVFWGKTMTUVYZFUN69A8H9JZB969RSN2VXZDUBKYKBG3PNKQMS4IQWH7DRJJ9NMJRD6ACEQ7PG7PTYQ5C824MRSUDIDHX3P3AUKAWFPFMBB62Q2N2K4TAGCD3ZHBDZNEZ4QTES4PENVXSSFXTI&destination=https%3A//ad.doubleclick.net/ddm/trackclk/N510405.5083943MUP-SEZNAM-NATIVE/B34999881.438741785%3Bdc_trk_aid%3D632129215%3Bdc_trk_cid%3D247725133%3Bdc_lat%3D%3Bdc_rdid%3D%3Btag_for_child_directed_treatment%3D%3Btfua%3D%3Bgdpr%3D$%7BGDPR%7D%3Bgdpr_consent%3D$%7BGDPR_CONSENT_755%7D%3Bltd%3D%3Bdc_tdv%3D1",
-    "id": "B34999881.438741785%3Bdc_trk_aid%3D632129215%3Bdc_trk_cid%3D247725133%3Bdc_lat%3D%3Bdc_rdid%3D%3Btag_for_child_directed_treatment%3D%3Btfua%3D%3Bgdpr%3D$%7BGDPR%7D%3Bgdpr_consent%3D$%7BGDPR_CONSENT_755%7D%3Bltd%3D%3Bdc_tdv%3D1"
   },
   {
     "header": "Pronájem bytu 3+kk 87 m²",
@@ -138,12 +138,5 @@
     "Price": "23 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-lisen-josefy-faimonove/2218991692",
     "id": "2218991692"
-  },
-  {
-    "header": "Pronájem bytu 3+1 73 m²",
-    "Address": "Oblá, Brno - Nový Lískovec",
-    "Price": "22 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-novy-liskovec-obla/3938132044",
-    "id": "3938132044"
   }
 ]
