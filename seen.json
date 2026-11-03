@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 2+1 53 m²",
+    "Address": "Kotlářská, Brno - Veveří",
+    "Price": "22 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-veveri-kotlarska/501219404",
+    "id": "501219404"
+  },
+  {
     "header": "Pronájem bytu 3+kk 87 m²",
     "Address": "Soukenická, Brno - Staré Brno",
     "Price": "27 990 Kč/měsíc",
@@ -131,12 +138,5 @@
     "Price": "24 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-styrice-kamenna/733945932",
     "id": "733945932"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 96 m²",
-    "Address": "Březová, Brno - Jundrov",
-    "Price": "32 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-jundrov-brezova/455540812",
-    "id": "455540812"
   }
 ]
