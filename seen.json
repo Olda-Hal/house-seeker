@@ -1,5 +1,19 @@
 [
   {
+    "header": "Pronájem bytu 2+1 45 m²",
+    "Address": "Cejl, Brno - Zábrdovice",
+    "Price": "20 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-zabrdovice-cejl/2366885964",
+    "id": "2366885964"
+  },
+  {
+    "header": "Pronájem bytu 3+1 72 m²",
+    "Address": "Galandauerova, Brno - Královo Pole",
+    "Price": "27 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-kralovo-pole-galandauerova/474226764",
+    "id": "474226764"
+  },
+  {
     "header": "Pronájem bytu 3+kk 70 m²",
     "Address": "Karlova, Brno - Maloměřice",
     "Price": "23 000 Kč/měsíc",
@@ -119,24 +133,10 @@
     "id": "595722316"
   },
   {
-    "header": "Pronájem bytu 3+1 72 m²",
-    "Address": "Galandauerova, Brno - Královo Pole",
-    "Price": "27 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-kralovo-pole-galandauerova/474226764",
-    "id": "474226764"
-  },
-  {
     "header": "Pronájem bytu 2+1 68 m²",
     "Address": "Zahradnická, Brno - Staré Brno",
     "Price": "32 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-stare-brno-zahradnicka/974979148",
     "id": "974979148"
-  },
-  {
-    "header": "Pronájem bytu 2+1 55 m²",
-    "Address": "Ibsenova, Brno - Lesná",
-    "Price": "20 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-lesna-ibsenova/55775308",
-    "id": "55775308"
   }
 ]
