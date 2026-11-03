@@ -1,5 +1,19 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 87 m²",
+    "Address": "Soukenická, Brno - Staré Brno",
+    "Price": "27 990 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-stare-brno-soukenicka/3876388940",
+    "id": "3876388940"
+  },
+  {
+    "header": "Pronájem bytu 2+1 54 m²",
+    "Address": "Kvapilova, Brno - Žabovřesky",
+    "Price": "21 990 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-zabovresky-kvapilova/361889868",
+    "id": "361889868"
+  },
+  {
     "header": "Pronájem bytu 3+kk 85 m²",
     "Address": "Domažlická, Brno - Ponava",
     "Price": "35 000 Kč/měsíc",
@@ -124,19 +138,5 @@
     "Price": "32 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-jundrov-brezova/455540812",
     "id": "455540812"
-  },
-  {
-    "header": "Pronájem bytu 3+1 114 m²",
-    "Address": "Brno - Brno-střed",
-    "Price": "29 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-brno-stred-/1395064908",
-    "id": "1395064908"
-  },
-  {
-    "header": "Pronájem bytu 2+1 59 m²",
-    "Address": "Vondrákova, Brno - Bystrc",
-    "Price": "24 500 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-bystrc-vondrakova/4112973900",
-    "id": "4112973900"
   }
 ]
