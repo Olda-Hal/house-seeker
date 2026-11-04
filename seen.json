@@ -1,5 +1,19 @@
 [
   {
+    "header": "Pronájem bytu 3+1 60 m²",
+    "Address": "Strnadova, Brno - Líšeň",
+    "Price": "22 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-lisen-strnadova/2479755340",
+    "id": "2479755340"
+  },
+  {
+    "header": "SLEVA: Pronájem bytu 3+kk 90 m²",
+    "Address": "Lidická, Brno",
+    "Price": "35 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-brno-lidicka/4242804812",
+    "id": "4242804812"
+  },
+  {
     "header": "Pronájem bytu 3+1 114 m²",
     "Address": "Brno - Brno-střed",
     "Price": "29 000 Kč/měsíc",
@@ -91,6 +105,13 @@
     "id": "2218991692"
   },
   {
+    "header": "Stabilní financování",
+    "Address": "Až 80 mil. Kč na 30 let pro vaše podnikání.",
+    "Price": "MONETA Bank",
+    "link": "https://i.imedia.cz/v2/click?spotId=4260406&d=P2QTGAGQA4X54FYIQX8IU4UAGFMNZMVU2657WUN8IU24DCMGMMZE94749A7VIJS5FITR48FF8BJBXTH8C3IRXZUBBD4H6UPW6S5VSF8YF9WMVS2GRWYSJ9AAP524JQ3CQGJS4JZF4DYEVBFCVQ8AQUID4U4TNRQEFRTC9B8MRNCN7EPBAZVMRQTK8AFJ29HNMRZAGHCH2G8B8SAYZ3422QVB4XVR69GHBZPK8R8APQ4JUTIP5UBPCQ44C7PZZZX2MNW7EAHB7R52T5VAVUUKVYESZ2FXYR4X8IME7YCY3E3YXCABT4YD95NP3Q6P6U3HVGJXC87DFUWMQJ4P5GCJI74HD87EMU2ZPAJW5BXFAWNNAQI&destination=https%3A//ad.doubleclick.net/ddm/trackclk/N2657615.285881SEZNAM/B34999902.445520436%3Bdc_trk_aid%3D644040806%3Bdc_trk_cid%3D254741090%3Bdc_lat%3D%3Bdc_rdid%3D%3Btag_for_child_directed_treatment%3D%3Btfua%3D%3Bgdpr%3D$%7BGDPR%7D%3Bgdpr_consent%3D$%7BGDPR_CONSENT_755%7D%3Bltd%3D%3Bdc_tdv%3D1",
+    "id": "B34999902.445520436%3Bdc_trk_aid%3D644040806%3Bdc_trk_cid%3D254741090%3Bdc_lat%3D%3Bdc_rdid%3D%3Btag_for_child_directed_treatment%3D%3Btfua%3D%3Bgdpr%3D$%7BGDPR%7D%3Bgdpr_consent%3D$%7BGDPR_CONSENT_755%7D%3Bltd%3D%3Bdc_tdv%3D1"
+  },
+  {
     "header": "Pronájem bytu 3+1 73 m²",
     "Address": "Oblá, Brno - Nový Lískovec",
     "Price": "22 000 Kč/měsíc",
@@ -124,19 +145,5 @@
     "Price": "30 490 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-trnita-dornych/1895436364",
     "id": "1895436364"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 68 m²",
-    "Address": "Kovářská, Brno - Komárov",
-    "Price": "26 290 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-komarov-kovarska/2067136588",
-    "id": "2067136588"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 63 m²",
-    "Address": "Rybnická, Brno - Nový Lískovec",
-    "Price": "35 500 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-novy-liskovec-rybnicka/3987345484",
-    "id": "3987345484"
   }
 ]
