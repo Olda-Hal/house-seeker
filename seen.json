@@ -1,5 +1,26 @@
 [
   {
+    "header": "Pronájem bytu 2+1 53 m²",
+    "Address": "Nezamyslova, Brno - Židenice",
+    "Price": "19 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-zidenice-nezamyslova/2058747980",
+    "id": "2058747980"
+  },
+  {
+    "header": "Pronájem bytu 2+1 55 m²",
+    "Address": "Nezvalova, Brno - Lesná",
+    "Price": "19 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-lesna-nezvalova/2478178380",
+    "id": "2478178380"
+  },
+  {
+    "header": "Pronájem bytu 2+1 52 m²",
+    "Address": "Špitálka, Brno - Zábrdovice",
+    "Price": "14 500 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-zabrdovice-spitalka/297140300",
+    "id": "297140300"
+  },
+  {
     "header": "Pronájem bytu 2+1 48 m²",
     "Address": "Botanická, Brno",
     "Price": "25 000 Kč/měsíc",
@@ -47,13 +68,6 @@
     "Price": "22 500 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-komin-olbrachtovo-namesti/53878860",
     "id": "53878860"
-  },
-  {
-    "header": "REALFEST 2026",
-    "Address": "11. ročník REALFESTu je tady! Top řečníci, panelky, workshopy, AI, právo, networking",
-    "Price": "RVI s.r.o.",
-    "link": "https://i.imedia.cz/v2/click?spotId=4256352&d=P7CNSQNW4IP52XDWZT3B6DFN6FHZI5GWJ34474JAH8RGRY7PUU8VMG5IFDWRBIX3CNFTHA62NJC73ZVM9IB7HF3R2YIWA7GKZMTDYTIRD3WFU76H9CNWIAA7KWSJPIMKT86PP3625N4K6C3Z2C76SK7KYUKI7S43Q8XDI2EFRU4F82DCXIQRRW3W6RJ6WS49H2FQDUUI92DS8CR6BPQIBPBTQIYS28DY5MCP6Y7IDCYGRJ3C49FM6T9W64AE658GPIJMTFVVG73VHTPU6XQBI2UP7XNZG98MMHH3N7ANC4PM3UMDGCW8GGFFH2J3PRABCU5DG6HUFQ5WXISEUNV4T2W84FWQQ46J8B6C4TCJWQJSKMNPVSRIY738HHKT6NWXUN3X49CPW3BXCEUGBZMQWNPC5V7QNHJ2T36IQJR7&destination=https%3A//realfest.cz/",
-    "id": ""
   },
   {
     "header": "Pronájem bytu 3+kk 74 m²",
@@ -124,26 +138,5 @@
     "Price": "23 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-lisen-josefy-faimonove/2218991692",
     "id": "2218991692"
-  },
-  {
-    "header": "Pronájem bytu 3+1 73 m²",
-    "Address": "Oblá, Brno - Nový Lískovec",
-    "Price": "22 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-novy-liskovec-obla/3938132044",
-    "id": "3938132044"
-  },
-  {
-    "header": "Pronájem bytu 2+1 58 m²",
-    "Address": "Jasanová, Brno - Jundrov",
-    "Price": "21 900 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-jundrov-jasanova/3207868492",
-    "id": "3207868492"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 73 m²",
-    "Address": "Hvozdecká, Brno - Bystrc",
-    "Price": "24 500 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-bystrc-hvozdecka/144388172",
-    "id": "144388172"
   }
 ]
