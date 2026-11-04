@@ -1,10 +1,10 @@
 [
   {
-    "header": "Pronájem bytu 3+1 114 m²",
-    "Address": "Brno - Brno-střed",
-    "Price": "29 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-brno-stred-/3472162892",
-    "id": "3472162892"
+    "header": "Pronájem bytu 2+1 66 m²",
+    "Address": "Přímá, Brno - Bosonohy",
+    "Price": "22 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-bosonohy-prima/3906273356",
+    "id": "3906273356"
   },
   {
     "header": "Pronájem bytu 2+1 54 m²",
@@ -12,6 +12,13 @@
     "Price": "21 990 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-zabovresky-kvapilova/361889868",
     "id": "361889868"
+  },
+  {
+    "header": "Pronájem bytu 3+1 114 m²",
+    "Address": "Brno - Brno-střed",
+    "Price": "29 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-brno-stred-/3472162892",
+    "id": "3472162892"
   },
   {
     "header": "Pronájem bytu 3+kk 68 m²",
@@ -131,12 +138,5 @@
     "Price": "29 990 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-cerna-pole-koliste/1881014348",
     "id": "1881014348"
-  },
-  {
-    "header": "Pronájem bytu 2+1 55 m²",
-    "Address": "náměstí SNP, Brno - Černá Pole",
-    "Price": "19 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-cerna-pole-namesti-snp/2694320204",
-    "id": "2694320204"
   }
 ]
