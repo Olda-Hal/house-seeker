@@ -1,6 +1,13 @@
 [
   {
     "header": "Pronájem bytu 2+1 53 m²",
+    "Address": "Ponětovická, Brno - Slatina",
+    "Price": "17 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-slatina-ponetovicka/3684040780",
+    "id": "3684040780"
+  },
+  {
+    "header": "Pronájem bytu 2+1 53 m²",
     "Address": "Nezamyslova, Brno - Židenice",
     "Price": "19 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-zidenice-nezamyslova/2058747980",
@@ -131,12 +138,5 @@
     "Price": "16 500 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-bystrc-wollmanova/1612718156",
     "id": "1612718156"
-  },
-  {
-    "header": "Pronájem bytu 3+1 62 m²",
-    "Address": "Josefy Faimonové, Brno - Líšeň",
-    "Price": "23 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-lisen-josefy-faimonove/2218991692",
-    "id": "2218991692"
   }
 ]
