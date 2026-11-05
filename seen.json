@@ -7,6 +7,13 @@
     "id": "3449356364"
   },
   {
+    "header": "Pronájem bytu 2+1 56 m²",
+    "Address": "Nováčkova, Brno - Husovice",
+    "Price": "16 900 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-husovice-novackova/2436108364",
+    "id": "2436108364"
+  },
+  {
     "header": "Pronájem bytu 3+kk 162 m²",
     "Address": "Bratislavská, Brno - Zábrdovice",
     "Price": "43 900 Kč/měsíc",
@@ -131,12 +138,5 @@
     "Price": "26 290 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-komarov-kovarska/2067136588",
     "id": "2067136588"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 87 m²",
-    "Address": "Soukenická, Brno - Staré Brno",
-    "Price": "27 990 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-stare-brno-soukenicka/3876388940",
-    "id": "3876388940"
   }
 ]
