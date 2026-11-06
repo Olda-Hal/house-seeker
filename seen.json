@@ -1,5 +1,19 @@
 [
   {
+    "header": "Pronájem bytu 3+1 60 m²",
+    "Address": "Marie Kudeříkové, Brno - Židenice",
+    "Price": "20 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-zidenice-marie-kuderikove/66809932",
+    "id": "66809932"
+  },
+  {
+    "header": "Pronájem bytu 3+1 68 m²",
+    "Address": "Elplova, Brno - Líšeň",
+    "Price": "25 990 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-lisen-elplova/674173004",
+    "id": "674173004"
+  },
+  {
     "header": "Pronájem bytu 3+kk 113 m²",
     "Address": "Neumannova, Brno - Pisárky",
     "Price": "45 000 Kč/měsíc",
@@ -124,19 +138,5 @@
     "Price": "25 900 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-zidenice-vymazalova/4048253004",
     "id": "4048253004"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 61 m²",
-    "Address": "Mojmírovo náměstí, Brno - Královo Pole",
-    "Price": "25 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-kralovo-pole-mojmirovo-namesti/1414230092",
-    "id": "1414230092"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 110 m²",
-    "Address": "Koliště, Brno - Černá Pole",
-    "Price": "29 990 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-cerna-pole-koliste/1881014348",
-    "id": "1881014348"
   }
 ]
