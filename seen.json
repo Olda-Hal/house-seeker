@@ -1,5 +1,47 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 68 m²",
+    "Address": "Kovářská, Brno - Komárov",
+    "Price": "26 290 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-komarov-kovarska/2067136588",
+    "id": "2067136588"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 90 m²",
+    "Address": "Táborského nábřeží, Brno - Štýřice",
+    "Price": "27 200 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-styrice-taborskeho-nabrezi/287010892",
+    "id": "287010892"
+  },
+  {
+    "header": "Pronájem bytu 3+1 60 m²",
+    "Address": "Strnadova, Brno - Líšeň",
+    "Price": "22 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-lisen-strnadova/2479755340",
+    "id": "2479755340"
+  },
+  {
+    "header": "Pronájem bytu 3+1 72 m²",
+    "Address": "Jemelkova, Brno - Starý Lískovec",
+    "Price": "30 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-stary-liskovec-jemelkova/453734476",
+    "id": "453734476"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 194 m²",
+    "Address": "Hrozňatova, Brno - Židenice",
+    "Price": "39 900 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zidenice-hroznatova/1520099404",
+    "id": "1520099404"
+  },
+  {
+    "header": "Pronájem bytu 2+1 54 m²",
+    "Address": "Kabátníkova, Brno - Ponava",
+    "Price": "18 500 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-ponava-kabatnikova/3305861196",
+    "id": "3305861196"
+  },
+  {
     "header": "Pronájem bytu 3+1 60 m²",
     "Address": "Lomená, Brno - Komárov",
     "Price": "19 500 Kč/měsíc",
@@ -49,13 +91,6 @@
     "id": "2938572876"
   },
   {
-    "header": "Inspired by nature. Designed to experience it.",
-    "Address": "Crafted to perform. The Mazda CX-50 is ready for whatever journey you have planned next.",
-    "Price": "Reklama",
-    "link": "https://zne1-ib.adnxs-simple.com/click2?e=wqT_3QKcAWycAAAAAwDEGQUBCL2gt9cGELOv0MqQvLDwShj_EQFwASCb_fMKKL42MKpLOLsDQABI3J9IUABaA1VTRGIBBZBoAXABeMOLWoABip4GiAEBkAEAmAEFoAECqQHsUbgehevBP7EBEQoouQEAAADgo3DlP8EVHgTJAREeLNgBAOABAPABAPgBAA../s=b96e21598941e7e07085adfad15fcd0dd6b4145f/bcr=AAAAAAAA8D8=/pp=0.14/bn=102154/dnt=1/clickenc=https%3A%2F%2Fgoogleads.g.doubleclick.net%2Fdbm%2Fclk%3Fsa%3DL%26ai%3DCLniIPdDtaoqGKJbQ7_UPwNPNiAbltL7aigGr9eCl_xWhpvjz0B0QASC35YQhYMmmwY30pMgboAGWio6WQcgBBqgDAaoE8AFP0K73OAKeXCAbwDNDAZRYw59frcf9wk3ySPzXa8NnoUM-GeYLwaeWeQxfItQXlBNWYXfU5bXElH8az6h1-9VAwGz-z3g2mDpseChclKtFlPL4EcOmTUa1L1L36cOCEeDQF8DuWSslLmv9ULeWhbYD7Bvi7w6nUlEzFi02WglOC-_2SzQnqL5f7f807NJyeNzHeoxupxCqq-Oj76qAFs2U8MOv08ie03ivgIbd-tai-4gyirPb2kSJlW3fXu1GTuR0NCT1AMBlPMWXfuzthVtq4sV3tupJxFVr9oTU4RPQWmRx6aGMrD6Hca_5ZW09j2PABN2G4OzgBeAEA4gFz8SxpVmQBgGgBjeAB5bC3vUbqAep67ECqAenzLECqAfi2LECqAf98bECqAemvhuoB8zOsQKoB_PRG6gHltgbqAeqm7ECqAf-6LECqAeOzhuoB5PYG6gH8OAbqAfulrECqAf-nrECqAevvrECqAef4bECqAem67ECqAfVyRuoB9m2sQKoB5XFsQKoB_-esQKoB9-fsQKoB_jCsQKoB_vCsQLYBwDSCDIIgGEQARhfMgiKgoCAgICACDoPgECAwICAgICogAKog5AYSL39wTpY6fiC9rPzlwNgAPIIDmJpZGRlci0xMzg4NTU0sQmeM4MXUyOGKoAKBJgLAcgLAYAMAaIMCyoGCgT28rECkAEBqg0CVVOIDg6wE8-YkCbYEw2IFAXYFAHQFQGYFgHKFgIKAPgWAYAXAbIXEBgCKgo0MTE0MTkxMTQzUAayGAkSAqhOGDciAQDQGQQ%26num%3D1%26cid%3DCAQSgQIAQM4h3M27OwrnC1JKQbTmrgQdlvtgw_m3hsfpBXmO08-_Rg3n3I1lkuUoXR_K6AIE0TOZv0VpB4SWxAvUzji5MT5Ud5UTh4PWRFXJAodoEPHO2vuIW1TMpHjcMb8kUTnfhrKx7nqJJxmW5dU02S-aBKm8WPA_xl6DEFBWRMZFUQQKmdGpB5XPBs9XjVS57u4pdWt4dIiA8Qecf0s7qAJotV_WiF7PtO8Se0b-3A06sao6OX6v40yp4Vtn1DOxE8zuNXBqpF_cAT-15FKQeV400iwDjgSmfH3eZZb8dt0Bg7DKN2dENmUzQoE66YFpCHo4SFsu6yvIU0r68K0JyWPPihgB%26sig%3DAOD64_1rp1I8pm3WylLCnPmL83dj2_cQ4w%26dbm_c%3DAKAmf-BC2itn8DkAnQFT3zRP-YVMUnG6RgalNPzChy4PNlJA-NSCWOXu062BVUXbE7EQ8h50ndgpI9LS2vQn1wV0IZtBMfYzbg%26cry%3D1%26dbm_d%3DAKAmf-Blo-W42cuicUfGMx6LU20JkNg0o0tjDDCgCk2pDkvUztB_WWq3-C-bCbaLArhhnUHg8eAdyxl5YWVYGoHhDJmBl0F7dcfQWg8g1_RwrSCE_WBz_pqeGakzQCO25c7sXgA9l4uZYZIbaYzycKCmoI8T5N4hYKY8vhrNk8z_HvgVlNsCN_DgJTDMUk0y7rYHfmBE5jMsfFe80mbw7Mak-wWwAefKAFUX1SjL4rDWq0rABV7dyuVDIPjrfRqMNhRgliKojGwMSMJ-1BdH4MO3pf8v5HwLvXB0dqNhbrHzH-ekmEPqwU_QAjVBEt1M1MBeQamik9_Ob_PhkgFV4XXWWcWpfb8dWh_lV3rmCVnwmyiXQfAd_6FG9030t6Qtp5jpehW3j0Vm6E0XTcJRuIgZUhYJYb7wNK7eMo-wIlhqTld0_MMcFgdibkdqCMKDJhayW8jhDVO79aeWDBaSiij34Dn73AjMAuU5NleSsbPIHLoAfYFc3ZTMisBn1jti_y1hABRuKnBDLY9LAcK03eAa8yY92GHaNg%26dc_exteid%3D33092909851183590736598831480229708%26dc_pubid%3D4%26adurl%3Dhttps%3A%2F%2Fad.doubleclick.net%2Fddm%2Ftrackclk%2FN1171080.3665442DV360%2FB33986889.450733077%253Bdc_trk_aid%253D644103896%253Bdc_trk_cid%253D259389270%253Bdc_lat%253D%253Bdc_rdid%253D%253Btag_for_child_directed_treatment%253D%253Btfua%253D%253Bgdpr%253D%2524%257BGDPR%257D%253Bgdpr_consent%253D%2524%257BGDPR_CONSENT_755%257D%253Bltd%253D%253Bdc_tdv%253D1",
-    "id": "clickenc=https%3A%2F%2Fgoogleads.g.doubleclick.net%2Fdbm%2Fclk%3Fsa%3DL%26ai%3DCLniIPdDtaoqGKJbQ7_UPwNPNiAbltL7aigGr9eCl_xWhpvjz0B0QASC35YQhYMmmwY30pMgboAGWio6WQcgBBqgDAaoE8AFP0K73OAKeXCAbwDNDAZRYw59frcf9wk3ySPzXa8NnoUM-GeYLwaeWeQxfItQXlBNWYXfU5bXElH8az6h1-9VAwGz-z3g2mDpseChclKtFlPL4EcOmTUa1L1L36cOCEeDQF8DuWSslLmv9ULeWhbYD7Bvi7w6nUlEzFi02WglOC-_2SzQnqL5f7f807NJyeNzHeoxupxCqq-Oj76qAFs2U8MOv08ie03ivgIbd-tai-4gyirPb2kSJlW3fXu1GTuR0NCT1AMBlPMWXfuzthVtq4sV3tupJxFVr9oTU4RPQWmRx6aGMrD6Hca_5ZW09j2PABN2G4OzgBeAEA4gFz8SxpVmQBgGgBjeAB5bC3vUbqAep67ECqAenzLECqAfi2LECqAf98bECqAemvhuoB8zOsQKoB_PRG6gHltgbqAeqm7ECqAf-6LECqAeOzhuoB5PYG6gH8OAbqAfulrECqAf-nrECqAevvrECqAef4bECqAem67ECqAfVyRuoB9m2sQKoB5XFsQKoB_-esQKoB9-fsQKoB_jCsQKoB_vCsQLYBwDSCDIIgGEQARhfMgiKgoCAgICACDoPgECAwICAgICogAKog5AYSL39wTpY6fiC9rPzlwNgAPIIDmJpZGRlci0xMzg4NTU0sQmeM4MXUyOGKoAKBJgLAcgLAYAMAaIMCyoGCgT28rECkAEBqg0CVVOIDg6wE8-YkCbYEw2IFAXYFAHQFQGYFgHKFgIKAPgWAYAXAbIXEBgCKgo0MTE0MTkxMTQzUAayGAkSAqhOGDciAQDQGQQ%26num%3D1%26cid%3DCAQSgQIAQM4h3M27OwrnC1JKQbTmrgQdlvtgw_m3hsfpBXmO08-_Rg3n3I1lkuUoXR_K6AIE0TOZv0VpB4SWxAvUzji5MT5Ud5UTh4PWRFXJAodoEPHO2vuIW1TMpHjcMb8kUTnfhrKx7nqJJxmW5dU02S-aBKm8WPA_xl6DEFBWRMZFUQQKmdGpB5XPBs9XjVS57u4pdWt4dIiA8Qecf0s7qAJotV_WiF7PtO8Se0b-3A06sao6OX6v40yp4Vtn1DOxE8zuNXBqpF_cAT-15FKQeV400iwDjgSmfH3eZZb8dt0Bg7DKN2dENmUzQoE66YFpCHo4SFsu6yvIU0r68K0JyWPPihgB%26sig%3DAOD64_1rp1I8pm3WylLCnPmL83dj2_cQ4w%26dbm_c%3DAKAmf-BC2itn8DkAnQFT3zRP-YVMUnG6RgalNPzChy4PNlJA-NSCWOXu062BVUXbE7EQ8h50ndgpI9LS2vQn1wV0IZtBMfYzbg%26cry%3D1%26dbm_d%3DAKAmf-Blo-W42cuicUfGMx6LU20JkNg0o0tjDDCgCk2pDkvUztB_WWq3-C-bCbaLArhhnUHg8eAdyxl5YWVYGoHhDJmBl0F7dcfQWg8g1_RwrSCE_WBz_pqeGakzQCO25c7sXgA9l4uZYZIbaYzycKCmoI8T5N4hYKY8vhrNk8z_HvgVlNsCN_DgJTDMUk0y7rYHfmBE5jMsfFe80mbw7Mak-wWwAefKAFUX1SjL4rDWq0rABV7dyuVDIPjrfRqMNhRgliKojGwMSMJ-1BdH4MO3pf8v5HwLvXB0dqNhbrHzH-ekmEPqwU_QAjVBEt1M1MBeQamik9_Ob_PhkgFV4XXWWcWpfb8dWh_lV3rmCVnwmyiXQfAd_6FG9030t6Qtp5jpehW3j0Vm6E0XTcJRuIgZUhYJYb7wNK7eMo-wIlhqTld0_MMcFgdibkdqCMKDJhayW8jhDVO79aeWDBaSiij34Dn73AjMAuU5NleSsbPIHLoAfYFc3ZTMisBn1jti_y1hABRuKnBDLY9LAcK03eAa8yY92GHaNg%26dc_exteid%3D33092909851183590736598831480229708%26dc_pubid%3D4%26adurl%3Dhttps%3A%2F%2Fad.doubleclick.net%2Fddm%2Ftrackclk%2FN1171080.3665442DV360%2FB33986889.450733077%253Bdc_trk_aid%253D644103896%253Bdc_trk_cid%253D259389270%253Bdc_lat%253D%253Bdc_rdid%253D%253Btag_for_child_directed_treatment%253D%253Btfua%253D%253Bgdpr%253D%2524%257BGDPR%257D%253Bgdpr_consent%253D%2524%257BGDPR_CONSENT_755%257D%253Bltd%253D%253Bdc_tdv%253D1"
-  },
-  {
     "header": "Pronájem bytu 3+1 81 m²",
     "Address": "Vymazalova, Brno - Židenice",
     "Price": "25 900 Kč/měsíc",
@@ -103,47 +138,5 @@
     "Price": "21 990 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-zabovresky-kvapilova/361889868",
     "id": "361889868"
-  },
-  {
-    "header": "Pronájem bytu 2+1 50 m²",
-    "Address": "Dornych, Brno - Trnitá",
-    "Price": "30 490 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-trnita-dornych/1895436364",
-    "id": "1895436364"
-  },
-  {
-    "header": "Pronájem bytu 2+1 68 m²",
-    "Address": "Ulička, Brno - Kohoutovice",
-    "Price": "20 900 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-kohoutovice-ulicka/214171724",
-    "id": "214171724"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 63 m²",
-    "Address": "Rybnická, Brno - Nový Lískovec",
-    "Price": "35 500 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-novy-liskovec-rybnicka/3987345484",
-    "id": "3987345484"
-  },
-  {
-    "header": "Pronájem bytu 3+1 85 m²",
-    "Address": "Údolní, Brno - Veveří",
-    "Price": "25 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-veveri-udolni/3298492492",
-    "id": "3298492492"
-  },
-  {
-    "header": "Pronájem bytu 2+1 55 m²",
-    "Address": "Ibsenova, Brno - Lesná",
-    "Price": "20 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-lesna-ibsenova/55775308",
-    "id": "55775308"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 88 m²",
-    "Address": "Vychodilova, Brno - Žabovřesky",
-    "Price": "27 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zabovresky-vychodilova/1616322636",
-    "id": "1616322636"
   }
 ]
