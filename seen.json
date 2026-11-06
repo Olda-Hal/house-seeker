@@ -42,6 +42,13 @@
     "id": "1895436364"
   },
   {
+    "header": "Pronájem bytu 2+1 68 m²",
+    "Address": "Ulička, Brno - Kohoutovice",
+    "Price": "20 900 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-kohoutovice-ulicka/214171724",
+    "id": "214171724"
+  },
+  {
     "header": "Pronájem bytu 3+kk 63 m²",
     "Address": "Rybnická, Brno - Nový Lískovec",
     "Price": "35 500 Kč/měsíc",
@@ -131,12 +138,5 @@
     "Price": "18 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-jundrov-brezova/3937603660",
     "id": "3937603660"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 58 m²",
-    "Address": "Sedláčkova, Brno - Líšeň",
-    "Price": "20 500 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-lisen-sedlackova/1209270348",
-    "id": "1209270348"
   }
 ]
