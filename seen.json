@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 3+1 114 m²",
+    "Address": "Brno - Brno-střed",
+    "Price": "29 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-brno-stred-/1839951948",
+    "id": "1839951948"
+  },
+  {
     "header": "Pronájem bytu 2+1 55 m²",
     "Address": "Dusíkova, Brno - Lesná",
     "Price": "19 000 Kč/měsíc",
@@ -131,12 +138,5 @@
     "Price": "27 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-slatina-smahova/4087427148",
     "id": "4087427148"
-  },
-  {
-    "header": "Pronájem bytu 2+1 56 m²",
-    "Address": "Nováčkova, Brno - Husovice",
-    "Price": "16 900 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-husovice-novackova/2436108364",
-    "id": "2436108364"
   }
 ]
