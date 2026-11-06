@@ -1,5 +1,19 @@
 [
   {
+    "header": "Pronájem bytu 3+kk 110 m²",
+    "Address": "Koliště, Brno - Černá Pole",
+    "Price": "29 990 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-cerna-pole-koliste/1881014348",
+    "id": "1881014348"
+  },
+  {
+    "header": "Pronájem bytu 2+1 77 m²",
+    "Address": "Nováčkova, Brno - Husovice",
+    "Price": "24 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-husovice-novackova/3267231820",
+    "id": "3267231820"
+  },
+  {
     "header": "Pronájem bytu 3+1 114 m²",
     "Address": "Marešova, Brno",
     "Price": "29 000 Kč/měsíc",
@@ -98,9 +112,16 @@
     "id": "144388172"
   },
   {
+    "header": "Pronájem bytu 2+1 68 m²",
+    "Address": "Joštova, Brno",
+    "Price": "19 700 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-brno-jostova/2079588428",
+    "id": "2079588428"
+  },
+  {
     "header": "Pronájem bytu 3+1 91 m²",
     "Address": "Palackého třída, Brno - Královo Pole",
-    "Price": "24 990 Kč/měsíc",
+    "Price": "23 990 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-kralovo-pole-palackeho-trida/2752524364",
     "id": "2752524364"
   },
@@ -117,26 +138,5 @@
     "Price": "20 500 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-lisen-sedlackova/1209270348",
     "id": "1209270348"
-  },
-  {
-    "header": "Pronájem bytu 3+1 120 m²",
-    "Address": "Drobného, Brno - Černá Pole",
-    "Price": "40 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-cerna-pole-drobneho/3956084812",
-    "id": "3956084812"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 76 m²",
-    "Address": "Zahradnická, Brno - Staré Brno",
-    "Price": "23 900 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-stare-brno-zahradnicka/3449356364",
-    "id": "3449356364"
-  },
-  {
-    "header": "Pronájem bytu 2+1 56 m²",
-    "Address": "Nováčkova, Brno - Husovice",
-    "Price": "16 900 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-husovice-novackova/2436108364",
-    "id": "2436108364"
   }
 ]
