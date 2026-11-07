@@ -1,8 +1,22 @@
 [
   {
+    "header": "Pronájem bytu 2+1 52 m²",
+    "Address": "Lidická, Brno - Veveří",
+    "Price": "18 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-veveri-lidicka/3785060428",
+    "id": "3785060428"
+  },
+  {
+    "header": "Pronájem bytu 2+1 56 m²",
+    "Address": "Jana Uhra, Brno - Veveří",
+    "Price": "25 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-veveri-jana-uhra/94072908",
+    "id": "94072908"
+  },
+  {
     "header": "Pronájem bytu 2+1 55 m²",
     "Address": "Klímova, Brno - Žabovřesky",
-    "Price": "18 500 Kč/měsíc",
+    "Price": "19 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-zabovresky-klimova/3364581452",
     "id": "3364581452"
   },
@@ -124,19 +138,5 @@
     "Price": "22 700 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-lisen-josefy-faimonove/2218991692",
     "id": "2218991692"
-  },
-  {
-    "header": "Pronájem bytu 3+1 73 m²",
-    "Address": "Oblá, Brno - Nový Lískovec",
-    "Price": "22 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-novy-liskovec-obla/3938132044",
-    "id": "3938132044"
-  },
-  {
-    "header": "Pronájem bytu 2+1 58 m²",
-    "Address": "Jasanová, Brno - Jundrov",
-    "Price": "21 900 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-jundrov-jasanova/3207868492",
-    "id": "3207868492"
   }
 ]
