@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 2+1 55 m²",
+    "Address": "Klímova, Brno - Žabovřesky",
+    "Price": "18 500 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-zabovresky-klimova/3364581452",
+    "id": "3364581452"
+  },
+  {
     "header": "Pronájem bytu 3+kk 70 m²",
     "Address": "Jírova, Brno - Líšeň",
     "Price": "25 000 Kč/měsíc",
@@ -19,13 +26,6 @@
     "Price": "21 990 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-zabovresky-kvapilova/361889868",
     "id": "361889868"
-  },
-  {
-    "header": "Pronájem bytu 3+1 91 m²",
-    "Address": "Palackého třída, Brno - Královo Pole",
-    "Price": "23 990 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-kralovo-pole-palackeho-trida/2752524364",
-    "id": "2752524364"
   },
   {
     "header": "Pronájem bytu 3+1 74 m²",
