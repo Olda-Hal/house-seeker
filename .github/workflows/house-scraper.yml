@@ -52,9 +52,9 @@ jobs:
         env:
           WEBHOOK_URL: ${{ secrets.WEBHOOK_URL }}
           E_INFRA_API_TOKEN: ${{ secrets.E_INFRA_API_TOKEN }}
-          LLM_MODEL: ${{ inputs.llm_model || 'deepseek' }}
-          MAX_AI_CALLS: ${{ inputs.max_ai_calls || '120' }}
-          LLM_DEBUG: ${{ inputs.debug || '0' }}
+          LLM_MODEL: ${{ github.event.inputs.llm_model || 'deepseek' }}
+          MAX_AI_CALLS: ${{ github.event.inputs.max_ai_calls || '120' }}
+          LLM_DEBUG: ${{ github.event.inputs.debug || '0' }}
           PYTHONUNBUFFERED: "1"
 
       - name: Commit seen listings
