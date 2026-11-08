@@ -138,5 +138,373 @@
     "Price": "35 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-trnita-trnita/1193963596",
     "id": "1193963596"
+  },
+  {
+    "source": "sreality",
+    "id": "1126309964",
+    "title": "Pronájem bytu 4+1 147 m²",
+    "url": "https://www.sreality.cz/detail/pronajem/byt/4+1/brno-stranice-rezkova/1126309964",
+    "disposition": "4+1",
+    "seen_at": "2026-11-08T22:05:32Z"
+  },
+  {
+    "source": "sreality",
+    "id": "674173004",
+    "title": "Pronájem bytu 3+1 68 m²",
+    "url": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-lisen-elplova/674173004",
+    "disposition": "3+1",
+    "seen_at": "2026-11-08T22:05:32Z"
+  },
+  {
+    "source": "sreality",
+    "id": "3214213196",
+    "title": "Pronájem bytu 4+kk 103 m²",
+    "url": "https://www.sreality.cz/detail/pronajem/byt/4+kk/brno-zabovresky-sirotkova/3214213196",
+    "disposition": "4+kk",
+    "seen_at": "2026-11-08T22:05:32Z"
+  },
+  {
+    "source": "sreality",
+    "id": "3941269580",
+    "title": "Pronájem bytu 3+1 80 m²",
+    "url": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-veveri-uvoz/3941269580",
+    "disposition": "3+1",
+    "seen_at": "2026-11-08T22:05:32Z"
+  },
+  {
+    "source": "sreality",
+    "id": "2727047244",
+    "title": "Pronájem bytu 3+kk 70 m²",
+    "url": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-lisen-jirova/2727047244",
+    "disposition": "3+kk",
+    "seen_at": "2026-11-08T22:05:32Z"
+  },
+  {
+    "source": "sreality",
+    "id": "1774592844",
+    "title": "Pronájem bytu 4+kk 94 m²",
+    "url": "https://www.sreality.cz/detail/pronajem/byt/4+kk/brno-brno-mesto-za-divadlem/1774592844",
+    "disposition": "4+kk",
+    "seen_at": "2026-11-08T22:05:32Z"
+  },
+  {
+    "source": "sreality",
+    "id": "3987345484",
+    "title": "Pronájem bytu 3+kk 63 m²",
+    "url": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-novy-liskovec-rybnicka/3987345484",
+    "disposition": "3+kk",
+    "seen_at": "2026-11-08T22:05:32Z"
+  },
+  {
+    "source": "sreality",
+    "id": "2182840396",
+    "title": "Pronájem bytu 4+kk 100 m²",
+    "url": "https://www.sreality.cz/detail/pronajem/byt/4+kk/brno-bohunice-netroufalky/2182840396",
+    "disposition": "4+kk",
+    "seen_at": "2026-11-08T22:05:32Z"
+  },
+  {
+    "source": "sreality",
+    "id": "2155221068",
+    "title": "Pronájem bytu 3+1 81 m²",
+    "url": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-brno-tabor/2155221068",
+    "disposition": "3+1",
+    "seen_at": "2026-11-08T22:05:32Z"
+  },
+  {
+    "source": "sreality",
+    "id": "3958075468",
+    "title": "Pronájem bytu 3+kk 113 m²",
+    "url": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-pisarky-neumannova/3958075468",
+    "disposition": "3+kk",
+    "seen_at": "2026-11-08T22:05:32Z"
+  },
+  {
+    "source": "sreality",
+    "id": "287010892",
+    "title": "Pronájem bytu 3+kk 90 m²",
+    "url": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-styrice-taborskeho-nabrezi/287010892",
+    "disposition": "3+kk",
+    "seen_at": "2026-11-08T22:05:32Z"
+  },
+  {
+    "source": "sreality",
+    "id": "1520099404",
+    "title": "Pronájem bytu 3+kk 194 m²",
+    "url": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zidenice-hroznatova/1520099404",
+    "disposition": "3+kk",
+    "seen_at": "2026-11-08T22:05:32Z"
+  },
+  {
+    "source": "sreality",
+    "id": "2450333772",
+    "title": "Pronájem bytu 3+kk 61 m²",
+    "url": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-stare-brno-trybova/2450333772",
+    "disposition": "3+kk",
+    "seen_at": "2026-11-08T22:05:32Z"
+  },
+  {
+    "source": "sreality",
+    "id": "705499212",
+    "title": "Pronájem bytu 4+kk 122 m²",
+    "url": "https://www.sreality.cz/detail/pronajem/byt/4+kk/brno-stare-brno-trybova/705499212",
+    "disposition": "4+kk",
+    "seen_at": "2026-11-08T22:05:32Z"
+  },
+  {
+    "source": "sreality",
+    "id": "1190723660",
+    "title": "Pronájem bytu 3+kk 93 m²",
+    "url": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-cernovice-charbulova/1190723660",
+    "disposition": "3+kk",
+    "seen_at": "2026-11-08T22:05:32Z"
+  },
+  {
+    "source": "sreality",
+    "id": "1814638668",
+    "title": "Pronájem bytu 4+1 88 m²",
+    "url": "https://www.sreality.cz/detail/pronajem/byt/4+1/brno-cerna-pole-cernopolni/1814638668",
+    "disposition": "4+1",
+    "seen_at": "2026-11-08T22:05:32Z"
+  },
+  {
+    "source": "sreality",
+    "id": "3736010828",
+    "title": "Pronájem bytu 4+kk 113 m²",
+    "url": "https://www.sreality.cz/detail/pronajem/byt/4+kk/brno-veveri-kotlarska/3736010828",
+    "disposition": "4+kk",
+    "seen_at": "2026-11-08T22:05:32Z"
+  },
+  {
+    "source": "sreality",
+    "id": "289222732",
+    "title": "Pronájem bytu 4+1 78 m²",
+    "url": "https://www.sreality.cz/detail/pronajem/byt/4+1/brno-novy-liskovec-svazna/289222732",
+    "disposition": "4+1",
+    "seen_at": "2026-11-08T22:05:32Z"
+  },
+  {
+    "source": "sreality",
+    "id": "3956084812",
+    "title": "Pronájem bytu 3+1 120 m²",
+    "url": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-cerna-pole-drobneho/3956084812",
+    "disposition": "3+1",
+    "seen_at": "2026-11-08T22:05:32Z"
+  },
+  {
+    "source": "sreality",
+    "id": "2630526284",
+    "title": "Pronájem bytu 3+kk 162 m²",
+    "url": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zabrdovice-bratislavska/2630526284",
+    "disposition": "3+kk",
+    "seen_at": "2026-11-08T22:05:32Z"
+  },
+  {
+    "source": "sreality",
+    "id": "3302663500",
+    "title": "Pronájem bytu 3+kk 141 m²",
+    "url": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zabrdovice-bratislavska/3302663500",
+    "disposition": "3+kk",
+    "seen_at": "2026-11-08T22:05:32Z"
+  },
+  {
+    "source": "sreality",
+    "id": "474226764",
+    "title": "Pronájem bytu 3+1 72 m²",
+    "url": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-kralovo-pole-galandauerova/474226764",
+    "disposition": "3+1",
+    "seen_at": "2026-11-08T22:05:32Z"
+  },
+  {
+    "source": "sreality",
+    "id": "2612330572",
+    "title": "Pronájem bytu 3+kk 120 m²",
+    "url": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-brno-mesto-namesti-svobody/2612330572",
+    "disposition": "3+kk",
+    "seen_at": "2026-11-08T22:05:32Z"
+  },
+  {
+    "source": "sreality",
+    "id": "722796620",
+    "title": "Pronájem bytu 3+kk 111 m²",
+    "url": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-ponava-skrivanova/722796620",
+    "disposition": "3+kk",
+    "seen_at": "2026-11-08T22:05:32Z"
+  },
+  {
+    "source": "sreality",
+    "id": "2066022476",
+    "title": "Pronájem bytu 3+kk 97 m²",
+    "url": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-veveri-lidicka/2066022476",
+    "disposition": "3+kk",
+    "seen_at": "2026-11-08T22:05:32Z"
+  },
+  {
+    "source": "sreality",
+    "id": "1493565516",
+    "title": "Pronájem bytu 3+kk 64 m²",
+    "url": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zidenice-jilkova/1493565516",
+    "disposition": "3+kk",
+    "seen_at": "2026-11-08T22:05:32Z"
+  },
+  {
+    "source": "bezrealitky",
+    "id": "1080309",
+    "title": "Pronájem bytu 3+kk 115 m², Výstavní, Brno",
+    "url": "https://www.bezrealitky.cz/nemovitosti-byty-domy/1080309-nabidka-pronajem-bytu-vystavni-brno",
+    "disposition": "3+kk",
+    "seen_at": "2026-11-08T22:05:32Z"
+  },
+  {
+    "source": "bezrealitky",
+    "id": "875238",
+    "title": "Pronájem bytu 4+1 230 m², Hlinky, Brno",
+    "url": "https://www.bezrealitky.cz/nemovitosti-byty-domy/875238-nabidka-pronajem-bytu-hlinky-brno",
+    "disposition": "4+1",
+    "seen_at": "2026-11-08T22:05:32Z"
+  },
+  {
+    "source": "bezrealitky",
+    "id": "844176",
+    "title": "Pronájem bytu 3+kk 88 m², Francouzská, Brno",
+    "url": "https://www.bezrealitky.cz/nemovitosti-byty-domy/844176-nabidka-pronajem-bytu-francouzska-brno",
+    "disposition": "3+kk",
+    "seen_at": "2026-11-08T22:05:32Z"
+  },
+  {
+    "source": "bezrealitky",
+    "id": "1082823",
+    "title": "Pronájem bytu 3+kk 71 m², Svitavská, Brno",
+    "url": "https://www.bezrealitky.cz/nemovitosti-byty-domy/1082823-nabidka-pronajem-bytu-svitavska-brno",
+    "disposition": "3+kk",
+    "seen_at": "2026-11-08T22:05:32Z"
+  },
+  {
+    "source": "bezrealitky",
+    "id": "1082454",
+    "title": "Pronájem bytu 3+1 70 m², Čápkova, Brno",
+    "url": "https://www.bezrealitky.cz/nemovitosti-byty-domy/1082454-nabidka-pronajem-bytu-capkova-brno",
+    "disposition": "3+1",
+    "seen_at": "2026-11-08T22:05:32Z"
+  },
+  {
+    "source": "bezrealitky",
+    "id": "1053716",
+    "title": "Pronájem bytu 3+kk 58 m², Jílkova, Brno",
+    "url": "https://www.bezrealitky.cz/nemovitosti-byty-domy/1053716-nabidka-pronajem-bytu-jilkova-brno",
+    "disposition": "3+kk",
+    "seen_at": "2026-11-08T22:05:32Z"
+  },
+  {
+    "source": "bezrealitky",
+    "id": "767992",
+    "title": "Pronájem bytu 3+1 75 m², Pod Nemocnicí, Brno",
+    "url": "https://www.bezrealitky.cz/nemovitosti-byty-domy/767992-nabidka-pronajem-bytu-pod-nemocnici-brno",
+    "disposition": "3+1",
+    "seen_at": "2026-11-08T22:05:32Z"
+  },
+  {
+    "source": "bezrealitky",
+    "id": "1076932",
+    "title": "Pronájem bytu 3+1 62 m², Strnadova, Brno",
+    "url": "https://www.bezrealitky.cz/nemovitosti-byty-domy/1076932-nabidka-pronajem-bytu-strnadova-brno",
+    "disposition": "3+1",
+    "seen_at": "2026-11-08T22:05:32Z"
+  },
+  {
+    "source": "bezrealitky",
+    "id": "1077244",
+    "title": "Pronájem bytu 3+kk 82 m², Jírova, Brno",
+    "url": "https://www.bezrealitky.cz/nemovitosti-byty-domy/1077244-nabidka-pronajem-bytu-jirova-brno",
+    "disposition": "3+kk",
+    "seen_at": "2026-11-08T22:05:32Z"
+  },
+  {
+    "source": "idnes",
+    "id": "6af07e2f3aacc37c5d0446eb",
+    "title": "Pronájem bytu 3+kk 67 m²",
+    "url": "https://reality.idnes.cz/detail/pronajem/byt/brno-trnita/6af07e2f3aacc37c5d0446eb/",
+    "disposition": "3+kk",
+    "seen_at": "2026-11-08T22:05:32Z"
+  },
+  {
+    "source": "idnes",
+    "id": "6ac51ba418d1b862dd0d2ee8",
+    "title": "Pronájem bytu 3+kk 58 m²",
+    "url": "https://reality.idnes.cz/detail/pronajem/byt/brno-milady-horakove/6ac51ba418d1b862dd0d2ee8/",
+    "disposition": "3+kk",
+    "seen_at": "2026-11-08T22:05:32Z"
+  },
+  {
+    "source": "idnes",
+    "id": "6abd4a228f6bbd34cc00e2b8",
+    "title": "Pronájem bytu 3+1 109 m²",
+    "url": "https://reality.idnes.cz/detail/pronajem/byt/brno-veveri/6abd4a228f6bbd34cc00e2b8/",
+    "disposition": "3+1",
+    "seen_at": "2026-11-08T22:05:32Z"
+  },
+  {
+    "source": "idnes",
+    "id": "6af019af9d65d46e4c0e2155",
+    "title": "Pronájem bytu 3+1 60 m²",
+    "url": "https://reality.idnes.cz/detail/pronajem/byt/brno-stefackova/6af019af9d65d46e4c0e2155/",
+    "disposition": "3+1",
+    "seen_at": "2026-11-08T22:05:32Z"
+  },
+  {
+    "source": "idnes",
+    "id": "6ae8db11076e0e6f040a124c",
+    "title": "Pronájem bytu 4+kk 111 m²",
+    "url": "https://reality.idnes.cz/detail/pronajem/byt/brno-panska/6ae8db11076e0e6f040a124c/",
+    "disposition": "4+kk",
+    "seen_at": "2026-11-08T22:05:32Z"
+  },
+  {
+    "source": "idnes",
+    "id": "6aec4b1b2a7f98c2360c3117",
+    "title": "Pronájem bytu 4+kk 103 m²",
+    "url": "https://reality.idnes.cz/detail/pronajem/byt/brno-sirotkova/6aec4b1b2a7f98c2360c3117/",
+    "disposition": "4+kk",
+    "seen_at": "2026-11-08T22:05:32Z"
+  },
+  {
+    "source": "idnes",
+    "id": "6ac5f9748bcf8e0627061dce",
+    "title": "Pronájem bytu 3+kk 90 m²",
+    "url": "https://reality.idnes.cz/detail/pronajem/byt/brno-stredni/6ac5f9748bcf8e0627061dce/",
+    "disposition": "3+kk",
+    "seen_at": "2026-11-08T22:05:32Z"
+  },
+  {
+    "source": "idnes",
+    "id": "6aeeef28773281a1c7031764",
+    "title": "Pronájem bytu 3+kk 70 m²",
+    "url": "https://reality.idnes.cz/detail/pronajem/byt/brno-jirova/6aeeef28773281a1c7031764/",
+    "disposition": "3+kk",
+    "seen_at": "2026-11-08T22:05:32Z"
+  },
+  {
+    "source": "idnes",
+    "id": "6ac68575321846bac50d486e",
+    "title": "Pronájem bytu 3+1 68 m²",
+    "url": "https://reality.idnes.cz/detail/pronajem/byt/brno-elplova/6ac68575321846bac50d486e/",
+    "disposition": "3+1",
+    "seen_at": "2026-11-08T22:05:32Z"
+  },
+  {
+    "source": "idnes",
+    "id": "6aedd7c970a0f2c0d602ea44",
+    "title": "Pronájem bytu 3+1 72 m²",
+    "url": "https://reality.idnes.cz/detail/pronajem/byt/brno-jemelkova/6aedd7c970a0f2c0d602ea44/",
+    "disposition": "3+1",
+    "seen_at": "2026-11-08T22:05:32Z"
+  },
+  {
+    "source": "idnes",
+    "id": "6aedf27bbb14af45230a025c",
+    "title": "Pronájem bytu 3+1 60 m²",
+    "url": "https://reality.idnes.cz/detail/pronajem/byt/brno-marie-kuderikove/6aedf27bbb14af45230a025c/",
+    "disposition": "3+1",
+    "seen_at": "2026-11-08T22:05:32Z"
   }
 ]
