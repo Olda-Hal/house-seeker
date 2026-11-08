@@ -50,8 +50,11 @@ MAX_TOTAL_CZK = max(MAX_TOTAL_CZK_4, MAX_TOTAL_CZK_5)
 MAX_PAGES = int(os.getenv("MAX_PAGES", "3"))          # sreality: 20 inzerátů na stránku
 BEZREALITKY_PAGES = int(os.getenv("BEZREALITKY_PAGES", "2"))
 IDNES_PAGES = int(os.getenv("IDNES_PAGES", "2"))      # idnes: ~25 inzerátů na stránku
-MAX_AI_CALLS = int(os.getenv("MAX_AI_CALLS", "120"))  # strop kvůli spotřebě tokenů
-MAX_WORKERS = int(os.getenv("MAX_WORKERS", "4"))
+MAX_AI_CALLS = int(os.getenv("MAX_AI_CALLS", "120"))  # strop počtu inzerátů poslaných do AI
+LLM_BATCH_SIZE = int(os.getenv("LLM_BATCH_SIZE", "10"))  # inzerátů na jeden AI request
+LLM_BATCH_DELAY = float(os.getenv("LLM_BATCH_DELAY", "1.0"))  # pauza mezi dávkami
+LLM_MAX_RETRIES = int(os.getenv("LLM_MAX_RETRIES", "6"))  # hlavně na 429
+MAX_WORKERS = int(os.getenv("MAX_WORKERS", "4"))  # pouze stahování detailů
 AI_MIN_CONFIDENCE = float(os.getenv("AI_MIN_CONFIDENCE", "0.35"))
 DEFAULT_UTILITIES_CZK = int(os.getenv("DEFAULT_UTILITIES_CZK", "5000"))
 
@@ -80,6 +83,7 @@ BEZREALITKY_SEARCH = (
 IDNES_SEARCH = "https://reality.idnes.cz/s/pronajem/byty/brno/"
 
 LOG = logging.getLogger("bythunting")
+LLM_STATS = {"requests": 0}
 
 
 # ---------------------------------------------------------------------------
@@ -667,47 +671,72 @@ Examples:
 
 Never invent facts. If the description is ambiguous about the layout, lower the confidence. Judge only from the supplied data and description.
 
+You will receive a JSON object with a "listings" array. Each item has an "index".
+Evaluate every listing independently using the rules above.
+
 Return ONLY valid JSON, no markdown:
 {
-  "separate_rooms": <integer: number of private sleeping rooms that are not walk-through>,
-  "layout_ok_4": <boolean>,
-  "layout_ok_5": <boolean>,
-  "utilities_czk": <integer or null: stated monthly utilities, otherwise your realistic estimate>,
-  "confidence": <number 0..1>,
-  "reason": "<max 180 characters, in Czech: decisive layout and price/utility facts; do not compute a monthly total>"
-}"""
+  "results": [
+    {
+      "index": <the same index as the input listing>,
+      "separate_rooms": <integer: number of private sleeping rooms that are not walk-through>,
+      "layout_ok_4": <boolean>,
+      "layout_ok_5": <boolean>,
+      "utilities_czk": <integer or null: stated monthly utilities, otherwise your realistic estimate>,
+      "confidence": <number 0..1>,
+      "reason": "<max 180 characters, in Czech: decisive layout and price/utility facts; do not compute a monthly total>"
+    }
+  ]
+}
+Return exactly one result for every input index, in the same order. Do not skip or invent listings."""
 
 
-def parse_json_reply(text: str) -> dict[str, Any]:
+def parse_json_reply(text: str) -> Any:
     text = text.strip()
     if text.startswith("```"):
         text = re.sub(r"^```(?:json)?\s*", "", text)
         text = re.sub(r"\s*```$", "", text)
-    start, end = text.find("{"), text.rfind("}")
-    if start == -1 or end == -1 or end <= start:
-        raise ValueError(f"Odpověď neobsahuje JSON: {text[:200]!r}")
-    return json.loads(text[start : end + 1])
+    try:
+        return json.loads(text)
+    except json.JSONDecodeError:
+        pass
+    # Model mohl přidat text kolem; zkus objekt i pole.
+    for opening, closing in (("{", "}"), ("[", "]")):
+        start, end = text.find(opening), text.rfind(closing)
+        if start == -1 or end <= start:
+            continue
+        try:
+            return json.loads(text[start : end + 1])
+        except json.JSONDecodeError:
+            continue
+    raise ValueError(f"Odpověď neobsahuje JSON: {text[:200]!r}")
 
 
-def call_llm(session: requests.Session, payload: dict[str, Any]) -> dict[str, Any]:
-    body = {
-        "model": LLM_MODEL,
-        "messages": [
-            {"role": "system", "content": SYSTEM_PROMPT},
-            {
-                "role": "user",
-                "content": json.dumps(payload, ensure_ascii=False),
-            },
-        ],
-        "temperature": 0,
-        "max_tokens": 700,
-    }
+class LLMError(RuntimeError):
+    def __init__(self, message: str, status: int | None = None):
+        super().__init__(message)
+        self.status = status
+
+
+def _retry_wait(response: requests.Response, fallback: float) -> float:
+    retry_after = response.headers.get("Retry-After")
+    if retry_after:
+        try:
+            return min(max(float(retry_after), 1.0), 120.0)
+        except ValueError:
+            pass
+    return min(max(fallback, 1.0), 120.0)
+
+
+def _llm_post(session: requests.Session, body: dict[str, Any]) -> dict[str, Any]:
     headers = {
         "Authorization": f"Bearer {E_INFRA_API_TOKEN}",
         "Content-Type": "application/json",
     }
-    last_error: Exception | None = None
-    for attempt in range(4):
+    delay = 2.0
+    last_error: str = ""
+    for attempt in range(1, LLM_MAX_RETRIES + 1):
+        LLM_STATS["requests"] += 1
         try:
             response = session.post(
                 f"{LLM_BASE_URL}/chat/completions",
@@ -715,19 +744,112 @@ def call_llm(session: requests.Session, payload: dict[str, Any]) -> dict[str, An
                 headers=headers,
                 timeout=LLM_TIMEOUT,
             )
-            if response.status_code in (429, 500, 502, 503, 504):
-                raise requests.HTTPError(f"HTTP {response.status_code}")
+        except requests.RequestException as exc:
+            last_error = str(exc)
+            LOG.warning("LLM síťová chyba (%s/%s): %s", attempt, LLM_MAX_RETRIES, exc)
+            time.sleep(delay)
+            delay = min(delay * 2, 90)
+            continue
+
+        # 400/413 = dávka je moc velká nebo ji brána odmítla; volající ji rozdělí.
+        if response.status_code in (400, 413):
+            raise LLMError(
+                f"HTTP {response.status_code}: {response.text[:300]}",
+                response.status_code,
+            )
+
+        if response.status_code == 429 or response.status_code in (500, 502, 503, 504):
+            wait = _retry_wait(response, delay)
+            last_error = f"HTTP {response.status_code}"
+            LOG.warning(
+                "LLM %s (%s/%s), čekám %.0f s",
+                last_error,
+                attempt,
+                LLM_MAX_RETRIES,
+                wait,
+            )
+            time.sleep(wait)
+            delay = min(delay * 2, 90)
+            continue
+
+        try:
             response.raise_for_status()
-            data = response.json()
-            content = data["choices"][0]["message"]["content"]
-            if isinstance(content, list):  # některé brány vracejí pole částí
-                content = "".join(part.get("text", "") for part in content if isinstance(part, dict))
-            return parse_json_reply(content)
-        except Exception as exc:  # noqa: BLE001
-            last_error = exc
-            if attempt < 3:
-                time.sleep(2 ** attempt)
-    raise RuntimeError(f"LLM volání selhalo: {last_error}")
+        except requests.HTTPError as exc:
+            raise LLMError(str(exc), response.status_code) from exc
+        return response.json()
+
+    raise LLMError(
+        f"LLM volání selhalo po {LLM_MAX_RETRIES} pokusech ({last_error})"
+    )
+
+
+def _message_content(data: dict[str, Any]) -> str:
+    content = data["choices"][0]["message"]["content"]
+    if isinstance(content, list):  # některé brány vracejí pole částí
+        content = "".join(
+            part.get("text", "") for part in content if isinstance(part, dict)
+        )
+    return content
+
+
+def parse_batch_reply(text: str, count: int) -> dict[int, dict[str, Any]]:
+    data = parse_json_reply(text)
+    if isinstance(data, list):
+        items = data
+    elif isinstance(data, dict):
+        items = (
+            data.get("results")
+            or data.get("listings")
+            or data.get("evaluations")
+            or []
+        )
+    else:
+        items = []
+    if isinstance(items, dict):
+        # Některé modely vrátí {"0": {...}, "1": {...}} místo pole.
+        normalized = []
+        for key, value in items.items():
+            if isinstance(value, dict):
+                value.setdefault("index", key)
+                normalized.append(value)
+        items = normalized
+    if not isinstance(items, list):
+        raise ValueError("Odpověď neobsahuje pole výsledků")
+
+    results: dict[int, dict[str, Any]] = {}
+    for position, item in enumerate(items):
+        if not isinstance(item, dict):
+            continue
+        index = item.get("index", position)
+        try:
+            index = int(index)
+        except (TypeError, ValueError):
+            index = position
+        if 0 <= index < count and index not in results:
+            results[index] = item
+    return results
+
+
+def call_llm_batch(
+    session: requests.Session, batch: list[dict[str, Any]]
+) -> dict[int, dict[str, Any]]:
+    payload = {
+        "listings": [
+            {"index": index, **build_ai_payload(listing)}
+            for index, listing in enumerate(batch)
+        ]
+    }
+    body = {
+        "model": LLM_MODEL,
+        "messages": [
+            {"role": "system", "content": SYSTEM_PROMPT},
+            {"role": "user", "content": json.dumps(payload, ensure_ascii=False)},
+        ],
+        "temperature": 0,
+        "max_tokens": min(16000, max(1000, 350 * len(batch))),
+    }
+    data = _llm_post(session, body)
+    return parse_batch_reply(_message_content(data), len(batch))
 
 
 def build_ai_payload(listing: dict[str, Any]) -> dict[str, Any]:
@@ -885,20 +1007,68 @@ def enrich_listing(session: requests.Session, listing: dict[str, Any]) -> bool:
     return ENRICHERS[listing["source"]](session, listing)
 
 
-def evaluate_listing(session: requests.Session, listing: dict[str, Any]) -> dict[str, Any]:
-    ai = call_llm(session, build_ai_payload(listing))
-    decision = decide(listing, ai)
-    listing["decision"] = decision
-    LOG.info(
-        "%s %s | %s | %s Kč | pokoje=%s | approved=%s",
-        listing["source"],
-        listing["id"],
-        listing["disposition"],
-        decision["total_czk"],
-        decision["separate_rooms"],
-        decision["approved"],
+def _split_worthy(exc: LLMError) -> bool:
+    if exc.status == 413:
+        return True
+    if exc.status != 400:
+        return False
+    text = str(exc).lower()
+    return any(
+        marker in text
+        for marker in (
+            "too large",
+            "too_long",
+            "context length",
+            "maximum context",
+            "payload",
+            "max_tokens",
+        )
     )
-    return decision
+
+
+def _split_batch(
+    session: requests.Session,
+    batch: list[dict[str, Any]],
+    offset: int,
+    reason: Any,
+) -> dict[int, dict[str, Any]]:
+    middle = len(batch) // 2
+    LOG.warning(
+        "LLM dávka %s inzerátů selhala (%s), dělím na %s + %s",
+        len(batch),
+        reason,
+        middle,
+        len(batch) - middle,
+    )
+    results = evaluate_batch(session, batch[:middle], offset)
+    results.update(evaluate_batch(session, batch[middle:], offset + middle))
+    return results
+
+
+def evaluate_batch(
+    session: requests.Session,
+    batch: list[dict[str, Any]],
+    offset: int = 0,
+) -> dict[int, dict[str, Any]]:
+    """Vrátí výsledky klíčované indexem v rámci celého seznamu."""
+    try:
+        results = call_llm_batch(session, batch)
+        return {offset + index: item for index, item in results.items()}
+    except LLMError as exc:
+        # Příliš velká dávka -> rozdělit a zkusit znovu.
+        if len(batch) > 1 and _split_worthy(exc):
+            return _split_batch(session, batch, offset, exc)
+        LOG.error("LLM dávka (%s inzerátů) selhala: %s", len(batch), exc)
+        return {}
+    except ValueError as exc:
+        # Nevalidní/zkrácený JSON -> menší dávka má větší šanci projít.
+        if len(batch) > 1:
+            return _split_batch(session, batch, offset, exc)
+        LOG.error("LLM dávka (%s inzerátů) selhala: %s", len(batch), exc)
+        return {}
+    except Exception as exc:  # noqa: BLE001
+        LOG.error("LLM dávka (%s inzerátů) selhala: %s", len(batch), exc)
+        return {}
 
 
 # ---------------------------------------------------------------------------
@@ -1126,22 +1296,44 @@ def main() -> int:
         )
         to_evaluate = to_evaluate[:MAX_AI_CALLS]
 
-    with ThreadPoolExecutor(max_workers=max(1, MAX_WORKERS)) as executor:
-        futures = {
-            executor.submit(evaluate_listing, session, listing): listing
-            for listing in to_evaluate
-        }
-        for future in as_completed(futures):
-            listing = futures[future]
-            try:
-                decision = future.result()
-            except Exception as exc:  # noqa: BLE001
+    # AI voláme po dávkách a sekvenčně, aby nás brána neblokovala kvůli 429.
+    batch_size = max(1, LLM_BATCH_SIZE)
+    total_to_evaluate = len(to_evaluate)
+    for start in range(0, total_to_evaluate, batch_size):
+        batch = to_evaluate[start : start + batch_size]
+        LOG.info(
+            "AI dávka %s–%s z %s (%s inzerátů)",
+            start + 1,
+            start + len(batch),
+            total_to_evaluate,
+            len(batch),
+        )
+        results = evaluate_batch(session, batch)
+        for index, listing in enumerate(batch):
+            ai = results.get(index)
+            if ai is None:
                 # Necháváme neuložené v seen.json, aby to zkusil příští běh.
-                LOG.error("AI vyhodnocení %s selhalo: %s", listing["url"], exc)
+                LOG.error(
+                    "AI nevrátila výsledek pro %s, zůstává na příští běh",
+                    listing["url"],
+                )
                 continue
+            decision = decide(listing, ai)
+            listing["decision"] = decision
             processed.append(summary(listing))
+            LOG.info(
+                "%s %s | %s | %s Kč | pokoje=%s | approved=%s",
+                listing["source"],
+                listing["id"],
+                listing["disposition"],
+                decision["total_czk"],
+                decision["separate_rooms"],
+                decision["approved"],
+            )
             if decision["approved"]:
                 approved.append(listing)
+        if start + batch_size < total_to_evaluate:
+            time.sleep(LLM_BATCH_DELAY)
 
     # Nejdřív nejlevnější v přepočtu na osobu.
     approved.sort(
@@ -1173,10 +1365,11 @@ def main() -> int:
         ]
         save_seen(SEEN_FILE, seen, processed)
     LOG.info(
-        "Hotovo: nových=%s, vyhodnoceno=%s, schváleno=%s",
+        "Hotovo: nových=%s, zpracováno=%s, schváleno=%s, AI requestů=%s",
         len(new_listings),
         len(processed),
         len(approved),
+        LLM_STATS["requests"],
     )
     return 0
 

@@ -53,8 +53,11 @@ WEBHOOK_URL=x E_INFRA_API_TOKEN=... python main.py --dry-run --limit 5
 | `LLM_BASE_URL` | `https://llm.ai.e-infra.cz/v1` | OpenAI-kompatibilní endpoint |
 | `MAX_TOTAL_CZK_4` | `30000` | strop pro 4 lidi |
 | `MAX_TOTAL_CZK_5` | `30000` | strop pro 5 lidí |
-| `MAX_AI_CALLS` | `120` | strop AI volání na jeden běh |
-| `MAX_WORKERS` | `4` | paralelní stahování / AI volání |
+| `MAX_AI_CALLS` | `120` | strop inzerátů poslaných do AI na jeden běh |
+| `LLM_BATCH_SIZE` | `10` | inzerátů v jednom AI requestu |
+| `LLM_BATCH_DELAY` | `1.0` | pauza (s) mezi dávkami |
+| `LLM_MAX_RETRIES` | `6` | počet pokusů při 429/5xx |
+| `MAX_WORKERS` | `4` | paralelní stahování detailů |
 | `MAX_PAGES` | `3` | stránky sreality |
 | `BEZREALITKY_PAGES` | `2` | stránky bezrealitky |
 | `IDNES_PAGES` | `2` | stránky idnes |
@@ -64,6 +67,9 @@ WEBHOOK_URL=x E_INFRA_API_TOKEN=... python main.py --dry-run --limit 5
 ## Poznámky
 
 - Selenium, Firefox ani geckodriver už nejsou potřeba.
+- Inzeráty se do AI posílají **po dávkách** (výchozí 10) a dávky jdou
+  sekvenčně, aby se vyhnulo limitům API (429). Při 429 se čeká podle
+  `Retry-After`; když je dávka moc velká, automaticky se rozdělí.
 - Stejný byt na více portálech se deduplikuje podle ulice, dispozice,
   nájmu a přibližné výměry.
 - Pokud se inzerát nevyhodnotí (výpadek AI/stažení detailu), zůstane
