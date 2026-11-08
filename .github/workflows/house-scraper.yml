@@ -2,50 +2,53 @@ name: House Scraper
 
 on:
   schedule:
-    - cron: '0 * * * *'
-  
+    - cron: '17 * * * *'
   workflow_dispatch:
+
+concurrency:
+  group: house-scraper
+  cancel-in-progress: false
 
 jobs:
   scrape:
     runs-on: ubuntu-latest
+    timeout-minutes: 15
     permissions:
       contents: write
-      packages: write
 
     steps:
       - name: Checkout
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
-      - name: Download Firefox
-        run: |
-         sudo rm -rf /usr/local/bin/geckodriver
-         wget https://github.com/mozilla/geckodriver/releases/download/v0.34.0/geckodriver-v0.34.0-linux64.tar.gz
-         tar -xvzf geckodriver*
-         chmod +x geckodriver
-         sudo mv geckodriver /usr/local/bin/
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: pip
 
-      - name: Install Selenium and BeautifulSoup
-        run: |
-          pip install selenium==4.16.0
-          pip install beautifulsoup4
-          pip install requests
+      - name: Install dependencies
+        run: pip install -r requirements.txt
 
-      - name: Build
+      - name: Scrape and evaluate
         run: python main.py
         env:
           WEBHOOK_URL: ${{ secrets.WEBHOOK_URL }}
+          E_INFRA_API_TOKEN: ${{ secrets.E_INFRA_API_TOKEN }}
+          LLM_MODEL: deepseek
+          PYTHONUNBUFFERED: "1"
 
-      - name: Commit
+      - name: Commit seen listings
         env:
-          GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
-          COMMIT_MSG: |
-            SCRAPE: scraped Data
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          rm -rf geckodriver*
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git config user.name "github-actions[bot]"
           git remote set-url origin https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git
-          git add .
-          git pull origin ${GITHUB_REF}
-          git diff --quiet && git diff --staged --quiet || (git commit -m "${COMMIT_MSG}"; git push origin HEAD:${GITHUB_REF})
+          git add seen.json
+          if git diff --cached --quiet; then
+            echo "seen.json beze změny"
+            exit 0
+          fi
+          git commit -m "SCRAPE: scraped Data"
+          git pull --rebase origin "${GITHUB_REF}"
+          git push origin "HEAD:${GITHUB_REF}"
