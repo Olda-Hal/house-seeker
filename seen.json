@@ -666,5 +666,109 @@
     "url": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-trnita-opustena/1400307788",
     "disposition": "3+kk",
     "seen_at": "2026-11-08T22:21:55Z"
+  },
+  {
+    "source": "sreality",
+    "id": "2014052428",
+    "title": "",
+    "url": "www.sreality.cz/detail/pronajem/byt/3+1/brno-komin-bely-pazoutove/2014052428",
+    "disposition": "",
+    "seen_at": "2026-11-08T22:27:53Z"
+  },
+  {
+    "source": "bezrealitky",
+    "id": "741248",
+    "title": "",
+    "url": "www.bezrealitky.cz/nemovitosti-byty-domy/741248-nabidka-pronajem-bytu-kabatnikova",
+    "disposition": "",
+    "seen_at": "2026-11-08T22:27:53Z"
+  },
+  {
+    "source": "bezrealitky",
+    "id": "1086933",
+    "title": "",
+    "url": "www.bezrealitky.cz/nemovitosti-byty-domy/1086933-nabidka-pronajem-bytu-frycajova-brno",
+    "disposition": "",
+    "seen_at": "2026-11-08T22:27:53Z"
+  },
+  {
+    "source": "bezrealitky",
+    "id": "1085720",
+    "title": "",
+    "url": "www.bezrealitky.cz/nemovitosti-byty-domy/1085720-nabidka-pronajem-bytu-neumannova-brno",
+    "disposition": "",
+    "seen_at": "2026-11-08T22:27:53Z"
+  },
+  {
+    "source": "bezrealitky",
+    "id": "186402",
+    "title": "",
+    "url": "www.bezrealitky.cz/nemovitosti-byty-domy/186402-nabidka-pronajem-bytu-triskalova",
+    "disposition": "",
+    "seen_at": "2026-11-08T22:27:53Z"
+  },
+  {
+    "source": "bezrealitky",
+    "id": "643585",
+    "title": "",
+    "url": "www.bezrealitky.cz/nemovitosti-byty-domy/643585-nabidka-pronajem-bytu-nove-sady-brno",
+    "disposition": "",
+    "seen_at": "2026-11-08T22:27:53Z"
+  },
+  {
+    "source": "bezrealitky",
+    "id": "1083898",
+    "title": "",
+    "url": "www.bezrealitky.cz/nemovitosti-byty-domy/1083898-nabidka-pronajem-bytu-merhautova-brno",
+    "disposition": "",
+    "seen_at": "2026-11-08T22:27:53Z"
+  },
+  {
+    "source": "bezrealitky",
+    "id": "1077718",
+    "title": "",
+    "url": "www.bezrealitky.cz/nemovitosti-byty-domy/1077718-nabidka-pronajem-bytu-bukova-brno",
+    "disposition": "",
+    "seen_at": "2026-11-08T22:27:53Z"
+  },
+  {
+    "source": "bezrealitky",
+    "id": "1082499",
+    "title": "",
+    "url": "www.bezrealitky.cz/nemovitosti-byty-domy/1082499-nabidka-pronajem-bytu-koliskova-brno",
+    "disposition": "",
+    "seen_at": "2026-11-08T22:27:53Z"
+  },
+  {
+    "source": "bezrealitky",
+    "id": "1077727",
+    "title": "",
+    "url": "www.bezrealitky.cz/nemovitosti-byty-domy/1077727-nabidka-pronajem-bytu-nad-kasnou-brno",
+    "disposition": "",
+    "seen_at": "2026-11-08T22:27:53Z"
+  },
+  {
+    "source": "bezrealitky",
+    "id": "1077248",
+    "title": "",
+    "url": "www.bezrealitky.cz/nemovitosti-byty-domy/1077248-nabidka-pronajem-bytu-stefackova-brno",
+    "disposition": "",
+    "seen_at": "2026-11-08T22:27:53Z"
+  },
+  {
+    "source": "idnes",
+    "id": "6accc96a7fb7753ce707f048",
+    "title": "",
+    "url": "reality.idnes.cz/detail/pronajem/byt/brno-slunecna/6accc96a7fb7753ce707f048/",
+    "disposition": "",
+    "seen_at": "2026-11-08T22:27:53Z"
+  },
+  {
+    "source": "idnes",
+    "id": "6ad60916f1c11423d200fe54",
+    "title": "",
+    "url": "reality.idnes.cz/detail/pronajem/byt/brno-stefackova/6ad60916f1c11423d200fe54/",
+    "disposition": "",
+    "seen_at": "2026-11-08T22:27:53Z"
   }
 ]

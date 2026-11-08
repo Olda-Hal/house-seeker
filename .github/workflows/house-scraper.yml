@@ -33,6 +33,11 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
+      - name: Sync seen.json
+        run: |
+          git fetch origin "${GITHUB_REF_NAME}"
+          git checkout "origin/${GITHUB_REF_NAME}" -- seen.json || true
+
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
@@ -56,6 +61,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
+          set -euo pipefail
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git config user.name "github-actions[bot]"
           git remote set-url origin https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git
@@ -65,5 +71,25 @@ jobs:
             exit 0
           fi
           git commit -m "SCRAPE: scraped Data"
-          git pull --rebase origin "${GITHUB_REF}"
-          git push origin "HEAD:${GITHUB_REF}"
+
+          for attempt in 1 2 3 4 5; do
+            git fetch origin "${GITHUB_REF_NAME}"
+            if ! git rebase "origin/${GITHUB_REF_NAME}"; then
+              conflicted="$(git diff --name-only --diff-filter=U || true)"
+              if [ -n "${conflicted}" ] && [ "${conflicted}" != "seen.json" ]; then
+                echo "Konflikt i v jiných souborech: ${conflicted}"
+                git rebase --abort
+                exit 1
+              fi
+              python3 merge_seen.py
+              git add seen.json
+              GIT_EDITOR=true git rebase --continue
+            fi
+            if git push origin "HEAD:${GITHUB_REF_NAME}"; then
+              echo "Push OK (pokus ${attempt})"
+              exit 0
+            fi
+            sleep $((attempt * 5))
+          done
+          echo "Push se nepovedl ani po 5 pokusech."
+          exit 1
