@@ -24,7 +24,9 @@ V nastavení repozitáře (Settings → Secrets and variables → Actions) přid
 | `E_INFRA_API_TOKEN` | API klíč z chat.ai.e-infra.cz |
 
 Workflow běží každou hodinu (`17 * * * *`) a lze ho spustit ručně přes
-*Actions → House Scraper → Run workflow*. Změny v `seen.json` commituje sám.
+*Actions → House Scraper → Run workflow*. Ruční spuštění má volitelné
+parametry `llm_model` (např. `deepseek`, `mini`, `qwen3.8-27b`),
+`max_ai_calls` a `debug`. Změny v `seen.json` commituje sám.
 
 ## Lokální spuštění
 
@@ -57,6 +59,9 @@ WEBHOOK_URL=x E_INFRA_API_TOKEN=... python main.py --dry-run --limit 5
 | `LLM_BATCH_SIZE` | `10` | inzerátů v jednom AI requestu |
 | `LLM_BATCH_DELAY` | `1.0` | pauza (s) mezi dávkami |
 | `LLM_MAX_RETRIES` | `6` | počet pokusů při 429/5xx |
+| `LLM_DISABLE_THINKING` | `1` | vypne reasoning u DeepSeeku (`content` pak není null) |
+| `LLM_JSON_MODE` | `1` | požádá API o `response_format=json_object` |
+| `LLM_DEBUG` | `0` | vypíše surovou odpověď modelu |
 | `MAX_WORKERS` | `4` | paralelní stahování detailů |
 | `MAX_PAGES` | `3` | stránky sreality |
 | `BEZREALITKY_PAGES` | `2` | stránky bezrealitky |

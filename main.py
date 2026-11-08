@@ -54,6 +54,9 @@ MAX_AI_CALLS = int(os.getenv("MAX_AI_CALLS", "120"))  # strop počtu inzerátů 
 LLM_BATCH_SIZE = int(os.getenv("LLM_BATCH_SIZE", "10"))  # inzerátů na jeden AI request
 LLM_BATCH_DELAY = float(os.getenv("LLM_BATCH_DELAY", "1.0"))  # pauza mezi dávkami
 LLM_MAX_RETRIES = int(os.getenv("LLM_MAX_RETRIES", "6"))  # hlavně na 429
+LLM_DISABLE_THINKING = os.getenv("LLM_DISABLE_THINKING", "1") == "1"
+LLM_JSON_MODE = os.getenv("LLM_JSON_MODE", "1") == "1"
+LLM_DEBUG = os.getenv("LLM_DEBUG", "0") == "1"
 MAX_WORKERS = int(os.getenv("MAX_WORKERS", "4"))  # pouze stahování detailů
 AI_MIN_CONFIDENCE = float(os.getenv("AI_MIN_CONFIDENCE", "0.35"))
 DEFAULT_UTILITIES_CZK = int(os.getenv("DEFAULT_UTILITIES_CZK", "5000"))
@@ -735,6 +738,7 @@ def _llm_post(session: requests.Session, body: dict[str, Any]) -> dict[str, Any]
     }
     delay = 2.0
     last_error: str = ""
+    optional_removed = False
     for attempt in range(1, LLM_MAX_RETRIES + 1):
         LLM_STATS["requests"] += 1
         try:
@@ -751,10 +755,31 @@ def _llm_post(session: requests.Session, body: dict[str, Any]) -> dict[str, Any]
             delay = min(delay * 2, 90)
             continue
 
-        # 400/413 = dávka je moc velká nebo ji brána odmítla; volající ji rozdělí.
-        if response.status_code in (400, 413):
+        # 400 může znamenat nepodporovaný response_format/chat_template_kwargs.
+        # Zkusit jednou bez volitelných parametrů, pak už jen rozdělit dávku.
+        if response.status_code == 400:
+            removed = False
+            if "response_format" in body:
+                body.pop("response_format", None)
+                removed = True
+            if "chat_template_kwargs" in body:
+                body.pop("chat_template_kwargs", None)
+                removed = True
+            if removed and not optional_removed:
+                optional_removed = True
+                LOG.warning(
+                    "LLM 400 (%s), zkouším bez volitelných parametrů",
+                    response.text[:200],
+                )
+                continue
             raise LLMError(
-                f"HTTP {response.status_code}: {response.text[:300]}",
+                f"HTTP 400: {response.text[:300]}",
+                response.status_code,
+            )
+
+        if response.status_code == 413:
+            raise LLMError(
+                f"HTTP 413: {response.text[:300]}",
                 response.status_code,
             )
 
@@ -784,11 +809,59 @@ def _llm_post(session: requests.Session, body: dict[str, Any]) -> dict[str, Any]
 
 
 def _message_content(data: dict[str, Any]) -> str:
-    content = data["choices"][0]["message"]["content"]
+    choices = data.get("choices") or []
+    if not choices:
+        if LLM_DEBUG:
+            LOG.error("LLM raw response: %s", json.dumps(data, ensure_ascii=False)[:6000])
+        raise LLMError(
+            f"Odpověď bez choices: {json.dumps(data, ensure_ascii=False)[:300]}"
+        )
+
+    choice = choices[0]
+    message = choice.get("message") or {}
+    content = message.get("content")
     if isinstance(content, list):  # některé brány vracejí pole částí
         content = "".join(
             part.get("text", "") for part in content if isinstance(part, dict)
         )
+    if isinstance(content, str) and not content.strip():
+        content = None
+
+    if content is None:
+        # Některé brány dají jediný text do reasoning_content a content nechají null.
+        for key in ("reasoning_content", "reasoning", "thinking"):
+            alternative = message.get(key)
+            if (
+                isinstance(alternative, str)
+                and '"results"' in alternative
+                and "{" in alternative
+            ):
+                LOG.warning(
+                    "Model vrátil content=null, používám %s (len=%s)",
+                    key,
+                    len(alternative),
+                )
+                content = alternative
+                break
+
+    if not content:
+        if LLM_DEBUG:
+            LOG.error("LLM raw response: %s", json.dumps(data, ensure_ascii=False)[:6000])
+        shape = {
+            key: (len(value) if isinstance(value, str) else type(value).__name__)
+            for key, value in message.items()
+        }
+        # "length" znamená, že se odpověď nevešla -> menší dávka.
+        status = 413 if choice.get("finish_reason") == "length" else None
+        raise LLMError(
+            "Prázdný content "
+            f"(finish_reason={choice.get('finish_reason')}, "
+            f"message={shape}, usage={data.get('usage')})",
+            status,
+        )
+
+    if LLM_DEBUG:
+        LOG.info("LLM raw response: %s", json.dumps(data, ensure_ascii=False)[:6000])
     return content
 
 
@@ -846,8 +919,14 @@ def call_llm_batch(
             {"role": "user", "content": json.dumps(payload, ensure_ascii=False)},
         ],
         "temperature": 0,
-        "max_tokens": min(16000, max(1000, 350 * len(batch))),
+        "max_tokens": min(16000, max(1500, 500 * len(batch))),
     }
+    if LLM_JSON_MODE:
+        body["response_format"] = {"type": "json_object"}
+    # U DeepSeeku explicitně vypnout "thinking"; jinak může utratit tokeny
+    # za reasoning a vrátit content=null.
+    if LLM_DISABLE_THINKING and "deepseek" in LLM_MODEL and "think" not in LLM_MODEL:
+        body["chat_template_kwargs"] = {"thinking": False}
     data = _llm_post(session, body)
     return parse_batch_reply(_message_content(data), len(batch))
 

@@ -4,6 +4,19 @@ on:
   schedule:
     - cron: '17 * * * *'
   workflow_dispatch:
+    inputs:
+      llm_model:
+        description: 'LLM model alias (deepseek, mini, qwen3.8-27b, ...)'
+        required: false
+        default: 'deepseek'
+      max_ai_calls:
+        description: 'Max listings sent to AI in this run'
+        required: false
+        default: '120'
+      debug:
+        description: 'Log raw LLM response (1 = yes)'
+        required: false
+        default: '0'
 
 concurrency:
   group: house-scraper
@@ -34,7 +47,9 @@ jobs:
         env:
           WEBHOOK_URL: ${{ secrets.WEBHOOK_URL }}
           E_INFRA_API_TOKEN: ${{ secrets.E_INFRA_API_TOKEN }}
-          LLM_MODEL: deepseek
+          LLM_MODEL: ${{ inputs.llm_model || 'deepseek' }}
+          MAX_AI_CALLS: ${{ inputs.max_ai_calls || '120' }}
+          LLM_DEBUG: ${{ inputs.debug || '0' }}
           PYTHONUNBUFFERED: "1"
 
       - name: Commit seen listings
