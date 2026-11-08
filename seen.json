@@ -1,10 +1,24 @@
 [
   {
+    "header": "Pronájem bytu 2+1 45 m²",
+    "Address": "Přízova, Brno - Trnitá",
+    "Price": "19 500 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-trnita-prizova/948699212",
+    "id": "948699212"
+  },
+  {
     "header": "Pronájem bytu 2+1 55 m²",
     "Address": "Dusíkova, Brno - Lesná",
     "Price": "19 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-lesna-dusikova/3981901900",
     "id": "3981901900"
+  },
+  {
+    "header": "Pronájem bytu 3+kk 67 m²",
+    "Address": "Trnitá, Brno - Trnitá",
+    "Price": "35 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-trnita-trnita/1193963596",
+    "id": "1193963596"
   },
   {
     "header": "Pronájem bytu 2+1 45 m²",
@@ -19,13 +33,6 @@
     "Price": "21 990 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-cerna-pole-milady-horakove/544739404",
     "id": "544739404"
-  },
-  {
-    "header": "Pronájem bytu 2+1 45 m²",
-    "Address": "Přízova, Brno - Trnitá",
-    "Price": "19 500 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-trnita-prizova/948699212",
-    "id": "948699212"
   },
   {
     "header": "Pronájem bytu 3+1 68 m²",
@@ -131,12 +138,5 @@
     "Price": "19 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-zabovresky-klimova/3364581452",
     "id": "3364581452"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 70 m²",
-    "Address": "Jírova, Brno - Líšeň",
-    "Price": "25 000 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-lisen-jirova/2727047244",
-    "id": "2727047244"
   }
 ]
