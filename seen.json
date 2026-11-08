@@ -1,5 +1,12 @@
 [
   {
+    "header": "Pronájem bytu 2+1 55 m²",
+    "Address": "Dusíkova, Brno - Lesná",
+    "Price": "19 000 Kč/měsíc",
+    "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-lesna-dusikova/3981901900",
+    "id": "3981901900"
+  },
+  {
     "header": "Pronájem bytu 2+1 45 m²",
     "Address": "Cejl, Brno - Zábrdovice",
     "Price": "20 000 Kč/měsíc",
@@ -47,13 +54,6 @@
     "Price": "20 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/2+1/brno-lesna-ibsenova/55775308",
     "id": "55775308"
-  },
-  {
-    "header": "Kuchyně snů od profíků",
-    "Address": "Rezervujte termín a naplánujte si s námi kuchyni německé kvality se zárukou až 25 let.",
-    "Price": "XXXLutz Česká republika",
-    "link": "https://i.imedia.cz/v2/click?spotId=4255231&d=TVYVHUKVS83IH9RGIVKGYKRI4RREIPHJC3NIX4MSIUC6VWF8T87N6WAGGB4NKICAHJVJ99I48FCHWVJ8IFTYQJ7UQBZIUICJPDXQRKICWRH93FYG7FS3HA4NUR58PHN2JTHVS4MQD6F2HXH69IRBVP2T3ADH37V33H9T7MV9X3N5HHE4ZHNVDPVN8FDNI53W3IT2D4SDMM4PCHXU24VF9WDVF925B5E6XXM7HKSR84VUFDKJX8PDR6NWBIARUDCMVJ3ICFVC62Q4D75F4ER9WXNSEND955U9H9CSJKHT5TSPJ45EZ79UW9IPHD43I7E7W47E4SWYVN9VSPHI2PRXRYHNYSWW489EE48YM4MB8EK4I&destination=https%3A//ad.doubleclick.net/ddm/trackclk/N510405.5083943MUP-SEZNAM-NATIVE/B34999881.439057698%3Bdc_trk_aid%3D631994391%3Bdc_trk_cid%3D247725133%3Bdc_lat%3D%3Bdc_rdid%3D%3Btag_for_child_directed_treatment%3D%3Btfua%3D%3Bgdpr%3D$%7BGDPR%7D%3Bgdpr_consent%3D$%7BGDPR_CONSENT_755%7D%3Bltd%3D%3Bdc_tdv%3D1",
-    "id": "B34999881.439057698%3Bdc_trk_aid%3D631994391%3Bdc_trk_cid%3D247725133%3Bdc_lat%3D%3Bdc_rdid%3D%3Btag_for_child_directed_treatment%3D%3Btfua%3D%3Bgdpr%3D$%7BGDPR%7D%3Bgdpr_consent%3D$%7BGDPR_CONSENT_755%7D%3Bltd%3D%3Bdc_tdv%3D1"
   },
   {
     "header": "Pronájem bytu 3+1 85 m²",
@@ -138,12 +138,5 @@
     "Price": "25 000 Kč/měsíc",
     "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-lisen-jirova/2727047244",
     "id": "2727047244"
-  },
-  {
-    "header": "Pronájem bytu 3+kk 68 m²",
-    "Address": "Kovářská, Brno - Komárov",
-    "Price": "26 290 Kč/měsíc",
-    "link": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-komarov-kovarska/2067136588",
-    "id": "2067136588"
   }
 ]
