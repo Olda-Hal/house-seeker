@@ -786,5 +786,29 @@
     "url": "https://reality.idnes.cz/detail/pronajem/byt/brno-anenska/6ae9d6b1f0144003050a3572/",
     "disposition": "3+kk",
     "seen_at": "2026-11-09T04:24:58Z"
+  },
+  {
+    "source": "sreality",
+    "id": "956043340",
+    "title": "Pronájem bytu 3+kk 83 m²",
+    "url": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-styrice-vinohrady/956043340",
+    "disposition": "3+kk",
+    "seen_at": "2026-11-09T06:39:26Z"
+  },
+  {
+    "source": "sreality",
+    "id": "408944716",
+    "title": "Pronájem bytu 3+kk 55 m²",
+    "url": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-reckovice-terezy-novakove/408944716",
+    "disposition": "3+kk",
+    "seen_at": "2026-11-09T06:39:26Z"
+  },
+  {
+    "source": "idnes",
+    "id": "6ac93df3171d5c3090041f39",
+    "title": "Pronájem bytu 4+kk 84 m²",
+    "url": "https://reality.idnes.cz/detail/pronajem/byt/brno-kralovopolska/6ac93df3171d5c3090041f39/",
+    "disposition": "4+kk",
+    "seen_at": "2026-11-09T06:39:26Z"
   }
 ]
