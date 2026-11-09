@@ -930,5 +930,29 @@
     "url": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-veveri-veveri/194670668",
     "disposition": "3+1",
     "seen_at": "2026-11-09T12:28:26Z"
+  },
+  {
+    "source": "idnes",
+    "id": "6af1b04d213bbdb77e0d6754",
+    "title": "Pronájem bytu 3+kk 93 m²",
+    "url": "https://reality.idnes.cz/detail/pronajem/byt/brno-charbulova/6af1b04d213bbdb77e0d6754/",
+    "disposition": "3+kk",
+    "seen_at": "2026-11-09T15:22:16Z"
+  },
+  {
+    "source": "idnes",
+    "id": "6a9e6ba7bb76949de70317de",
+    "title": "Pronájem bytu 4+1 78 m²",
+    "url": "https://reality.idnes.cz/detail/pronajem/byt/brno-svazna/6a9e6ba7bb76949de70317de/",
+    "disposition": "4+1",
+    "seen_at": "2026-11-09T15:22:16Z"
+  },
+  {
+    "source": "idnes",
+    "id": "6af1ad46afa487113a0bb8fa",
+    "title": "Pronájem bytu 3+1 107 m²",
+    "url": "https://reality.idnes.cz/detail/pronajem/byt/brno-veveri/6af1ad46afa487113a0bb8fa/",
+    "disposition": "3+1",
+    "seen_at": "2026-11-09T15:22:16Z"
   }
 ]
