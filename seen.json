@@ -954,5 +954,29 @@
     "url": "https://reality.idnes.cz/detail/pronajem/byt/brno-veveri/6af1ad46afa487113a0bb8fa/",
     "disposition": "3+1",
     "seen_at": "2026-11-09T15:22:16Z"
+  },
+  {
+    "source": "idnes",
+    "id": "6ad9b877de2b0b121307a1de",
+    "title": "Pronájem bytu 3+kk 93 m²",
+    "url": "https://reality.idnes.cz/detail/pronajem/byt/brno-charbulova/6ad9b877de2b0b121307a1de/",
+    "disposition": "3+kk",
+    "seen_at": "2026-11-09T19:22:23Z"
+  },
+  {
+    "source": "idnes",
+    "id": "6aedea29ae109dc8720e69ab",
+    "title": "Pronájem bytu 3+kk 113 m²",
+    "url": "https://reality.idnes.cz/detail/pronajem/byt/brno-neumannova/6aedea29ae109dc8720e69ab/",
+    "disposition": "3+kk",
+    "seen_at": "2026-11-09T19:22:23Z"
+  },
+  {
+    "source": "idnes",
+    "id": "6af1d8e840cc3fc1e105e734",
+    "title": "Pronájem bytu 3+kk 70 m²",
+    "url": "https://reality.idnes.cz/detail/pronajem/byt/brno-karlova/6af1d8e840cc3fc1e105e734/",
+    "disposition": "3+kk",
+    "seen_at": "2026-11-09T19:22:23Z"
   }
 ]
