@@ -866,5 +866,45 @@
     "url": "https://reality.idnes.cz/detail/pronajem/byt/brno-pavlovska/6acf02cb168bbf24a507663b/",
     "disposition": "3+1",
     "seen_at": "2026-11-09T09:26:19Z"
+  },
+  {
+    "source": "idnes",
+    "id": "6ae8c5b47e4797d101095757",
+    "title": "Pronájem bytu 4+kk 120 m²",
+    "url": "https://reality.idnes.cz/detail/pronajem/byt/brno-vranovska/6ae8c5b47e4797d101095757/",
+    "disposition": "4+kk",
+    "seen_at": "2026-11-09T10:21:51Z"
+  },
+  {
+    "source": "sreality",
+    "id": "960835660",
+    "title": "Pronájem bytu 3+kk 67 m²",
+    "url": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-slatina-moutnicka/960835660",
+    "disposition": "3+kk",
+    "seen_at": "2026-11-09T10:21:51Z"
+  },
+  {
+    "source": "bezrealitky",
+    "id": "1087442",
+    "title": "Pronájem bytu 3+1 107 m², Antonína Slavíka, Brno",
+    "url": "https://www.bezrealitky.cz/nemovitosti-byty-domy/1087442-nabidka-pronajem-bytu-antonina-slavika-brno",
+    "disposition": "3+1",
+    "seen_at": "2026-11-09T10:21:51Z"
+  },
+  {
+    "source": "idnes",
+    "id": "6a855e704d2768155e0b1e4e",
+    "title": "Pronájem bytu 3+kk 53 m²",
+    "url": "https://reality.idnes.cz/detail/pronajem/byt/brno-vinohradska/6a855e704d2768155e0b1e4e/",
+    "disposition": "3+kk",
+    "seen_at": "2026-11-09T10:21:51Z"
+  },
+  {
+    "source": "idnes",
+    "id": "6ad8c22cceeacc2dc1076cc3",
+    "title": "Pronájem bytu 3+1 86 m²",
+    "url": "https://reality.idnes.cz/detail/pronajem/byt/brno-tuckova/6ad8c22cceeacc2dc1076cc3/",
+    "disposition": "3+1",
+    "seen_at": "2026-11-09T10:21:51Z"
   }
 ]
