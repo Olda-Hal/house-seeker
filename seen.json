@@ -850,5 +850,21 @@
     "url": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-brno-lidicka/4242804812",
     "disposition": "3+kk",
     "seen_at": "2026-11-09T08:28:20Z"
+  },
+  {
+    "source": "sreality",
+    "id": "999620684",
+    "title": "Pronájem bytu 3+kk 97 m²",
+    "url": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-stare-brno-anenska/999620684",
+    "disposition": "3+kk",
+    "seen_at": "2026-11-09T09:26:19Z"
+  },
+  {
+    "source": "idnes",
+    "id": "6acf02cb168bbf24a507663b",
+    "title": "Pronájem bytu 3+1 78 m²",
+    "url": "https://reality.idnes.cz/detail/pronajem/byt/brno-pavlovska/6acf02cb168bbf24a507663b/",
+    "disposition": "3+1",
+    "seen_at": "2026-11-09T09:26:19Z"
   }
 ]
