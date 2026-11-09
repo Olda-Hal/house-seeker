@@ -818,5 +818,37 @@
     "url": "https://reality.idnes.cz/detail/pronajem/byt/brno-mucednicka/6ae34bb6c56d9ab8d1073b5a/",
     "disposition": "3+kk",
     "seen_at": "2026-11-09T07:24:05Z"
+  },
+  {
+    "source": "sreality",
+    "id": "1865486412",
+    "title": "Pronájem bytu 3+1 104 m²",
+    "url": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-veveri-bayerova/1865486412",
+    "disposition": "3+1",
+    "seen_at": "2026-11-09T08:28:20Z"
+  },
+  {
+    "source": "sreality",
+    "id": "4052029516",
+    "title": "Pronájem bytu 3+kk 100 m²",
+    "url": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-stare-brno-vystavni/4052029516",
+    "disposition": "3+kk",
+    "seen_at": "2026-11-09T08:28:20Z"
+  },
+  {
+    "source": "idnes",
+    "id": "6aea0157556809e860016b36",
+    "title": "Pronájem bytu 3+kk 68 m²",
+    "url": "https://reality.idnes.cz/detail/pronajem/byt/brno-kovarska/6aea0157556809e860016b36/",
+    "disposition": "3+kk",
+    "seen_at": "2026-11-09T08:28:20Z"
+  },
+  {
+    "source": "sreality",
+    "id": "4242804812",
+    "title": "Pronájem bytu 3+kk 90 m²",
+    "url": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-brno-lidicka/4242804812",
+    "disposition": "3+kk",
+    "seen_at": "2026-11-09T08:28:20Z"
   }
 ]
