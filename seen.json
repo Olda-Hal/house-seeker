@@ -914,5 +914,21 @@
     "url": "https://www.sreality.cz/detail/pronajem/byt/4+kk/brno-zabovresky-tolsteho/1217032268",
     "disposition": "4+kk",
     "seen_at": "2026-11-09T11:21:17Z"
+  },
+  {
+    "source": "sreality",
+    "id": "828993612",
+    "title": "Pronájem bytu 3+kk 93 m²",
+    "url": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-cernovice-charbulova/828993612",
+    "disposition": "3+kk",
+    "seen_at": "2026-11-09T12:28:26Z"
+  },
+  {
+    "source": "sreality",
+    "id": "194670668",
+    "title": "Pronájem bytu 3+1 107 m²",
+    "url": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-veveri-veveri/194670668",
+    "disposition": "3+1",
+    "seen_at": "2026-11-09T12:28:26Z"
   }
 ]
