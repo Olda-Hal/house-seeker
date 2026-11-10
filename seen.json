@@ -1018,5 +1018,29 @@
     "url": "https://reality.idnes.cz/detail/pronajem/byt/brno-svazna/6ace6ca1c9ab0d9c12078d33/",
     "disposition": "3+1",
     "seen_at": "2026-11-10T09:23:06Z"
+  },
+  {
+    "source": "idnes",
+    "id": "6ad0cfe82deee64c5a0c7b3e",
+    "title": "Pronájem bytu 3+kk 100 m²",
+    "url": "https://reality.idnes.cz/detail/pronajem/byt/brno-vypravni/6ad0cfe82deee64c5a0c7b3e/",
+    "disposition": "3+kk",
+    "seen_at": "2026-11-10T12:26:54Z"
+  },
+  {
+    "source": "sreality",
+    "id": "3309113420",
+    "title": "Pronájem bytu 3+kk 65 m²",
+    "url": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-slatina-ponetovicka/3309113420",
+    "disposition": "3+kk",
+    "seen_at": "2026-11-10T12:26:54Z"
+  },
+  {
+    "source": "idnes",
+    "id": "6af2c75c9737d5c57c0d39c0",
+    "title": "Pronájem bytu 3+kk 99 m²",
+    "url": "https://reality.idnes.cz/detail/pronajem/byt/brno/6af2c75c9737d5c57c0d39c0/",
+    "disposition": "3+kk",
+    "seen_at": "2026-11-10T12:26:54Z"
   }
 ]
