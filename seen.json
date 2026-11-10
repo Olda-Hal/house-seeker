@@ -1074,5 +1074,29 @@
     "url": "https://reality.idnes.cz/detail/pronajem/byt/brno-zilkova/6ae9cf870da31e77ec09eb32/",
     "disposition": "4+kk",
     "seen_at": "2026-11-10T17:21:54Z"
+  },
+  {
+    "source": "idnes",
+    "id": "6af316bab544e2175a024b22",
+    "title": "Pronájem bytu 3+kk 86 m²",
+    "url": "https://reality.idnes.cz/detail/pronajem/byt/brno-kollarova/6af316bab544e2175a024b22/",
+    "disposition": "3+kk",
+    "seen_at": "2026-11-10T20:22:05Z"
+  },
+  {
+    "source": "bezrealitky",
+    "id": "1088013",
+    "title": "Pronájem bytu 3+1 65 m², Soběšická, Brno",
+    "url": "https://www.bezrealitky.cz/nemovitosti-byty-domy/1088013-nabidka-pronajem-bytu-sobesicka-brno",
+    "disposition": "3+1",
+    "seen_at": "2026-11-10T20:22:05Z"
+  },
+  {
+    "source": "idnes",
+    "id": "6af31490d7d1497b4409f2f2",
+    "title": "Pronájem bytu 3+kk 67 m²",
+    "url": "https://reality.idnes.cz/detail/pronajem/byt/brno-zemedelska/6af31490d7d1497b4409f2f2/",
+    "disposition": "3+kk",
+    "seen_at": "2026-11-10T20:22:05Z"
   }
 ]
