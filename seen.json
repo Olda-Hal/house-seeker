@@ -1170,5 +1170,21 @@
     "url": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-brno-mesto-dominikanske-namesti/990867532",
     "disposition": "3+1",
     "seen_at": "2026-11-11T11:22:00Z"
+  },
+  {
+    "source": "sreality",
+    "id": "4238024780",
+    "title": "Pronájem bytu 3+1 97 m²",
+    "url": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-pisarky-antonina-prochazky/4238024780",
+    "disposition": "3+1",
+    "seen_at": "2026-11-11T12:27:55Z"
+  },
+  {
+    "source": "idnes",
+    "id": "6ac4d19e7e1de07d570c919f",
+    "title": "Pronájem bytu 3+1 72 m²",
+    "url": "https://reality.idnes.cz/detail/pronajem/byt/brno-zikova/6ac4d19e7e1de07d570c919f/",
+    "disposition": "3+1",
+    "seen_at": "2026-11-11T12:27:55Z"
   }
 ]
