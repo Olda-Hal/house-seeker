@@ -1202,5 +1202,45 @@
     "url": "https://reality.idnes.cz/detail/pronajem/byt/brno-podstranska/6af42a8d70b62752fd06e740/",
     "disposition": "3+kk",
     "seen_at": "2026-11-11T13:21:53Z"
+  },
+  {
+    "source": "idnes",
+    "id": "6af461b8172a90d0c6004188",
+    "title": "Pronájem bytu 3+kk 55 m²",
+    "url": "https://reality.idnes.cz/detail/pronajem/byt/brno-terezy-novakove/6af461b8172a90d0c6004188/",
+    "disposition": "3+kk",
+    "seen_at": "2026-11-11T14:23:15Z"
+  },
+  {
+    "source": "idnes",
+    "id": "6ae04b4392c243faab01193c",
+    "title": "Pronájem bytu 3+1 97 m²",
+    "url": "https://reality.idnes.cz/detail/pronajem/byt/brno-antonina-prochazky/6ae04b4392c243faab01193c/",
+    "disposition": "3+1",
+    "seen_at": "2026-11-11T14:23:15Z"
+  },
+  {
+    "source": "idnes",
+    "id": "6af43eb8e96db329fc059c4e",
+    "title": "Pronájem bytu 4+1 80 m²",
+    "url": "https://reality.idnes.cz/detail/pronajem/byt/brno-josefy-faimonove/6af43eb8e96db329fc059c4e/",
+    "disposition": "4+1",
+    "seen_at": "2026-11-11T14:23:15Z"
+  },
+  {
+    "source": "idnes",
+    "id": "6ae2584dbc78111e7b0a4fd8",
+    "title": "Pronájem bytu 3+kk 63 m²",
+    "url": "https://reality.idnes.cz/detail/pronajem/byt/brno-slepa/6ae2584dbc78111e7b0a4fd8/",
+    "disposition": "3+kk",
+    "seen_at": "2026-11-11T14:23:15Z"
+  },
+  {
+    "source": "idnes",
+    "id": "6af42fd60af4975c18045241",
+    "title": "Pronájem bytu 3+1 73 m²",
+    "url": "https://reality.idnes.cz/detail/pronajem/byt/brno/6af42fd60af4975c18045241/",
+    "disposition": "3+1",
+    "seen_at": "2026-11-11T14:23:15Z"
   }
 ]
