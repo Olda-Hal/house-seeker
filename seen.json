@@ -1186,5 +1186,21 @@
     "url": "https://reality.idnes.cz/detail/pronajem/byt/brno-zikova/6ac4d19e7e1de07d570c919f/",
     "disposition": "3+1",
     "seen_at": "2026-11-11T12:27:55Z"
+  },
+  {
+    "source": "sreality",
+    "id": "3138322508",
+    "title": "Pronájem bytu 3+kk 77 m²",
+    "url": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-brno-mesto-peroutkova/3138322508",
+    "disposition": "3+kk",
+    "seen_at": "2026-11-11T13:21:53Z"
+  },
+  {
+    "source": "idnes",
+    "id": "6af42a8d70b62752fd06e740",
+    "title": "Pronájem bytu 3+kk 82 m²",
+    "url": "https://reality.idnes.cz/detail/pronajem/byt/brno-podstranska/6af42a8d70b62752fd06e740/",
+    "disposition": "3+kk",
+    "seen_at": "2026-11-11T13:21:53Z"
   }
 ]
