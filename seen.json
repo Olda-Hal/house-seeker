@@ -1290,5 +1290,21 @@
     "url": "https://www.bezrealitky.cz/nemovitosti-byty-domy/1085364-nabidka-pronajem-bytu-bukova-brno",
     "disposition": "4+kk",
     "seen_at": "2026-11-11T17:22:09Z"
+  },
+  {
+    "source": "bezrealitky",
+    "id": "1084536",
+    "title": "Pronájem bytu 4+1 152 m², Zlatá",
+    "url": "https://www.bezrealitky.cz/nemovitosti-byty-domy/1084536-nabidka-pronajem-bytu-zlata",
+    "disposition": "4+1",
+    "seen_at": "2026-11-11T18:22:52Z"
+  },
+  {
+    "source": "bezrealitky",
+    "id": "818014",
+    "title": "Prodej bytu 3+kk 68 m², Konšelská, Praha",
+    "url": "https://www.bezrealitky.cz/nemovitosti-byty-domy/818014-nabidka-prodej-bytu-konselska-praha",
+    "disposition": "3+kk",
+    "seen_at": "2026-11-11T18:22:52Z"
   }
 ]
