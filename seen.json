@@ -1242,5 +1242,13 @@
     "url": "https://reality.idnes.cz/detail/pronajem/byt/brno/6af42fd60af4975c18045241/",
     "disposition": "3+1",
     "seen_at": "2026-11-11T14:23:15Z"
+  },
+  {
+    "source": "sreality",
+    "id": "715092044",
+    "title": "Pronájem bytu 3+kk 55 m²",
+    "url": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-reckovice-terezy-novakove/715092044",
+    "disposition": "3+kk",
+    "seen_at": "2026-11-11T16:22:44Z"
   }
 ]
