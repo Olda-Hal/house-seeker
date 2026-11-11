@@ -1122,5 +1122,29 @@
     "url": "https://reality.idnes.cz/detail/pronajem/byt/brno-chvalovka/6af336ca980bd98e4d0772a0/",
     "disposition": "3+kk",
     "seen_at": "2026-11-11T07:22:26Z"
+  },
+  {
+    "source": "sreality",
+    "id": "812712012",
+    "title": "Pronájem bytu 4+kk 190 m²",
+    "url": "https://www.sreality.cz/detail/pronajem/byt/4+kk/brno-brno-mesto-masarykova/812712012",
+    "disposition": "4+kk",
+    "seen_at": "2026-11-11T09:22:31Z"
+  },
+  {
+    "source": "sreality",
+    "id": "1378840652",
+    "title": "Pronájem bytu 3+1 73 m²",
+    "url": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-lisen-/1378840652",
+    "disposition": "3+1",
+    "seen_at": "2026-11-11T09:22:31Z"
+  },
+  {
+    "source": "sreality",
+    "id": "996110412",
+    "title": "Pronájem bytu 3+kk 82 m²",
+    "url": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-slatina-podstranska/996110412",
+    "disposition": "3+kk",
+    "seen_at": "2026-11-11T09:22:31Z"
   }
 ]
