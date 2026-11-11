@@ -1114,5 +1114,13 @@
     "url": "https://reality.idnes.cz/detail/pronajem/byt/brno-rezkova/6af335d9050100614800aaa7/",
     "disposition": "4+1",
     "seen_at": "2026-11-11T06:30:54Z"
+  },
+  {
+    "source": "idnes",
+    "id": "6af336ca980bd98e4d0772a0",
+    "title": "Pronájem bytu 3+kk 64 m²",
+    "url": "https://reality.idnes.cz/detail/pronajem/byt/brno-chvalovka/6af336ca980bd98e4d0772a0/",
+    "disposition": "3+kk",
+    "seen_at": "2026-11-11T07:22:26Z"
   }
 ]
