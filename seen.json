@@ -1530,5 +1530,37 @@
     "url": "https://reality.idnes.cz/detail/pronajem/byt/brno-zahradnicka/6ad9f25ccc80aef1e007dcf5/",
     "disposition": "3+kk",
     "seen_at": "2026-11-12T11:22:27Z"
+  },
+  {
+    "source": "sreality",
+    "id": "3755896908",
+    "title": "Pronájem bytu 3+kk 78 m²",
+    "url": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-styrice-jaroslava-foglara/3755896908",
+    "disposition": "3+kk",
+    "seen_at": "2026-11-12T12:28:45Z"
+  },
+  {
+    "source": "bezrealitky",
+    "id": "1084896",
+    "title": "Prodej bytu 4+kk 96 m², Popelákova, Brno",
+    "url": "https://www.bezrealitky.cz/nemovitosti-byty-domy/1084896-nabidka-prodej-bytu-popelakova-brno",
+    "disposition": "4+kk",
+    "seen_at": "2026-11-12T12:28:45Z"
+  },
+  {
+    "source": "bezrealitky",
+    "id": "868790",
+    "title": "Prodej bytu 3+kk 106 m², Pod Karlovem, Praha",
+    "url": "https://www.bezrealitky.cz/nemovitosti-byty-domy/868790-nabidka-prodej-bytu-pod-karlovem-praha",
+    "disposition": "3+kk",
+    "seen_at": "2026-11-12T12:28:45Z"
+  },
+  {
+    "source": "bezrealitky",
+    "id": "868795",
+    "title": "Prodej bytu 3+kk 106 m², Pod Karlovem, Praha",
+    "url": "https://www.bezrealitky.cz/nemovitosti-byty-domy/868795-nabidka-prodej-bytu-pod-karlovem-praha",
+    "disposition": "3+kk",
+    "seen_at": "2026-11-12T12:28:45Z"
   }
 ]
