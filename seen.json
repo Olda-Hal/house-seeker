@@ -1674,5 +1674,29 @@
     "url": "https://www.bezrealitky.cz/nemovitosti-byty-domy/1088778-nabidka-pronajem-bytu-kosmicka-praha",
     "disposition": "3+kk",
     "seen_at": "2026-11-12T15:22:26Z"
+  },
+  {
+    "source": "sreality",
+    "id": "2605129804",
+    "title": "Pronájem bytu 3+kk 118 m²",
+    "url": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zabovresky-vychodilova/2605129804",
+    "disposition": "3+kk",
+    "seen_at": "2026-11-12T16:23:45Z"
+  },
+  {
+    "source": "bezrealitky",
+    "id": "932647",
+    "title": "Pronájem bytu 3+1 72 m², Francouzská, Hlavní město Praha",
+    "url": "https://www.bezrealitky.cz/nemovitosti-byty-domy/932647-nabidka-pronajem-bytu-francouzska-hlavni-mesto-praha",
+    "disposition": "3+1",
+    "seen_at": "2026-11-12T16:23:45Z"
+  },
+  {
+    "source": "bezrealitky",
+    "id": "1080375",
+    "title": "Pronájem bytu 3+1 64 m², Taussigova, Praha",
+    "url": "https://www.bezrealitky.cz/nemovitosti-byty-domy/1080375-nabidka-pronajem-bytu-taussigova-praha",
+    "disposition": "3+1",
+    "seen_at": "2026-11-12T16:23:45Z"
   }
 ]
