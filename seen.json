@@ -1714,5 +1714,53 @@
     "url": "https://www.bezrealitky.cz/nemovitosti-byty-domy/1087506-nabidka-prodej-bytu-chmelova-praha",
     "disposition": "3+kk",
     "seen_at": "2026-11-12T17:21:36Z"
+  },
+  {
+    "source": "bezrealitky",
+    "id": "1088795",
+    "title": "Prodej bytu 3+kk 85 m², Malkovského, Praha",
+    "url": "https://www.bezrealitky.cz/nemovitosti-byty-domy/1088795-nabidka-prodej-bytu-malkovskeho-praha",
+    "disposition": "3+kk",
+    "seen_at": "2026-11-12T18:24:15Z"
+  },
+  {
+    "source": "bezrealitky",
+    "id": "993106",
+    "title": "Prodej bytu 4+kk 136 m², Československého exilu, Praha",
+    "url": "https://www.bezrealitky.cz/nemovitosti-byty-domy/993106-nabidka-prodej-bytu-ceskoslovenskeho-exilu-praha",
+    "disposition": "4+kk",
+    "seen_at": "2026-11-12T18:24:15Z"
+  },
+  {
+    "source": "idnes",
+    "id": "6af5ba729c2b5c145608af8d",
+    "title": "Pronájem bytu 3+kk 97 m²",
+    "url": "https://reality.idnes.cz/detail/pronajem/byt/brno-anenska/6af5ba729c2b5c145608af8d/",
+    "disposition": "3+kk",
+    "seen_at": "2026-11-12T18:24:15Z"
+  },
+  {
+    "source": "bezrealitky",
+    "id": "1077699",
+    "title": "Pronájem bytu 4+kk 100 m², Revoluční, Přeštice",
+    "url": "https://www.bezrealitky.cz/nemovitosti-byty-domy/1077699-nabidka-pronajem-bytu-revolucni-prestice",
+    "disposition": "4+kk",
+    "seen_at": "2026-11-12T18:24:15Z"
+  },
+  {
+    "source": "idnes",
+    "id": "6af5b46798511a6a8a0209f8",
+    "title": "Pronájem bytu 3+1 75 m²",
+    "url": "https://reality.idnes.cz/detail/pronajem/byt/brno-manesova/6af5b46798511a6a8a0209f8/",
+    "disposition": "3+1",
+    "seen_at": "2026-11-12T18:24:15Z"
+  },
+  {
+    "source": "idnes",
+    "id": "6af59758a3d9f4d4f5024746",
+    "title": "Pronájem bytu 3+kk 62 m²",
+    "url": "https://reality.idnes.cz/detail/pronajem/byt/brno-kliny/6af59758a3d9f4d4f5024746/",
+    "disposition": "3+kk",
+    "seen_at": "2026-11-12T18:24:15Z"
   }
 ]
