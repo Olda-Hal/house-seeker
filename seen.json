@@ -1610,5 +1610,29 @@
     "url": "https://www.bezrealitky.cz/nemovitosti-byty-domy/1076967-nabidka-pronajem-bytu-okruzni-zlin",
     "disposition": "3+1",
     "seen_at": "2026-11-12T13:23:23Z"
+  },
+  {
+    "source": "sreality",
+    "id": "3077402700",
+    "title": "Pronájem bytu 4+1 99 m²",
+    "url": "https://www.sreality.cz/detail/pronajem/byt/4+1/brno-bystrc-kursova/3077402700",
+    "disposition": "4+1",
+    "seen_at": "2026-11-12T14:23:13Z"
+  },
+  {
+    "source": "bezrealitky",
+    "id": "1081568",
+    "title": "Pronájem bytu 3+kk 110 m², Na Vrchu, Praha",
+    "url": "https://www.bezrealitky.cz/nemovitosti-byty-domy/1081568-nabidka-pronajem-bytu-na-vrchu-praha",
+    "disposition": "3+kk",
+    "seen_at": "2026-11-12T14:23:13Z"
+  },
+  {
+    "source": "idnes",
+    "id": "6af57802183b3a88d9038f45",
+    "title": "Pronájem bytu 3+kk 70 m²",
+    "url": "https://reality.idnes.cz/detail/pronajem/byt/brno-ripska/6af57802183b3a88d9038f45/",
+    "disposition": "3+kk",
+    "seen_at": "2026-11-12T14:23:13Z"
   }
 ]
