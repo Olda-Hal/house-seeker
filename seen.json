@@ -1490,5 +1490,45 @@
     "url": "https://reality.idnes.cz/detail/pronajem/byt/brno/6af4d5943dfa035aa00a7ecc/",
     "disposition": "3+1",
     "seen_at": "2026-11-12T10:22:27Z"
+  },
+  {
+    "source": "bezrealitky",
+    "id": "1088739",
+    "title": "Prodej bytu 4+kk 100 m², Chlumova, Jihlava",
+    "url": "https://www.bezrealitky.cz/nemovitosti-byty-domy/1088739-nabidka-prodej-bytu-chlumova-jihlava",
+    "disposition": "4+kk",
+    "seen_at": "2026-11-12T11:22:27Z"
+  },
+  {
+    "source": "bezrealitky",
+    "id": "1088731",
+    "title": "Prodej bytu 3+kk 72 m², Na Horizontu, Králův Dvůr",
+    "url": "https://www.bezrealitky.cz/nemovitosti-byty-domy/1088731-nabidka-prodej-bytu-na-horizontu-kraluv-dvur",
+    "disposition": "3+kk",
+    "seen_at": "2026-11-12T11:22:27Z"
+  },
+  {
+    "source": "sreality",
+    "id": "3436081228",
+    "title": "Pronájem bytu 3+kk 62 m²",
+    "url": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zidenice-kliny/3436081228",
+    "disposition": "3+kk",
+    "seen_at": "2026-11-12T11:22:27Z"
+  },
+  {
+    "source": "sreality",
+    "id": "3335417932",
+    "title": "Pronájem bytu 3+kk 85 m²",
+    "url": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-lesna-dusikova/3335417932",
+    "disposition": "3+kk",
+    "seen_at": "2026-11-12T11:22:27Z"
+  },
+  {
+    "source": "idnes",
+    "id": "6ad9f25ccc80aef1e007dcf5",
+    "title": "Pronájem bytu 3+kk 76 m²",
+    "url": "https://reality.idnes.cz/detail/pronajem/byt/brno-zahradnicka/6ad9f25ccc80aef1e007dcf5/",
+    "disposition": "3+kk",
+    "seen_at": "2026-11-12T11:22:27Z"
   }
 ]
