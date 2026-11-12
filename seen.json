@@ -1418,5 +1418,21 @@
     "url": "https://www.bezrealitky.cz/nemovitosti-byty-domy/1067311-nabidka-pronajem-bytu-hlucinska-ostrava",
     "disposition": "3+kk",
     "seen_at": "2026-11-12T07:22:47Z"
+  },
+  {
+    "source": "sreality",
+    "id": "1941988172",
+    "title": "Pronájem bytu 3+1 134 m²",
+    "url": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-stare-brno-nove-sady/1941988172",
+    "disposition": "3+1",
+    "seen_at": "2026-11-12T08:25:35Z"
+  },
+  {
+    "source": "bezrealitky",
+    "id": "1061459",
+    "title": "Pronájem bytu 4+1 180 m², Plánice",
+    "url": "https://www.bezrealitky.cz/nemovitosti-byty-domy/1061459-nabidka-pronajem-bytu-planice",
+    "disposition": "4+1",
+    "seen_at": "2026-11-12T08:25:35Z"
   }
 ]
