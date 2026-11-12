@@ -1826,5 +1826,37 @@
     "url": "https://www.bezrealitky.cz/nemovitosti-byty-domy/668698-nabidka-pronajem-bytu-pablaskova-ceske-budejovice",
     "disposition": "3+kk",
     "seen_at": "2026-11-12T21:21:40Z"
+  },
+  {
+    "source": "bezrealitky",
+    "id": "1088808",
+    "title": "Prodej bytu 4+kk 79 m², Kurčatovova, Praha",
+    "url": "https://www.bezrealitky.cz/nemovitosti-byty-domy/1088808-nabidka-prodej-bytu-kurcatovova-praha",
+    "disposition": "4+kk",
+    "seen_at": "2026-11-12T22:22:01Z"
+  },
+  {
+    "source": "bezrealitky",
+    "id": "1088798",
+    "title": "Pronájem bytu 3+kk 76 m², Do Klukovic, Praha",
+    "url": "https://www.bezrealitky.cz/nemovitosti-byty-domy/1088798-nabidka-pronajem-bytu-do-klukovic-praha",
+    "disposition": "3+kk",
+    "seen_at": "2026-11-12T22:22:01Z"
+  },
+  {
+    "source": "idnes",
+    "id": "6af5caf471b8680ed3097a27",
+    "title": "Pronájem bytu 4+1 99 m²",
+    "url": "https://reality.idnes.cz/detail/pronajem/byt/brno-kursova/6af5caf471b8680ed3097a27/",
+    "disposition": "4+1",
+    "seen_at": "2026-11-12T22:22:01Z"
+  },
+  {
+    "source": "bezrealitky",
+    "id": "1088806",
+    "title": "Pronájem bytu 3+1 70 m², Elišky Krásnohorské, Dvůr Králové nad Labem",
+    "url": "https://www.bezrealitky.cz/nemovitosti-byty-domy/1088806-nabidka-pronajem-bytu-elisky-krasnohorske-dvur-kralove-nad-labem",
+    "disposition": "3+1",
+    "seen_at": "2026-11-12T22:22:01Z"
   }
 ]
