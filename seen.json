@@ -1386,5 +1386,37 @@
     "url": "https://www.bezrealitky.cz/nemovitosti-byty-domy/565140-nabidka-pronajem-bytu-viktora-huga-praha",
     "disposition": "3+kk",
     "seen_at": "2026-11-12T06:31:30Z"
+  },
+  {
+    "source": "bezrealitky",
+    "id": "1035767",
+    "title": "Prodej bytu 3+1 74 m², Počernická, Praha",
+    "url": "https://www.bezrealitky.cz/nemovitosti-byty-domy/1035767-nabidka-prodej-bytu-pocernicka-praha",
+    "disposition": "3+1",
+    "seen_at": "2026-11-12T07:22:47Z"
+  },
+  {
+    "source": "bezrealitky",
+    "id": "1079930",
+    "title": "Pronájem bytu 4+kk 155 m², Odkolkova, Praha",
+    "url": "https://www.bezrealitky.cz/nemovitosti-byty-domy/1079930-nabidka-pronajem-bytu-odkolkova-praha",
+    "disposition": "4+kk",
+    "seen_at": "2026-11-12T07:22:47Z"
+  },
+  {
+    "source": "bezrealitky",
+    "id": "1029425",
+    "title": "Pronájem bytu 3+kk 75 m², Odkolkova, Praha",
+    "url": "https://www.bezrealitky.cz/nemovitosti-byty-domy/1029425-nabidka-pronajem-bytu-odkolkova-praha",
+    "disposition": "3+kk",
+    "seen_at": "2026-11-12T07:22:47Z"
+  },
+  {
+    "source": "bezrealitky",
+    "id": "1067311",
+    "title": "Pronájem bytu 3+kk 84 m², Hlučínská, Ostrava",
+    "url": "https://www.bezrealitky.cz/nemovitosti-byty-domy/1067311-nabidka-pronajem-bytu-hlucinska-ostrava",
+    "disposition": "3+kk",
+    "seen_at": "2026-11-12T07:22:47Z"
   }
 ]
