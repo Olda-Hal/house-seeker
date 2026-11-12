@@ -1450,5 +1450,45 @@
     "url": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-slatina-ripska/1092513868",
     "disposition": "3+kk",
     "seen_at": "2026-11-12T09:22:59Z"
+  },
+  {
+    "source": "bezrealitky",
+    "id": "1083521",
+    "title": "Pronájem bytu 3+kk 75 m², Jažlovická, Praha",
+    "url": "https://www.bezrealitky.cz/nemovitosti-byty-domy/1083521-nabidka-pronajem-bytu-jazlovicka-praha",
+    "disposition": "3+kk",
+    "seen_at": "2026-11-12T10:22:27Z"
+  },
+  {
+    "source": "bezrealitky",
+    "id": "434436",
+    "title": "Pronájem bytu 3+kk 76 m², Rižská, Praha 15",
+    "url": "https://www.bezrealitky.cz/nemovitosti-byty-domy/434436-nabidka-pronajem-bytu-rizska-praha-15",
+    "disposition": "3+kk",
+    "seen_at": "2026-11-12T10:22:27Z"
+  },
+  {
+    "source": "bezrealitky",
+    "id": "1088725",
+    "title": "Prodej bytu 3+1 72 m², Budovatelů, Chodov",
+    "url": "https://www.bezrealitky.cz/nemovitosti-byty-domy/1088725-nabidka-prodej-bytu-budovatelu-chodov",
+    "disposition": "3+1",
+    "seen_at": "2026-11-12T10:22:27Z"
+  },
+  {
+    "source": "bezrealitky",
+    "id": "1077639",
+    "title": "Prodej bytu 3+kk 99 m², Vltavská, Praha",
+    "url": "https://www.bezrealitky.cz/nemovitosti-byty-domy/1077639-nabidka-prodej-bytu-vltavska-praha",
+    "disposition": "3+kk",
+    "seen_at": "2026-11-12T10:22:27Z"
+  },
+  {
+    "source": "idnes",
+    "id": "6af4d5943dfa035aa00a7ecc",
+    "title": "Pronájem bytu 3+1 60 m²",
+    "url": "https://reality.idnes.cz/detail/pronajem/byt/brno/6af4d5943dfa035aa00a7ecc/",
+    "disposition": "3+1",
+    "seen_at": "2026-11-12T10:22:27Z"
   }
 ]
