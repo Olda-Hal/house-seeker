@@ -1762,5 +1762,21 @@
     "url": "https://reality.idnes.cz/detail/pronajem/byt/brno-kliny/6af59758a3d9f4d4f5024746/",
     "disposition": "3+kk",
     "seen_at": "2026-11-12T18:24:15Z"
+  },
+  {
+    "source": "bezrealitky",
+    "id": "1088800",
+    "title": "Prodej bytu 3+kk 72 m², Opavská, Krnov",
+    "url": "https://www.bezrealitky.cz/nemovitosti-byty-domy/1088800-nabidka-prodej-bytu-opavska-krnov",
+    "disposition": "3+kk",
+    "seen_at": "2026-11-12T19:21:47Z"
+  },
+  {
+    "source": "bezrealitky",
+    "id": "1088794",
+    "title": "Pronájem bytu 3+1 80 m², Seifertova, Praha",
+    "url": "https://www.bezrealitky.cz/nemovitosti-byty-domy/1088794-nabidka-pronajem-bytu-seifertova-praha",
+    "disposition": "3+1",
+    "seen_at": "2026-11-12T19:21:47Z"
   }
 ]
