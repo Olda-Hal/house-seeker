@@ -1634,5 +1634,45 @@
     "url": "https://reality.idnes.cz/detail/pronajem/byt/brno-ripska/6af57802183b3a88d9038f45/",
     "disposition": "3+kk",
     "seen_at": "2026-11-12T14:23:13Z"
+  },
+  {
+    "source": "bezrealitky",
+    "id": "430266",
+    "title": "Pronájem bytu 3+1 67 m², Herčíkova, Brno",
+    "url": "https://www.bezrealitky.cz/nemovitosti-byty-domy/430266-nabidka-pronajem-bytu-hercikova-brno",
+    "disposition": "3+1",
+    "seen_at": "2026-11-12T15:22:26Z"
+  },
+  {
+    "source": "bezrealitky",
+    "id": "1088776",
+    "title": "Prodej bytu 3+1 78 m², Litevská, Kladno",
+    "url": "https://www.bezrealitky.cz/nemovitosti-byty-domy/1088776-nabidka-prodej-bytu-litevska-kladno",
+    "disposition": "3+1",
+    "seen_at": "2026-11-12T15:22:26Z"
+  },
+  {
+    "source": "bezrealitky",
+    "id": "1088774",
+    "title": "Prodej bytu 3+1 68 m², Výškovická, Ostrava",
+    "url": "https://www.bezrealitky.cz/nemovitosti-byty-domy/1088774-nabidka-prodej-bytu-vyskovicka-ostrava",
+    "disposition": "3+1",
+    "seen_at": "2026-11-12T15:22:26Z"
+  },
+  {
+    "source": "bezrealitky",
+    "id": "1077675",
+    "title": "Prodej bytu 3+kk 82 m², Pod Harfou, Praha",
+    "url": "https://www.bezrealitky.cz/nemovitosti-byty-domy/1077675-nabidka-prodej-bytu-pod-harfou-praha",
+    "disposition": "3+kk",
+    "seen_at": "2026-11-12T15:22:26Z"
+  },
+  {
+    "source": "bezrealitky",
+    "id": "1088778",
+    "title": "Pronájem bytu 3+kk 64 m², Kosmická, Praha",
+    "url": "https://www.bezrealitky.cz/nemovitosti-byty-domy/1088778-nabidka-pronajem-bytu-kosmicka-praha",
+    "disposition": "3+kk",
+    "seen_at": "2026-11-12T15:22:26Z"
   }
 ]
