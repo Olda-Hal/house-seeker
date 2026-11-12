@@ -1434,5 +1434,21 @@
     "url": "https://www.bezrealitky.cz/nemovitosti-byty-domy/1061459-nabidka-pronajem-bytu-planice",
     "disposition": "4+1",
     "seen_at": "2026-11-12T08:25:35Z"
+  },
+  {
+    "source": "bezrealitky",
+    "id": "1087976",
+    "title": "Pronájem domu 81 m², pozemek 119 m², Za Devítkou, Jinočany",
+    "url": "https://www.bezrealitky.cz/nemovitosti-byty-domy/1087976-nabidka-pronajem-domu-za-devitkou-jinocany",
+    "disposition": "3+kk",
+    "seen_at": "2026-11-12T09:22:59Z"
+  },
+  {
+    "source": "sreality",
+    "id": "1092513868",
+    "title": "Pronájem bytu 3+kk 70 m²",
+    "url": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-slatina-ripska/1092513868",
+    "disposition": "3+kk",
+    "seen_at": "2026-11-12T09:22:59Z"
   }
 ]
