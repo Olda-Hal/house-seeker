@@ -1562,5 +1562,53 @@
     "url": "https://www.bezrealitky.cz/nemovitosti-byty-domy/868795-nabidka-prodej-bytu-pod-karlovem-praha",
     "disposition": "3+kk",
     "seen_at": "2026-11-12T12:28:45Z"
+  },
+  {
+    "source": "sreality",
+    "id": "887173196",
+    "title": "Pronájem bytu 4+kk 119 m²",
+    "url": "https://www.sreality.cz/detail/pronajem/byt/4+kk/brno-kralovo-pole-svatopluka-cecha/887173196",
+    "disposition": "4+kk",
+    "seen_at": "2026-11-12T13:23:23Z"
+  },
+  {
+    "source": "bezrealitky",
+    "id": "1017600",
+    "title": "Prodej bytu 3+kk 52 m², V Nových Vokovicích, Praha",
+    "url": "https://www.bezrealitky.cz/nemovitosti-byty-domy/1017600-nabidka-prodej-bytu-v-novych-vokovicich-praha",
+    "disposition": "3+kk",
+    "seen_at": "2026-11-12T13:23:23Z"
+  },
+  {
+    "source": "bezrealitky",
+    "id": "578339",
+    "title": "Pronájem bytu 3+kk 79 m², Praha",
+    "url": "https://www.bezrealitky.cz/nemovitosti-byty-domy/578339-nabidka-pronajem-bytu-praha",
+    "disposition": "3+kk",
+    "seen_at": "2026-11-12T13:23:23Z"
+  },
+  {
+    "source": "sreality",
+    "id": "3804131404",
+    "title": "Pronájem bytu 3+1 75 m²",
+    "url": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-kralovo-pole-manesova/3804131404",
+    "disposition": "3+1",
+    "seen_at": "2026-11-12T13:23:23Z"
+  },
+  {
+    "source": "bezrealitky",
+    "id": "1027513",
+    "title": "Pronájem bytu 3+1 67 m², náměstí SNP, Brno",
+    "url": "https://www.bezrealitky.cz/nemovitosti-byty-domy/1027513-nabidka-pronajem-bytu-namesti-snp-brno",
+    "disposition": "3+1",
+    "seen_at": "2026-11-12T13:23:23Z"
+  },
+  {
+    "source": "bezrealitky",
+    "id": "1076967",
+    "title": "Pronájem bytu 3+1 68 m², Okružní, Zlín",
+    "url": "https://www.bezrealitky.cz/nemovitosti-byty-domy/1076967-nabidka-pronajem-bytu-okruzni-zlin",
+    "disposition": "3+1",
+    "seen_at": "2026-11-12T13:23:23Z"
   }
 ]
