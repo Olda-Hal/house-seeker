@@ -2354,5 +2354,29 @@
     "url": "https://www.bezrealitky.cz/nemovitosti-byty-domy/1089199-nabidka-pronajem-bytu-veverkova-prague",
     "disposition": "3+kk",
     "seen_at": "2026-11-13T20:22:45Z"
+  },
+  {
+    "source": "sreality",
+    "id": "989687884",
+    "title": "Pronájem bytu 4+1 82 m²",
+    "url": "https://www.sreality.cz/detail/pronajem/byt/4+1/brno-lisen-elplova/989687884",
+    "disposition": "4+1",
+    "seen_at": "2026-11-13T21:21:50Z"
+  },
+  {
+    "source": "bezrealitky",
+    "id": "1089204",
+    "title": "Pronájem bytu 3+kk 69 m², Rooseveltova, Praha",
+    "url": "https://www.bezrealitky.cz/nemovitosti-byty-domy/1089204-nabidka-pronajem-bytu-rooseveltova-praha",
+    "disposition": "3+kk",
+    "seen_at": "2026-11-13T21:21:50Z"
+  },
+  {
+    "source": "bezrealitky",
+    "id": "1078119",
+    "title": "Prodej bytu 3+1 75 m², Nový Jičín",
+    "url": "https://www.bezrealitky.cz/nemovitosti-byty-domy/1078119-nabidka-prodej-bytu-novy-jicin",
+    "disposition": "3+1",
+    "seen_at": "2026-11-13T21:21:50Z"
   }
 ]
