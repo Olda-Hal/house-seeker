@@ -2122,5 +2122,21 @@
     "url": "https://reality.idnes.cz/detail/pronajem/byt/brno-drobneho/6adb23cd3dea3e37d309a9a0/",
     "disposition": "3+1",
     "seen_at": "2026-11-13T12:27:46Z"
+  },
+  {
+    "source": "idnes",
+    "id": "6aeddb0f7a0568bd2c0dcdc9",
+    "title": "Pronájem bytu 3+kk 90 m²",
+    "url": "https://reality.idnes.cz/detail/pronajem/byt/brno-taborskeho-nabrezi/6aeddb0f7a0568bd2c0dcdc9/",
+    "disposition": "3+kk",
+    "seen_at": "2026-11-13T13:22:12Z"
+  },
+  {
+    "source": "bezrealitky",
+    "id": "874177",
+    "title": "Pronájem bytu 3+kk 35 m², Ježkova, Hlavní město Praha",
+    "url": "https://www.bezrealitky.cz/nemovitosti-byty-domy/874177-nabidka-pronajem-bytu-jezkova-hlavni-mesto-praha",
+    "disposition": "3+kk",
+    "seen_at": "2026-11-13T13:22:12Z"
   }
 ]
