@@ -2002,5 +2002,37 @@
     "url": "https://www.bezrealitky.cz/nemovitosti-byty-domy/1056328-nabidka-pronajem-bytu-sternberska-divisov",
     "disposition": "3+kk",
     "seen_at": "2026-11-13T09:23:33Z"
+  },
+  {
+    "source": "bezrealitky",
+    "id": "1035296",
+    "title": "Prodej bytu 4+kk 64 m², U Dvou srpů, Praha",
+    "url": "https://www.bezrealitky.cz/nemovitosti-byty-domy/1035296-nabidka-prodej-bytu-u-dvou-srpu-praha",
+    "disposition": "4+kk",
+    "seen_at": "2026-11-13T10:21:54Z"
+  },
+  {
+    "source": "bezrealitky",
+    "id": "1086560",
+    "title": "Prodej bytu 3+1 77 m², Rerychova, Brno",
+    "url": "https://www.bezrealitky.cz/nemovitosti-byty-domy/1086560-nabidka-prodej-bytu-rerychova-brno",
+    "disposition": "3+1",
+    "seen_at": "2026-11-13T10:21:54Z"
+  },
+  {
+    "source": "bezrealitky",
+    "id": "1088015",
+    "title": "Pronájem bytu 3+1 84 m², Borečkova, Praha",
+    "url": "https://www.bezrealitky.cz/nemovitosti-byty-domy/1088015-nabidka-pronajem-bytu-boreckova-praha",
+    "disposition": "3+1",
+    "seen_at": "2026-11-13T10:21:54Z"
+  },
+  {
+    "source": "idnes",
+    "id": "6af61cf428693b06250ab0a9",
+    "title": "Pronájem bytu 3+kk 73 m²",
+    "url": "https://reality.idnes.cz/detail/pronajem/byt/brno-frycajova/6af61cf428693b06250ab0a9/",
+    "disposition": "3+kk",
+    "seen_at": "2026-11-13T10:21:54Z"
   }
 ]
