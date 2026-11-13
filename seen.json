@@ -2034,5 +2034,53 @@
     "url": "https://reality.idnes.cz/detail/pronajem/byt/brno-frycajova/6af61cf428693b06250ab0a9/",
     "disposition": "3+kk",
     "seen_at": "2026-11-13T10:21:54Z"
+  },
+  {
+    "source": "bezrealitky",
+    "id": "1070282",
+    "title": "Prodej bytu 3+kk 80 m², Chodská, Praha",
+    "url": "https://www.bezrealitky.cz/nemovitosti-byty-domy/1070282-nabidka-prodej-bytu-chodska-praha",
+    "disposition": "3+kk",
+    "seen_at": "2026-11-13T11:22:41Z"
+  },
+  {
+    "source": "bezrealitky",
+    "id": "42722",
+    "title": "Pronájem bytu 3+kk 85 m², Pod Baštami, Prague",
+    "url": "https://www.bezrealitky.cz/nemovitosti-byty-domy/42722-nabidka-pronajem-bytu-pod-bastami-prague",
+    "disposition": "3+kk",
+    "seen_at": "2026-11-13T11:22:41Z"
+  },
+  {
+    "source": "bezrealitky",
+    "id": "1072269",
+    "title": "Prodej bytu 3+kk 60 m², Holečkova, Praha",
+    "url": "https://www.bezrealitky.cz/nemovitosti-byty-domy/1072269-nabidka-prodej-bytu-holeckova-praha",
+    "disposition": "3+kk",
+    "seen_at": "2026-11-13T11:22:41Z"
+  },
+  {
+    "source": "bezrealitky",
+    "id": "524023",
+    "title": "Pronájem bytu 3+kk 77 m², Bulharská, Hlavní město Praha",
+    "url": "https://www.bezrealitky.cz/nemovitosti-byty-domy/524023-nabidka-pronajem-bytu-bulharska-hlavni-mesto-praha",
+    "disposition": "3+kk",
+    "seen_at": "2026-11-13T11:22:41Z"
+  },
+  {
+    "source": "bezrealitky",
+    "id": "1089137",
+    "title": "Pronájem bytu 3+1 77 m², Plickova, Praha",
+    "url": "https://www.bezrealitky.cz/nemovitosti-byty-domy/1089137-nabidka-pronajem-bytu-plickova-praha",
+    "disposition": "3+1",
+    "seen_at": "2026-11-13T11:22:41Z"
+  },
+  {
+    "source": "idnes",
+    "id": "6af6b31a7df6f46ef001d0f6",
+    "title": "Pronájem bytu 3+1 100 m²",
+    "url": "https://reality.idnes.cz/detail/pronajem/byt/brno-nahorni/6af6b31a7df6f46ef001d0f6/",
+    "disposition": "3+1",
+    "seen_at": "2026-11-13T11:22:41Z"
   }
 ]
