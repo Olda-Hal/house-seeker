@@ -2298,5 +2298,29 @@
     "url": "https://reality.idnes.cz/detail/pronajem/byt/brno-lomena/6af6f7a2788af0a96204efea/",
     "disposition": "3+1",
     "seen_at": "2026-11-13T17:21:31Z"
+  },
+  {
+    "source": "bezrealitky",
+    "id": "1083180",
+    "title": "Prodej domu 135 m², pozemek 1.754 m², Československých lesů, Paskov",
+    "url": "https://www.bezrealitky.cz/nemovitosti-byty-domy/1083180-nabidka-prodej-domu-ceskoslovenskych-lesu-paskov",
+    "disposition": "3+1",
+    "seen_at": "2026-11-13T18:22:06Z"
+  },
+  {
+    "source": "bezrealitky",
+    "id": "1089195",
+    "title": "Prodej bytu 4+kk 79 m², Janského, Praha",
+    "url": "https://www.bezrealitky.cz/nemovitosti-byty-domy/1089195-nabidka-prodej-bytu-janskeho-praha",
+    "disposition": "4+kk",
+    "seen_at": "2026-11-13T18:22:06Z"
+  },
+  {
+    "source": "bezrealitky",
+    "id": "1087181",
+    "title": "Prodej bytu 3+kk 58 m², Lovosická, Praha",
+    "url": "https://www.bezrealitky.cz/nemovitosti-byty-domy/1087181-nabidka-prodej-bytu-lovosicka-praha",
+    "disposition": "3+kk",
+    "seen_at": "2026-11-13T18:22:06Z"
   }
 ]
