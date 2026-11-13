@@ -2234,5 +2234,69 @@
     "url": "https://www.bezrealitky.cz/nemovitosti-byty-domy/1046306-nabidka-prodej-bytu-k-lucinam-praha",
     "disposition": "3+kk",
     "seen_at": "2026-11-13T16:22:23Z"
+  },
+  {
+    "source": "sreality",
+    "id": "1029468236",
+    "title": "Pronájem bytu 3+kk 90 m²",
+    "url": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-kohoutovice-jirovcova/1029468236",
+    "disposition": "3+kk",
+    "seen_at": "2026-11-13T17:21:31Z"
+  },
+  {
+    "source": "bezrealitky",
+    "id": "1082446",
+    "title": "Pronájem bytu 4+kk 113 m², Thomasova, Praha",
+    "url": "https://www.bezrealitky.cz/nemovitosti-byty-domy/1082446-nabidka-pronajem-bytu-thomasova-praha",
+    "disposition": "4+kk",
+    "seen_at": "2026-11-13T17:21:31Z"
+  },
+  {
+    "source": "bezrealitky",
+    "id": "1051066",
+    "title": "Prodej bytu 4+kk 113 m², Thomasova, Praha",
+    "url": "https://www.bezrealitky.cz/nemovitosti-byty-domy/1051066-nabidka-prodej-bytu-thomasova-praha",
+    "disposition": "4+kk",
+    "seen_at": "2026-11-13T17:21:31Z"
+  },
+  {
+    "source": "bezrealitky",
+    "id": "1078101",
+    "title": "Prodej bytu 3+1 82 m², Resslova, Prostějov",
+    "url": "https://www.bezrealitky.cz/nemovitosti-byty-domy/1078101-nabidka-prodej-bytu-resslova-prostejov",
+    "disposition": "3+1",
+    "seen_at": "2026-11-13T17:21:31Z"
+  },
+  {
+    "source": "bezrealitky",
+    "id": "1075453",
+    "title": "Pronájem bytu 3+kk 72 m², Sluneční náměstí, Praha",
+    "url": "https://www.bezrealitky.cz/nemovitosti-byty-domy/1075453-nabidka-pronajem-bytu-slunecni-namesti-praha",
+    "disposition": "3+kk",
+    "seen_at": "2026-11-13T17:21:31Z"
+  },
+  {
+    "source": "idnes",
+    "id": "6aa1766975ff294a4f0957ce",
+    "title": "Pronájem bytu 3+kk 194 m²",
+    "url": "https://reality.idnes.cz/detail/pronajem/byt/brno-hroznatova/6aa1766975ff294a4f0957ce/",
+    "disposition": "3+kk",
+    "seen_at": "2026-11-13T17:21:31Z"
+  },
+  {
+    "source": "sreality",
+    "id": "1348235340",
+    "title": "Pronájem bytu 3+1 73 m²",
+    "url": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-novy-liskovec-ctvrte/1348235340",
+    "disposition": "3+1",
+    "seen_at": "2026-11-13T17:21:31Z"
+  },
+  {
+    "source": "idnes",
+    "id": "6af6f7a2788af0a96204efea",
+    "title": "Pronájem bytu 3+1 60 m²",
+    "url": "https://reality.idnes.cz/detail/pronajem/byt/brno-lomena/6af6f7a2788af0a96204efea/",
+    "disposition": "3+1",
+    "seen_at": "2026-11-13T17:21:31Z"
   }
 ]
