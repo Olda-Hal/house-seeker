@@ -2186,5 +2186,37 @@
     "url": "https://www.bezrealitky.cz/nemovitosti-byty-domy/1089159-nabidka-pronajem-bytu-hornicka-albrechtice",
     "disposition": "3+1",
     "seen_at": "2026-11-13T14:22:34Z"
+  },
+  {
+    "source": "bezrealitky",
+    "id": "800787",
+    "title": "Pronájem domu 160 m², pozemek 450 m², Pod Budíkovem, Božkov",
+    "url": "https://www.bezrealitky.cz/nemovitosti-byty-domy/800787-nabidka-pronajem-domu-pod-budikovem-bozkov",
+    "disposition": "4+1",
+    "seen_at": "2026-11-13T15:21:17Z"
+  },
+  {
+    "source": "bezrealitky",
+    "id": "1078082",
+    "title": "Prodej bytu 4+1 139 m², Tržní, Brno",
+    "url": "https://www.bezrealitky.cz/nemovitosti-byty-domy/1078082-nabidka-prodej-bytu-trzni-brno",
+    "disposition": "4+1",
+    "seen_at": "2026-11-13T15:21:17Z"
+  },
+  {
+    "source": "bezrealitky",
+    "id": "933680",
+    "title": "Prodej bytu 3+1 83 m², Nechvílova, Praha",
+    "url": "https://www.bezrealitky.cz/nemovitosti-byty-domy/933680-nabidka-prodej-bytu-nechvilova-praha",
+    "disposition": "3+1",
+    "seen_at": "2026-11-13T15:21:17Z"
+  },
+  {
+    "source": "bezrealitky",
+    "id": "1089173",
+    "title": "Pronájem bytu 3+kk 80 m², Zelená, Statenice",
+    "url": "https://www.bezrealitky.cz/nemovitosti-byty-domy/1089173-nabidka-pronajem-bytu-zelena-statenice",
+    "disposition": "3+kk",
+    "seen_at": "2026-11-13T15:21:17Z"
   }
 ]
