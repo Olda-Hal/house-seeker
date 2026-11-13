@@ -1882,5 +1882,21 @@
     "url": "https://www.bezrealitky.cz/nemovitosti-byty-domy/1067703-nabidka-pronajem-bytu-seydlerova-praha",
     "disposition": "3+kk",
     "seen_at": "2026-11-13T02:22:40Z"
+  },
+  {
+    "source": "sreality",
+    "id": "3171774540",
+    "title": "Pronájem bytu 3+1 100 m²",
+    "url": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-zabovresky-nahorni/3171774540",
+    "disposition": "3+1",
+    "seen_at": "2026-11-13T07:22:03Z"
+  },
+  {
+    "source": "bezrealitky",
+    "id": "1089107",
+    "title": "Pronájem bytu 4+1 88 m², Na Sklípku, Ústí nad Labem",
+    "url": "https://www.bezrealitky.cz/nemovitosti-byty-domy/1089107-nabidka-pronajem-bytu-na-sklipku-usti-nad-labem",
+    "disposition": "4+1",
+    "seen_at": "2026-11-13T07:22:03Z"
   }
 ]
