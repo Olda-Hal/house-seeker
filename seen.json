@@ -2082,5 +2082,45 @@
     "url": "https://reality.idnes.cz/detail/pronajem/byt/brno-nahorni/6af6b31a7df6f46ef001d0f6/",
     "disposition": "3+1",
     "seen_at": "2026-11-13T11:22:41Z"
+  },
+  {
+    "source": "bezrealitky",
+    "id": "1089152",
+    "title": "Prodej bytu 3+kk 150 m², Levá, Praha",
+    "url": "https://www.bezrealitky.cz/nemovitosti-byty-domy/1089152-nabidka-prodej-bytu-leva-praha",
+    "disposition": "3+kk",
+    "seen_at": "2026-11-13T12:27:46Z"
+  },
+  {
+    "source": "bezrealitky",
+    "id": "1089148",
+    "title": "Pronájem bytu 4+kk 118 m², Vodičkova, Praha",
+    "url": "https://www.bezrealitky.cz/nemovitosti-byty-domy/1089148-nabidka-pronajem-bytu-vodickova-praha",
+    "disposition": "4+kk",
+    "seen_at": "2026-11-13T12:27:46Z"
+  },
+  {
+    "source": "bezrealitky",
+    "id": "2990",
+    "title": "Pronájem bytu 3+kk 84 m², Osadní, Praha",
+    "url": "https://www.bezrealitky.cz/nemovitosti-byty-domy/2990-nabidka-pronajem-bytu-osadni-praha",
+    "disposition": "3+kk",
+    "seen_at": "2026-11-13T12:27:46Z"
+  },
+  {
+    "source": "bezrealitky",
+    "id": "1077355",
+    "title": "Pronájem bytu 3+1 72 m², Plevenská, Praha",
+    "url": "https://www.bezrealitky.cz/nemovitosti-byty-domy/1077355-nabidka-pronajem-bytu-plevenska-praha",
+    "disposition": "3+1",
+    "seen_at": "2026-11-13T12:27:46Z"
+  },
+  {
+    "source": "idnes",
+    "id": "6adb23cd3dea3e37d309a9a0",
+    "title": "Pronájem bytu 3+1 120 m²",
+    "url": "https://reality.idnes.cz/detail/pronajem/byt/brno-drobneho/6adb23cd3dea3e37d309a9a0/",
+    "disposition": "3+1",
+    "seen_at": "2026-11-13T12:27:46Z"
   }
 ]
