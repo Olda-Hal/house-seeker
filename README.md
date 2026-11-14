@@ -1,11 +1,10 @@
-# Hledání bytu pro 4–5 lidí v Brně
+# Hledání bytu pro 4 lidi v Brně
 
 Skript každou hodinu stáhne nové inzeráty z **sreality.cz**, **bezrealitky.cz**
 a **reality.idnes.cz**, stáhne k nim detail (popis, cena, zálohy, vybavení)
 a pošle je LLM na [llm.ai.e-infra.cz](https://llm.ai.e-infra.cz/v1). Model
-vyhodnotí, jestli má byt dost neprůchozích pokojů pro 2 páry (4 lidi), nebo
-pro 2 páry + jednotlivce (5 lidí), a jestli se vejde do rozpočtu. Schválené
-inzeráty posílá na Discord.
+vyhodnotí, jestli má byt dost neprůchozích pokojů pro 2 páry (4 lidi)
+a jestli se vejde do rozpočtu. Schválené inzeráty posílá na Discord.
 
 ## Požadavky
 
@@ -42,10 +41,9 @@ WEBHOOK_URL=x E_INFRA_API_TOKEN=... python main.py --dry-run --limit 5
 
 ## Rozpočet a dispozice
 
-- 5 lidí: max **30 000 Kč/měsíc** včetně energií (6 000 Kč/osobu)
-- 4 lidé: max **30 000 Kč/měsíc** včetně energií (7 500 Kč/osobu)
+- 4 lidé (2 páry): max **6 500 Kč/osobu**, tj. **26 000 Kč/měsíc** včetně energií
 - hledané dispozice: `3+kk`, `3+1`, `4+kk`, `4+1`
-- vyžadovány 2 neprůchozí ložnice pro 4 lidi, 3 pro 5 lidí
+- vyžadovány alespoň 2 neprůchozí ložnice
 
 ## Volitelné proměnné prostředí
 
@@ -53,8 +51,8 @@ WEBHOOK_URL=x E_INFRA_API_TOKEN=... python main.py --dry-run --limit 5
 |---|---|---|
 | `LLM_MODEL` | `deepseek` | název/alias modelu |
 | `LLM_BASE_URL` | `https://llm.ai.e-infra.cz/v1` | OpenAI-kompatibilní endpoint |
-| `MAX_TOTAL_CZK_4` | `30000` | strop pro 4 lidi |
-| `MAX_TOTAL_CZK_5` | `30000` | strop pro 5 lidí |
+| `MAX_TOTAL_CZK` | `26000` | strop celkem pro 4 lidi včetně energií |
+| `BEZREALITKY_PAGE_SIZE` | `50` | počet inzerátů na stránku GraphQL API |
 | `MAX_AI_CALLS` | `120` | strop inzerátů poslaných do AI na jeden běh |
 | `LLM_BATCH_SIZE` | `10` | inzerátů v jednom AI requestu |
 | `LLM_BATCH_DELAY` | `1.0` | pauza (s) mezi dávkami |
