@@ -2434,5 +2434,45 @@
     "url": "https://www.bezrealitky.cz/nemovitosti-byty-domy/848004-nabidka-pronajem-bytu-bratri-capku-hradec-kralove",
     "disposition": "3+kk",
     "seen_at": "2026-11-14T07:21:39Z"
+  },
+  {
+    "source": "bezrealitky",
+    "id": "1089477",
+    "title": "Prodej bytu 3+kk 58 m², Lozická, Praha",
+    "url": "https://www.bezrealitky.cz/nemovitosti-byty-domy/1089477-nabidka-prodej-bytu-lozicka-praha",
+    "disposition": "3+kk",
+    "seen_at": "2026-11-14T09:21:57Z"
+  },
+  {
+    "source": "idnes",
+    "id": "6af73fd0af6e923cc80543dd",
+    "title": "Pronájem bytu 3+kk 90 m²",
+    "url": "https://reality.idnes.cz/detail/pronajem/byt/brno-jirovcova/6af73fd0af6e923cc80543dd/",
+    "disposition": "3+kk",
+    "seen_at": "2026-11-14T09:21:57Z"
+  },
+  {
+    "source": "idnes",
+    "id": "6abd1a61e4cbd8ecbb0d750a",
+    "title": "Pronájem bytu 3+1 74 m²",
+    "url": "https://reality.idnes.cz/detail/pronajem/byt/brno-olbrachtovo-namesti/6abd1a61e4cbd8ecbb0d750a/",
+    "disposition": "3+1",
+    "seen_at": "2026-11-14T09:21:57Z"
+  },
+  {
+    "source": "idnes",
+    "id": "6ae09a20e9dd9028f802ecfa",
+    "title": "Pronájem bytu 3+1 74 m²",
+    "url": "https://reality.idnes.cz/detail/pronajem/byt/brno-bely-pazoutove/6ae09a20e9dd9028f802ecfa/",
+    "disposition": "3+1",
+    "seen_at": "2026-11-14T09:21:57Z"
+  },
+  {
+    "source": "idnes",
+    "id": "6af73b8f089bb72d6307a2a4",
+    "title": "Pronájem bytu 3+1 73 m²",
+    "url": "https://reality.idnes.cz/detail/pronajem/byt/brno-ctvrte/6af73b8f089bb72d6307a2a4/",
+    "disposition": "3+1",
+    "seen_at": "2026-11-14T09:21:57Z"
   }
 ]
