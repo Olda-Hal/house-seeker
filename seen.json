@@ -2698,5 +2698,21 @@
     "url": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-cerna-pole-merhautova/184549452",
     "disposition": "3+kk",
     "seen_at": "2026-11-16T13:43:18Z"
+  },
+  {
+    "source": "idnes",
+    "id": "6afae3043145ef076f021d26",
+    "title": "Pronájem bytu 3+1 74 m²",
+    "url": "https://reality.idnes.cz/detail/pronajem/byt/brno-haskova/6afae3043145ef076f021d26/",
+    "disposition": "3+1",
+    "seen_at": "2026-11-16T14:41:04Z"
+  },
+  {
+    "source": "idnes",
+    "id": "6afacea3a2637da51e091a1a",
+    "title": "Pronájem bytu 4+1 147 m²",
+    "url": "https://reality.idnes.cz/detail/pronajem/byt/brno-rezkova/6afacea3a2637da51e091a1a/",
+    "disposition": "4+1",
+    "seen_at": "2026-11-16T14:41:04Z"
   }
 ]
