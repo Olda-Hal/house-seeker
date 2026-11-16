@@ -2658,5 +2658,21 @@
     "url": "https://reality.idnes.cz/detail/pronajem/byt/brno-hlinky/6ae8f95f8b6aadfb3f0aea14/",
     "disposition": "4+kk",
     "seen_at": "2026-11-16T07:35:35Z"
+  },
+  {
+    "source": "sreality",
+    "id": "956350540",
+    "title": "Pronájem bytu 3+kk 50 m²",
+    "url": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-brno-sever-merhautova/956350540",
+    "disposition": "3+kk",
+    "seen_at": "2026-11-16T09:31:32Z"
+  },
+  {
+    "source": "sreality",
+    "id": "235798604",
+    "title": "Pronájem bytu 3+1 73 m²",
+    "url": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-kohoutovice-axmanova/235798604",
+    "disposition": "3+1",
+    "seen_at": "2026-11-16T09:31:32Z"
   }
 ]
