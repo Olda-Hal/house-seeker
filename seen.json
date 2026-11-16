@@ -2714,5 +2714,21 @@
     "url": "https://reality.idnes.cz/detail/pronajem/byt/brno-rezkova/6afacea3a2637da51e091a1a/",
     "disposition": "4+1",
     "seen_at": "2026-11-16T14:41:04Z"
+  },
+  {
+    "source": "sreality",
+    "id": "2007199820",
+    "title": "Pronájem bytu 3+kk 74 m²",
+    "url": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-cerna-pole-sypka/2007199820",
+    "disposition": "3+kk",
+    "seen_at": "2026-11-16T16:24:38Z"
+  },
+  {
+    "source": "sreality",
+    "id": "3482239052",
+    "title": "Pronájem bytu 3+1 62 m²",
+    "url": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-lisen-strnadova/3482239052",
+    "disposition": "3+1",
+    "seen_at": "2026-11-16T16:24:38Z"
   }
 ]
