@@ -2778,5 +2778,21 @@
     "url": "https://reality.idnes.cz/detail/pronajem/byt/brno-merhautova/6afb42bc413e1fe0890ffe4a/",
     "disposition": "3+kk",
     "seen_at": "2026-11-17T10:22:17Z"
+  },
+  {
+    "source": "sreality",
+    "id": "2283958348",
+    "title": "Pronájem bytu 3+kk 114 m²",
+    "url": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zebetin-besuvka/2283958348",
+    "disposition": "3+kk",
+    "seen_at": "2026-11-17T12:27:43Z"
+  },
+  {
+    "source": "sreality",
+    "id": "1226993740",
+    "title": "Pronájem bytu 4+kk 100 m²",
+    "url": "https://www.sreality.cz/detail/pronajem/byt/4+kk/brno-obrany-frycajova/1226993740",
+    "disposition": "4+kk",
+    "seen_at": "2026-11-17T12:27:43Z"
   }
 ]
