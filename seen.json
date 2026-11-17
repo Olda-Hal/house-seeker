@@ -2762,5 +2762,13 @@
     "url": "https://reality.idnes.cz/detail/pronajem/byt/brno-sypka/6afb221b96714b21dd084035/",
     "disposition": "3+kk",
     "seen_at": "2026-11-17T07:23:01Z"
+  },
+  {
+    "source": "idnes",
+    "id": "6afb3997c4cb88e3ed068efc",
+    "title": "Pronájem bytu 3+1 86 m²",
+    "url": "https://reality.idnes.cz/detail/pronajem/byt/brno-langrova/6afb3997c4cb88e3ed068efc/",
+    "disposition": "3+1",
+    "seen_at": "2026-11-17T08:25:32Z"
   }
 ]
