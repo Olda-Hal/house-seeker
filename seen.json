@@ -2770,5 +2770,13 @@
     "url": "https://reality.idnes.cz/detail/pronajem/byt/brno-langrova/6afb3997c4cb88e3ed068efc/",
     "disposition": "3+1",
     "seen_at": "2026-11-17T08:25:32Z"
+  },
+  {
+    "source": "idnes",
+    "id": "6afb42bc413e1fe0890ffe4a",
+    "title": "Pronájem bytu 3+kk 99 m²",
+    "url": "https://reality.idnes.cz/detail/pronajem/byt/brno-merhautova/6afb42bc413e1fe0890ffe4a/",
+    "disposition": "3+kk",
+    "seen_at": "2026-11-17T10:22:17Z"
   }
 ]
