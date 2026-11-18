@@ -2834,5 +2834,21 @@
     "url": "https://reality.idnes.cz/detail/pronajem/byt/brno-botanicka/6afc71aad6e36acd540ec70b/",
     "disposition": "4+1",
     "seen_at": "2026-11-18T08:25:24Z"
+  },
+  {
+    "source": "sreality",
+    "id": "2844946508",
+    "title": "Pronájem bytu 3+1 76 m²",
+    "url": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-cerna-pole-babickova/2844946508",
+    "disposition": "3+1",
+    "seen_at": "2026-11-18T11:21:52Z"
+  },
+  {
+    "source": "idnes",
+    "id": "6afc827cfe89f9e9430a52d9",
+    "title": "Pronájem bytu 3+1 71 m²",
+    "url": "https://reality.idnes.cz/detail/pronajem/byt/brno/6afc827cfe89f9e9430a52d9/",
+    "disposition": "3+1",
+    "seen_at": "2026-11-18T11:21:52Z"
   }
 ]
