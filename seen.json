@@ -2930,5 +2930,29 @@
     "url": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-brno-tkalcovska/2730586188",
     "disposition": "3+kk",
     "seen_at": "2026-11-19T09:23:09Z"
+  },
+  {
+    "source": "sreality",
+    "id": "96694348",
+    "title": "Pronájem bytu 3+1 148 m²",
+    "url": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-brno-schodova/96694348",
+    "disposition": "3+1",
+    "seen_at": "2026-11-19T13:22:23Z"
+  },
+  {
+    "source": "sreality",
+    "id": "2787143756",
+    "title": "Pronájem bytu 3+kk 76 m²",
+    "url": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-stare-brno-zahradnicka/2787143756",
+    "disposition": "3+kk",
+    "seen_at": "2026-11-19T13:22:23Z"
+  },
+  {
+    "source": "sreality",
+    "id": "3609227340",
+    "title": "Pronájem bytu 3+1 100 m²",
+    "url": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-zidenice-/3609227340",
+    "disposition": "3+1",
+    "seen_at": "2026-11-19T13:22:23Z"
   }
 ]
