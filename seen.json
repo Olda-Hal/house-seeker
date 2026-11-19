@@ -2914,5 +2914,21 @@
     "url": "https://reality.idnes.cz/detail/pronajem/byt/brno/6afdd132d261b0ff3a0bfad9/",
     "disposition": "3+kk",
     "seen_at": "2026-11-19T06:31:35Z"
+  },
+  {
+    "source": "sreality",
+    "id": "1149333580",
+    "title": "Pronájem bytu 3+kk 90 m²",
+    "url": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-komin-svratecka/1149333580",
+    "disposition": "3+kk",
+    "seen_at": "2026-11-19T09:23:09Z"
+  },
+  {
+    "source": "sreality",
+    "id": "2730586188",
+    "title": "Pronájem bytu 3+kk 73 m²",
+    "url": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-brno-tkalcovska/2730586188",
+    "disposition": "3+kk",
+    "seen_at": "2026-11-19T09:23:09Z"
   }
 ]
