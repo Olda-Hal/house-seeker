@@ -2978,5 +2978,21 @@
     "url": "https://reality.idnes.cz/detail/pronajem/byt/brno-domazlicka/6afefc3c7dd2bc8cac0134c5/",
     "disposition": "4+kk",
     "seen_at": "2026-11-20T06:31:00Z"
+  },
+  {
+    "source": "idnes",
+    "id": "6afeef82ace5eb7d49091f62",
+    "title": "Pronájem bytu 3+1 100 m²",
+    "url": "https://reality.idnes.cz/detail/pronajem/byt/brno/6afeef82ace5eb7d49091f62/",
+    "disposition": "3+1",
+    "seen_at": "2026-11-20T09:23:24Z"
+  },
+  {
+    "source": "idnes",
+    "id": "6afef03557398e9ef3074710",
+    "title": "Pronájem bytu 3+kk 76 m²",
+    "url": "https://reality.idnes.cz/detail/pronajem/byt/brno-zahradnicka/6afef03557398e9ef3074710/",
+    "disposition": "3+kk",
+    "seen_at": "2026-11-20T09:23:24Z"
   }
 ]
