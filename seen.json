@@ -3266,5 +3266,21 @@
     "url": "https://reality.idnes.cz/detail/pronajem/byt/brno-koliste/6b0561241ff6b255e50cc3a2/",
     "disposition": "3+1",
     "seen_at": "2026-11-24T14:23:13Z"
+  },
+  {
+    "source": "idnes",
+    "id": "6b058dd2141f3cbf660a76d7",
+    "title": "Pronájem bytu 3+kk 120 m²",
+    "url": "https://reality.idnes.cz/detail/pronajem/byt/brno-skorkovskeho/6b058dd2141f3cbf660a76d7/",
+    "disposition": "3+kk",
+    "seen_at": "2026-11-24T18:23:45Z"
+  },
+  {
+    "source": "idnes",
+    "id": "6b058bf248332eda940d1ac4",
+    "title": "Pronájem bytu 3+kk 130 m²",
+    "url": "https://reality.idnes.cz/detail/pronajem/byt/brno-neumannova/6b058bf248332eda940d1ac4/",
+    "disposition": "3+kk",
+    "seen_at": "2026-11-24T18:23:45Z"
   }
 ]
