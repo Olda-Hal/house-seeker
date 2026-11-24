@@ -3210,5 +3210,21 @@
     "url": "https://reality.idnes.cz/detail/pronajem/byt/brno-okrouhla/6b053f742c7e64e1500d4995/",
     "disposition": "3+1",
     "seen_at": "2026-11-24T11:22:08Z"
+  },
+  {
+    "source": "sreality",
+    "id": "2667868236",
+    "title": "Pronájem bytu 3+kk 120 m²",
+    "url": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zidenice-skorkovskeho/2667868236",
+    "disposition": "3+kk",
+    "seen_at": "2026-11-24T13:21:50Z"
+  },
+  {
+    "source": "sreality",
+    "id": "855928908",
+    "title": "Pronájem bytu 3+kk 130 m²",
+    "url": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-pisarky-neumannova/855928908",
+    "disposition": "3+kk",
+    "seen_at": "2026-11-24T13:21:50Z"
   }
 ]
