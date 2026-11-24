@@ -3282,5 +3282,21 @@
     "url": "https://reality.idnes.cz/detail/pronajem/byt/brno-neumannova/6b058bf248332eda940d1ac4/",
     "disposition": "3+kk",
     "seen_at": "2026-11-24T18:23:45Z"
+  },
+  {
+    "source": "sreality",
+    "id": "2779017292",
+    "title": "Pronájem bytu 3+kk 73 m²",
+    "url": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-bystrc-markuvky/2779017292",
+    "disposition": "3+kk",
+    "seen_at": "2026-11-24T19:21:36Z"
+  },
+  {
+    "source": "idnes",
+    "id": "6b0591fef6017a5ae009ddc6",
+    "title": "Pronájem bytu 3+1 77 m²",
+    "url": "https://reality.idnes.cz/detail/pronajem/byt/brno-galandauerova/6b0591fef6017a5ae009ddc6/",
+    "disposition": "3+1",
+    "seen_at": "2026-11-24T19:21:36Z"
   }
 ]
