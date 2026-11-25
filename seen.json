@@ -3338,5 +3338,29 @@
     "url": "https://reality.idnes.cz/detail/pronajem/byt/brno-zikova/6b06dcc5c2e986a7f103a114/",
     "disposition": "3+1",
     "seen_at": "2026-11-25T15:22:25Z"
+  },
+  {
+    "source": "sreality",
+    "id": "3653984332",
+    "title": "Pronájem bytu 3+kk 76 m²",
+    "url": "https://www.sreality.cz/detail/pronajem/byt/3+kk/brno-zabovresky-poznanska/3653984332",
+    "disposition": "3+kk",
+    "seen_at": "2026-11-25T16:26:20Z"
+  },
+  {
+    "source": "sreality",
+    "id": "603676748",
+    "title": "Pronájem bytu 4+kk 111 m²",
+    "url": "https://www.sreality.cz/detail/pronajem/byt/4+kk/brno-slatina-kigginsova/603676748",
+    "disposition": "4+kk",
+    "seen_at": "2026-11-25T16:26:20Z"
+  },
+  {
+    "source": "bezrealitky",
+    "id": "963159",
+    "title": "Pronájem bytu 3+kk 75 m², Dunajská, Brno",
+    "url": "https://www.bezrealitky.cz/nemovitosti-byty-domy/963159-nabidka-pronajem-bytu-dunajska-brno",
+    "disposition": "3+kk",
+    "seen_at": "2026-11-25T16:26:20Z"
   }
 ]
