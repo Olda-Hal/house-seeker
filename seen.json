@@ -3394,5 +3394,13 @@
     "url": "https://reality.idnes.cz/detail/pronajem/byt/brno-poznanska/6b06fc90c10e235d28096cbe/",
     "disposition": "3+kk",
     "seen_at": "2026-11-26T08:26:22Z"
+  },
+  {
+    "source": "idnes",
+    "id": "6b075d2f48e92b41550f3d13",
+    "title": "Pronájem bytu 4+kk 120 m²",
+    "url": "https://reality.idnes.cz/detail/pronajem/byt/brno-vinarska/6b075d2f48e92b41550f3d13/",
+    "disposition": "4+kk",
+    "seen_at": "2026-11-26T10:22:26Z"
   }
 ]
