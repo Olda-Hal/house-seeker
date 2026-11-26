@@ -3442,5 +3442,13 @@
     "url": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-bohunice-spodni/901406796",
     "disposition": "3+1",
     "seen_at": "2026-11-26T17:21:42Z"
+  },
+  {
+    "source": "idnes",
+    "id": "6b0831b4dc8618e9b505b988",
+    "title": "Pronájem bytu 3+kk 70 m²",
+    "url": "https://reality.idnes.cz/detail/pronajem/byt/brno-ivanovicke-namesti/6b0831b4dc8618e9b505b988/",
+    "disposition": "3+kk",
+    "seen_at": "2026-11-26T18:24:40Z"
   }
 ]
