@@ -3450,5 +3450,21 @@
     "url": "https://reality.idnes.cz/detail/pronajem/byt/brno-ivanovicke-namesti/6b0831b4dc8618e9b505b988/",
     "disposition": "3+kk",
     "seen_at": "2026-11-26T18:24:40Z"
+  },
+  {
+    "source": "bezrealitky",
+    "id": "1073172",
+    "title": "Pronájem bytu 4+kk 100 m², Nad Přehradou, Brno",
+    "url": "https://www.bezrealitky.cz/nemovitosti-byty-domy/1073172-nabidka-pronajem-bytu-nad-prehradou-brno",
+    "disposition": "4+kk",
+    "seen_at": "2026-11-27T07:23:41Z"
+  },
+  {
+    "source": "idnes",
+    "id": "6b08405388fca90a19097b45",
+    "title": "Pronájem bytu 3+kk 66 m²",
+    "url": "https://reality.idnes.cz/detail/pronajem/byt/brno-trnita/6b08405388fca90a19097b45/",
+    "disposition": "3+kk",
+    "seen_at": "2026-11-27T07:23:41Z"
   }
 ]
