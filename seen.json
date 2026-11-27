@@ -3466,5 +3466,21 @@
     "url": "https://reality.idnes.cz/detail/pronajem/byt/brno-trnita/6b08405388fca90a19097b45/",
     "disposition": "3+kk",
     "seen_at": "2026-11-27T07:23:41Z"
+  },
+  {
+    "source": "bezrealitky",
+    "id": "1094026",
+    "title": "Pronájem bytu 4+kk 115 m², Veveří, Brno",
+    "url": "https://www.bezrealitky.cz/nemovitosti-byty-domy/1094026-nabidka-pronajem-bytu-veveri-brno",
+    "disposition": "4+kk",
+    "seen_at": "2026-11-27T08:26:10Z"
+  },
+  {
+    "source": "idnes",
+    "id": "6b083f6a3c43669e5908b445",
+    "title": "Pronájem bytu 3+kk 130 m²",
+    "url": "https://reality.idnes.cz/detail/pronajem/byt/brno-neumannova/6b083f6a3c43669e5908b445/",
+    "disposition": "3+kk",
+    "seen_at": "2026-11-27T08:26:10Z"
   }
 ]
