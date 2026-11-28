@@ -3554,5 +3554,21 @@
     "url": "https://www.sreality.cz/detail/pronajem/byt/3+1/brno-brno-stred-uvoz/817455180",
     "disposition": "3+1",
     "seen_at": "2026-11-27T17:22:16Z"
+  },
+  {
+    "source": "idnes",
+    "id": "6b0994dca22bbf37540bfcb5",
+    "title": "Pronájem bytu 3+1 54 m²",
+    "url": "https://reality.idnes.cz/detail/pronajem/byt/brno-bieblova/6b0994dca22bbf37540bfcb5/",
+    "disposition": "3+1",
+    "seen_at": "2026-11-28T06:30:17Z"
+  },
+  {
+    "source": "idnes",
+    "id": "6b0987da435057c0ca060e6b",
+    "title": "Pronájem bytu 3+1 83 m²",
+    "url": "https://reality.idnes.cz/detail/pronajem/byt/brno-teyschlova/6b0987da435057c0ca060e6b/",
+    "disposition": "3+1",
+    "seen_at": "2026-11-28T06:30:17Z"
   }
 ]
